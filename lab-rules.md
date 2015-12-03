@@ -15,8 +15,8 @@
 - We will work towards using Test Driven Development in order to more consistently meet time and
   quality requirements.
 
-### Design Procedures
+### Design Procedures:
 
-### Business Procedures
+### Business Procedures:
 
 
