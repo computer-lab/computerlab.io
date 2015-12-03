@@ -15,6 +15,10 @@
 - We will work towards using Test Driven Development in order to more consistently meet time and
   quality requirements.
 
+### Canonical Things:
+- what is the canonical username for "Computer Lab"?
+- etc
+
 ### Design Procedures:
 
 ### Business Procedures:
