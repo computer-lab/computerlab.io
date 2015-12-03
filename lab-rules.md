@@ -16,8 +16,14 @@
   quality requirements.
 
 ### Canonical Things:
-- what is the canonical username for "Computer Lab"?
-- etc
+
+##### Hierarchy of Usernames
+- @computerlab/computerlab
+- @computer-lab/computer-lab 
+- @computer_lab/computer_lab
+
+##### Individual Member Usernames
+- For member usernames, the member should use their first name (name@computerlab or name)
 
 ### Design Procedures:
 
