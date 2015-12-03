@@ -12,5 +12,5 @@
   automatically when code is pushed to GitHub. 
 - We will create documentation on GitHub for important things (like this), and expose it via GitHub 
   pages if appropriate.
-- We will work towards using Test Driven Development in order to consistently meet time and
+- We will work towards using Test Driven Development in order to more consistently meet time and
   quality requirements.
