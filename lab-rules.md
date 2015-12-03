@@ -7,9 +7,10 @@
 - Computer Lab members will not "ghost" clients.
 
 ### Technical Procedures:
-- Create and maintain development (local), QA, and production environments.
-- Continuous Integration server (Travis CI) builds, tests, and deploys to
-  QA or production automatically on push to GitHub.
-- Documentation is on GitHub (like this), and may also be deployed to pages for
-  public-facing projects/libraries.
-- Prefer test driven development.
+- For each project, we will create and maintain development, QA, and production environments.
+- We will use a Continuous Integration server (Travis CI) to build, test, and deploy projects 
+  automatically when code is pushed to GitHub. 
+- We will create documentation on GitHub for important things (like this), and expose it via GitHub 
+  pages if appropriate.
+- We will work towards using Test Driven Development in order to consistently meet time and
+  quality requirements.
