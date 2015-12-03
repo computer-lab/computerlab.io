@@ -15,6 +15,16 @@
 - We will work towards using Test Driven Development in order to more consistently meet time and
   quality requirements.
 
+### Communication Procedures:
+
+##### Internal Communication
+- We will avoid using email as much as possible for internal communication. 
+- We will use Slack and Twitter DMs for all internal project discussion. 
+- We will use text and phone calls only for urgent issues. 
+
+##### Client Communication
+- Each project will have a single designated point of contact. All client communication should ideally go through this person.
+
 ### Canonical Things:
 
 ##### Hierarchy of Usernames
