@@ -42,7 +42,7 @@
 
 ### Business Procedures:
 
-### Struggling and KMS
+### Struggling and KMS:
 
 The Computer Lab sometimes appears to be a place where everyone constantly has an amazing time, is perfectly productive, and instantly makes new friends. In reality, many members are often thinking "I am going to KMS". This section exists to acknowledge the struggle of lab members and encourage everyone to seek support from the community for all kinds of problems and feelings.  Here are some of the things that Computer Lab members commonly struggle with.
 
