@@ -68,6 +68,6 @@ theme: corporate
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: s3
+  type: aws-s3
   bucket: qa.computerlab.io
   region: us-east-1
