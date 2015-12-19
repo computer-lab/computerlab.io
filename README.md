@@ -2,7 +2,11 @@
 [![Build
 Status](https://travis-ci.org/computer-lab/computerlab.io.svg?branch=master)](https://travis-ci.org/computer-lab/computerlab.io)
 
-This repository contains the Hexo source for Computer Lab's [website](http://computerlab.io). 
+This repository contains the Hexo source for Computer Lab's
+[website](http://qa.computerlab.io).  
+
+The master branch currently deploys to
+[qa.computerlab.io](http://qa.computerlab.io).
 
 ## Developer Setup
 1. Clone this repository with `git clone
@@ -16,5 +20,6 @@ This theme will probably forked into a new special Computer Lab theme.
 
 3. Start a development server with `hexo server`.
 
-4. To deploy live, simply push to master.  The travis continuous integration
-server will build the site and deploy it to s3.
+4. To deploy live, simply push to master.  The [Travis](https://travis-ci.org/)
+continuous integration server will build the site and deploy it to s3.  The
+build takes about a minute.
