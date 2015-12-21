@@ -22,4 +22,4 @@ This theme will probably forked into a new special Computer Lab theme.
 
 4. To deploy live, simply push to master.  The [Travis](https://travis-ci.org/)
 continuous integration server will build the site and deploy it to s3.  The
-build takes about a minute.
+build takes about a minute. [Broken right now].
