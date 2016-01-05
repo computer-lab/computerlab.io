@@ -1,4 +1,6 @@
-Less-than-obvious things to consider when picking out office space:
+# So You Want To Rent An Office
+
+**Less-than-obvious things to consider when picking out office space:**
 
 - How is the space accessed: how many keys do you get,
   or is there a keypad?  What is the policy for access?  Can
