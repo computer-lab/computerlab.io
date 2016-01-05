@@ -6,7 +6,9 @@
   or is there a keypad?  What is the policy for access?  Can
   your people get in when they want to?
   
-- What is the quality of the windows?
+- What is the quality of the windows?  Northern/Southern exposure?
+
+- What is the heating/cooling system?
 
 - Is there roof access?
 
@@ -21,8 +23,6 @@
 - More obvious: if WiFi/Internet is provided, bring you phone and do a speedtest.
   Also check the security.  Again, consider the time of day.  Could you set
   up an Ethernet line to your office space for reliability?  Is the modem good?
-  
-- What is the heating/cooling system?
 
 - How thick are the walls, doors, etc?
 
