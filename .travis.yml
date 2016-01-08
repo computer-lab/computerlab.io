@@ -1,4 +1,6 @@
 language: node_js
+node_js:
+- '4.2'
 branches:
   only:
   - master
@@ -7,5 +9,13 @@ before_install:
 - npm install
 install:
 - hexo generate
-script:
-- hexo deploy
+deploy:
+  provider: s3
+  bucket: qa.computerlab.io
+  region: us-east-1
+  skip_cleanup: true
+  local_dir: public
+  secret_access_key:
+    secure: ohxkIzIPc0of16FzqAVlMdhQfnjxv1ehlVNZp8DiiKDJqgsXSqmQv+tOVyjVtW7TxMNJctlZoYDUJdwJCfC0+0Gk+Eact07J2zRagPLu2CCujzd8q9QC/QW355Arviq75pQmRY3mcCZ12ctwzswJl22Ehe70RgLs0wqYIpzDylU6J72HsJVUnJaqTD0mbS69kLs+Jq0mVOilKJiOAo/lMJDw8zAufe4joYwoXs8U9SkbP/teCpr4huBMGXwIZ6Z1SX3ob0toFYuMAQ7+bYbZAblRlyIxHlP0u1KpnZanUg2Q4fQ+hS6OzDu6R7/WPTNbZQymXYHNCXwOqc6zpEQyV4PHZdmN7iNTz/VWr45JRLZ4Cf61J59c14iYP9yuSCNRBTLQzL3cajFiaf1VAqVtT0RJ9eUSHMYziVvhAIZGdpvmT9Nt7mVF+ZtPHyFwNyXJbbSV38qAsDKe64g3kzEPeH+w3JzMwwD031bjTOy0IOhTNKIq0cHyRhAjEXPphDKKrtRkowF+7uEi9GqtFJmtaXQWMod7YhWs3877IPFVK9sj/Apu9u9WYA4b4Am3R5+W8C7vtK8JZQ0MLWQ5ltBOGLrdM78mtlDyrGQuEq8464fc6Y22cDJRicaW+3qHaV8PDLDofBc9/9vy+HBPHvxufOwgr4JpisJCpVq0GD0r+kk=
+  access_key_id:
+    secure: aKFlZA3Tl+RXljWMBX6EFuLfGbARUDlu9iC7rd9WngIqCuGPAogDnBKWgGandtLYzISWnY66nn+rHY1bm0j+nawQ81X7liP6pZc0ptfbulVa8uFLVV67IhrBIYRHjkwfLwGdOXytJSVPJdmCJPBpUpS6rROcpGh/c7nrukk7vnXBA+g2DPzNwobD5zBKcNSyAC7wm+cUv+e9YUiFDda539pe+i/9iVcWuFGpqY/0NvBzD1ixhAtjJ6uRlB7y4Ifcu+qcEf8pPBM+sJmQO3QWm/wKxD6pAg2wOJfdNiWs0TwGDI5FHJ6HQuvHdwnXiNHFhiTg4CUpINUcPk+mdCv+1GcWDspjxcmOs0QcsmnBop0/ZDTnDV01Pxhn/VMS9jh1aUzBZ+/vzLqL98o11TrCwUSXRL++KBwQtgHcT9hQxFdKGqh83YeHLCFE+SdBctBLRlMiv2I7r6562E224caTPw3ynSKqqXc7Qbkylimrv+w8z1sSu+f8mWR1mUeiiU04/gLJTrUYsgy+vobjTjZoyW0vOQFTE8sNZzQNikoZ1bHzla+FCd+obeu0ft1cGZJU5Q4CKBG+A0AnunF61wmnc5Tssi6KldUXif4bEmpozEyL2OIGoCNhz+GLGX5rx0++FW2GvQHZZHcRdK9uJdkQOddZZfDyx3/vGGEutJLflG4=
