@@ -1,3 +1,15 @@
+---
+layout: post
+title: So You Want To Rent An Office
+date: 2016-01-01
+category: "Procedure"
+tags: 
+- Procedure 
+thumbnail: http://www.roadtocool.com/wp-content/uploads/2015/12/black-and-white-home-office-interior-design-with-black-table-and-three-swivel-chairs-also-long-sofa-and-cushions-and-window-and-plant-also-photo-frames-and-wooden-floor.jpg
+lede: "So you want to rent some office space?  Here are some less obvious things to consider."
+featured: false
+---
+
 # So You Want To Rent An Office
 
 **Less-than-obvious things to consider when picking out office space:**
