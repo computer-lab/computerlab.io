@@ -43,6 +43,9 @@ highlight:
   auto_detect: true
   tab_replace:
 
+marked:
+  breaks: false
+
 # Category & Tag
 default_category: uncategorized
 category_map:
