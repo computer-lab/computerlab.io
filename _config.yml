@@ -21,7 +21,7 @@ permalink_defaults:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: blog
+archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -66,7 +66,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: corporate
+theme: computer-lab
+
+# SASS
+node_sass:
+    outputStyle: nested
+    precision: 5
+    sourceComments: false
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
