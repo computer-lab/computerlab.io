@@ -1,3 +1,6 @@
 [submodule "themes/corporate"]
 	path = themes/corporate
 	url = https://github.com/ptsteadman/hexo-theme-corporate
+[submodule "themes/computerlab"]
+	path = themes/computerlab
+	url = https://github.com/computer-lab/hexo-theme-computerlab
