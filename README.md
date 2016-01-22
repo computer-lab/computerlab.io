@@ -13,8 +13,7 @@ The master branch currently deploys to
 https://github.com/computer-lab/computerlab.io --recursive`.  The `--recursive`
 argument is necessary to also clone the theme submodule, which is currently
 located at
-[https://github.com/ptsteadman/hexo-theme-corporate](https://github.com/ptsteadman/hexo-theme-corporate).
-This theme will probably forked into a new special Computer Lab theme.
+[https://github.com/ptsteadman/hexo-theme-computer-lab](https://github.com/ptsteadman/hexo-theme-computer-lab).
 
 2. `cd` to `computerlab.io`, and install dependencies with `npm install`.
 
@@ -22,4 +21,5 @@ This theme will probably forked into a new special Computer Lab theme.
 
 4. To deploy live, simply push to master.  The [Travis](https://travis-ci.org/)
 continuous integration server will build the site and deploy it to s3.  The
-build takes about a minute. 
+build takes about a minute.  If you made changes to the theme submodule, commit
+and push those first.
