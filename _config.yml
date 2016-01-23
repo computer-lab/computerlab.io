@@ -4,11 +4,14 @@
 
 # Site
 title: Computer Lab
-subtitle:
+subtitle: 'We are here to help you.'
+blurb: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam metus at venenatis malesuada. Aliquam eget placerat augue. Aliquam dictum at tortor vitae dapibus.'
 description:
 author: John Doe
 language:
 timezone:
+
+#Hero
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
