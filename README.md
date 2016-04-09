@@ -3,10 +3,10 @@
 Status](https://travis-ci.org/computer-lab/computerlab.io.svg?branch=master)](https://travis-ci.org/computer-lab/computerlab.io)
 
 This repository contains the Hexo source for Computer Lab's
-[website](http://qa.computerlab.io).  
+[website](http://computerlab.io).  
 
 The master branch currently deploys to
-[qa.computerlab.io](http://qa.computerlab.io).
+[computerlab.io](http://computerlab.io).
 
 ## Developer Setup
 1. Clone this repository with `git clone
