@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Use a Naked Domain (http://example.com) With OpenShift
-date: 2016-01-16
+date: 2015-01-16
 category: "DevOps"
 tags: 
 - OpenShift
