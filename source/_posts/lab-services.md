@@ -40,8 +40,3 @@ we can create unlimited clients/projects.
 The github url is https://github.com/computer-lab.  We don't have
 any private repositories.
 
-## Zoho Mail
-
-The lab email login portal is https://www.zoho.com/mail/login.html.
-Right now we are on a free plan.
-
