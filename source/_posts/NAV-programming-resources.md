@@ -3,7 +3,7 @@ layout: post
 title: NAV Web Service Programming Resources
 date: 2015-04-08
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/NAV.jpg
-category: "Dynamics NAV"
+category: Notes
 tags:
 - NAV
 - Resources
