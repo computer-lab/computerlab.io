@@ -2,13 +2,12 @@
 layout: post
 title: How To Use a Naked Domain (http://example.com) With OpenShift
 date: 2015-01-16
-category: "DevOps"
+category: Notes
 tags: 
 - OpenShift
 - DNS
 thumbnail: http://www.roadtocool.com/wp-content/uploads/2015/12/black-and-white-home-office-interior-design-with-black-table-and-three-swivel-chairs-also-long-sofa-and-cushions-and-window-and-plant-also-photo-frames-and-wooden-floor.jpg
 lede: "RedHat's OpenShift doesn't support static IPs, which makes it difficult to set up a 'naked' A Record.  This trick will solve your problem."
-featured: false
 ---
 
 [WWWizer](http://wwwizer.com/naked-domain-redirect) offers a free service that

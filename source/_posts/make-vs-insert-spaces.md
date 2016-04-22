@@ -2,7 +2,7 @@
 layout: post
 title: Spaces for Newline Indents in VS
 date: 2015-03-23
-category: ".NET"
+category: Notes
 tags: 
 - C#
 - Visual Studio
@@ -11,7 +11,6 @@ lede: "Visual Studio displays tabs as having the same
 width as four spaces.  But if you're collaborating with someone working 
 in another text editor like vim, your automatically-inserted tabs will
 appear larger than four spaces."
-featured: true
 ---
 
 It's really annoying when Visual Studio shows you this:

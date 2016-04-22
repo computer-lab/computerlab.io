@@ -3,7 +3,7 @@ date: 2016-01-02
 tags:
 - Programming
 - Design
-category: Hexo
+category: Notes
 lede: "Information about developing a Hexo theme, including common gotchas that we ran into.  This posts covers setting up a hexo development environment, and the seperation of theme and content."
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/hexo.png
 ---
