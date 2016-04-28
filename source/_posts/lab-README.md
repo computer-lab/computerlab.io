@@ -2,7 +2,7 @@
 layout: post
 title: The Computer Lab README
 date: 2016-01-11
-category: Notes
+category: READMEs
 tags: 
 - Procedure 
 lede: "Computer Lab operating procedures, development playbook, and business tools."
