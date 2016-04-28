@@ -6,6 +6,7 @@ category: Case Studies
 tags:
 - React
 - Three.JS
+- JavaScript
 lede: "How we used React and Three.JS to quickly build an interactive, 3D landing page."
 ---
 

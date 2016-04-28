@@ -17,7 +17,9 @@ lede: "Computer Lab operating procedures, development playbook, and business too
 #### Client Communication
 - Each project will have a single designated point of contact. All client
   communication should ideally go through this person.
-- That person will never 'ghost' the client.
+- That person should respond to the client promptly (ideally within 24 hours),
+  even if the response is simply giving a time that they can render a full
+  response.
 
 ### Technical Procedures:
 - For each project, we will create and maintain appropriate development, QA, and
