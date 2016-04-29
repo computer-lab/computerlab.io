@@ -49,8 +49,9 @@ marked:
 
 # Feature Post
 feature_post_title: 'Adding Lookup Field to a Page in Dynamics NAV'
+feature_post_date: 'April 5th, 2015'
 feature_post_author: 'Patrick Steadman'
-feature_post_path: "'/2015/04/05/lookup-on-page/'"
+feature_post_path: "2015/04/05/lookup-on-page/"
 feature_post_excerpt: 'One of the problems I faced in building a non-trivial application that consumed
 NAV Web Services was figuring out how to “join” fields from different tables.
 For example, when exposing a list of jobs from a job table which includes a
