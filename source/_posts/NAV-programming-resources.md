@@ -8,7 +8,9 @@ tags:
 - NAV
 - Resources
 lede: "Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications."
+author: Patrick Steadman
 ---
+
 
 Here are some of the resources I found helpful for learning to develop Dynamics
 NAV web service based applications.

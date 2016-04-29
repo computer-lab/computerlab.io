@@ -7,6 +7,7 @@ tags:
 - Procedure 
 thumbnail: http://www.roadtocool.com/wp-content/uploads/2015/12/black-and-white-home-office-interior-design-with-black-table-and-three-swivel-chairs-also-long-sofa-and-cushions-and-window-and-plant-also-photo-frames-and-wooden-floor.jpg
 lede: "So you want to rent some office space?  Here are some less obvious things to consider."
+author: Lab
 ---
 
 # So You Want To Rent An Office

@@ -8,6 +8,8 @@ tags:
 - Three.JS
 - JavaScript
 lede: "How we used React and Three.JS to quickly build an interactive, 3D landing page."
+author: Patrick Steadman
+published: false
 ---
 
 ### Using React-Three-Renderer
