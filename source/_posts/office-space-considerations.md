@@ -10,8 +10,6 @@ lede: "So you want to rent some office space?  Here are some less obvious things
 author: Lab
 ---
 
-# So You Want To Rent An Office
-
 **Less-than-obvious things to consider when picking out an office space:**
 
 - How is the space accessed: how many keys do you get,
