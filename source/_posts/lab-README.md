@@ -12,21 +12,21 @@ author: Lab
 ## Communication Procedures:
 
 ### Internal Communication
-- We will use Slack and face-to-face for most internal project discussion. 
-- We will use text and phone calls only for urgent issues. 
+- We use Slack and face-to-face for most internal project discussion. 
+- We use text and phone calls only for urgent issues. 
 
 ### Client Communication
-- Each project will have a single designated point of contact. All client
+- Each project has a single designated point of contact. All client
   communication should ideally go through this person.
 - That person should respond to the client promptly (ideally within 24 hours),
   even if the response is simply giving a time that they can render a full
   response.
 
 ### Technical Procedures:
-- For each project, we will create and maintain appropriate development, QA, and
+- For each project, we create and maintain appropriate development, QA, and
   production environments.
-- We will create documentation on GitHub for important things (like this), and
-  expose it via GitHub pages if appropriate.
+- We create documentation on GitHub for important things (like this), and expose
+  it via GitHub pages if appropriate.
 
 ## Canonical Things:
 
