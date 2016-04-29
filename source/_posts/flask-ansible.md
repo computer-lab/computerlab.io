@@ -7,14 +7,16 @@ tags:
 - Ansible
 - Python
 thumbnail: http://40.media.tumblr.com/ad96456d0ea22f4c01b697e36ea3023e/tumblr_ngstajDXdR1sgmdh5o1_1280.jpg
-lede: "Using Ansible To Deploy A Flask Webapp"
+lede: "How to use Ansible to deploy a Flask application to AWS."
+author: Max Fowler
 ---
 
 My new favorite tool is an Ansible template to quickly deploy a new Flask app to
-the amazon cloud which logs error messages to slack, has database connectivity,
-and is fully idempotent — no need to remember server state.
+Amazon Web Services.  It logs error messages to slack, has database
+connectivity, and is fully idempotent — no need to remember server state.
 
-You can find the code here: https://github.com/mhfowler/ansible_flask_template
+You can find the code
+[here](https://github.com/mhfowler/ansible_flask_template).
 
 I find this very useful for getting small applications up and running quickly.
 It is also useful for starting a new project to know from the onset that
@@ -26,7 +28,7 @@ this because "solving deployment again" was an intimidating task and so I would
 tack more functionality onto existing infrastructure to save time.  Because this
 template allows me to quickly start projects with deployment already taken care
 of, it encourages me to make new projects completely independent with their own
-github repository and deployment server, leading to fully independent micro
+GitHub repository and deployment server, leading to fully independent micro
 services that are more robust.
 
 In a sense this template is like my own Heroku, but in addition to the
