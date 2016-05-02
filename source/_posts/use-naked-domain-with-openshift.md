@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Use a Naked Domain (http://example.com) With OpenShift
+title: How To Use a Naked Domain With OpenShift
 date: 2015-01-16
 category: Notes
 tags: 
@@ -11,6 +11,16 @@ lede: "RedHat's OpenShift doesn't support static IPs, which makes it difficult t
 author: Patrick Steadman
 ---
 
+### The Problem:
+By default, when using OpenShift, you must use `www.example.com` instead of
+simply `example.com`.  If users attempt to visit `example.com`, the browser will
+simply hang.
+
+RedHat's OpenShift doesn't support static IPs, which makes it difficult to set
+up typical 'naked' A Record.  Root level CNames make it impossible to use mail
+servers, etc.  What to do?
+
+### The Solution:
 
 [WWWizer](http://wwwizer.com/naked-domain-redirect) offers a free service that
 redirects `example.com` to `www.example.com`.  You just create an A Record
