@@ -98,16 +98,16 @@ store shared files.  Google Apps accounts are $5/month.
 
 #### Quickbooks / Xero
 
-#### Analytics
-
-We use [Google Analytics](https://analytics.google.com/analytics/web/) for monitoring site traffic and [Crazy Egg](https://www.crazyegg.com) to learn more about how users interact with our site and projects.
-
 Accounting software is used for managing expenses, generating invoices, and
 running payroll.
 
 We need to choose between Quickbooks and Xero.
 
 Both cost about $20-$30 a month.
+
+#### Analytics
+
+We use [Google Analytics](https://analytics.google.com/analytics/web/) for monitoring site traffic and [Crazy Egg](https://www.crazyegg.com) to learn more about how users interact with our site and projects.
 
 #### Banking
 
