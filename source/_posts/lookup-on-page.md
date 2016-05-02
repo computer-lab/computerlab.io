@@ -10,6 +10,8 @@ author: Patrick Steadman
 lede: "One of the problems I faced in building a non-trivial application that consumed NAV Web Services was figuring out how to join fields from different tables."
 ---
 
+### The Problem:
+
 One of the problems I faced in building a non-trivial application that consumed
 NAV Web Services was figuring out how to "join" fields from different tables.
 For example, when exposing a list of jobs from a job table which includes a
@@ -29,6 +31,8 @@ work with web services.  But, I also didn't want to modify the underlying [job]
 table to add a flow field, and didn't see an easy way of adding a flow field to
 a Page.  I tried "joining" the data in the C# application, but found network
 overhead made the application unusuably slow.
+
+### The Solution:
 
 The solution to this problem was to use C/AL code to the Page to effectively
 create a lookup / flow field.  This way, the data is "pre-joined" before leaving
