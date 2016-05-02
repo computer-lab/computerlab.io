@@ -13,7 +13,8 @@ This is the README file for Computer Lab.  README files are typically included
 with a piece of software so that people can quickly figure what the software
 does, how to use it, and who to contact if there's a problem.  This README
 aggregates key facts about Computer Lab so that important procedures, systems,
-and standards are clear to all.
+and standards are clear to all.  It's not comprehensive, but provides a good
+starting point that eliminates fear, uncertainty, and doubt.
 
 ### Our Communication Procedures:
 
