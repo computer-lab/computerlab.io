@@ -50,7 +50,7 @@ marked:
 # Feature Post
 feature_post_title: 'Using Ansible With Flask'
 feature_post_date: 'April 18th, 2016'
-feature_post_author: 'Patrick Steadman'
+feature_post_author: 'Max Fowler'
 feature_post_path: "2016/04/18/flask-ansible/"
 feature_post_excerpt: 'My new favorite tool is an Ansible template to quickly deploy a new Flask app to
 Amazon Web Services.  It logs error messages to slack, has database
