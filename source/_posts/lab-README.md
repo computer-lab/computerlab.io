@@ -62,7 +62,6 @@ We can add people to a single channel for free, though.  This is useful for
 clients or people who want to chat.  We can add up to 5 single-channel guests
 per paid member.
 
-
 #### Harvest
 
 Our Harvest subdomain is [computerlab.harvestapp.com](https://computerlab.harvestapp.com).
@@ -106,8 +105,12 @@ We need to choose between Quickbooks and Xero.
 
 Both cost about $20-$30 a month.
 
-### Bank Account
+#### Analytics
 
-We need to open a bank account, probably at Capital One.  We can make deposits
+We use [Google Analytics](https://analytics.google.com/analytics/web/) for monitoring site traffic and [Crazy Egg](https://www.crazyegg.com) to learn more about how users interact with our site and projects.
+
+#### Banking
+
+We will open a bank account, probably with Capital One. We can make deposits
 using the mobile app.
 
