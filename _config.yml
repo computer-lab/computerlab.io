@@ -48,7 +48,7 @@ marked:
   breaks: false
 
 # Feature Post
-feature_post_title: 'Using Ansible to Deploy Python Web Applications'
+feature_post_title: 'Using Ansible to Deploy Python Applications'
 feature_post_date: 'April 18th, 2016'
 feature_post_author: 'Max Fowler'
 feature_post_path: "2016/04/18/flask-ansible/"
