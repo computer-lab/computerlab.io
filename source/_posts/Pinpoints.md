@@ -10,4 +10,6 @@ lede: "We built an interactive 3D landing page for a marketing data visualizatio
 author: Patrick Steadman
 ---
 
+We built this [project](http://pinpoints.io) for [Verdes](http://www.verdes.nyc/), a design and marketing firm in New York City. 
+
 The engineers who built ReactJS were inspired by the efficiency and simplicity of the "DOOM" video game engine, so it's not surprising that React is a good tool for building responsive 3D websites. The PinPoints build convinced us that React's declarative components are a great fit for developing 3D user interfaces in the browser.
