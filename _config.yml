@@ -47,17 +47,6 @@ highlight:
 marked:
   breaks: false
 
-# Feature Post
-feature_post_title: 'Using Ansible to Deploy Python Applications'
-feature_post_date: 'April 18th, 2016'
-feature_post_author: 'Max Fowler'
-feature_post_path: "2016/04/18/flask-ansible/"
-feature_post_excerpt: 'My new favorite tool is an Ansible template to quickly deploy a new Flask app to
-Amazon Web Services.  It logs error messages to slack, has database
-connectivity, and is fully idempotent — no need to remember server state. I find it very useful for getting small applications up and running quickly.
-It is also useful for starting a new project to know from the onset that
-deployment is already taken care of so I can focus on the actual project.'
-
 # Category & Tag
 default_category: uncategorized
 category_map:
