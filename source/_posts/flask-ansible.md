@@ -32,5 +32,5 @@ GitHub repository and deployment server, leading to fully independent micro
 services that are more robust.
 
 In a sense this template is like my own Heroku, but in addition to the
-convenience of quickly bringing up new machines I can extend and customize it,
-as well as save money by bringing up AWS micro instances for free.
+convenience of quickly bringing up new machines I can extend and customize it, 
+as well as save money by bringing up AWS nano-instances for ~5 dollars/month.  
