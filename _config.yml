@@ -23,10 +23,10 @@ It is also useful for starting a new project to know from the onset that
 deployment is already taken care of so I can focus on the actual project.'
 
 # Featured Case Study
-feature_case_title: 'Verdes - Pinpoints'
+feature_case_title: 'Case Study: Pinpoints'
 feature_case_date: 'June 14th, 2016'
 feature_case_author: 'Patrick Steadman'
-feature_case_path: '2016/06/14/Pinpoints/'
+feature_case_path: 'blog/'
 feature_case_project_path: 'http://pinpoints.io'
 feature_case_lede: 'We built an interactive 3D landing page for a marketing data visualization tool.'
 feature_case_excerpt: 'The engineers who built ReactJS were inspired by the efficiency 
