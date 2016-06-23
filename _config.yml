@@ -12,18 +12,18 @@ language:
 timezone:
 
 # Featured Note
-feature_note_title: 'Using Ansible to Deploy Python Applications'
-feature_note_date: 'April 18th, 2016'
-feature_note_author: 'Max Fowler'
-feature_note_path: "2016/04/18/flask-ansible/"
-feature_note_excerpt: 'My new favorite tool is an Ansible template to quickly deploy a new Flask app to
-Amazon Web Services.  It logs error messages to slack, has database
-connectivity, and is fully idempotent — no need to remember server state. I find it very useful for getting small applications up and running quickly.
-It is also useful for starting a new project to know from the onset that
-deployment is already taken care of so I can focus on the actual project.'
+feature_note_title: 'What I Learned From Live-Tweeting My Google Searches'
+feature_note_date: 'June 22nd, 2016'
+feature_note_author: 'Patrick Steadman'
+feature_note_path: "2016/06/22/what-i-learned-from-live-tweeting-google/"
+feature_note_excerpt: 'Last May, I wrote a script that would log into my Google history page, find my most recent search queries, and tweet them from my public Twitter account. It tweeted searches from anywhere I was logged in with Google, including my phone, in real time.
+
+I kept the script running continuously for over a year, generating about 17k tweets. A few nights ago, for various reasons, I decided to turn it off, and commented out the cron job that ran the script.
+
+Frankly, I miss it.'
 
 # Featured Case Study
-feature_case_title: 'Case Study: Pinpoints'
+feature_case_title: 'Verdes Pinpoints'
 feature_case_date: 'June 14th, 2016'
 feature_case_author: 'Patrick Steadman'
 feature_case_path: 'blog/'
