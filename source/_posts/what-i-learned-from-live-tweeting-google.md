@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Learned From Tweeting My Googles Searches In Real Time
+title: What I Learned From Live-Tweeting My Google Searches
 date: 2016-06-22
 category: Notes
 lede: From May 2015 to June 2016, a Python script tweeted my Google search queries in real time.  Here's what I learned.
