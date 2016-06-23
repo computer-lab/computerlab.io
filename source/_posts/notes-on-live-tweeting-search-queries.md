@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I Learned From Live-Tweeting My Google Searches
-date: 2016-06-01
+date: 2016-06-22
 category: Notes
 lede: From May 2015 to June 2016, a Python script tweeted my Google search queries in real time.  Here's what I learned.
 author: Patrick Steadman
@@ -11,7 +11,7 @@ published: true
 Last May, I wrote a script that would log into my Google history page, find my
 most recent search queries, and tweet them from my public [Twitter
 account](https://twitter.com/ptsteadman).  It tweeted searches from anywhere
-that I was logged in with Google, including my phone, in real time.
+I was logged in with Google, including my phone, in real time.
 
 I kept the script running continuously for over a year, generating about 17k
 tweets.  A few nights ago, for various reasons, I decided to turn it off, and
@@ -30,10 +30,10 @@ action.
 ### How It Was Useful
 
 The main reason I miss my Google search feed bot is that it was actually quite
-useful.  It worked something like a Slack integration!  My friends and coworkers
-were ambiently aware of the research I was doing, the questions I had, in real
-time.  This helped us sync up and discuss important things.  Now I have to
-remember to explicitly tell them what I'm working on. 
+useful.  __It worked something like a Slack integration!__  My friends and
+coworkers were ambiently aware of the research I was doing, the questions I had,
+in real time.  This helped us sync up and discuss important things.  Now I have
+to remember to explicitly tell them what I'm working on. 
 
 Another plus: one of the well-known problems with Google is that it doesn't do a
 good job of addressing your "unknown unknowns".  Quite a few times, I'd be
@@ -103,20 +103,20 @@ heading to:
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-Ultimately, it was concerns about _laziness_ that made me turn off the bot.  The
-bot was rewarding me for keywords, rather than coherent thoughts.  Looking back
-on my tweets from the last year is sort of bleak: all it really tells you is
-that I went places in Brooklyn, wrote software using Ruby, C#, and JavaScript,
-and made shallow inquiries into a few other subjects.  I know that more was
-going in my head and heart during that time, and I want Twitter to help me force
-that stuff into a concise form.
+__Ultimately, it was concerns about _laziness_ that made me turn off the bot.__
+The bot was rewarding me for keywords, rather than coherent thoughts.  Looking
+back on my tweets from the last year is sort of bleak: all it really tells you
+is that I went places in Brooklyn, wrote software using Ruby, C#, and
+JavaScript, and made shallow inquiries into a few other subjects.  I know that
+more was going in my head and heart during that time, and I want Twitter to
+force me to put that stuff into a concise form.
 
 ### Technical Thoughts
 
-My friend [Theo Thimo](https://twitter.com/theoooeooo) came to me with this
-idea: he thought of it as "seamless content", an effortless form of writing.  He
-asked if I could build it, and of course I said yes.  "I'm sure I can just hit
-some Google API!" I thought.  I told him I'd do it for $20.  (He's a friend.)
+My friend [Theo Thimo](https://twitter.com/theoooeooo) came to me with the idea:
+he thought of it as "seamless content", an effortless form of writing.  He asked
+if I could build it, and of course I said yes.  "I'm sure I can just hit some
+Google API!" I thought.  I told him I'd do it for $20.  (He's a friend.)
 
 Building
 [google-search-twitter](https://github.com/ptsteadman/google-search-history)
