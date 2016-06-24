@@ -76,11 +76,20 @@ Perhaps we should use a more flexible time-tracking system, and move invoicing
 into our accounting software.
 
 #### GitHub
+
 Our GitHub organization is located at [github.com/computer-lab](https://github.com/computer-lab).
 
 GitHub stores source code and documentation.
 
-We don't have any private repositories yet.  5 private repos would be $20/month.
+We don't have any private repositories. 
+
+#### TravisCI
+
+Travis is a continuous integration server that builds and deploys repositories.
+This websites is deployed via Travis.  If you are a collaborator on a
+repository, you will be able to log in with your GitHub account
+[here](https://travis-ci.org/) and see the status of builds.  This website is
+deployed via Travis.  It's free for public repositories.
 
 #### Trello
 
@@ -93,24 +102,23 @@ We're on the free plan so far.
 
 #### Google Apps
 
-Email and documents are provided by Google Apps.  It's also the place we should
-store shared files.  Google Apps accounts are $5/month.
+Email and documents are provided by Google Apps.  It's also the place where we
+store shared files and documents.  Google Apps accounts are $5/month.
 
-#### Quickbooks / Xero
+#### Banking
 
-Accounting software is used for managing expenses, generating invoices, and
-running payroll.
+We have a Capital One Spark Business checking account with debit cards.  We use
+checks and the debit card to pay expenses, and use the Capital One mobile app to
+deposit checks from clients.
 
-We need to choose between Quickbooks and Xero.
+#### Xero
 
-Both cost about $20-$30 a month.
+We use Xero accounting software to maintain good records of income, expenses,
+and distribution of funds. 
+
+The Xero account costs $15/month currently.
 
 #### Analytics
 
 We use [Google Analytics](https://analytics.google.com/analytics/web/) for monitoring site traffic and [Crazy Egg](https://www.crazyegg.com) to learn more about how users interact with our site and projects.
-
-#### Banking
-
-We will open a bank account, probably with Capital One. We can make deposits
-using the mobile app.
 
