@@ -29,9 +29,28 @@ starting point that eliminates fear, uncertainty, and doubt.
   even if the response is simply giving a time that they can render a full
   response.
 
+### Our Default Stack:
+- The Sass CSS preprocessor for writing DRY CSS.
+- ReactJS with ES6 idioms for building browser and native UIs.
+- The Redux implementation of the Flux model for handling client-side state.
+- Webpack for transpiling to browser-friendly code, and running our linters,
+  reloaders, and other developer tools.
+- Django-Rest-Framework for serializing data over the wire, and
+  Django-Oauth-Toolkit for authentication.
+- Django as our backend framework.
+- Postgres as our persistence layer, or SQLite for simpler projects. 
+- Ansible to configure AWS servers.  
+
 ### Our Technical Procedures:
+- Linting: we ensure a common code style and eliminate bugs by using linters for
+  Python and JavaScript.  We also lint React, specifically.  The linters are set
+  to run during development to problems can be addressed while writing code.
+- Testing: testing is especially important because it allows us to refactor and
+  confidently deliver code to clients.  We test both our JavaScript and Python
+  codes, and use Test-Driven Development for all important components.
 - For each project, we create and maintain appropriate development, QA, and
-  production environments.
+  production environments.  We make sure that this process is automated using
+  Ansible.
 - We create documentation on GitHub for important things (like this), and expose
   it via GitHub pages if appropriate.
 
@@ -54,7 +73,8 @@ Here's a list of our software tools with information about how to access them.
 
 Our Slack is located at
 [computer-lab.slack.com](https://computer-lab.slack.com).  Slack is a chat
-service useful for discussing projects in detail.
+service useful for discussing projects in detail, socializing, and setting up
+feeds from integrations.
 
 Each general user costs $8/month.  General users can access all channels.
 
