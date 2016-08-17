@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Role Based Access Control with Django Rest Framework
+title: Role-Based Access Control with Django Rest Framework
 date: 2016-08-17
 category: Notes
 lede: Parameterizing a REST API over multiple types of users can be a headache. Learn how we addressed this common pattern with our own reusable Django application - django-rest-framework-roles.
@@ -8,7 +8,7 @@ author: Robert C Jensen
 published: true
 ---
 
-> "I should talk now about Phaedrus’ knife. It’ll help understand some of the
+> "I should talk now about Phaedrus’ knife. It’ll help you understand some of the
 > things we talked about. The application of this knife, the division of the
 > world into parts and the building of this structure, is something everybody
 > does."
@@ -22,7 +22,7 @@ position in this hierarchy determines their experience of the application - the
 things they can see, the places they can go and the actions they can take. One
 might say that the structure of user roles is the key abstraction that gives an
 application its essential character. Consider Unix's plain distinction between
-user and superuser, Twitter's public sea of content creators against it's hidden
+user and superuser, Twitter's public sea of content creators against its hidden
 mass of advertisers and [Active Directory's labyrinthine table of security
 groups](https://technet.microsoft.com/en-us/library/dn579255.aspx).
 
