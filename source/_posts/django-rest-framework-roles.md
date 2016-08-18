@@ -139,7 +139,7 @@ When we package these techniques into a mixin, the code above becomes:
         def get_queryset_for_takers(self):
             return Land.objects.filter(arable=True)
 
-        def get_queryset_for_leavers(self)
+        def get_queryset_for_leavers(self):
             return Land.objects.filter(arable=False)
 
         def get_queryset_for_gods(self):
