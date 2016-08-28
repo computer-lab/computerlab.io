@@ -3,24 +3,58 @@ layout: post
 title: The Computer Lab README
 date: 2016-01-11
 category: READMEs
-tags: 
-- Procedure 
+tags:
+- Procedure
 lede: "Computer Lab operating procedures, development playbook, and business tools."
 author: Lab
 ---
 
-This is the README file for Computer Lab.  README files are typically included
-with a piece of software so that people can quickly figure what the software
-does, how to use it, and who to contact if there's a problem.  This README
-aggregates key facts about Computer Lab so that important procedures, systems,
-and standards are clear to all.  It's not comprehensive, but provides a good
-starting point that eliminates fear, uncertainty, and doubt.
+This README should help you quickly understand the organization, goals,
+processes, and tools of Computer Lab.  It's not comprehensive, but provides a
+good starting point.
+
+### What is Computer Lab?
+
+Computer Lab is an independent software development team that builds data-driven
+applications.  Lab exists because we want to advance the state of software
+development.  We want to write better software, for better reasons, .
+
+### Organization and Roles
+
+There are three primary roles in the Computer Lab organization: **Partner**, **Member**,
+and **Guest**.
+
+A **Partner** owns a part of the Limited Liability Company that backs Computer
+Lab, Cloister Products LLC, and are something like the partners at a law firm.
+Partners recruit Lab members to work on various projects for clients.   A
+Partner can make deals on behalf of the company, and receives a portion of the
+overall profit of the company.  The profit of the company is periodically
+distributed to partners based on an "Eat What You Kill" formula that includes
+the business generated and managed by each partner, each partner's personal
+billable work, and other contributions as agreed on by the partners.  The
+partners are expected to create a satisfactory arrangement among themselves.
+
+A **Member** has full access to the Computer Lab Slack, GitHub, and other
+platforms where projects are discussed and executed.  They can choose to work on
+projects managed by the Partners.  If they do so, a transparent "cut" of the
+value of their work is retained by the company.  Currently the benchmark cut is
+25%, assuming that the Member is an independent contractor.  The network and
+tools provided by Computer Lab should help the Member make a living as a
+software development contractor/consultant.
+
+A **Guest** is someone that the company is working with, either as a client,
+contractor, or employee, who is given some access to Computer Lab systems in
+order to facilitate a project or goal.  An example of this is someone who is
+added to the Slack as a single-channel guest for the duration of a project.
+
+**Partners**, **Members** or **Guests** may all receive salary and benefits from
+the LLC as necessary or desired.
 
 ### Our Communication Procedures:
 
 #### Internal Communication
-- We use Slack and face-to-face for most internal project discussion. 
-- We use text and phone calls only for urgent issues. 
+- We use Slack and face-to-face for most internal project discussion.
+- We use text and phone calls only for urgent issues.
 
 #### Client Communication
 - Each project has a single designated point of contact. All client
@@ -38,8 +72,8 @@ starting point that eliminates fear, uncertainty, and doubt.
 - Django-Rest-Framework for serializing data over the wire, and
   Django-Oauth-Toolkit for authentication.
 - Django as our backend framework.
-- Postgres as our persistence layer, or SQLite for simpler projects. 
-- Ansible to configure AWS servers.  
+- Postgres as our persistence layer, or SQLite for simpler projects.
+- Ansible to configure AWS servers.
 
 ### Our Technical Procedures:
 - Linting: we ensure a common code style and eliminate bugs by using linters for
@@ -47,7 +81,7 @@ starting point that eliminates fear, uncertainty, and doubt.
   to run during development to problems can be addressed while writing code.
 - Testing: testing is especially important because it allows us to refactor and
   confidently deliver code to clients.  We test both our JavaScript and Python
-  codes, and use Test-Driven Development for all important components.
+  code, and use Test-Driven Development for all important components.
 - For each project, we create and maintain appropriate development, QA, and
   production environments.  We make sure that this process is automated using
   Ansible.
@@ -101,7 +135,7 @@ Our GitHub organization is located at [github.com/computer-lab](https://github.c
 
 GitHub stores source code and documentation.
 
-We don't have any private repositories. 
+We don't have any private repositories.
 
 #### TravisCI
 
@@ -134,7 +168,7 @@ deposit checks from clients.
 #### Xero
 
 We use Xero accounting software to maintain good records of income, expenses,
-and distribution of funds. 
+and distribution of funds.
 
 The Xero account costs $15/month currently.
 
