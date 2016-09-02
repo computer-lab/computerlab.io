@@ -13,12 +13,13 @@ This README should help you quickly understand the organization, goals,
 processes, and tools of Computer Lab.  It's not comprehensive, but provides a
 good starting point.
 
+<!--
+
 ### What is Computer Lab?
 
 Computer Lab is an independent software development team.  Our goal is to be
-better than most corporate/startup teams, and to develop a sustainable software
-engineer practice that makes us feel alive.  Our current focus is building
-data-driven web applications with rich user interfaces.
+better than most corporate/startup teams while building a sustainable software
+development practice that makes us feel alive.
 
 ### Organization and Roles
 
@@ -49,6 +50,8 @@ added to the Slack as a single-channel guest for the duration of a project.
 
 **Partners**, **Members** or **Guests** may all receive salary and benefits from
 the LLC as necessary or desired.
+
+-->
 
 ### Our Communication Procedures:
 
