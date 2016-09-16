@@ -11,7 +11,7 @@ install:
 - hexo generate
 deploy:
   provider: s3
-  bucket: new.computerlab.io
+  bucket: computerlab.io
   region: us-west-2
   skip_cleanup: true
   local_dir: public
