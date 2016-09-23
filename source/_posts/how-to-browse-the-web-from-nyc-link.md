@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How to Browse the Web from an NYC Wifi Link Kiosk
