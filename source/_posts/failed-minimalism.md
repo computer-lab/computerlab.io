@@ -8,6 +8,7 @@ lede: Are you a minimalist, or do you just have no taste?
 author: Patrick Steadman
 published: false
 ---
+
 Are you a minimalist, or do you just have no taste?
 
 <center>
@@ -19,7 +20,7 @@ choices is compelling and beautiful.  It's the process of cargo-culting
 minimalist tropes and patting oneself on the back, even when you've made a mess.
 
 Failed Minimalism has nothing to do with "Flat UI" or "Brutalist Web Design".
-It's more a rhetorical strategy people use with themselves when they are afraid.
+It's more a rhetorical strategy people use when they are afraid.
 
 I'll use myself as an example.  Almost every time I've moved into a new place,
 I've left the walls bare, thinking it was "minimalist".  I have always avoided
