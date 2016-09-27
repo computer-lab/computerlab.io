@@ -71,5 +71,3 @@ proxy site will provide us with a URL entry bar that we can use to visit any
 site, even if it is blocked.  Beware that proxies are a "man in the middle" and
 can collect information about your browsing session, so it's recommended you
 [set up your own](http://www.makeuseof.com/tag/create-online-proxy-server-minutes/).
-
-![The Computer Lab website on a LinkNYC Wifi Kiosk.](/images/here-to-help.jpg)
