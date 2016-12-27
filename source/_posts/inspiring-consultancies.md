@@ -8,8 +8,8 @@ author: Patrick Steadman
 published: true
 ---
 
-There's no one right way to be a software consulting company. The industry is
-young, and many companies find success in going against emergent best practices, 
+There's no one right way to be a software consulting company, but it helps to be
+a student of the industry. Models for how ..
 
 ### thoughtbot
 
@@ -18,12 +18,15 @@ young, and many companies find success in going against emergent best practices,
 __"Let's create something that your users will love."__
 
 In many ways, thoughtbot is the canonical example of a good software consulting
-company. They set the standard for how a consultancy can be involved in open
-source, [externalize business processes](https://thoughtbot.com/playbook), build
-a flat organization structure, and do great client work. thoughtbot proves that
-a consultancy doesn't need to become a boring bureaucracy to scale to multiple
-offices and hundreds of developers. thoughtbot is also one of the few
-consultancies to built successful products, like Hound and etc.
+company. They set the standard for how a consultancy can contribute to
+open source, [externalize business processes](https://thoughtbot.com/playbook),
+launch products, and do great client work. The simplicity of thoughtbot's
+designer/developer organization is evidence that a consultancy doesn't need to
+become a bureaucracy to scale to multiple offices and hundreds of developers. I
+think it's important that the engineering and design culture at thoughtbot is on
+par with Facebook, Google, and other 'top tech companies'. A consultancy that
+sits at the same table as top startups will be important signifier of the
+maturity of the industry.
 
 ### Standard Library
 
@@ -31,11 +34,15 @@ consultancies to built successful products, like Hound and etc.
 
 __"Design-driven software."__
 
-Standard Library is probably the smallest company on this list, and a great
-example of a company that has found a well-defined market niche and created a
-development philosophy to match it. Their promise of 'design-driven software'
-must appeal to institutional clients like the Harvard Design Magazine, the
-Whitney Museum, and RISD.
+Standard Library is probably the smallest company on this list, but they're a
+great example of a company that has found a well-defined market niche and
+created a development philosophy to match it. Their promise of 'design-driven
+software' must appeal to institutional clients like the Harvard Design Magazine,
+the Whitney Museum, and RISD. Standard Library's landing page also lists many
+collaborations with other agencies and shops, highlighting the (perhaps
+under-appreciated) fact that many projects are a joint effort between multiple
+companies or freelancers. There's probably also a lot of value in being able to
+work well with a network of other contractors.
 
 ### Citrusbyte
 
@@ -43,11 +50,19 @@ Whitney Museum, and RISD.
 
 __"Innovate like a startup. Even if you aren't one."__
 
+Citrusbyte made me realize that the culture of a consultancy doesn't have to
+perfectly match the culture of its clients. Sometimes, enterprises will look for
+consultants that can work seamlessly with their teams, often on-site. Other
+times, enterprises will look to consultants to accomplish tasks that are
+ill-suited for their own teams. You can build a great business using either
+model, but there are often advantages to building your own culture, and owning
+your own process, and just focusing on the deliverables that your clients care
+about.
+
 Citrusbyte also has a very good idea of the clients they'd like to work with,
-and they do it at large scale. One of the company's partners was kind enough to
-explain some of the key metrics they use to understand their business, and how
-to approach planning strategically and pragmatically. (more about accounting,
-etc?)
+and they do it at large scale. key metrics they use to understand their
+business, and how to approach planning strategically and pragmatically. (more
+about accounting, etc?)
 
 ### Dockyard
 
@@ -56,14 +71,14 @@ etc?)
 __"We build extraordinary user experiences."__
 
 Dockyard is a devshop headquarted in Boston with a Ember specialization, and
-seem to have many of the good features of thoughtbot. I
-discovered the company through the [founder's blog
+seem to have many of the good features of thoughtbot. I discovered the company
+through the [founder's blog
 posts](https://dockyard.com/blog/2013/12/22/lessons-learned-two-years-of-running-a-dockyard),
 which are surprisingly candid. In periodic posts, he talks about the more
 emotional, raw aspects of running a business: firing, acquiring, running out of
 money, paying oneself, etc. He shares the exact annual revenue of the company,
-and the posts go back to the early days of the company, which gave me a good
-feeling for how a business can evolve as it grows.
+and the posts go back to the early days, which gave me a good feeling for how a
+business can evolve as it grows.
 
 ### ConsenSys
 
