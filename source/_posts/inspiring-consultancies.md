@@ -8,8 +8,19 @@ author: Patrick Steadman
 published: true
 ---
 
-There's no one right way to be a software consulting company, but it helps to be
-a student of the industry. Models for how ..
+One big thing I learned this year is that there's no one right way to run a
+software consulting business. I've tried to become a student of the industry,
+and in reading the blogs of successful companies, I've often found that the best
+practices of one consultancy are considered anti-patterns at another. For
+example, some companies proudly call themselves Agile or Scrum teams, while
+others define themselves by their rejection of Agile practices. Some groups care
+a lot about accounting, business, and finance, while other companies outsource
+those concerns and focus on code or relationships.
+
+I think rapid changes in the world of software development spur consultancies to
+dance around, trying to find a place. But ultimately, it's personal. Each of the
+following companies represents a worldview, a coherent idea of how a group of
+people can happily write software and make money.
 
 ### thoughtbot
 
@@ -18,9 +29,11 @@ a student of the industry. Models for how ..
 __"Let's create something that your users will love."__
 
 In many ways, thoughtbot is the canonical example of a good software consulting
-company. They set the standard for how a consultancy can contribute to
-open source, [externalize business processes](https://thoughtbot.com/playbook),
-launch products, and do great client work. The simplicity of thoughtbot's
+company. They set the standard for how a consultancy can [contribute to open
+source](https://github.com/thoughtbot), [externalize business
+processes](https://thoughtbot.com/playbook), [launch
+products](https://formkeep.com/), and [do good client
+work](https://thoughtbot.com/work/tile). The simplicity of thoughtbot's
 designer/developer organization is evidence that a consultancy doesn't need to
 become a bureaucracy to scale to multiple offices and hundreds of developers. I
 think it's important that the engineering and design culture at thoughtbot is on
@@ -41,8 +54,8 @@ software' must appeal to institutional clients like the Harvard Design Magazine,
 the Whitney Museum, and RISD. Standard Library's landing page also lists many
 collaborations with other agencies and shops, highlighting the (perhaps
 under-appreciated) fact that many projects are a joint effort between multiple
-companies or freelancers. There's probably also a lot of value in being able to
-work well with a network of other contractors.
+companies or freelancers. A company that can work well with a network of other
+contractors can potentially do more valuable, strategic work.
 
 ### Citrusbyte
 
@@ -50,19 +63,16 @@ work well with a network of other contractors.
 
 __"Innovate like a startup. Even if you aren't one."__
 
-Citrusbyte made me realize that the culture of a consultancy doesn't have to
+Citrusbyte helped me realize that the culture of a consultancy doesn't have to
 perfectly match the culture of its clients. Sometimes, enterprises will look for
 consultants that can work seamlessly with their teams, often on-site. Other
-times, enterprises will look to consultants to accomplish tasks that are
-ill-suited for their own teams. You can build a great business using either
-model, but there are often advantages to building your own culture, and owning
-your own process, and just focusing on the deliverables that your clients care
-about.
-
-Citrusbyte also has a very good idea of the clients they'd like to work with,
-and they do it at large scale. key metrics they use to understand their
-business, and how to approach planning strategically and pragmatically. (more
-about accounting, etc?)
+times, enterprises will hire consultants to accomplish tasks that are ill-suited
+for their own teams. It's possible to build a great business using either model, but
+there are often advantages to building your own culture, owning your own
+process, and just focusing on the deliverables that your clients care about.
+Focusing on outcomes also makes the sales process more repeatable: you're
+selling an outcome, not trying to be a matchmaker. Repeatable sales and hiring
+processes allow a business like Citrusbyte to forcast and plan effectively.
 
 ### Dockyard
 
@@ -74,11 +84,12 @@ Dockyard is a devshop headquarted in Boston with a Ember specialization, and
 seem to have many of the good features of thoughtbot. I discovered the company
 through the [founder's blog
 posts](https://dockyard.com/blog/2013/12/22/lessons-learned-two-years-of-running-a-dockyard),
-which are surprisingly candid. In periodic posts, he talks about the more
-emotional, raw aspects of running a business: firing, acquiring, running out of
-money, paying oneself, etc. He shares the exact annual revenue of the company,
-and the posts go back to the early days, which gave me a good feeling for how a
-business can evolve as it grows.
+which are surprisingly candid. In periodic posts going back to the first months
+of the company, he talks about the more emotional, raw aspects of running a
+business: firing, acquiring, running out of money, paying oneself, etc. He
+shares the exact annual revenue of the company, and writes down his expectations
+for the coming year. All of this gave me a good idea of the subjective
+experience of a founder, and how it changes as the company evolves and grows.
 
 ### ConsenSys
 
@@ -90,14 +101,13 @@ focused on Ethereum."__
 
 ConsenSys is interesting because it's a company built around an experimental
 technology with a highly uncertain fate: Ethereum. In 2016, Computer Lab had a
-fun and profitable time following the saga of the emergent cryptocurrency, and
-we were amazed to find that a consultancy/incubator working with Ethereum
-already existed in Bushwick, New York, and that it had almost one hundred
-employees. Assuming that the company is venture-backed, it's a very different
-model from other consultancies, which typically focus on a relatively
-well-established technology in wide production use by a large number of
-enterprises and small companies. It'll be fascinating to watch what happens to
-ConsenSys.
+fun and profitable time following the emergent cryptocurrency, and we were
+amazed to find that an Ethereum consultancy/incubator already existed in
+Bushwick, New York, and that it had almost one hundred employees.  Assuming that
+the company is venture-backed, it's a very different model from other
+consultancies, which typically focus on a relatively well-established technology
+in wide production use by a large number of enterprises and small companies.
+It'll be fascinating to watch what happens to ConsenSys.
 
 ### Formidable
 
@@ -107,12 +117,27 @@ __"The JavaScript Experts."__
 
 For me, 2016 was the year of ReactJS. ReactJS (and the tools it is associated
 with, like Babel, Webpack, Redux, etc) fundamentally changed how I do web
-development, and the demand for ReactJS helped to get Computer Lab off to a fast
-start. In my mind, Seattle-based Formidable is the primere React consultancy,
-mostly because of their open source projects and compelling work with enterprise
-clients like Walmart and Starbucks. A lot of the open source work is driven by
-the indomitable Ken Wheeler, who must look at the world and see everything as a
-React component hierarchy.
+development, and the demand for ReactJS development helped to get Computer Lab
+off to a fast start. In my mind, Seattle-based Formidable is the primere React
+consultancy, mostly because of their open source projects and compelling work
+with enterprise clients like Walmart and Starbucks. A lot of the open source
+work is driven by the indomitable [Ken Wheeler](https://github.com/kenwheeler),
+who seems to look at things in the world and think 'there should be a React
+renderer for that!'.
+
+### Math & Pencil
+
+[mathandpencil.com](http://mathandpencil.com)
+
+__"We are your foundation."__
+
+Math and Pencil, based in New York, with a design office in Buffalo, is on this
+list for two reasons: the fact that they have an office in my hometown, and
+because they're a successful small data science consultancy. I think there's a
+lot of potential in the area of data science and data engineering. While not all
+companies have a need for custom software development, the need to move and
+understand data is pretty universal, and serviceable by individuals or small
+teams.
 
 ### Hello Velocity
 
@@ -124,8 +149,7 @@ conversation."__
 Our friends at Hello Velocity understand that there's very little difference
 between marketing and trolling. Their experimental 'vaporware' projects are
 entertaining and effective at getting media attention, and they bring this
-thought process to client work. Perhaps the future of advertising-driven
-companies like Huge and Mother with large teams of 'creative technologists'.
+thought process to client work.
 
 ### Gigster
 
@@ -134,15 +158,16 @@ companies like Huge and Mother with large teams of 'creative technologists'.
 __"Software on demand."__
 
 Gigster is less inspiring, and more terrifying. The venture-backed company is
-focused on fixed-price MVPs built by teams of engineers looking to make more
-money on the side. Their landing page talks about modelling the development
-process using AI, etc. Gigster, and some other companies like Hired, are less
-intereted in building a consulting company, and more interested in building an
-Uber-like platform that fulfills the same needs. It's unclear how well that
-approach will work, but the fact that the company is probably willing to execute
-projects at a loss while they build the platform could potentially poison the
-MVP market, and eventually become an existential threat to the "lifestyle"
-companies they deride.
+focused on fixed-price MVPs built by teams of engineers looking to make money
+moonlighting on the side. Their [landing
+page](https://gigster.com/about/intelligence) talks about modelling the
+development process using finite-state machines, health scores, and AI. Gigster,
+and some other companies like Hired, are less intereted in building a consulting
+company, and more interested in building an Uber-like platform that fulfills the
+same needs. It's unclear how well that approach will work, but the fact that the
+company is willing to execute projects at a loss while they build the platform
+could potentially poison the MVP market, and eventually become an existential
+threat to the "lifestyle" companies they deride.
 
 ### Ribbonfarm Consulting
 
@@ -150,30 +175,14 @@ companies they deride.
 
 __"Experiments in refactored perception."__
 
-Not so much a software development company, writer Venkatesh Rao's consulting
-practice looks at large organizations as refactorable spaces. Most software
-consultancies typically stay out of the areas that are traditionally the realm
-of management consulting companies like McKinsey and Bain. But in the future,
-more and more enterprises will probably want more than just deliverables,
-they'll also want organizational transformations and comparative best practices.
-Pivotal's landing page already talks about "adopting the Silicon Valley state of
-mind". It'll be interesting to see which software consultancy will be the first
-to reach the dizzying multinational heights of McKinsey.
+Not so much a software development company, blogger Venkatesh Rao's consulting
+practice looks at large and small organizations as refactorable spaces. Most
+software consultancies typically avoid subjects that are traditionally the
+domain of management consulting companies like McKinsey and Bain. But in the
+future, more and more enterprises will probably want more than just
+deliverables, they'll also want organizational transformations and comparative
+best practices.  Pivotal's landing page already talks about "adopting the
+Silicon Valley state of mind". It'll be interesting to see which software
+consultancy will be the first to reach the dizzying multinational heights of
+McKinsey.
 
-### 56.digital
-
-[56.digital](http://56.digital)
-
-__"We work with brands to build their URL and IRL presence."__
-
-We really like their landing page.
-
-### Math & Pencil
-
-[mathandpencil.com](http://mathandpencil.com)
-
-__"We are your foundation."__
-
-Math and Pencil, based in New York, with a design office in Buffalo, is on this
-list for two reasons: the fact that they have an office in my hometown is
-inspiring, and they're also a successful small data science consultancy.
