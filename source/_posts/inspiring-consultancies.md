@@ -13,12 +13,12 @@ software consulting business. I've tried to become a student of the industry,
 and in reading the blogs of successful companies, I've often found that the best
 practices of one consultancy are considered anti-patterns at another. For
 example, some companies proudly call themselves Agile or Scrum teams, while
-others define themselves by their rejection of Agile practices. Some groups care
-a lot about accounting, business, and finance, while other companies outsource
-those concerns and focus on code or relationships.
+others are defined by their rejection of Agile practices. Some groups care a lot
+about accounting, business, and finance, while other companies outsource those
+concerns and focus on code or relationships.
 
 I think rapid changes in the world of software development spur consultancies to
-dance around, trying to find a place. But ultimately, it's personal. Each of the
+dance around, trying to find their place. But ultimately, it's personal. Each of the
 following companies represents a worldview, a coherent idea of how a group of
 people can happily write software and make money.
 
@@ -28,18 +28,16 @@ people can happily write software and make money.
 
 __"Let's create something that your users will love."__
 
-In many ways, thoughtbot is the canonical example of a good software consulting
-company. They set the standard for how a consultancy can [contribute to open
+thoughtbot is the canonical example of a good software consulting company. They
+set the standard for how a consultancy can [contribute to open
 source](https://github.com/thoughtbot), [externalize business
 processes](https://thoughtbot.com/playbook), [launch
 products](https://formkeep.com/), and [do good client
 work](https://thoughtbot.com/work/tile). The simplicity of thoughtbot's
-designer/developer organization is evidence that a consultancy doesn't need to
-become a bureaucracy to scale to multiple offices and hundreds of developers. I
-think it's important that the engineering and design culture at thoughtbot is on
-par with Facebook, Google, and other 'top tech companies'. A consultancy that
-sits at the same table as top startups will be important signifier of the
-maturity of the industry.
+designer/developer organization structure is evidence that a consultancy doesn't
+need to become a bureaucracy to scale, and the quality of the company's
+engineering and design culture puts it on par with par with Facebook, Google,
+and other 'top tech companies'.
 
 ### Standard Library
 
@@ -48,10 +46,12 @@ maturity of the industry.
 __"Design-driven software."__
 
 Standard Library is probably the smallest company on this list, but they're a
-great example of a company that has found a well-defined market niche and
+great example of a consultancy that has found a well-defined market niche and
 created a development philosophy to match it. Their promise of 'design-driven
 software' must appeal to institutional clients like the Harvard Design Magazine,
-the Whitney Museum, and RISD. Standard Library's landing page also lists many
+the Whitney Museum, and RISD.
+
+Standard Library's landing page also lists many
 collaborations with other agencies and shops, highlighting the (perhaps
 under-appreciated) fact that many projects are a joint effort between multiple
 companies or freelancers. A company that can work well with a network of other
@@ -70,9 +70,11 @@ times, enterprises will hire consultants to accomplish tasks that are ill-suited
 for their own teams. It's possible to build a great business using either model, but
 there are often advantages to building your own culture, owning your own
 process, and just focusing on the deliverables that your clients care about.
-Focusing on outcomes also makes the sales process more repeatable: you're
-selling an outcome, not trying to be a matchmaker. Repeatable sales and hiring
-processes allow a business like Citrusbyte to forcast and plan effectively.
+
+Focusing on outcomes also makes the sales process more repeatable, because
+you're selling an outcome, not trying to be a matchmaker. Repeatable sales and
+hiring processes allow a business like Citrusbyte to forecast and plan
+effectively.
 
 ### Dockyard
 
@@ -88,8 +90,10 @@ which are surprisingly candid. In periodic posts going back to the first months
 of the company, he talks about the more emotional, raw aspects of running a
 business: firing, acquiring, running out of money, paying oneself, etc. He
 shares the exact annual revenue of the company, and writes down his expectations
-for the coming year. All of this gave me a good idea of the subjective
-experience of a founder, and how it changes as the company evolves and grows.
+for the coming year.
+
+All of this gave me a good feel for the subjective experience of a founder, and
+how it changes as the company evolves and grows.
 
 ### ConsenSys
 
@@ -136,7 +140,7 @@ list for two reasons: the fact that they have an office in my hometown, and
 because they're a successful small data science consultancy. I think there's a
 lot of potential in the area of data science and data engineering. While not all
 companies have a need for custom software development, the need to move and
-understand data is pretty universal, and serviceable by individuals or small
+understand data is pretty universal, and serviceable by individuals and small
 teams.
 
 ### Hello Velocity
@@ -177,12 +181,11 @@ __"Experiments in refactored perception."__
 
 Not so much a software development company, blogger Venkatesh Rao's consulting
 practice looks at large and small organizations as refactorable spaces. Most
-software consultancies typically avoid subjects that are traditionally the
-domain of management consulting companies like McKinsey and Bain. But in the
-future, more and more enterprises will probably want more than just
-deliverables, they'll also want organizational transformations and comparative
-best practices.  Pivotal's landing page already talks about "adopting the
-Silicon Valley state of mind". It'll be interesting to see which software
-consultancy will be the first to reach the dizzying multinational heights of
-McKinsey.
+software consultancies typically avoid issues that are traditionally the domain
+of management consulting companies. But in the future, more and more enterprises
+will probably want organizational transformations and comparative best practices
+along with their software deliverables.  Pivotal's landing page already talks
+about "adopting the Silicon Valley state of mind".  It'll be interesting to see
+which software consultancy will be the first to reach the dizzying multinational
+heights of McKinsey or Bain.
 
