@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Ten Inspiring Software Consultancies
-date: 2016-12-19
+date: 2017-01-03
 category: Notes
 lede: Software consultancies that inspired Computer Lab in 2016, and what makes them special.
 author: Patrick Steadman
 published: true
 ---
+__Consultancies that inspired Computer Lab in 2016, and what makes them special.__
 
 One big thing I learned this year is that there's no one right way to run a
 software consulting business. I've tried to become a student of the industry,
