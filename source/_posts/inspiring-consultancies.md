@@ -15,13 +15,13 @@ and in reading the blogs of successful companies, I've often found that the best
 practices of one consultancy are considered anti-patterns at another. For
 example, some companies proudly call themselves Agile or Scrum teams, while
 others are defined by their rejection of Agile practices. Some groups care a lot
-about accounting, business, and finance, while other companies outsource those
-concerns and focus on code or relationships.
+about accounting and finance, while other companies outsource those concerns and
+focus on code or relationships.
 
-I think rapid changes in the world of software development spur consultancies to
-dance around, trying to find their place. But ultimately, it's personal. Each of the
-following companies represents a worldview, a coherent idea of how a group of
-people can happily write software and make money.
+I think the rapidly changing software ecosystem makes a lot of different
+approaches possible. Ultimately, it's personal. Each of the following companies
+represents a worldview, a coherent idea of how a group of people can happily
+write software and make money.
 
 ### thoughtbot
 
@@ -34,11 +34,11 @@ set the standard for how a consultancy can [contribute to open
 source](https://github.com/thoughtbot), [externalize business
 processes](https://thoughtbot.com/playbook), [launch
 products](https://formkeep.com/), and [do good client
-work](https://thoughtbot.com/work/tile). The simplicity of thoughtbot's
-designer/developer organization structure is evidence that a consultancy doesn't
-need to become a bureaucracy to scale, and the quality of the company's
-engineering and design culture puts it on par with par with Facebook, Google,
-and other 'top tech companies'.
+work](https://thoughtbot.com/work/tile). The company's simple designer/developer
+organization structure is evidence that a consultancy doesn't need to become a
+bureaucracy to scale, and the quality of the company's engineering and design
+culture is evidence that a consultancy can work at the level of Facebook,
+Google, and other 'top tech companies'.
 
 ### Standard Library
 
@@ -52,11 +52,11 @@ created a development philosophy to match it. Their promise of 'design-driven
 software' must appeal to institutional clients like the Harvard Design Magazine,
 the Whitney Museum, and RISD.
 
-Standard Library's landing page also lists many
-collaborations with other agencies and shops, highlighting the (perhaps
-under-appreciated) fact that many projects are a joint effort between multiple
-companies or freelancers. A company that can work well with a network of other
-contractors can potentially do more valuable, strategic work.
+Standard Library's landing page also lists many collaborations with other
+agencies and shops, highlighting the (perhaps under-appreciated) fact that many
+projects are a joint effort between multiple companies or freelancers. A company
+that can work well with a network of other contractors can potentially do more
+valuable, strategic work.
 
 ### Citrusbyte
 
@@ -94,7 +94,7 @@ shares the exact annual revenue of the company, and writes down his expectations
 for the coming year.
 
 All of this gave me a good feel for the subjective experience of a founder, and
-how it changes as the company evolves and grows.
+how it changes as a company evolves and grows.
 
 ### ConsenSys
 
@@ -139,10 +139,10 @@ __"We are your foundation."__
 Math and Pencil, based in New York, with a design office in Buffalo, is on this
 list for two reasons: the fact that they have an office in my hometown, and
 because they're a successful small data science consultancy. I think there's a
-lot of potential in the area of data science and data engineering. While not all
-companies have a need for custom software development, the need to move and
-understand data is pretty universal, and serviceable by individuals and small
-teams.
+lot of potential in the area of data science and data engineering consulting.
+While not all companies have a need for custom software development, the need to
+move and understand data is pretty universal, and serviceable by individuals and
+small teams.
 
 ### Hello Velocity
 
@@ -153,7 +153,7 @@ conversation."__
 
 Our friends at Hello Velocity understand that there's very little difference
 between marketing and trolling. Their experimental 'vaporware' projects are
-entertaining and effective at getting media attention, and they bring this
+entertaining and effective at getting media attention, and they bring this same
 thought process to client work.
 
 ### Gigster
