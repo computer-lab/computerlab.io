@@ -19,7 +19,7 @@ good starting point.
 
 Computer Lab is an independent software development team.  Our goal is to be
 better than most corporate/startup teams while building a sustainable software
-development practice that makes us feel alive.
+development practice.
 
 ### Organization and Roles
 
