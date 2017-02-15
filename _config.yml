@@ -12,15 +12,17 @@ language:
 timezone:
 
 # Featured Note
-feature_note_title: 'What I Learned From Live-Tweeting My Google Searches'
-feature_note_date: 'June 22nd, 2016'
+feature_note_title: 'Ten Inspiring Software Consultancies'
+feature_note_date: 'January 4th, 2017'
 feature_note_author: 'Patrick Steadman'
-feature_note_path: "2016/06/22/what-i-learned-from-live-tweeting-google/"
-feature_note_excerpt: 'Last May, I wrote a script that would log into my Google history page, find my most recent search queries, and tweet them from my public Twitter account. It tweeted searches from anywhere I was logged in with Google, including my phone, in real time.
-
-I kept the script running continuously for over a year, generating about 17k tweets. A few nights ago, for various reasons, I decided to turn it off, and commented out the cron job that ran the script.
-
-Frankly, I miss it.'
+feature_note_path: "2017/01/03/inspiring-consultancies/"
+feature_note_excerpt: 'One big thing I learned this year is that there’s no one right way to run a software consulting business. 
+I’ve tried to become a student of the industry, and in reading the blogs of successful companies, 
+I’ve often found that the best practices of one consultancy are considered anti-patterns at another. 
+For example, some companies proudly call themselves Agile or Scrum teams, 
+while others are defined by their rejection of Agile practices. 
+Some groups care a lot about accounting and finance, 
+while other companies outsource those concerns and focus on code or relationships.'
 
 # Featured Case Study
 feature_case_title: 'Verdes Pinpoints'

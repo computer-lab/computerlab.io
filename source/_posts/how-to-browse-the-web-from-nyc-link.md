@@ -13,7 +13,7 @@ Here's how to get back online.__
 
 <br>
 
-__Step I: Get A Web Browser__
+### Step I: Get A Web Browser
 
 Earlier this month, LinkNYC totally removed the web browsing app from its Wifi
 kiosks after aggressive filtering failed to stop people from enjoying the
@@ -34,7 +34,7 @@ even if you can't directly enter in URLs.
 
 ![Using the embedded browser in Google Maps.](/images/kiosk-trick.png)
 
-__Step II: Browse the Web Freely__
+### Step II: Browse the Web Freely
 
 But, there seems to be some filtering applied at the client level, blocking some
 pages.  A lot of websites don't show up in the search results.
