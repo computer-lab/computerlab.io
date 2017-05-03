@@ -164,9 +164,11 @@ vulnerabilities a la CERT.
 
 ### TL;DR
 
-Following [US-CERT](#United-States-Computer-Emergency-Readiness-Team-US-CERT)
-should be more than enough for most use cases. If you want detailed updates for
-a particular operating system you should subscribe to their security announce list.
+If you're a practicing software engineer but not a security professional, 
+following [US-CERT](#United-States-Computer-Emergency-Readiness-Team-US-CERT)
+should be more than enough to get a feel for how emerging threats might impact your work. 
+If you want detailed updates for a particular operating system you 
+should subscribe to their security announce list.
 
 ### Did we miss anything?
 
