@@ -46,10 +46,11 @@ platform for the general discussion of software security.
 **Formats** Raw Data, Twitter, Web
 
 The CVE standard defines a universal format for describing vulnerabilities in
-software and systems. They have also contributed to standards for
-[scoring](https://www.first.org/cvss) and [reporting](http://www.icasi.org/cvrf)
-vulnerabilities. With NIST, they provide a convenient interface for searching
-and visualizing CVEs at the [National Vulnerability Database](https://nvd.nist.gov/).
+software and systems. MITRE maintains both the standard and a large database of assigned
+CVE identifiers. The CVE system has inspired other standards for [scoring](https://www.first.org/cvss)
+and [reporting](http://www.icasi.org/cvrf) vulnerabilities. The federal government
+provides a convenient interface for searching and visualizing CVEs at the
+[National Vulnerability Database](https://nvd.nist.gov/).
 
 #### [United States Computer Emergency Readiness Team (US-CERT)](https://www.us-cert.gov/mailing-lists-and-feeds)
 
