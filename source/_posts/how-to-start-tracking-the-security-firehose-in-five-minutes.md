@@ -28,7 +28,7 @@ an update on a schedule or to wait for a patch in a library to propogate upstrea
 
 By keeping track of security vulnerabilities on your own, you can catch potential
 weaknesses in your infrastructure without delay. Software vendors and special
-interest groups have created a number of security feeds that makes it easy to stay
+interest groups have created a number of security feeds that make it easy to stay
 abreast of the latest security bugs. In this article, we present a directory of
 the feeds that I follow at Computer Lab when managing critical systems.
 
