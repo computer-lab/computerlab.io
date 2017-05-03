@@ -46,7 +46,7 @@ platform for the general discussion of software security.
 **Formats** Raw Data, Twitter, Web
 
 The CVE standard defines a universal format for describing vulnerabilities in
-software and systems. MITRE maintains both the standard and a large database of assigned
+software and systems. MITRE maintains both the CVE standard and a large database of assigned
 CVE identifiers. The CVE system has inspired other standards for [scoring](https://www.first.org/cvss)
 and [reporting](http://www.icasi.org/cvrf) vulnerabilities. The federal government
 provides a convenient interface for searching and visualizing CVEs at the
