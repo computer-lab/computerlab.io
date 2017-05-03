@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Start Tracking the Security Firehose in Five Minutes
-date: 2017-05-02
+title: How to Start Tracking Emerging Security Threats in Five Minutes
+date: 2017-05-03
 category: Notes
 lede: Learn how to monitor security feeds to stay ahead of the ongoing threats to your infrastructure.
 author: Robert C Jensen
@@ -18,17 +18,17 @@ published: true
 ### Background
 
 How do you become aware of security bugs in your software systems? Is it when
-a machine prompts you to install updates? Is it when you read about it on
+a machine prompts you to install updates? Is it when you read about them on
 Hacker News? Is it when you get owned?
 
 Creating an automated patch management system is a great way to stay secure.
 However, depending on your threat model, you might need to do even better than
 that. It may not be acceptable to wait for your patch management system to apply
-an update on a schedule or to wait for a patch in a library to propogate upstream.
+an update on a schedule or to wait for a patch in a library to propagate upstream.
 
 By keeping track of security vulnerabilities on your own, you can catch potential
-vulnerabilities as soon as they are made public. Software vendors and special
-interest groups have created a number of security feeds that makes it easy to stay
+weaknesses in your infrastructure without delay. Software vendors and special
+interest groups have created a number of security feeds that make it easy to stay
 abreast of the latest security bugs. In this article, we present a directory of
 the feeds that I follow at Computer Lab when managing critical systems.
 
@@ -37,8 +37,8 @@ the feeds that I follow at Computer Lab when managing critical systems.
 ### General Vulnerabilities
 
 These comprehensive feeds report vulnerabilities in software across operating systems.
-Monitoring these lists can help you catch bugs in your stack and, in some cases,
-provide a platform for the general discussion of software security.
+Monitoring these lists can help you catch bugs in your stack and provide a
+platform for the general discussion of software security.
 
 #### [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/cve/)
 
@@ -46,20 +46,22 @@ provide a platform for the general discussion of software security.
 **Formats** Raw Data, Twitter, Web
 
 The CVE standard defines a universal format for describing vulnerabilities in
-software and systems. They also have contributed to standards for
-[scoring](https://www.first.org/cvss) and [reporting](http://www.icasi.org/cvrf)
-vulnerabilities. With NIST, they provide a convenient interface for searching
-and visualizing CVEs at the [National Vulnerability Database](https://nvd.nist.gov/).
+software and systems. MITRE maintains both the CVE standard and a large database of assigned
+CVE identifiers. The CVE system has inspired other standards for [scoring](https://www.first.org/cvss)
+and [reporting](http://www.icasi.org/cvrf) vulnerabilities. The federal government
+provides a convenient interface for searching and visualizing CVEs at the
+[National Vulnerability Database](https://nvd.nist.gov/).
 
 #### [United States Computer Emergency Readiness Team (US-CERT)](https://www.us-cert.gov/mailing-lists-and-feeds)
 
 **Message Frequency** Varies  
 **Formats** Mailing List, RSS
 
-US-CERT has a variety of feeds for both high and low frequency security bulletins.
+US-CERT is a division of the federal government that tracks cyber threats.
+They have a variety of feeds for both high and low frequency security bulletins.
 They also publish advisories that are not specific to a particular piece
-of software but rather describe best practices and current trends in the threat
-landscape.
+of software but rather describe best practices and current trends in computer
+security.
 
 #### [Bugtraq](http://www.securityfocus.com/archive/1/description#0.3.1)
 
@@ -67,7 +69,7 @@ landscape.
 **Formats** Mailing List
 
 Despite being one of the oldest security mailing lists, you can still find
-advisories posted on Bugtraq today. Bugtraq is not just an announce list - you
+advisories posted to Bugtraq today. Bugtraq is not just an announce list - you
 can engage in conversation with other security professionals.
 
 #### [OSS Security](http://www.openwall.com/lists/oss-security/)
@@ -76,19 +78,19 @@ can engage in conversation with other security professionals.
 **Formats** Mailing List
 
 OSS Security is a common place for new vulnerabilities to be posted, often
-cross posted to Bugtraq and / or Full Disclosure. Like Bugtraq, there will
+cross posted to Bugtraq and Full Disclosure. Like Bugtraq, there will
 occasionally be more general discussion of security practices. Until recently,
 CVEs were assigned here.
 
-#### [Full Disclosure](https://nmap.org/mailman/listinfo/fulldisclosure)
+#### [Full Disclosure (FD)](https://nmap.org/mailman/listinfo/fulldisclosure)
 
 **Message Frequency** Daily  
 **Formats** Mailing List
 
-Another old-school mailing list, named for the security reporting principle of
+FD is old-school mailing list named for the security reporting principle of
 [Full Disclosure](https://en.wikipedia.org/wiki/Full_disclosure_%28computer_security%29).
-Nowadays the list has much less activity than OSS Security or Bugtraq but it can
-still be a valuable source of vulnerability announcements.
+The list has much less activity than OSS Security or Bugtraq but it can still be
+a valuable source of news, discussions & vulnerabilities.
 
 ### Linux Vulnerabilities
 
@@ -160,15 +162,23 @@ Notifications of vulnerabilities in Amazon's flavor of Red Hat (Amazon Linux).
 
 Security bulletins for vulnerabilities in Amazon services (e.g: RDS) and
 internal software (e.g: Xen). Also includes general security notices for critical
-vulnerabilities a la CERT.
+vulnerabilities à la CERT.
 
 ### TL;DR
 
-If you're a practicing software engineer but not a security professional, 
+If you're a practicing software engineer but not a security professional,
 following [US-CERT](#United-States-Computer-Emergency-Readiness-Team-US-CERT)
-should be more than enough to get a feel for how emerging threats might impact your work. 
-If you want detailed updates for a particular operating system you 
-should subscribe to their security announce list.
+should be more than enough to get a feel for how emerging threats might impact your work.
+
+If you want detailed updates for a particular operating system you
+should subscribe to their security announce list. If you want to catch vulnerabilities
+in the software & libraries that make up your stack, you should subscribe to
+[Bugtraq](#Bugtraq), [Full Disclosure](#Full-Disclosure-FD) and [OSS Security](#OSS-Security).
+
+To identify potential vulnerabilities even faster, you can follow the issue trackers
+for any relevant pieces of software and watch for security-related bugs. You
+should note, however, that frequently security issues are reported out-of-band
+on a private channel to prevent exploitation.
 
 ### Did we miss anything?
 
