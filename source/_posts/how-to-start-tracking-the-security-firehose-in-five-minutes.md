@@ -8,12 +8,12 @@ author: Robert C Jensen
 published: true
 ---
 
-> There ain't no bugs on me
-> There ain't no bugs on me
-> There may be bugs on some of you mugs
-> But there ain't no bugs on me
+> There ain't no bugs on me  
+> There ain't no bugs on me  
+> There may be bugs on some of you mugs  
+> But there ain't no bugs on me  
 
-*Traditional folk song*
+*- Traditional folk song*
 
 ### Background
 
@@ -32,7 +32,7 @@ interest groups have created a number of security feeds that makes it easy to st
 abreast of the latest security bugs. In this article, we present a directory of
 the feeds that I follow at Computer Lab when managing critical systems.
 
-*If you want a quick TL;DR click [here](TL;DR)*
+*If you want a quick TL;DR click [here](#TL-DR)*
 
 ### General Vulnerabilities
 
@@ -42,8 +42,8 @@ provide a platform for the general discussion of software security.
 
 #### [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/cve/)
 
-Message Frequency: Daily
-Formats: Raw Data, Twitter, Web
+**Message Frequency** Daily  
+**Formats** Raw Data, Twitter, Web
 
 The CVE standard defines a universal format for describing vulnerabilities in
 software and systems. They also have contributed to standards for
@@ -53,8 +53,8 @@ and visualizing CVEs at the [National Vulnerability Database](https://nvd.nist.g
 
 #### [United States Computer Emergency Readiness Team (US-CERT)](https://www.us-cert.gov/mailing-lists-and-feeds)
 
-Message Frequency: Varies
-Formats: Mailing List, RSS
+**Message Frequency** Varies  
+**Formats** Mailing List, RSS
 
 US-CERT has a variety of feeds for both high and low frequency security bulletins.
 They also publish advisories that are not specific to a particular piece
@@ -63,8 +63,8 @@ landscape.
 
 #### [Bugtraq](http://www.securityfocus.com/archive/1/description#0.3.1)
 
-Message Frequency: Daily
-Formats: Mailing List
+**Message Frequency** Daily  
+**Formats** Mailing List
 
 Despite being one of the oldest security mailing lists, you can still find
 advisories posted on Bugtraq today. Bugtraq is not just an announce list - you
@@ -72,8 +72,8 @@ can engage in conversation with other security professionals.
 
 #### [OSS Security](http://www.openwall.com/lists/oss-security/)
 
-Message Frequency: Daily
-Format: Mailing List
+**Message Frequency** Daily  
+**Formats** Mailing List
 
 OSS Security is a common place for new vulnerabilities to be posted, often
 cross posted to Bugtraq and / or Full Disclosure. Like Bugtraq, there will
@@ -82,11 +82,11 @@ CVEs were assigned here.
 
 #### [Full Disclosure](https://nmap.org/mailman/listinfo/fulldisclosure)
 
-Message Frequency: Daily
-Format: Mailing List
+**Message Frequency** Daily  
+**Formats** Mailing List
 
 Another old-school mailing list, named for the security reporting principle of
-[Full Disclosure](https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)).
+[Full Disclosure](https://en.wikipedia.org/wiki/Full_disclosure_%28computer_security%29).
 Nowadays the list has much less activity than OSS Security or Bugtraq but it can
 still be a valuable source of vulnerability announcements.
 
@@ -98,15 +98,15 @@ here but it should be easy to find a similar list for any distribution.
 
 #### [Red Hat Security Announce](https://www.redhat.com/mailman/listinfo/rhsa-announce)
 
-Message Frequency: Varies
-Format: Mailing List
+**Message Frequency** Varies  
+**Formats** Mailing List
 
 Security announcements for all Red Hat products and services.
 
 #### [Ubuntu Security Announce](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce)
 
-Message Frequency: Varies
-Format: Mailing List
+**Message Frequency** Varies  
+**Formats** Mailing List
 
 Security updates for all flavors of Ubuntu.
 
@@ -117,24 +117,24 @@ many valuable resources for security professionals.
 
 #### [Microsoft Security Notification Service](https://technet.microsoft.com/en-us/security/dd252948.aspx)
 
-Message Frequency: Monthly
-Format: Mailing List
+**Message Frequency** Monthly  
+**Formats** Mailing List
 
 These notifications provide a low-frequency, high-level overview of patched vulnerabilities
 in Microsoft products.
 
 #### [Microsoft Security Advisories](https://technet.microsoft.com/en-us/security/dd252948.aspx)
 
-Message Frequency: Varies
-Format: RSS
+**Message Frequency** Varies  
+**Formats** RSS
 
 Advisories that report low-impact vulnerabilities or security-related updates
 are sent here.
 
 #### [Microsoft Security Updates](https://technet.microsoft.com/en-us/security/bulletins.aspx)
 
-Message Frequency: Monthly
-Format: Web
+**Message Frequency** Monthly  
+**Formats** Web
 
 On [Patch Tuesday](https://en.wikipedia.org/wiki/Patch_Tuesday), Microsoft releases
 information about patched vulnerabilities on its website. The bulletins are quite
@@ -148,15 +148,15 @@ Here are some resources to help you stay on top of vulnerabilities in the cloud.
 
 #### [Amazon Linux AMI Security](https://alas.aws.amazon.com/)
 
-Message Frequency: Varies
-Format: RSS, Web
+**Message Frequency** Varies  
+**Formats** RSS, Web
 
 Notifications of vulnerabilities in Amazon's flavor of Red Hat (Amazon Linux).
 
 #### [Amazon Security Bulletins](https://aws.amazon.com/security/security-bulletins/)
 
-Message Frequency: Varies
-Format: RSS, Web
+**Message Frequency** Varies  
+**Formats** RSS, Web
 
 Security bulletins for vulnerabilities in Amazon services (e.g: RDS) and
 internal software (e.g: Xen). Also includes general security notices for critical
@@ -164,7 +164,7 @@ vulnerabilities a la CERT.
 
 ### TL;DR
 
-Following [US-CERT](United States Computer Emergency Readiness Team (US-CERT))
+Following [US-CERT](#United-States-Computer-Emergency-Readiness-Team-US-CERT)
 should be more than enough for most use cases. If you want detailed updates for
 a particular operating system you should subscribe to their security announce list.
 
