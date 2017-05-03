@@ -27,7 +27,7 @@ that. It may not be acceptable to wait for your patch management system to apply
 an update on a schedule or to wait for a patch in a library to propogate upstream.
 
 By keeping track of security vulnerabilities on your own, you can catch potential
-vulnerabilities as soon as they are made public. Software vendors and special
+weaknesses in your infrastructure without delay. Software vendors and special
 interest groups have created a number of security feeds that makes it easy to stay
 abreast of the latest security bugs. In this article, we present a directory of
 the feeds that I follow at Computer Lab when managing critical systems.
