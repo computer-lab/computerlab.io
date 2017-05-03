@@ -131,13 +131,13 @@ are sent here.
 
 #### [Microsoft Security Updates](https://technet.microsoft.com/en-us/security/bulletins.aspx)
 
+Message Frequency: Monthly
+Format: Web
+
 On [Patch Tuesday](https://en.wikipedia.org/wiki/Patch_Tuesday), Microsoft releases
 information about patched vulnerabilities on its website. The bulletins are quite
 detailed, indicating the affected versions of any relevant software, mitigating
-factors, workaround & occasionally attribution to the original reporter.
-
-Message Frequency: Monthly
-Format: Web
+factors, workarounds & occasionally attribution to the original reporter.
 
 ### Bonus: Amazon Web Services
 
@@ -146,19 +146,19 @@ Here are some resources to help you stay on top of vulnerabilities in the cloud.
 
 #### [Amazon Linux AMI Security](https://alas.aws.amazon.com/)
 
-Notifications of vulnerabilities in Amazon's flavor of Red Hat (Amazon Linux).
-
 Message Frequency: Varies
 Format: RSS, Web
 
+Notifications of vulnerabilities in Amazon's flavor of Red Hat (Amazon Linux).
+
 #### [Amazon Security Bulletins](https://aws.amazon.com/security/security-bulletins/)
+
+Message Frequency: Varies
+Format: RSS, Web
 
 Security bulletins for vulnerabilities in Amazon services (e.g: RDS) and
 internal software (e.g: Xen). Also includes general security notices for critical
 vulnerabilities a la CERT.
-
-Message Frequency: Varies
-Format: RSS, Web
 
 ### Did we miss anything?
 
