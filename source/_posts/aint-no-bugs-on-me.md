@@ -18,8 +18,8 @@ published: true
 ### Background
 
 How do you become aware of security bugs in your software systems? Is it when
-a machine prompts you to install updates? Is it when an engineer bumps the
-version of a particular package? Is it when you get owned?
+a machine prompts you to install updates? Is it when you read about it on
+Hacker News? Is it when you get owned?
 
 Creating an automated patch management system is a great way to stay secure.
 However, depending on your threat model, you might need to do even better than
