@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ain't No Bugs on Me
+title: How to Start Tracking the Security Firehose in Five Minutes
 date: 2017-05-02
 category: Notes
 lede: Learn how to monitor security feeds to stay ahead of the ongoing threats to your infrastructure.
