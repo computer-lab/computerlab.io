@@ -32,6 +32,8 @@ interest groups have created a number of security feeds that makes it easy to st
 abreast of the latest security bugs. In this article, we present a directory of
 the feeds that I follow at Computer Lab when managing critical systems.
 
+*If you want a quick TL;DR click [here](TL;DR)*
+
 ### General Vulnerabilities
 
 These comprehensive feeds report vulnerabilities in software across operating systems.
@@ -159,6 +161,12 @@ Format: RSS, Web
 Security bulletins for vulnerabilities in Amazon services (e.g: RDS) and
 internal software (e.g: Xen). Also includes general security notices for critical
 vulnerabilities a la CERT.
+
+### TL;DR
+
+Following [US-CERT](United States Computer Emergency Readiness Team (US-CERT))
+should be more than enough for most use cases. If you want detailed updates for
+a particular operating system you should subscribe to their security announce list.
 
 ### Did we miss anything?
 
