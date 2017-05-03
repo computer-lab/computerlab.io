@@ -24,7 +24,7 @@ Hacker News? Is it when you get owned?
 Creating an automated patch management system is a great way to stay secure.
 However, depending on your threat model, you might need to do even better than
 that. It may not be acceptable to wait for your patch management system to apply
-an update on a schedule or to wait for a patch in a library to propogate upstream.
+an update on a schedule or to wait for a patch in a library to propagate upstream.
 
 By keeping track of security vulnerabilities on your own, you can catch potential
 weaknesses in your infrastructure without delay. Software vendors and special
