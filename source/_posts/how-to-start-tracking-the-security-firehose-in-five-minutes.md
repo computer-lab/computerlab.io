@@ -56,7 +56,8 @@ and visualizing CVEs at the [National Vulnerability Database](https://nvd.nist.g
 **Message Frequency** Varies  
 **Formats** Mailing List, RSS
 
-US-CERT has a variety of feeds for both high and low frequency security bulletins.
+US-CERT is a division of the federal government that tracks cyber threats.
+They have a variety of feeds for both high and low frequency security bulletins.
 They also publish advisories that are not specific to a particular piece
 of software but rather describe best practices and current trends in computer
 security.
