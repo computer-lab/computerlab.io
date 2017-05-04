@@ -8,6 +8,8 @@ author: Robert C Jensen
 published: true
 ---
 
+__Learn how to monitor security feeds to stay ahead of the ongoing threats to your infrastructure.__
+
 > There ain't no bugs on me  
 > There ain't no bugs on me  
 > There may be bugs on some of you mugs  
@@ -183,4 +185,6 @@ on a private channel to prevent exploitation.
 ### Did we miss anything?
 
 If you use any other vulnerability notification services we would love to know
-about them! Join the conversation on [Hacker News]().
+about them! I have created a [Github repo](https://github.com/r1b/awesome-security-feeds)
+where you can add your own favorite security feeds. You can also join the
+conversation on [Hacker News](https://news.ycombinator.com/item?id=14264647).
