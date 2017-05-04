@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Start Tracking Emerging Security Threats in Five Minutes
+title: Start Tracking Emerging Security Threats in Five Minutes
 date: 2017-05-03
 category: Notes
 lede: Learn how to monitor security feeds to stay ahead of the ongoing threats to your infrastructure.
