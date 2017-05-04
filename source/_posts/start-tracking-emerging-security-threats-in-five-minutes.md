@@ -8,6 +8,8 @@ author: Robert C Jensen
 published: true
 ---
 
+__Learn how to monitor security feeds to stay ahead of the ongoing threats to your infrastructure.__
+
 > There ain't no bugs on me  
 > There ain't no bugs on me  
 > There may be bugs on some of you mugs  
