@@ -1,45 +1,41 @@
 ---
 layout: post
-title: Ten Bars to Code at in Brooklyn
+title: Seven Bars to Code at in Brooklyn
 date: 2017-05-03
 category: Notes
-lede: For various reasons, bars can be a great place to code. Here's some of the best.
+lede: In my opinion, bars are a much better place to code than coffee shops.
 author: Patrick Steadman
 published: true
 ---
 
-__Bars can be a great place to code, if you know the right places to go or
-have no shame.__
-
-In my opinion, bars are a much better place to code than cafes.
+__In my opinion, bars are a much better place to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
 bars tend to be flatter and more steady. I hate the feeling of trying to code at
-a wobbly little coffee shop table.
+a wobbly little cafe table.
 
-Second, bars tend to have way more power outlets. Most newly-opened bars will
-have power strips running under the bar or along seating areas. I assume this is
+Second, bars tend to have more power outlets. Most recently-opened bars have
+power strips running under the bar or along seating areas. I assume this is
 because bars want people to linger: someone staying at a bar for a few hours
-will likely order 3-6 drinks at $5-$12 each, and try to invite their friends,
-whereas someone staying at a cafe will only order a $3-$5 coffee and maybe a
-snack.
+will likely order a number of drinks at $5 - $12 each, whereas someone staying
+at a cafe will only order a $3 - $5 coffee and maybe a snack.
 
 Third, bars tend to be darker and cooler, relative to cafes, which are often
-stuffy and sunny. Obviously, stuffy and sunny is not a good environment for using
-your computer.
+stuffy and sunny.
 
-Finally, after a good coding session, I often find myself in a sort of shocked,
-aphasic state. Everything seems flat and it's hard to think of anything to say,
-and it takes a while to come out of it. Relax, and go back to life.
+Finally, after a good coding session, I often find myself in a sort of distant,
+aphasic state. Everything seems flat and it's hard to think of anything to say.
+Being at a bar gives me a chance to turn off my computer, find someone to talk
+to, and reintegrate into daily life.
 
-Of course, not all bars are good places to code. Social reasons, lack of wifi,
-lack of food, weird 'reclaimed wood' tables. Here's a list of bars where
-Computer Lab members love to work.
+Of course, not all bars are good places to code. Here's a list of bars that
+Computer Lab members have found with the social factors, wifi, food, and
+acoustics necessary for productive computer use.
 
 ### Mother's
+Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
-[Map](https://goo.gl/maps/So1UNBjJpio)
 
 burger, lemonade, and then stop coding
 
@@ -50,24 +46,36 @@ burger, lemonade, and then stop coding
 + great
 
 ### Skytown
+Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
 
-[standard-library.com](https://standard-library.com)
+[skytownbk.com](http://www.skytownbk.com/)
+
++ bean tacos
++ good beer
++ outlets
++ good music
 
 ### Sugarburg
+Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
 
-[citrusbyte.com](https://citrusbyte.com)
+[sugarburg.com](http://sugarburg.com)
 
 ### Boobie Trap
+Bushwick [Map](https://goo.gl/maps/Q3CUv7sTRVE2)
 
-[dockyard.com](https://dockyard.com)
-
-### The West
-
-[consensys.net](https://consensys.net)
+[boobietrapbrooklyn.com](http://boobietrapbrooklyn.com)
 
 ### 61 Local
+Cobble Hill [Map](https://goo.gl/maps/4VdkZB9xAcv)
 
-[formidable.com](https://formidable.com)
+[61local.com](http://61local.com)
 
-### Whole Foods in Gowanus
+### The Roof
+Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
 
+[wholefoodsmarket.com/stores/thirdand3rd](http://www.wholefoodsmarket.com/stores/thirdand3rd)
+
+### Flowers For All Occasions
+Bedford Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
+
+[flowersforalloccasions.org](http://flowersforalloccasions.org)
