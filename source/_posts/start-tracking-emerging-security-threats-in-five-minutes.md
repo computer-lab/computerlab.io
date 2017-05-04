@@ -187,4 +187,4 @@ on a private channel to prevent exploitation.
 If you use any other vulnerability notification services we would love to know
 about them! I have created a [Github repo](https://github.com/r1b/awesome-security-feeds)
 where you can add your own favorite security feeds. You can also join the
-conversation on [Hacker News]().
+conversation on [Hacker News](https://news.ycombinator.com/item?id=14264647).
