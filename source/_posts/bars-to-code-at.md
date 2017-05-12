@@ -6,7 +6,10 @@ category: Notes
 lede: In my opinion, bars are a much better place to code than coffee shops.
 author: Patrick Steadman
 published: true
+image: "/images/coding-at-bar.jpg"
 ---
+
+![bars to code at](/images/coding-at-bar.jpg)
 
 __In my opinion, bars are a much better place to code than coffee shops.__
 
@@ -37,7 +40,10 @@ Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
 
-burger, lemonade, and then stop coding
+According to Kelsey Hunter, the ideal Mother's coding session starts with a
+burger, then a lemonade, and later in the day, a beer when it's time to stop
+coding. Mother's has a log of outlets, ok wifi, and a backyard for phone calls.
+
 
 + plugs
 + ok wifi
