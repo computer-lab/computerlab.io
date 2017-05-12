@@ -9,9 +9,9 @@ published: true
 image: "/images/coding-at-bar.jpg"
 ---
 
-![bars to code at](/images/coding-at-bar.jpg)
+<center>![bars to code at](/images/coding-at-bar.jpg)</center>
 
-__In my opinion, bars are a much better place to code than coffee shops.__
+__In my opinion, bars are better places to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
 bars tend to be flatter and more steady. I hate the feeling of trying to code at
@@ -41,25 +41,28 @@ Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
 
 According to Kelsey Hunter, the ideal Mother's coding session starts with a
-burger, then a lemonade, and later in the day, a beer when it's time to stop
-coding. Mother's has a log of outlets, ok wifi, and a backyard for phone calls.
-
-
-+ plugs
-+ ok wifi
-+ backyard for phone calls
-+ movies
-+ great
+burger and fries, then a lemonade, and ends with a draft beer. Mother's also has
+a lot of outlets, ok wifi, and a backyard for phone calls. The $12 lunch special
+lasts until 5PM.  They have TVs with movies so you have something to look at
+while sitting alone absorbing the sound of other's social interactions.
 
 ### Skytown
 Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
 
 [skytownbk.com](http://www.skytownbk.com/)
 
-+ bean tacos
-+ good beer
-+ outlets
-+ good music
+Skytown is where I started coding at bars, and it remains a favorite, probably
+due to many nostalgic memories. Skytown serves cheap and excellent bean tacos
+until 2:00AM, which is great for people who like to [start coding at
+11PM](https://twitter.com/mannynotfound/status/862147137769005056). There's
+power outlets under the bar (sometimes you have to ask the bartenders to plug in
+the strip), and stable wifi. I've never found the place to be unpleasantly
+crowded or loud, and the music tends to be interesting enough that I'm often
+able to forego use of my [Bose QuietComfort 35 Noise Cancelling
+Headphones](https://www.amazon.com/Bose-QuietComfort-Wireless-Headphones-Cancelling/dp/B01E3SNO1G),
+probably because one of the bartenders works at a pirate radio station. Finally,
+I've met a wide range of interesting people there, including a recruiter from
+the Fed who attempted to whiteboard me on the spot.
 
 ### Sugarburg
 Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
@@ -70,6 +73,11 @@ Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
 Bushwick [Map](https://goo.gl/maps/Q3CUv7sTRVE2)
 
 [boobietrapbrooklyn.com](http://boobietrapbrooklyn.com)
+
+[Robert Jensen](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
+is actually a pretty horrible place to code (it's very loud and the tables are
+sticky), but it's one of the few places along the L in Bushwick with good
+internet.  He goes there to push docker containers and backups.
 
 ### 61 Local
 Cobble Hill [Map](https://goo.gl/maps/4VdkZB9xAcv)
