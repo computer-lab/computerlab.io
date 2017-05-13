@@ -15,10 +15,10 @@ bars tend to be flatter and more steady. I hate the feeling of trying to code at
 a wobbly little cafe table.
 
 Second, bars tend to have more power outlets. Most recently-opened bars have
-power strips running under the bar or along seating areas. I assume this is
-because bars want people to linger: someone staying at a bar for a few hours
-will likely order a number of drinks at $5 - $12 each, whereas someone staying
-at a cafe will only order a $3 - $5 coffee and maybe a snack.
+power strips running under the bar or along seating areas. I think this is
+because bars want people to linger, and coffee shops don't: someone staying at a
+bar for a few hours will likely order a number of expensive drinks, whereas
+someone staying at a cafe will only order a coffee and maybe a snack.
 
 Third, bars tend to be darker and cooler, relative to cafes, which are often
 stuffy and sunny.
@@ -50,13 +50,19 @@ Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
 
 [skytownbk.com](http://www.skytownbk.com/)
 
-+ bean tacos
-+ good beer
-+ outlets
-+ good music
+Skytown is my personal favorite on this list, possibly due to years of nostalgic
+coding and drinking memories. In my time there, I've never found the place
+unpleasantly loud or crowded, but it's usually bustling enough to provide an
+'alone together' experience, aided by the pleasant bartenders. I've met a lot of
+interesting people there.
+
+The long hours (xx - xx) and decent food makes it a good place for long
+sessions. The kitchen serves cheap, good bean tacos until xx AM or later, which
+is great for people who like to start coding at 10:00PM.
 
 ### Sugarburg
 Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
+
 
 [sugarburg.com](http://sugarburg.com)
 
