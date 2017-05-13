@@ -84,12 +84,20 @@ Cobble Hill [Map](https://goo.gl/maps/4VdkZB9xAcv)
 
 [61local.com](http://61local.com)
 
+Each month, a room upstairs at 61 Local hosts the exclusive [BrooklynJS
+meetup](http://brooklynjs.com/). If you can't get a ticket to the event, the bar
+is still a good place to catch a glimpse of a local JavaScript celebrity like
+Jenn Schiffer or Steve Klabnik. The place has a good atmosphere, airy with nice
+lighting and acoustics. The menu is varied and extensive. It opens early, so
+seats with outlets can be hard to find, and closes around midnight (relatively
+early).
+
 ### The Roof
 Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
 
 [wholefoodsmarket.com/stores/thirdand3rd](http://www.wholefoodsmarket.com/stores/thirdand3rd)
 
 ### Flowers For All Occasions
-Bedford Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
+Bedford-Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
 
 [flowersforalloccasions.org](http://flowersforalloccasions.org)
