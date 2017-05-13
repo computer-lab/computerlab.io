@@ -6,9 +6,12 @@ category: Notes
 lede: In my opinion, bars are a much better place to code than coffee shops.
 author: Patrick Steadman
 published: true
+image: "/images/coding-at-bar.jpg"
 ---
 
-__In my opinion, bars are a much better place to code than coffee shops.__
+<center>![bars to code at](/images/coding-at-bar.jpg)</center>
+
+__In my opinion, bars are better places to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
 bars tend to be flatter and more steady. I hate the feeling of trying to code at
@@ -37,28 +40,30 @@ Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
 
-burger, lemonade, and then stop coding
-
-+ plugs
-+ ok wifi
-+ backyard for phone calls
-+ movies
-+ great
+According to Kelsey Hunter, the ideal Mother's coding session starts with a
+burger and fries, then a lemonade, and ends with a draft beer. Mother's also has
+a lot of outlets, ok wifi, and a backyard for phone calls. The $12 lunch special
+lasts until 5PM.  They have TVs with movies so you have something to look at
+while sitting alone absorbing the sound of other's social interactions.
 
 ### Skytown
 Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
 
 [skytownbk.com](http://www.skytownbk.com/)
 
-Skytown is my personal favorite on this list, possibly due to years of nostalgic
+Skytown is my personal favorite on this list, probably due to years of nostalgic
 coding and drinking memories. In my time there, I've never found the place
-unpleasantly loud or crowded, but it's usually bustling enough to provide an
-'alone together' experience, aided by the pleasant bartenders. I've met a lot of
-interesting people there.
+unpleasantly loud or crowded, and the music tends to be interesting enough that I'm often
+able to forego use of my [Bose QuietComfort 35 Noise Cancelling
+Headphones](https://www.amazon.com/Bose-QuietComfort-Wireless-Headphones-Cancelling/dp/B01E3SNO1G).
 
-The long hours (xx - xx) and decent food makes it a good place for long
-sessions. The kitchen serves cheap, good bean tacos until xx AM or later, which
-is great for people who like to start coding at 10:00PM.
+Skytown serves cheap and excellent bean tacos until 2:00AM, which is great for
+people who like to [start coding at
+11PM](https://twitter.com/mannynotfound/status/862147137769005056). There's
+power outlets under the bar (sometimes you have to ask the bartenders to plug in
+the strip), and stable wifi. Finally, I've met a wide range of interesting
+people there, including a recruiter from the Fed who attempted to whiteboard me
+on the spot.
 
 ### Sugarburg
 Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
@@ -71,17 +76,40 @@ Bushwick [Map](https://goo.gl/maps/Q3CUv7sTRVE2)
 
 [boobietrapbrooklyn.com](http://boobietrapbrooklyn.com)
 
+[Robert Jensen](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
+is actually a pretty horrible place to code (it's very loud and the tables are
+sticky), but it's one of the few places along the L in Bushwick with good
+internet.  He goes there to push docker containers and backups.
+
 ### 61 Local
 Cobble Hill [Map](https://goo.gl/maps/4VdkZB9xAcv)
 
 [61local.com](http://61local.com)
+
+Each month, a room upstairs at 61 Local hosts the exclusive [BrooklynJS
+meetup](http://brooklynjs.com/). If you can't get a ticket to the event, the bar
+is still a good place to catch a glimpse of a local JavaScript celebrity like
+Jenn Schiffer or Steve Klabnik. The place has a good atmosphere, airy with nice
+lighting and acoustics. The menu is varied and extensive. But it opens early, so
+seats with outlets can be hard to find, and closes around midnight (relatively
+early).
 
 ### The Roof
 Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
 
 [wholefoodsmarket.com/stores/thirdand3rd](http://www.wholefoodsmarket.com/stores/thirdand3rd)
 
+The Roof is the bar on the roof of the Gowanus Whole Foods, and a favorite
+coding spot of influential Twitter user [Sbarro
+Chica](https://twitter.com/SbarroChica). In the summer, the breezy outdoor
+seating area is a great place to work while enjoying a flight of beer and a view
+of Manhattan. If the bar food isn't to your liking, you can go downstairs and
+select from the many juices, meats, and breads of the Whole Foods Market. The
+only real downside of the location is that Whole Foods wifi periodically kicks
+users off the network every two hours, but the good news is that you can quickly
+sign on again by clicking a button.
+
 ### Flowers For All Occasions
-Bedford Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
+Bedford-Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
 
 [flowersforalloccasions.org](http://flowersforalloccasions.org)
