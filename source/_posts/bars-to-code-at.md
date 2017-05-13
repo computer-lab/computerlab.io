@@ -121,3 +121,10 @@ sign on again by clicking a button.
 Bedford-Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
 
 [flowersforalloccasions.org](http://flowersforalloccasions.org)
+
+Flowers For All Occasions doesn't serve liquor, which can be a feature if you're
+trying to find a place without lots of very drunk people.  In general the vibe
+of the place tends to reflect its name: it's a pleasant place for conversation,
+quiet group activities, or thoughtful work. I was introduced to Flowers For All
+Occasions by Computer Lab Writer in Residence Theo Thimo, who often uses it as a
+place to read and write. I enjoyed the simple veggie burger and wine selection.
