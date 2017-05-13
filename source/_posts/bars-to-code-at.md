@@ -128,3 +128,6 @@ of the place tends to reflect its name: it's a pleasant place for conversation,
 quiet group activities, or thoughtful work. I was introduced to Flowers For All
 Occasions by Computer Lab Writer in Residence Theo Thimo, who often uses it as a
 place to read and write. I enjoyed the simple veggie burger and wine selection.
+
+__Please DM me on [Twitter](https://twitter.com/ptsteadman) if you think there's
+another bar that should be added to this list.__
