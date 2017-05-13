@@ -70,8 +70,14 @@ on the spot.
 ### Sugarburg
 Williamsburg [Map](https://goo.gl/maps/A2iQNHNmyTs)
 
-
 [sugarburg.com](http://sugarburg.com)
+
+Sugarburg features great lighting, unconventional seating, above-par bar food,
+and good service. The vertically slatted windows make this a good place to enjoy
+the weather in the summer.The bartenders are friendly to people using the bar as
+a workspace during the day, making Sugarburg a good place to work or meet
+regularly. The bar is large and Burboun-oriented, making Sugarburg a great place
+to hang out late into the night.
 
 ### Boobie Trap
 Bushwick [Map](https://goo.gl/maps/Q3CUv7sTRVE2)
