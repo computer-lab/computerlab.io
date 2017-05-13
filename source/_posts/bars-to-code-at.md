@@ -88,7 +88,7 @@ Each month, a room upstairs at 61 Local hosts the exclusive [BrooklynJS
 meetup](http://brooklynjs.com/). If you can't get a ticket to the event, the bar
 is still a good place to catch a glimpse of a local JavaScript celebrity like
 Jenn Schiffer or Steve Klabnik. The place has a good atmosphere, airy with nice
-lighting and acoustics. The menu is varied and extensive. It opens early, so
+lighting and acoustics. The menu is varied and extensive. But it opens early, so
 seats with outlets can be hard to find, and closes around midnight (relatively
 early).
 
@@ -96,6 +96,16 @@ early).
 Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
 
 [wholefoodsmarket.com/stores/thirdand3rd](http://www.wholefoodsmarket.com/stores/thirdand3rd)
+
+The Roof is the bar on the roof of the Gowanus Whole Foods, and a favorite
+coding spot of influential Twitter user [Sbarro
+Chica](https://twitter.com/SbarroChica). In the summer, the breezy outdoor
+seating area is a great place to work while enjoying a flight of beer and a view
+of Manhattan. If the bar food isn't to your liking, you can go downstairs and
+select from the many juices, meats, and breads of the Whole Foods Market. The
+only real downside of the location is that Whole Foods wifi periodically kicks
+users off the network every two hours, but the good news is that you can quickly
+sign on again by clicking a button.
 
 ### Flowers For All Occasions
 Bedford-Stuyvesant [Map](https://goo.gl/maps/2KfMCU1C95x)
