@@ -14,12 +14,12 @@ image: "/images/coding-at-bar.jpg"
 __In my opinion, bars are better places to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
-bars tend to be flatter and more steady. I hate the feeling of trying to code at
-a wobbly little cafe table.
+bars tend to be flat and steady. I hate the feeling of trying to code at a
+wobbly little cafe table.
 
 Second, bars tend to have more power outlets. Most recently-opened bars have
 power strips running under the bar or along seating areas. I think this is
-because bars want people to linger, and coffee shops don't: someone staying at a
+because bars want people to linger, and coffee shops don't. Someone staying at a
 bar for a few hours will likely order a number of expensive drinks, whereas
 someone staying at a cafe will only order a coffee and maybe a snack.
 
@@ -29,11 +29,12 @@ stuffy and sunny.
 Finally, after a good coding session, I often find myself in a sort of distant,
 aphasic state. Everything seems flat and it's hard to think of anything to say.
 Being at a bar gives me a chance to turn off my computer, find someone to talk
-to, and reintegrate into daily life.
+to, and reintegrate into irl.
 
-Of course, not all bars are good places to code. Here's a list of bars that
-Computer Lab members have found with the social factors, wifi, food, and
-acoustics necessary for productive computer use.
+Of course, not all bars are good places to code: some bars don't work because of
+social factors, and others don't work for more practical reasons. Here's a list
+of bars that Computer Lab members have found suitable for productive computer
+use.
 
 ### Mother's
 Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
@@ -41,10 +42,11 @@ Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
 
 According to Kelsey Hunter, the ideal Mother's coding session starts with a
-burger and fries, then a lemonade, and ends with a draft beer. Mother's also has
-a lot of outlets, ok wifi, and a backyard for phone calls. The $12 lunch special
-lasts until 5PM.  They have TVs with movies so you have something to look at
-while sitting alone absorbing the sound of other's social interactions.
+burger and fries, is broken up with a lemonade, and ends with a draft beer.
+Mother's also has a lot of outlets, ok wifi, and a backyard for phone calls. The
+$12 lunch special lasts until 5PM.  They have TVs with movies so you have
+something to look at while sitting alone absorbing the sound of other's social
+interactions.
 
 ### Skytown
 Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
