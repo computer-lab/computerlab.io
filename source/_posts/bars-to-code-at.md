@@ -3,7 +3,7 @@ layout: post
 title: Seven Bars to Code at in Brooklyn
 date: 2017-05-03
 category: Notes
-lede: In my opinion, bars are a much better place to code than coffee shops.
+lede: In my opinion, bars are a better place to code than coffee shops.
 author: Patrick Steadman
 published: true
 image: "/images/coding-at-bar.jpg"
@@ -11,7 +11,7 @@ image: "/images/coding-at-bar.jpg"
 
 <center>![bars to code at](/images/coding-at-bar.jpg)</center>
 
-__In my opinion, bars are better places to code than coffee shops.__
+__In my opinion, bars are a better place to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
 bars tend to be flat and steady. I hate the feeling of trying to code at a
@@ -20,7 +20,7 @@ wobbly little cafe table.
 Second, bars tend to have more power outlets. Most recently-opened bars have
 power strips running under the bar or along seating areas. I think this is
 because bars want people to linger, and coffee shops don't. Someone staying at a
-bar for a few hours will likely order a number of expensive drinks, whereas
+bar for a few hours will likely order a number of expensive drinks, where
 someone staying at a cafe will only order a coffee and maybe a snack.
 
 Third, bars tend to be darker and cooler, relative to cafes, which are often
@@ -29,24 +29,12 @@ stuffy and sunny.
 Finally, after a good coding session, I often find myself in a sort of distant,
 aphasic state. Everything seems flat and it's hard to think of anything to say.
 Being at a bar gives me a chance to turn off my computer, find someone to talk
-to, and reintegrate into irl.
+to, and reintegrate.
 
-Of course, not all bars are good places to code: some bars don't work because of
-social factors, and others don't work for more practical reasons. Here's a list
-of bars that Computer Lab members have found suitable for productive computer
-use.
+Of course, not all bars are good places to code. Some bars are problematic for
+social reasons, and others are problematic for practical reasons. Here's a list
+of bars that Computer Lab members have found suitable for computer use.
 
-### Mother's
-Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
-
-[mothersbrooklyn.com](https://mothersbrooklyn.com)
-
-According to Kelsey Hunter, the ideal Mother's coding session starts with a
-burger and fries, is broken up with a lemonade, and ends with a draft beer.
-Mother's also has a lot of outlets, ok wifi, and a backyard for phone calls. The
-$12 lunch special lasts until 5PM.  They have TVs with movies so you have
-something to look at while sitting alone absorbing the sound of other's social
-interactions.
 
 ### Skytown
 Bushwick [Map](https://goo.gl/maps/SwAZJAFYTwR2)
@@ -101,6 +89,18 @@ Jenn Schiffer or Steve Klabnik. The place has a good atmosphere, airy with nice
 lighting and acoustics. The menu is varied and extensive. But it opens early, so
 seats with outlets can be hard to find, and closes around midnight (relatively
 early).
+
+### Mother's
+Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
+
+[mothersbrooklyn.com](https://mothersbrooklyn.com)
+
+According to Kelsey Hunter, the ideal Mother's coding session starts with a
+burger and fries, is broken up with a lemonade, and ends with a draft beer.
+Mother's also has a lot of outlets, ok wifi, and a backyard for phone calls. The
+$12 lunch special lasts until 5PM.  They have TVs with movies so you have
+something to look at while sitting alone absorbing the sound of other's social
+interactions.
 
 ### The Roof
 Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
