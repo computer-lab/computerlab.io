@@ -3,7 +3,7 @@ layout: post
 title: Seven Bars to Code at in Brooklyn
 date: 2017-05-03
 category: Notes
-lede: In my opinion, bars are a better place to code than coffee shops.
+lede: Why bars are a better place to code than coffee shops.
 author: Patrick Steadman
 published: true
 image: "/images/coding-at-bar.jpg"
@@ -11,19 +11,19 @@ image: "/images/coding-at-bar.jpg"
 
 <center>![bars to code at](/images/coding-at-bar.jpg)</center>
 
-__In my opinion, bars are a better place to code than coffee shops.__
+__Why bars are a better place to code than coffee shops.__
 
 First, bars are essentially hardwood standing desks. In general, the surfaces in
-bars tend to be flat and steady. I hate the feeling of trying to code at a
+bars tend to be more flat and steady. I hate the feeling of trying to code at a
 wobbly little cafe table.
 
-Second, bars tend to have more power outlets. Most recently-opened bars have
+Bars tend to have more power outlets. Most recently-opened bars have
 power strips running under the bar or along seating areas. I think this is
 because bars want people to linger, and coffee shops don't. Someone staying at a
 bar for a few hours will likely order a number of expensive drinks, where
 someone staying at a cafe will only order a coffee and maybe a snack.
 
-Third, bars tend to be darker and cooler, relative to cafes, which are often
+Bars tend to be darker and cooler, relative to cafes, which are often
 stuffy and sunny.
 
 Finally, after a good coding session, I often find myself in a sort of distant,
@@ -64,7 +64,7 @@ Sugarburg features great natural light, unconventional seating, above-par bar
 food, and good service. The vertically slatted windows make this a good place to
 enjoy the weather during the spring and summer. The bartenders encourage people
 to use the bar as a workspace during the day, making Sugarburg a good place to
-work or meet regularly. The bar is large and Bourbun-oriented, making Sugarburg
+work or meet regularly. The bar is large and Bourbon-oriented, making Sugarburg
 a great place to hang out late into the night.
 
 ### Boobie Trap
@@ -75,7 +75,8 @@ Bushwick [Map](https://goo.gl/maps/Q3CUv7sTRVE2)
 [Robert Jensen](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
 is actually a pretty horrible place to code (it's very loud and the tables are
 sticky), but it's one of the few places along the L in Bushwick with good
-internet.  He goes there to push docker containers and backups.
+internet. There's also a dedicated charging station for phones and a power strip
+next to that. Rob goes to Boobie Trap to push docker containers and backups.
 
 ### 61 Local
 Cobble Hill [Map](https://goo.gl/maps/4VdkZB9xAcv)
@@ -95,11 +96,12 @@ Williamsburg [Map](https://goo.gl/maps/So1UNBjJpio)
 
 [mothersbrooklyn.com](https://mothersbrooklyn.com)
 
-According to Kelsey Hunter, the ideal Mother's coding session starts with a
-burger and fries, is broken up with a lemonade, and ends with a draft beer.
-Mother's also has a lot of outlets, ok wifi, and a backyard for phone calls. The
-$12 lunch special lasts until 5PM.  They have TVs with movies so you have
-something to look at while absorbing the sound of other's social interactions.
+According to [Kelsey Hunter](https://twitter.com/kelsey_ah), the ideal Mother's
+coding session starts with a burger and fries, is broken up with a lemonade, and
+ends with a draft beer.  Mother's also has a lot of outlets, ok wifi, and a
+backyard for phone calls. The $12 lunch special lasts until 5PM.  They have TVs
+with movies so you have something to look at while absorbing the sound of
+other's social interactions.
 
 ### The Roof
 Gowanus [Map](https://goo.gl/maps/SwRfPpz7AbC2)
@@ -127,8 +129,10 @@ Flowers For All Occasions doesn't serve liquor, which can be a feature if you're
 looking for a place without lots of very drunk people.  In general the vibe
 tends to reflect the place's name.  It's a pleasant place for conversation,
 quiet group activities, or thoughtful work. I was introduced to Flowers For All
-Occasions by Computer Lab Writer in Residence Theo Thimo, who often uses it as a
-place to read and write. I enjoyed the simple veggie burger and wine selection.
+Occasions by former Computer Lab Writer in Residence [Theo
+Thimo](https://twitter.com/theoooeooo), who often uses
+it as a place to read and write. I enjoyed the simple veggie burger and wine
+selection.
 
-__Please DM me on [Twitter](https://twitter.com/ptsteadman) if you know a bar
-that should be added to this list.__
+__Do you have a favorite bar to code at? Please DM me on
+[Twitter](https://twitter.com/ptsteadman) and I'll add it to the list.__
