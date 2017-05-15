@@ -6,61 +6,7 @@ category: Notes
 lede: Why bars are a better place to code than coffee shops.
 author: Patrick Steadman
 published: true
-image: "https://computerlab.ioAbout
-Work
-Services
-Blog
-Computer Lab is a software consultancy in New York City that builds digital products.
-Learn More
-
-
-
-Landing Page
-
-We created an interactive 3D landing page for a marketing data visualization tool launched by Verdes, a creative agency in NYC. The PinPoints build convinced us that React’s declarative components are a great fit for developing 3D user interfaces in the browser.
-CMS/AWS Consulting
-
-Screen is a curatorial collective based in New York, Beijing and Berlin. We worked closely with staff to improve the performance and user experience of their bilingual media platform. We reduced site loading speed, simplified content management and delivered an engaging experience to a global audience.
-AWS Data Pipeline
-Airflow
-HIPAA Compliance, EMRs
-Schema Design
-Postgres, MongoDB
-Firebase
-Apache Kafka
-React, Electron
-Django
-iOS and Android
-Wordpress, Hexo and Jekyll
-Docker and Ansible
-Webpack
-ThreeJS
-Branding
-Responsive Design
-Ad Tech
-Social Automation
-SEO
-Asset Creation
-Content Strategy
-
-
-Address
-
-260 W. Broadway 
-Suite #2
-New York, NY 10013
-© 2016-2017 Computer Lab
-Connect
-
-GitHub
-LinkedIn
-Twitter
-Instagram
-Facebook
-Inquiries
-
-hi@computerlab.io
-+1 (716) 472-4484/images/coding-at-bar.jpg"
+image: "https://computerlab.io/images/coding-at-bar.jpg"
 ---
 
 <center>![bars to code at](/images/coding-at-bar.jpg)</center>
