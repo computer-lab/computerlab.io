@@ -18,18 +18,18 @@ author: Patrick Steadman
 
 It's really annoying when Visual Studio shows you this:
 
-{% img  http://ptsteadman.github.io/images/vs1.png  %}
+{% img /images/vs1.png  %}
 
 
 But github or vim shows you the same file like this:
 
-{% img  http://ptsteadman.github.io/images/vim1.png  %}
+{% img  /images/vim1.png  %}
 
 If you use the "show whitespace" Visual Studio chord `(CTRL-R, CTRL-W)`, 
 you'll see that visual studio inserts tabs instead of spaces by
 default for newline indent:
 
-{% img  http://ptsteadman.github.io/images/ws.png  %}
+{% img  /images/ws.png  %}
 
 Visual Studio displays tabs as having the same 
 width as four spaces.  But if you're collaborating with someone working 
@@ -41,8 +41,8 @@ appear larger than four spaces.
 Here's how to make visual studio insert spaces instead of tabs on newline indents:
 go to `Tools->Options->Text Editor->All Languages->Tabs`:
 
-{% img  http://ptsteadman.github.io/images/spaces.png  %}
+{% img  /images/spaces.png  %}
 
 That's better:
 
-{% img  http://ptsteadman.github.io/images/ws2.png  %}
+{% img  /images/ws2.png  %}

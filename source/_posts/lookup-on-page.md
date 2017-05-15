@@ -46,7 +46,7 @@ an underlying table.  Then, we create manually add fields that will contain the
 lookup data from other tables.  The text in the SourceExpression column will be
 the name of the function that populates this field.  ![Add a Field with
 SourceExpression Set to a Function
-Name](http://ptsteadman.github.io/images/lookup-1.PNG)
+Name](/images/lookup-1.png)
 
 
 Step 2. **Create Function in the Page's C/AL Code**
@@ -57,4 +57,4 @@ Set the return type of the function with the "Locals" button, and a function
 trigger will appear in the C/AL code editor for your page.  Add code to the body
 of the function trigger that will be called for each record to provide a value
 for the field.  ![Create Function in the Page's C/AL
-Code](http://ptsteadman.github.io/images/lookup-2.PNG)
+Code](/images/lookup-2.png)
