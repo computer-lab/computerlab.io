@@ -1,17 +1,22 @@
 ---
 layout: post
-title: What Peter Thiel's Favorite Book Says About the Future
+title: What Peter Thiel's Favorite Book Says About America's Future
 date: 2017-05-14
 category: Notes
-lede: Why bars are a better place to code than coffee shops.
+lede: "The Sovereign Individual" predicts a future where citizens are customers
+of the state, where some individuals have the power of Greek gods and others are
+'cyberpoors'.
 author: Patrick Steadman
 published: true
 image: "/images/coding-at-bar.jpg"
 ---
 
-<center>![bars to code at](/images/coding-at-bar.jpg)</center>
-
 __Why bars are a better place to code than coffee shops.__
+
+First edition subtitle: 'How to survive and thrive during the collapse of the
+welfare state.'
+
+Version on Amazon today: 'Mastering the transition tothe information age.'
 
 First, bars are essentially hardwood standing desks. The surfaces at bars tend
 to be more flat and steady. I hate the feeling of trying to code at a wobbly
