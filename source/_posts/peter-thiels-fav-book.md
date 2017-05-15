@@ -3,15 +3,17 @@ layout: post
 title: What Peter Thiel's Favorite Book Says About America's Future
 date: 2017-05-14
 category: Notes
-lede: "The Sovereign Individual" predicts a future where citizens are customers
-of the state, where some individuals have the power of Greek gods and others are
-'cyberpoors'.
+lede: "The Sovereign Individual" predicts a future where all citizens are
+customers of the state, but some have the power of Greek gods while others
+remain 'cyberpoors'.
 author: Patrick Steadman
 published: true
 image: "/images/coding-at-bar.jpg"
 ---
 
-__Why bars are a better place to code than coffee shops.__
+__"The Sovereign Individual" predicts a future where all citizens are
+customers of the state, but some have the power of Greek gods while others
+remain 'cyberpoors'.__
 
 First edition subtitle: 'How to survive and thrive during the collapse of the
 welfare state.'
