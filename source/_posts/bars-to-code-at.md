@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nine Bars to Code at in Brooklyn
+title: Nine Great Bars to Code at in Brooklyn
 date: 2017-05-14
 category: Notes
 lede: Why bars are a better place to code than coffee shops.
