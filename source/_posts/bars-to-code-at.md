@@ -78,7 +78,7 @@ night.
 ### [Boobie Trap](http://www.boobietrapbrooklyn.com/)
 [Bushwick](https://goo.gl/maps/Q3CUv7sTRVE2)
 
-[Robert Jensen](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
+[r1b](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
 is actually a pretty horrible place to code (it's very loud and the tables are
 sticky), but it's one of the few places along the L in Bushwick with good
 internet. There's also a dedicated charging station for phones and a power
