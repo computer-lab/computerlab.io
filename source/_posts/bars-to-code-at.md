@@ -136,7 +136,7 @@ is available and there is plenty of seating at the bar, tables and couches.
 Brooklyn Kava is not your typical bar - they serve psychoactive root beverages
 in lieu of booze. If you haven't had the chance to try kava or kratom I highly
 recommend Brooklyn Kava for your first experience. Regardless, the space is an
-excellent place to get work done. It is typically quiet & calm with lots of
+excellent place to get work done. It is typically quiet and calm with lots of
 seating at the sturdy bar. The wifi is excellent and the staff are friendly.
 
 <br>
