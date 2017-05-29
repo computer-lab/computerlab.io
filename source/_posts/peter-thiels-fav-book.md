@@ -15,120 +15,57 @@ __"The Sovereign Individual" predicts a future where all citizens are
 customers of the state, but some have the power of Greek gods while others
 remain 'cyberpoors'.__
 
-First edition subtitle: 'How to survive and thrive during the collapse of the
-welfare state.'
+The piety that rationalized the saturation of society by organized religion in
+the late Middle Ages served the same purpose as the "compassion" that is meant
+to justify the political domination of life today. The sale of indulgences to
+satisfy a desire for piety without morals parallels lavish welfare spending to
+slake the pretense of compassion without charity. It was largely immaterial
+whether the actual effect of received practices was to improve moral character
+or save souls, just as it is largely immaterial whether a welfare program
+actually improves the lives of the people to whom it is directed. "Piety," like
+"compassion," was an almost superstitious invocation.
 
-Version on Amazon today: 'Mastering the transition tothe information age.'
+In a time when causal relationships were scarcely understood, rituals and
+sacraments of the Church permeated every phase of life. ". . . A journey, a
+task, a visit, were equally attended by a thousand formalities: benedictions,
+ceremonies, formulas." 54 Prayers inscribed on pieces of parchment were strung
+like necklaces on those suffering from fevers. Malnourished girls draped locks
+of their hair in front of the image of St.  Urban to prevent further hair loss.
+Peasants in Navarre marched in processions behind an image of St. Peter to
+solicit rain during droughts .55 People eagerly adopted these and other
+"ineffective techniques to allay anxiety when effective ones were not
+available."
 
-First, bars are essentially hardwood standing desks. The surfaces at bars tend
-to be more flat and steady. I hate the feeling of trying to code at a wobbly
-little cafe table.
+It may not be a coincidence that the great transition at the end of the
+fifteenth century occurred at a time when land rents were rising and real wages
+for the peasantry were in decline. Increased population pressures had reduced
+the yield from the common lands, often found surrounding rivers and streams,
+upon which peasants depended to graze their livestock, and in some cases, for
+fish and firewood. The whittling down of living standards placed increasingly
+urgent pressures on peasants to find alternative sources of income. As a result,
+"more and more of the rural population turned to small- scale manufacturing for
+the market, above all in textiles, in the process known as 'putting- out' or
+'proto-industrialization.' "The ceremonial burdens on time imposed by the Church
+stood in the way of efforts by the more ambitious peasants to supplement their
+farming income by craft work, as indeed they inhibited any redeployment of
+effort in new economic directions.
 
-Bars tend to have more power outlets. Many recently-opened bars have
-power strips running under the bar or along seating areas. I think this is
-because bars want people to linger, and coffee shops don't. Someone staying at a
-bar for a few hours will likely order a number of expensive drinks, where
-someone staying at a cafe will only order a coffee and maybe a snack.
+The cultural programming of the late Middle Ages encouraged people to see the
+world in terms of symbolic similitude rather than cause and effect. This
+short-circuited reasoning. It also pointed away from a mercantile conception of
+life. Thinking in terms of symbolic equivalences does not easily translate into
+thinking in terms of market values. "The three estates represent the qualities
+of the Virgin. The seven electors of the Empire signify the virtues; the five
+towns of Artois and Hainault, which in 1477 remained faithful to the house of
+Burgundy, are the five wise virgins. . . .  In the same way shoes mean care and
+diligence, stockings perseverance, the garter resolution, etc."65 As this
+example quoted from the distinguished medieval historian Johan Huizinga
+suggests, thinking was dominated by dogma, rigid symbols, and allegory that tied
+together every aspect of life in terms of hierarchic subordination. Every
+occupation, every part, every color, every number, ev
 
-Bars tend to be darker and cooler, relative to cafes, which are often
-stuffy and sunny.
+The technology of the Information Age makes it possible to create assets that
+are outside the reach of many forms of coercion.
 
-Finally, after a good coding session, I often find myself in a sort of distant,
-aphasic state. Everything seems flat and it's hard to think of anything to say.
-Being at a bar gives me a chance to turn off my computer, find someone to talk
-with, and reintegrate.
-
-Of course, not all bars are good places to code. Some bars are problematic for
-social reasons, and others are problematic for practical reasons. Here's a list
-of bars that Computer Lab members have found suitable for computer use.
-
-
-### Skytown
-Bushwick [Link](https://goo.gl/maps/SwAZJAFYTwR2)
-
-Skytown is my personal favorite on this list, probably for nostalgic reasons. It
-was the first bar that I coded at. In my time there, I've never found the place
-unpleasantly loud or crowded, and the music is usually good enough that I'm able
-to forego use of my [Bose QuietComfort 35 Noise Cancelling
-Headphones](https://www.amazon.com/Bose-QuietComfort-Wireless-Headphones-Cancelling/dp/B01E3SNO1G).
-
-Skytown serves cheap and excellent bean tacos until 2:00AM, which is great for
-people who like to [start coding at
-11PM](https://twitter.com/mannynotfound/status/862147137769005056). There's
-power outlets under the bar (sometimes you have to ask the bartenders to plug in
-the strip), and stable wifi. Finally, I've met a wide range of interesting
-people there, including a recruiter from the Fed who attempted to whiteboard me
-on the spot.
-
-### 61 Local
-Cobble Hill [Link](https://goo.gl/maps/4VdkZB9xAcv)
-
-Each month, a room upstairs at 61 Local hosts the exclusive [BrooklynJS
-meetup](http://brooklynjs.com/). If you can't get a ticket to the event, the bar
-is still a good place to catch a glimpse of a local JavaScript celebrity like
-Jenn Schiffer or Steve Klabnik. The place has an airy atmosphere with good
-lighting and acoustics, and the food menu is extensive. But 61 Local opens early, so
-outlets can be hard to find, and closes around midnight (relatively early).
-
-### Sugarburg
-Williamsburg [Link](https://goo.gl/maps/A2iQNHNmyTs)
-
-Sugarburg features great natural light, unconventional seating, above-par bar
-food, and good service. The vertically slatted windows allow you to enjoy the
-weather outside without suffering from it.
-
-The bartenders encourage people to use the bar as a workspace during the day,
-making Sugarburg a good place to work or meet regularly. The bar is large and
-Bourbon-oriented, so Sugarburg is also a great place to hang out late into the
-night.
-
-### Boobie Trap
-Bushwick [Link](https://goo.gl/maps/Q3CUv7sTRVE2)
-
-[Robert Jensen](http://you.could.use.some.r1b.solutions/) says that Boobie Trap
-is actually a pretty horrible place to code (it's very loud and the tables are
-sticky), but it's one of the few places along the L in Bushwick with good
-internet. There's also a dedicated charging station for phones and a power
-strip. Rob goes to Boobie Trap to push docker containers and backups.
-
-
-### Mother's
-Williamsburg [Link](https://goo.gl/maps/So1UNBjJpio)
-
-According to [Kelsey Hunter](https://twitter.com/kelsey_ah), the ideal Mother's
-coding session starts with a burger and fries, is broken up with a lemonade, and
-ends with a draft beer.  Mother's also has a lot of outlets, ok wifi, and a
-backyard for phone calls. The $12 lunch special lasts until 5PM.  They have TVs
-with movies so you have something to look at while absorbing the sound of social
-interactions.
-
-### The Roof
-Gowanus [Link](https://goo.gl/maps/SwRfPpz7AbC2)
-
-The Roof is the bar on the roof of the Gowanus Whole Foods, a favorite coding
-spot of influential Twitter user [Sbarro
-Chica](https://twitter.com/SbarroChica). In the summer, the breezy outdoor
-seating area is a great place to work while enjoying a flight of craft beer and
-a view of Manhattan.
-
-If the bar food isn't to your liking, you can go downstairs and select from the
-many juices, meats, and breads of the Whole Foods Market. The only real downside
-of the location is that Whole Foods wifi periodically kicks users off the
-network, but the good news is that you can quickly sign on again by simply
-clicking a button.
-
-### Flowers For All Occasions
-Bedford-Stuyvesant [Link](https://goo.gl/maps/2KfMCU1C95x)
-
-Flowers For All Occasions doesn't serve liquor, which can be a feature if you're
-looking for a place without a lot of very drunk people.  The vibe tends to
-reflect the place's name: it's a pleasant place for conversation, quiet group
-activities, or thoughtful work. I was introduced to Flowers For All Occasions by
-former Computer Lab Writer in Residence [Theo
-Thimo](https://twitter.com/theoooeooo), who often uses it as a place to read and
-write. I enjoyed the simple veggie burger and wine selection.
-
-<br>
-
-__Do you have a favorite bar to code at? DM me on
-[Twitter](https://twitter.com/ptsteadman) and I'll add it to the list.__
+We wrote in The Great Reckoning that the computer is enabling us to "see" the
+formerly invisible complexity inherent in a whole range of systems.
