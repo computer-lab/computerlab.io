@@ -5,8 +5,11 @@ Status](https://travis-ci.org/computer-lab/computerlab.io.svg?branch=master)](ht
 This repository contains the Hexo source for Computer Lab's
 [website](http://computerlab.io).  
 
-The master branch currently deploys to
-[computerlab.io](http://computerlab.io).
+The `master` branch currently deploys to [computerlab.io](http://computerlab.io),
+using the Cloudfront CDN. A cloudfront invalidation is necessary in order to
+immediately view updated content.
+
+The `staging` branch currently deploys to [staging.computerlab.io](http://staging.computerlab.io).
 
 ## Developer Setup
 1. Clone this repository with `git clone
@@ -28,13 +31,3 @@ and push those first.
 
 To add new content to the "blog" part of the site, add a new markdown file to
 the `/source/_posts` directory.  
-
-
-Make sure to give your post the necessary metadata.  For `category`, use either
-`Notes` or `CaseStudies`.  Notes are more free-form, and Case Studies are more
-structured.  Examples of notes: bug fixes, updates on projects, book reviews,
-short tutorials, release notes, pictures, etc.  Case Studies are higher-level
-overviews of our projects, and ideally should be concise, accessible and include
-multi-media/links.
-
-Also give your post some vaguely canonical tags.
