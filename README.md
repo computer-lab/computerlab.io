@@ -20,7 +20,8 @@ located at
 
 2. `cd` to `computerlab.io`, and install dependencies with `npm install`.
 
-3. Start a development server with `hexo server`.
+3. Install `hexo-cli`, and start a development server with `hexo server`. The
+   site will be browsable at [localhost:4000](http://localhost:4000).
 
 4. To deploy live, simply push to master.  The [Travis](https://travis-ci.org/)
 continuous integration server will build the site and deploy it to s3.  The
