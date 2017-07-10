@@ -13,7 +13,7 @@ The master branch currently deploys to
 https://github.com/computer-lab/computerlab.io --recursive`.  The `--recursive`
 argument is necessary to also clone the theme submodule, which is currently
 located at
-[https://github.com/ptsteadman/hexo-theme-computer-lab](https://github.com/ptsteadman/hexo-theme-computer-lab).
+[https://github.com/computer-lab/hexo-theme-computer-lab](https://github.com/computer-lab/hexo-theme-computer-lab).
 
 2. `cd` to `computerlab.io`, and install dependencies with `npm install`.
 
