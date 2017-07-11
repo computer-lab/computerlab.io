@@ -1,0 +1,65 @@
+if config.author
+  meta(name="author", content=config.author)
+
+title
+  if page.title
+    = page.title
+  else
+    = config.title
+meta(charset='utf-8')
+meta(http-equiv='X-UA-Compatible', content='IE=edge')
+meta(http-equiv='cleartype', content='on')
+meta(name='MobileOptimized', content='320')
+meta(name='HandheldFriendly', content='True')
+meta(name='apple-mobile-web-app-capable', content='yes')
+meta(name='viewport', content='width=device-width, initial-scale=1.0, user-scalable=no')
+if page.lede
+  meta(name='description', content=page.lede)
+else
+  meta(name='description', content='Computer Lab is a full-service dev shop focused on the development of data-driven JavaScript apps. We engineer solutions that shape and accelerate our clients\' goals in media, tech, healthcare and beyond.')
+meta(name='keywords', content='django, react native, mobile, digital consultancy, digital agency, design agency, web development, software, branding, design, linux, branding, logos, react, python, web design, developers, new york, new york city, brooklyn')
+meta(name='google-site-verification', content='cAcSU62Yp5NwS2tAG5wbbYETGM7j-kmqPjgiNlqLOs8')
+meta(name='copyright', content='2016-7 Computer Lab')
+meta(name='zipcode', content='10013')
+meta(name='city', content='New York')
+meta(name='state', content='New York')
+meta(name='country', content='United States')
+meta(name='language', content='EN')
+meta(property='og:site_name', content='Computer Lab')
+if page.title
+  meta(property='og:title', content=page.title)
+else
+  meta(property='og:title', content='Computer Lab - A Software Consultancy in New York City')
+if page.image
+  meta(property='og:image', content=page.image)
+else
+  meta(property='og:image', content='https://computerlab.io/images/computer.png')
+meta(name='twitter:card', content='summary_large_image')
+meta(name='twitter:site', content='@computerlab_')
+meta(name='twitter:domain', content='http://computerlab.io')
+if page.image
+  meta(name='twitter:image', content=page.image)
+else
+  meta(name='twitter:image', content='https://computerlab.io/images/computer.png')
+if page.lede
+  meta(name='twitter:description', content=page.lede)
+else
+  meta(name='twitter:description', content='Computer Lab is a full-service dev shop focused on the development of data-driven JavaScript apps. We engineer solutions that shape and accelerate our clients\' goals in media, tech, healthcare and beyond.')
+
+// Vendor Fonts
+link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css' rel='stylesheet', type='text/css')
+link(href="/bower_components/animate.css/animate.min.css" rel='stylesheet' type='text/css')
+link(href="https://fonts.googleapis.com/css?family=Yantramanav" rel="stylesheet")
+// HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+// WARNING: Respond.js doesn't work if you view the page via file://
+//if lt IE 9
+  script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
+  script(src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js')
+
+//- RSS
+link(rel="alternate", href=theme.rss ? theme.rss : config.root + "rss2.xml", title="config.title", type="application/rss2.xml")
+
+//- Stylesheets
+!= css("/css/main")
+
+

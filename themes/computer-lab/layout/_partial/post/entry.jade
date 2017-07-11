@@ -1,0 +1,15 @@
+article(class=page.layout)
+  .row
+    .col-md-10.col-md-offset-1
+      h1.post-title= page.title
+  .row
+    .post-meta
+      include meta
+      h5
+        span=page.author
+        span.date= ' - ' + page.date.format('ll')
+          +postCategory(page.categories)
+  .post-body
+    != page.more
+ 
+  +postAuthor(page.author)

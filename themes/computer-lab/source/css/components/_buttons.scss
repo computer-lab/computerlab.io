@@ -1,0 +1,93 @@
+// buttons 
+
+.btn {
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  transition: all .3s ease;
+  border-radius: 0;
+}
+
+.btn-default {
+  margin: 15px 15px 0 0;
+  padding: $base-spacing-small $base-spacing;
+  border: 2px solid $brand;
+  display: inline-block;
+  background-color: transparent;
+
+  &.alt {
+    background-color: transparent;
+
+  }
+
+  &:hover,&:active,&:focus {
+    border: 2px solid transparent;
+    outline: none;
+    color: $white;
+    background-color: $brand;
+  }
+
+  &.over-dark {
+    color: $brand;
+
+    &:hover,&:active,&:focus {
+      color: $copy !important;
+    }
+  }
+}
+
+ul.banner-social-buttons {
+  margin-top: 0;
+
+
+  @media(max-width:1199px) {
+    margin-top: 15px;
+  }
+  @media(max-width:767px) {
+    li {
+      display: block;
+      margin-bottom: 20px;
+      padding: 0;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+.btn-circle {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+  padding: 7px 16px;
+  border-radius: 100% !important;
+  font-size: 40px;
+  color: $brand;
+  background: transparent;
+  -webkit-transition: background .3s ease;
+  -moz-transition: background .3s ease;
+  transition: background .3s ease;
+  &:hover,
+  &:focus {
+    outline: none;
+    color: $brand;
+    background: rgba(white, 0.1);
+  }
+  i.animated {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+  }
+  &:hover {
+    i.animated {
+      -webkit-animation-name: pulse;
+      -moz-animation-name: pulse;
+      -webkit-animation-duration: 1.5s;
+      -moz-animation-duration: 1.5s;
+      -webkit-animation-iteration-count: infinite;
+      -moz-animation-iteration-count: infinite;
+      -webkit-animation-timing-function: linear;
+      -moz-animation-timing-function: linear;
+    }
+  }
+}

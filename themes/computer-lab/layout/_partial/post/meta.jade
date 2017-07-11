@@ -1,0 +1,17 @@
+mixin postDate(date)
+  span.post-date
+    = date.format(config.date_format)
+
+mixin postCategory(categories)
+  if categories.length > 0
+    | &ensp;in
+    span.post-categories
+      each category in categories.toArray()
+        | &ensp;
+        a.post-category(href=url_for(category.path))= category.name
+
+mixin postAuthor(author)
+  if author
+    h5= author
+
+

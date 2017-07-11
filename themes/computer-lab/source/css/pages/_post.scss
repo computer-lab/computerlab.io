@@ -1,0 +1,47 @@
+h1.post-title {
+  text-align: center;
+  color: $brand !important;
+  margin: 0 0 0 0;
+}
+
+.post-meta {
+  margin-top: $base-spacing * 2;;
+  text-align: center;
+
+  h5 {
+    font-family: 'Gill Sans', Arial, sans-serif;    
+    letter-spacing: 1px;
+
+    span.date {
+      color: $grey;
+    }
+  }
+
+}
+
+.post-body {
+  padding-top: $base-spacing;
+
+  img {
+    max-width: 100%;
+    margin: $base-spacing * 2 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gill Sans', Arial, sans-serif;
+    letter-spacing: 0px;  
+  }
+
+  strong {
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+
+  p, li {
+    font-size: 19px;
+  }
+}
+
+nav.pagination {
+  margin: $base-spacing * 4 0;
+}

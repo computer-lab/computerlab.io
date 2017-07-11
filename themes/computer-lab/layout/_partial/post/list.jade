@@ -1,0 +1,9 @@
+ul.post-items
+  each post in page.posts.toArray()
+    li.post-item
+      h3.post-item__title
+        a(href=url_for(post.path))= post.title
+      h5.post-item__author=post.date.format('ll') + ' - '
+        span=post.author
+      p= post.lede
+

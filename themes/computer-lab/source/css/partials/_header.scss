@@ -1,0 +1,290 @@
+// header/nav 
+
+
+.navbar-nav {
+  float: left !important;
+}
+
+.navbar-custom {
+  margin-bottom: 0;
+  color: $copy;
+
+  .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+    color: $brand;
+  }
+
+  .navbar-toggle {
+    padding: 4px 6px;
+    font-size: 16px;
+    color: $copy;
+
+    @media (max-width: 767px) {
+      color: $copy;
+    }
+
+    &:focus,
+    &:active {
+      outline: none;
+    }
+  }
+
+  a.navbar-brand {
+    margin-top: -$base-spacing * 2;
+    border-bottom: none;
+    text-transform: none;
+
+    @media (max-width: 767px) {
+      margin-top: -33px;
+    }
+
+    > svg {
+      -webkit-transition: all .3s ease-in-out;
+      width: $base-spacing * 4;
+
+      @media (max-width: 767px) {
+        width: $base-spacing * 3;
+      }
+
+      &.filled {
+        display: none;
+      }
+
+      > g {
+        fill: $brand;  
+      }
+      
+      > g {
+
+        .cls-1 {
+          fill: transparent;  
+        }
+      } 
+    }
+
+    h4 {
+      display: none;
+    }
+
+    &:focus, &:hover {
+      outline: none;
+      color: $copy;
+      border-bottom: none;
+    }
+  }
+
+  a {
+    color: $copy;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+  }
+
+  .nav {
+    min-height: $base-spacing * 2;
+
+    li {
+
+      a {
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+        border-bottom: 1px solid transparent;
+        font-size: 17px;
+        color: $grey;
+
+        &:hover {
+          color: $brand;
+          outline: none;
+          background-color: transparent;
+          -webkit-transition: all .3s ease-in-out;
+          -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+        }
+
+        &:focus,
+        &:active {
+          outline: none;
+          background-color: transparent;
+          color: $brand;
+        }
+      }
+
+      &.active {
+        outline: none;
+
+        a {
+          &:hover {
+            color: $white;
+          }
+        }
+      }
+    }
+  }
+
+  @media(min-width:768px) {
+    min-height: $base-spacing * 2;
+    padding: $base-spacing*2 0;
+    background-color: transparent;
+    letter-spacing: 1px;
+    color: $white;
+    font-size: 24px;
+
+    -webkit-transition: all .3s ease-in-out, padding .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out, padding .3s ease-in-out;
+    transition: all .3s ease-in-out, padding .3s ease-in-out;
+
+    &.top-nav-collapse {
+      background-color: transparent;
+
+      h4 {
+        display: block;
+      }
+
+      // .navbar-right, .navbar-left {
+      //   margin-top: 0;
+      // }
+
+      a {
+        color: $copy;
+      }
+    }
+  }
+
+  @media(max-width:767px) {
+
+    .navbar-header {
+      padding: 13px 0 11px 0;
+      background-color: $light-grey;
+      border-bottom: 1px solid $border-grey;
+    }
+
+    .navbar-custom {
+      border-bottom: 1px solid $border-grey;
+      width: 100%;
+    }
+
+    .navbar-custom .navbar-toggle {
+      color: $brand;
+    }
+
+    .navbar-custom .navbar-toggle > i{
+      color: $brand;
+    }
+
+    .navbar-right {
+      width: 100%;
+      border-bottom: 1px solid $border-grey;
+      position: absolute;
+      margin-top: 0;
+    } 
+
+    .navbar-left {
+      margin-top: -30px;
+      display: none;
+    }
+
+    .navbar-right, .navbar-left {
+      background-color: $light-grey;
+    }
+
+    a {
+      color: $copy;
+    }
+  }
+}
+
+/* Landing Page Only */
+body.index {
+
+  .navbar-custom {
+    background: transparent;
+    border-bottom: 1px solid transparent;
+    padding: $base-spacing * 2 0;
+
+    @media (max-width: 767px) {
+      margin-top: -$base-spacing * 2;
+      .navbar-header, .navbar-right, .navbar-left {
+        background-color: $brand;
+        border-bottom: 1px solid transparent;
+      }
+
+    }
+    
+    .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+      color: $white;
+    }
+    
+    a.navbar-brand {
+      margin-top: -$base-spacing * 2;
+      border-bottom: none;
+
+      > svg {  
+        display: none;
+        margin: $base-spacing-small auto auto;
+        width: 60px;
+
+        @media (max-width: 767px) {
+          margin-top: -4px;
+          width: $base-spacing * 3;
+        }
+
+        &.filled {
+          display: block;
+        }
+
+        > g {
+          fill: $white;  
+        } 
+      }
+    }
+
+    a {
+      color: $white; 
+
+      &:hover {
+        color: $white;
+        padding-bottom: $base-spacing-small;
+      }
+    }
+
+    &.top-nav-collapse {
+      background-color: transparent;
+      padding: $base-spacing * 2 0; 
+      border-bottom: 1px solid transparent;
+
+      .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+        color: $brand;
+      }
+      
+      @media (max-width: 767px) {
+        background-color: $light-grey;
+        padding: $base-spacing * 2 0 0; 
+        border-bottom: 1px solid $border-grey;
+        .navbar-header, .navbar-right, .navbar-left {
+          background-color: $light-grey;
+          border-bottom: 1px solid $border-grey;
+        }
+      }
+
+      a.navbar-brand {
+
+        > svg {  
+          display: block;
+
+          &.filled {
+            display: none;
+          }
+
+          > g {
+            fill: $brand;  
+          } 
+        }
+
+      }
+
+      a {
+        color: $grey;
+      }
+    }
+  }
+}

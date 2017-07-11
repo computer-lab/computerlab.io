@@ -1,0 +1,15 @@
+doctype html
+html(lang="en")
+
+  head
+    include _partial/site/head
+
+  body#page-top(class=page.layout data-spy='scroll', data-target='.navbar-fixed-top')
+    block site_header
+      include _partial/site/header
+
+    main#content
+      block site_body
+
+    include _partial/site/footer
+    include _partial/scripts

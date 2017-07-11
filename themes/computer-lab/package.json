@@ -1,0 +1,8 @@
+{
+  "name": "hexo-theme-computer-lab",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "hexo-renderer-sass": "0.3.2"
+  }
+}

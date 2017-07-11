@@ -1,0 +1,148 @@
+extends base
+
+block site_body
+
+  // Home
+  section#home
+    .container.hero
+      .row.copy
+        .col-md-6.col-md-offset-3
+          h1 Computer Lab is a software consultancy in New York City that builds digital products.
+      .row
+        .col-md-6.col-md-offset-3
+          a.btn.btn-default.alt(href='#about') Learn More
+
+  section#about.content-section
+    .container
+      .row
+        .copy.col-md-8.col-md-offset-2
+          .about.wow.fadeIn
+            h2.section-title A flexible team for your next project.
+            p 
+              span
+              | Computer Lab is a full-service dev shop focused on the development of data-driven JavaScript apps. 
+              | We engineer solutions that shape and accelerate our clients' goals in media, tech, healthcare and beyond. 
+              //- | Learn more about our 
+              //- span
+              //-   a(target='_blank' href='/2016/01/11/lab-README/') processes and tools
+              //- |  to get a better sense of how we operate.
+          .about.wow.fadeIn
+            p
+              | Computer Lab was founded in 2016 by 
+              span
+                a(target='_blank' href='https://github.com/mhfowler') Max Fowler
+                | , 
+                a(target='_blank' href='https://ptsteadman.com/') Patrick Steadman
+                |  and 
+                a(target='_blank' href='http://zachtaylor.me') Zachary Taylor
+                | . Our office in 
+                a(target='_blank' href='https://www.google.com/maps/place/Computer+Lab/@40.720358,-74.0059364,19.49z/data=!4m13!1m7!3m6!1s0x89c2598ac53690e1:0x684ebca8b026f25c!2s260+W+Broadway,+New+York,+NY+10013!3b1!8m2!3d40.7206119!4d-74.0056692!3m4!1s0x0:0x29ce7dd0dcc4a944!8m2!3d40.7206119!4d-74.005669') TriBeCa
+                |  is open to all, get in touch to discuss how we can help with your next project.
+          .about.wow.fadeIn    
+            p
+              a.btn.btn-default.email(href='mailto:hi@computerlab.io?Subject=Inquiry') Email
+  //- section.container.divider
+  //-   .row
+  //-     .col-md-4.col-md-offset-4
+  //-       hr
+  //-       .icon
+  //-         include _partial/svg/keyboard-svg
+
+  section#projects.content-section
+    .container
+      .row
+        .col-md-4.col-md-offset-1.bio.wow.fadeInLeft.iheart
+          include _partial/svg/iheart-logo
+          h4 On-site Consulting
+          p
+            span
+            | Computer Lab built on-demand streaming functionality 
+            | into the 
+            a(target='_blank' href='https://iheart.com') iHeartRadio
+            |  web platform, enabling iHeart to 
+            a(target='_blank' href='http://www.forbes.com/sites/hughmcintyre/2016/12/01/iheartradio-launches-new-on-demand-streaming-apps-to-compete-with-spotify/#134dceb91a90') launch
+            |  their paid subscription service before Pandora. We worked alongside 
+            a(target='_blank' href='https://tech.iheart.com/') iHeart's web team
+            |  to scale the existing React application to millions of users.
+          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
+        .col-md-4.col-md-offset-2.bio.wow.fadeInRight.nectar
+          include _partial/svg/artforum-logo.svg
+          h4 React Native App
+          p 
+            | Computer Lab worked with 
+            a(target='_blank' href='https://artforum.com') Artforum
+            |  to develop a native app
+            | experience for their artguide feature. We tackled platform 
+            | constraints to ensure that the app was a polished and essential 
+            | tool matching the Artforum brand. Download the artguide app on 
+            a(target='_blank' href='https://itunes.apple.com/us/app/artguide/id508043725?mt=8') iOS
+            |  or 
+            a(target='_blank' href='https://play.google.com/store/apps/details?id=com.artforuma') Android
+            | .
+      .row
+        .col-md-4.col-md-offset-1.bio.wow.fadeInLeft.verdes
+          include _partial/svg/verdes-logo
+          h4 Landing Page
+          p 
+            span We created an interactive 3D landing page for a marketing data visualization tool launched by 
+            a(target='_blank' href='http://verdes.nyc') Verdes
+            | , a creative agency in NYC. The 
+            a(target='_blank' href="http://pinpoints.io") PinPoints
+            |  build convinced us that React’s declarative components are a great fit for developing 3D user interfaces in the browser.
+          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
+        .col-md-4.col-md-offset-2.bio.wow.fadeInRight.screen
+          include _partial/svg/screen-logo
+          h4 CMS/AWS Consulting
+          p 
+            a(target='_blank' href='http://onscreentoday.com') Screen
+            |  is a curatorial collective based in New York, Beijing and Berlin. We worked closely with staff to improve the performance and user experience of their bilingual media platform. We reduced site loading speed, simplified content management and delivered an engaging experience to a global audience.
+          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
+
+  section#services.content-section
+    .container
+      .row
+        .col-md-4.wow.fadeIn
+          .service
+            ul
+              li AWS Data Pipeline
+              li Airflow
+              li HIPAA Compliance, EMRs
+              li Schema Design
+              li Postgres, MongoDB
+              li Firebase
+              li Apache Kafka
+        .col-md-4.wow.fadeIn
+          .service
+            ul
+              li React, Electron
+              li Django
+              li iOS and Android
+              li Wordpress, Hexo and Jekyll
+              li Docker and Ansible
+              li Webpack
+              li ThreeJS
+        .col-md-4.wow.fadeIn
+          .service
+            ul
+              li Branding
+              li Responsive Design
+              li Ad Tech
+              li Social Automation
+              li SEO
+              li Asset Creation
+              li Content Strategy
+
+  // Featured Post
+  section#feature-post.content-section
+    .container
+      .row
+        .col-md-8.col-md-offset-2
+          h2.section-title.wow.fadeIn
+            a(href=config.feature_note_path)=config.feature_note_title
+          h5.info.wow.fadeIn=config.feature_note_author + ' - '
+            span.date=config.feature_note_date
+          p.wow.fadeIn=config.feature_note_excerpt + ' '
+            span
+            a.readmore(href=config.feature_note_path) Read More
+          a.btn.btn-default.wow.fadeIn.read-more(href='/blog/') Blog
+

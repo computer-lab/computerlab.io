@@ -1,0 +1,49 @@
+footer {
+  background-color: $brand;
+  height: auto;
+  padding: $base-spacing * 2 0 $base-spacing * 3;
+  color: $white;
+  font-size: 17px;
+
+  .row {
+    padding-bottom: $base-spacing * 2;
+  }
+
+  h4 {
+    padding-bottom: $base-spacing;
+    letter-spacing: 1px;
+
+    @media (max-width: $mobile) {
+      padding-bottom: $base-spacing-small;
+    }
+
+  }
+
+  address {
+    margin-bottom: $base-spacing * 2;
+  }
+
+  i.fa:before {
+    margin-right: $base-spacing-small;
+  }
+
+  ul {
+    padding: 0;
+  }
+
+  ul li {
+    list-style: none;
+    font-size: 17px;
+  }
+
+  a {
+    border-bottom: none;
+    color: $white;
+    border-bottom: 1px solid transparent;
+  }
+
+  a:hover, a:focus {
+    color: $white;
+    border-bottom: 1px solid $white;
+  }
+}

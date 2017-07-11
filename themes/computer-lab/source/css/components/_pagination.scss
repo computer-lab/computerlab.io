@@ -1,0 +1,37 @@
+.pagination {
+  margin:  $base-spacing 0 $base-spacing * 2 0;
+  width: 100%;
+  font-size: 19px;
+  font-family: 'Quadraat Sans', Georgia, serif;
+  color: $brand;
+
+  a.next {
+  	margin-left: $base-spacing-small;  	
+  }
+
+  a.prev {
+  	margin-right: $base-spacing-small;  	
+  }
+
+  a.next, a.prev {
+  	border: 2px solid $brand;
+  	padding: $base-spacing-small $base-spacing-small * 2;
+
+  	&:hover {
+  		background: $brand;
+  		color: $white;
+  		cursor: pointer;
+  	}
+  }
+
+  .entry-pagination__link--next {
+    float: right;
+  }
+
+  .page-number {
+  	border: 2px solid $brand;
+  	padding: $base-spacing-small $base-spacing-small * 2;
+
+  }
+
+}

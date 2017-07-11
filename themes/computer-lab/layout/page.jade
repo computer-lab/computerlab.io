@@ -1,0 +1,9 @@
+extends base
+
+prepend site_title
+  | #{page.title} &mdash;&nbsp;
+
+block site_body
+  article.post
+    h2.post__title= page.title
+    .post__body!= page.content
