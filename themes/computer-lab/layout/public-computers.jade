@@ -1,7 +1,7 @@
 extends base
 
 block site_body
-  section#about
+  section#public-computers
     .container
       h2.section-title If you need to use a computer, consider:
       ul
@@ -15,8 +15,10 @@ block site_body
          li
           p
           a(target='_blank' href='https://www.apple.com/retail/') Apple,
+          | 
           a(target='_blank' href= 'https://www.microsoft.com/en-us/store/locations/find-a-store') Microsoft,
-          a(target='_blank' href='http://www.samsung.com/my/storelocator/') or Samsung stores
+          |  or 
+          a(target='_blank' href='http://www.samsung.com/my/storelocator/') Samsung stores
          li
           p
           a(target='_blank' href='http://www.bestbuy.com/site/store-locator') Best Buy stores
@@ -28,8 +30,9 @@ block site_body
           a(target='_blank' href='https://www.timeout.com/newyork/hotels/best-hotel-lobbies-with-free-wi-fi') Hotel Lobbies
          li
           p
-          a(target='_blank' href='https://www.ups.com/dropoff') UPS* 
-          a(target='_blank' href='https://www.fedex.com/locate/') or FedEx stores*
+          a(target='_blank' href='https://www.ups.com/dropoff') UPS*
+          |  or 
+          a(target='_blank' href='https://www.fedex.com/locate/') FedEx stores*
       ul
 
         p *Costs money

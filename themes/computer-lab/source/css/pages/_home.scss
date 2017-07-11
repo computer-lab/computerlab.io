@@ -304,3 +304,32 @@ section.divider {
     color: black;
   }
 }
+#public-computers{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize: vertical;
+  overflow: auto;
+  height: 100%;
+  background-color: $alt-white;
+
+  @media (max-width: $tablet) {
+    padding: $base-spacing * 4 0 $base-spacing * 6 0;
+  }
+  h2.section-title{
+    color: #000000;
+    padding-left: 200px;
+    padding-bottom: 10px;
+  }
+  a{
+    color:$brand;
+    text-align:center;
+
+  }
+  ul{
+    padding-bottom: 30px;
+    padding-left: 230px;
+}
+
+}
