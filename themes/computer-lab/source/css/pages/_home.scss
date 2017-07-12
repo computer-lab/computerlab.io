@@ -304,6 +304,7 @@ section.divider {
     color: black;
   }
 }
+
 #public-computers{
   min-height: 100vh;
   display: flex;
@@ -319,33 +320,49 @@ section.divider {
   h2.section-title{
       @media (max-width: $tablet) {
     padding-left: 0px;
+    padding-top:0px;
+
   }
     color: #000000;
-    padding-left: 200px;
+    padding-top: 60px;
+    padding-left: 150px;
     padding-bottom: 0px;
   }
 
   h3.section-title{
       @media (max-width: $tablet) {
-    padding-left: 15px;
+    padding-left: 0px;
+
   }
 
     color: #000000;
-    padding-left: 250px;
+    padding-left: 150px;
     padding-bottom: 10px;
   }
+  li{
+    
 
+    line-height: 2em; 
+  }
   a{
     color:$brand;
     text-align:center;
 
   }
+
   ul{
     @media (max-width: $tablet) {
     padding-left: 39px;
   }
     padding-bottom: 30px;
-    padding-left: 285px;
+    padding-left: 175px;
+  p{
+    font-size: 85%;
+  }
+}
+p.more{
+  color: $brand;
+  font-size: 100%;
 }
 
 }
