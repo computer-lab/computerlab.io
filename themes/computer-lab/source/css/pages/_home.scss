@@ -322,11 +322,13 @@ section.divider {
     padding-left: 0px;
     padding-top:0px;
 
+
   }
     color: #000000;
     padding-top: 60px;
     padding-left: 150px;
     padding-bottom: 0px;
+    font-size: 210%
   }
 
   h3.section-title{
@@ -334,35 +336,47 @@ section.divider {
     padding-left: 0px;
 
   }
-
     color: #000000;
     padding-left: 150px;
     padding-bottom: 10px;
+    font-size:170%
   }
-  li{
-    
-
-    line-height: 2em; 
-  }
-  a{
-    color:$brand;
-    text-align:center;
-
-  }
-
   ul{
     @media (max-width: $tablet) {
     padding-left: 39px;
   }
     padding-bottom: 30px;
     padding-left: 175px;
-  p{
-    font-size: 85%;
+  
   }
-}
-p.more{
-  font-color: #000000;
-  font-size: 130%;
-}
 
+  li{
+
+    line-height: 1.8em; 
+  }
+  a{
+    color:$brand;
+    text-align:center;
+    font-size:95%;
+
+  }
+p{
+    font-size: 95%;
+
+
+ }
+
+
+  p.more, p.moreinfo{
+    @media (max-width: $tablet) {
+    padding-left: 0px;}
+    font-size:135%;
+    padding-left: 150px;
+
+
+}
+  a.more{
+      font-size:100%;
+
+}
 }
