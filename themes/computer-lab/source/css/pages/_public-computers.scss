@@ -51,7 +51,7 @@
 
   a {
     color: $brand;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
   }
 
@@ -74,4 +74,12 @@
   a.more {
     font-size: 20px;
   }
+  a.btn {
+    @media (max-width: $tablet) {
+      margin-left: 0px;
+      text-align:left;
+    }
+   margin-left: 150px;
+   margin-bottom: 10px;
+}
 }

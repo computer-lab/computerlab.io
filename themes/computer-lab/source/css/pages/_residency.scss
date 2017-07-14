@@ -3,7 +3,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   resize: vertical;
   overflow: auto;
   height: 100%;
@@ -29,8 +29,8 @@ p.page-description {
     @media (max-width: $tablet) {
       padding-left: 0px;
   }
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-left: 150px;
   text-align: left;
 }
@@ -63,18 +63,21 @@ p.closing {
   }
 
   padding-left: 150px;
-  padding-bottom: 13px;
-  padding-top: 35px;
+  padding-bottom: 5px;
+  padding-top: 0px;
   text-align: left;
   text-size: 21px;
 }
+
+
 
 .gallery{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 0px;
   padding-left: 145px;
+  padding-bottom: 10px;
 
   @media (max-width: $tablet) {
       padding-left: 0px;
@@ -87,4 +90,15 @@ img{
   max-width: 300px;
   max-height: 300px;
 }
+a.btn {
+    @media (max-width: $tablet) {
+
+      text-align:left;
+      margin-left:0px;
+  }
+  margin-left: 150px;
+  margin-bottom: 10px;
+
+}
+
 }
