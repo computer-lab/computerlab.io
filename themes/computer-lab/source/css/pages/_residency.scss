@@ -1,0 +1,104 @@
+#residency {
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize: vertical;
+  overflow: auto;
+  height: 100%;
+
+  @media (max-width: $tablet) {
+    padding: $base-spacing * 4 0 $base-spacing * 6 0;
+}
+
+  h1.section-title {
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+      padding-top: 0px;
+  }
+    color: $brand;
+    padding-left: 150px;
+    padding-top: 90px;
+    padding-bottom: 0px;
+    text-align: left;
+    font-weight:700;
+  }
+
+  p.page-description {
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+    }
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+    text-align: left;
+  }
+  p.attributes {
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+    }
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 150px;
+    padding-bottom: 0px;
+  }
+
+  ul {
+    @media (max-width: $tablet) {
+      padding-left: 25px;
+    }
+    padding-left: 195px;
+    padding-bottom: 0px;
+  }
+
+  li {
+    text-align: left;
+    font-size: 21px;
+  }
+
+  p.closing {
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+    }
+
+    padding-left: 150px;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-size: 21px;
+  }
+
+
+
+  .gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 0px;
+    padding-left: 145px;
+    padding-bottom: 10px;
+
+    @media (max-width: $tablet) {
+        padding-left: 0px;
+    }
+  }
+
+  img{
+    margin: 20px;
+    border: 5px solid #494949;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  a.btn {
+      @media (max-width: $tablet) {
+
+        text-align:left;
+        margin-left:0px;
+    }
+    margin-left: 150px;
+    margin-bottom: 10px;
+
+  }
+
+  }

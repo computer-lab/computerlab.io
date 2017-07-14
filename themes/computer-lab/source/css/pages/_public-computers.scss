@@ -11,27 +11,30 @@
   @media (max-width: $tablet) {
     padding: $base-spacing * 4 0 $base-spacing * 6 0;
   }
+  
 
-  h2.section-title {
+  h1.section-title {
     @media (max-width: $tablet) {
       padding-left: 0px;
       padding-top:0px;
     }
-    color: #000000;
-    padding-top: 60px;
+    color: $brand;
+    padding-top: 90px;
     padding-left: 150px;
     padding-bottom: 0px;
-    font-size: 210%;
+    font-size: 36px;
+    font-weight: 700;
   }
 
-  h3.section-title {
+  p.page-description {
     @media (max-width: $tablet) {
       padding-left: 0px;
     }
-    color: #000000;
+    padding-top: 10px;
     padding-left: 150px;
-    padding-bottom: 10px;
-    font-size:170%;
+    padding-bottom: 0px;
+    font-size: 21px;
+    font-weight: 400;
   }
 
   ul {
@@ -39,18 +42,17 @@
       padding-left: 39px;
     }
     padding-bottom: 30px;
-    padding-left: 175px;
+    padding-left: 195px;
   }
 
   li {
-
     line-height: 1.8em; 
   }
 
   a {
     color: $brand;
-    text-align: center;
-    font-size: 95%;
+    text-align: left;
+    font-size: 20px;
   }
 
   a:hover {
@@ -58,18 +60,26 @@
   }
 
   p {
-    font-size: 95%;
+    font-size: 19.8px;
   }
 
   p.more {
     @media (max-width: $tablet) {
       padding-left: 0px;
     }
-    font-size:135%;
+    font-size:20px;
     padding-left: 150px;
   }
 
   a.more {
-    font-size:100%;
+    font-size: 20px;
   }
+  a.btn {
+    @media (max-width: $tablet) {
+      margin-left: 0px;
+      text-align:left;
+    }
+   margin-left: 150px;
+   margin-bottom: 10px;
+}
 }
