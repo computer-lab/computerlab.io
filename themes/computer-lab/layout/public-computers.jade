@@ -3,8 +3,8 @@ extends base
 block site_body
   section#public-computers
     .container
-      h2.section-title We don't currently offer computers for public use. 
-      h3.section-title Here's a list of places in New York City with public computers or WiFi. Click on the links below for more information.
+      h1.section-title We don't currently offer computers for public use. 
+      p.page-description Here's a list of places in New York City with public computers or WiFi. Click on the links below for more information.
 
       ul
         li
@@ -55,7 +55,9 @@ block site_body
           p Various hotel lobbies have free WiFi that can be accessed by the public. Some offer computers as well.
 
       p.more
-        | If you know of any other locations with public computers, please email us at hi@computerlab.io. Or to edit 
+        | If you know of any other locations with public computers, please email us at 
+        a(href='mailto:hi@computerlab.io?Subject=Inquiry') hi@computerlab.io.
+        |  Or to edit 
         a.more(target='_blank' href='https://github.com/computer-lab/computerlab.io/blob/master/themes/computer-lab/layout/public-computers.jade') this page
         |  directly, feel free to make a pull request to the GitHub repo.
 
