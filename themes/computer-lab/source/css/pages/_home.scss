@@ -246,21 +246,60 @@ section.divider {
     color: $copy;
   }
 
-  .service {
+  h3 {
+   color:$brand;
+  }
 
-    ul {
+   a {
+    color: #494949;
+    padding-bottom: 3px;
+    border-bottom: 2px solid $alt-white;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+
+    &:hover,
+    &:focus {
+      text-decoration: none;
+      color: #494949;
+      border-bottom: 2px solid #494949;
+
+    }
+  }
+
+  .domains {
+    margin-left: 100px;
+    margin-bottom: 100px;
+    ol {
       padding: 0;
-      text-align: center;
+      text-align: left;
     }
 
-    ul li {
+    ol li {
+      padding-left:24px;
       list-style: none;
       font-size: 1.5em;
       font-weight: 300;
       line-height: 2em; 
     }
+
   }
 
+  .service {
+    margin-left: 100px;
+    ul {
+      padding: 0;
+      text-align: left;
+    }
+
+    ul li {
+      margin-left: 24px;
+      list-style: none;
+      font-size: 21px;
+      font-weight: 300;
+      line-height: 2em; 
+    }
+  }
 }
 
 #feature-post {
