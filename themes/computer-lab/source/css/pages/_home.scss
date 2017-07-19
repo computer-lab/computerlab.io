@@ -21,6 +21,10 @@
     }
   }
 
+img{
+  max-width: 30px; 
+}
+
   .row {
     display: flex;
 
@@ -243,7 +247,7 @@ section.divider {
 
   h1 {
     margin-top: $base-spacing * 2;
-    color: $copy;
+    color: $brand;
   }
 
   .service {
