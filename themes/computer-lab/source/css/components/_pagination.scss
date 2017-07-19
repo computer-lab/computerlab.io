@@ -1,9 +1,21 @@
-.pagination {
+
+a.chat-link {
+  color: #000000;
+  border-bottom: 2px solid #000;
+  &:hover {
+    color: $copy;
+    border-bottom: 2px solid $copy;
+    cursor: pointer;
+  }
+}
+
+ .pagination {
   margin:  $base-spacing 0 $base-spacing * 2 0;
   width: 100%;
   font-size: 19px;
   font-family: 'Quadraat Sans', Georgia, serif;
   color: $brand;
+  
 
   a.next {
   	margin-left: $base-spacing-small;  	

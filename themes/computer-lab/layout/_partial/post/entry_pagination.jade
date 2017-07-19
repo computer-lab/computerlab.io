@@ -1,6 +1,10 @@
-nav.pagination
-  if(page.prev)
-    a.btn-default.entry-pagination__link.entry-pagination__link--prev(href=url_for(page.prev.path), title=page.prev.title)!= __("Prev")
+a.chat-link(onclick="Intercom('show')") Thoughts or questions? Chat now.
 
-  if(page.next)
-    a.btn-default.entry-pagination__link.entry-pagination__link--next(href=url_for(page.next.path), title=page.next.title)!= __("Next")
+    nav.pagination
+
+      if(page.prev)
+        a.btn-default.entry-pagination__link.entry-pagination__link--prev(href=url_for(page.prev.path), title=page.prev.title)!= __("Prev")
+
+      if(page.next)
+        a.btn-default.entry-pagination__link.entry-pagination__link--next(href=url_for(page.next.path), title=page.next.title)!= __("Next")
+
