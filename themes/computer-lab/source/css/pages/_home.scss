@@ -248,58 +248,86 @@ section.divider {
 
   h3 {
    color:$brand;
+ }
+
+ a {
+  color: $copy;
+  font-weight:600;
+  padding-bottom: 3px;
+  border-bottom: 2px solid $alt-white;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    color: $copy;
+    border-bottom: 2px solid $copy;
+
+  }
+}
+
+
+.domains {
+  @media (max-width: $tablet) {
+    margin-left: 0px;
   }
 
-   a {
-    color: #494949;
-    padding-bottom: 3px;
-    border-bottom: 2px solid $alt-white;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  margin-top: 100px;
 
-    &:hover,
-    &:focus {
-      text-decoration: none;
-      color: #494949;
-      border-bottom: 2px solid #494949;
-
-    }
+  ol {
+    padding: 0;
+    text-align: left;
   }
 
-  .domains {
-    margin-left: 100px;
-    margin-bottom: 100px;
-    ol {
-      padding: 0;
-      text-align: left;
-    }
+  li {
+      @media (max-width: $tablet) {
+    padding-left: 0px;
+  }
+    padding-left:24px;
+    list-style:none;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 2em; 
+  }
 
-    ol li {
-      padding-left:24px;
+    p.description{
+      padding-left: 60px;
+
       list-style: none;
-      font-size: 1.5em;
+      font-size: 19px;
       font-weight: 300;
       line-height: 2em; 
     }
+}
 
+.service {
+  h3{
+    margin-left:100px;
+
+  
+  @media (max-width: $tablet) {
+    margin-left: 0px;
+  }
+}
+
+  ul {
+    padding: 0;
+
+    text-align: center;
   }
 
-  .service {
-    margin-left: 100px;
-    ul {
-      padding: 0;
-      text-align: left;
-    }
+  li {
 
-    ul li {
-      margin-left: 24px;
-      list-style: none;
-      font-size: 21px;
-      font-weight: 300;
-      line-height: 2em; 
-    }
+    list-style: none;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 2em; 
   }
+}
 }
 
 #feature-post {
