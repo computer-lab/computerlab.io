@@ -29,7 +29,7 @@
 
       @media (max-width: $tablet) {
         display: block;
-      }
+      } 
     }
 
     @media (max-width: $tablet) {
@@ -248,9 +248,12 @@ section.divider {
 
   h3 {
    color:$brand;
+   padding-bottom:10px;
  }
 
  a {
+  margin-left:30px;
+  padding-top:0px;
   color: $copy;
   font-weight:600;
   padding-bottom: 3px;
@@ -274,45 +277,64 @@ section.divider {
     margin-left: 0px;
   }
 
+
   margin-left: 100px;
   margin-bottom: 100px;
   margin-top: 100px;
 
-  ol {
+  ul {
     padding: 0;
+    margin-left: 0px;
     text-align: left;
+    list-style-type: none;
   }
 
   li {
-      @media (max-width: $tablet) {
-    padding-left: 0px;
-  }
-    padding-left:24px;
-    list-style:none;
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+    }
+
+    padding-left:0px;
+    padding-top: 0px;
+    padding-bottom:30px;
+    margin-left: 40px;
     font-size: 1.5em;
     font-weight: 300;
     line-height: 2em; 
   }
 
-    p.description{
-      padding-left: 60px;
-
-      list-style: none;
-      font-size: 19px;
-      font-weight: 300;
-      line-height: 2em; 
+  li.pictures{
+    margin-left: 0px;
+    margin-top: 45px;
+    margin-bottom: 70px;
+    @media (max-width: 1199px) {
+      margin-top: 50px;
+      margin-bottom:80px;
     }
+
+  }
+
+
+
+  p.description{
+    padding-left: 30px;
+
+    list-style: none;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 2em; 
+  }
 }
 
 .service {
   h3{
     margin-left:100px;
 
-  
-  @media (max-width: $tablet) {
-    margin-left: 0px;
+
+    @media (max-width: $tablet) {
+      margin-left: 0px;
+    }
   }
-}
 
   ul {
     padding: 0;
