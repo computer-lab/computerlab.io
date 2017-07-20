@@ -261,12 +261,17 @@ section.divider {
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+    @media (max-width: $tablet) {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
 
   &:hover,
   &:focus {
     text-decoration: none;
     color: $copy;
     border-bottom: 2px solid $copy;
+
 
   }
 }
@@ -292,6 +297,8 @@ section.divider {
   li {
     @media (max-width: $tablet) {
       padding-left: 0px;
+      margin-left: 0px;
+
     }
 
     padding-left:0px;
@@ -307,10 +314,8 @@ section.divider {
     margin-left: 0px;
     margin-top: 45px;
     margin-bottom: 70px;
-    @media (max-width: 1199px) {
-      margin-top: 50px;
-      margin-bottom:80px;
-    }
+
+
 
   }
 
@@ -324,6 +329,11 @@ section.divider {
     font-weight: 300;
     line-height: 2em; 
   }
+    @media (max-width: $tablet) {
+      padding-left: 0px;
+      margin-left: 0px;
+
+    }
 }
 
 .service {
