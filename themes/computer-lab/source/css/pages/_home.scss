@@ -237,14 +237,13 @@ section.divider {
     padding: $base-spacing * 4 0 $base-spacing * 8 0;
   } 
 
-
   h3 {
    color: $brand;
    padding-bottom: 10px;
 
    @media (max-width: $tablet) {
-    padding-left: 15px;
-  }
+     padding-left: 15px;
+   }
   }
 
   p.heading {
@@ -256,14 +255,10 @@ section.divider {
     @media (max-width: $tablet) {
       margin: 0px;
       padding-left: 15px;
-
     }
   }
   .domains {
-    margin-left: 85px;
-    margin-right: 25px;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin: 100px 75px 100px 75px;
 
     @media (max-width: $tablet) {
       margin-left: 0px;
