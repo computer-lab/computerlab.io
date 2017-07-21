@@ -240,10 +240,6 @@ section.divider {
   h3 {
    color: $brand;
    padding-bottom: 10px;
-
-   @media (max-width: $tablet) {
-     padding-left: 15px;
-   }
   }
 
   p.heading {
@@ -251,32 +247,16 @@ section.divider {
     color: $copy;
     font-weight: 600;
     padding-bottom: 3px;
-
-    @media (max-width: $tablet) {
-      margin: 0px;
-      padding-left: 15px;
-    }
   }
   .domains {
     margin: 100px 75px 100px 75px;
 
     @media (max-width: $tablet) {
-      margin-left: 0px;
-    }
-
-    p.description {
-      @media (max-width: $tablet) {
-        margin-left: 0px;
-        padding-left: 15px;
-      }
+      margin: 60px 0px 100px 0px;
     }
 
     .row {
       margin-bottom: 40px;
-
-      @media (max-width: $tablet) {
-        padding-bottom: 60px;
-      }
     }
 
     .picture {
