@@ -231,6 +231,7 @@ section.divider {
   resize: vertical;
   overflow: auto;
   height: 100%;
+  padding: 100px 0px;
 
   @media (max-width: $tablet) {
     padding: $base-spacing * 4 0 $base-spacing * 8 0;
@@ -259,7 +260,7 @@ section.divider {
     }
   }
   .domains {
-    margin-left: 100px;
+    margin-left: 85px;
     margin-right: 25px;
     margin-top: 150px;
     margin-bottom: 150px;
