@@ -260,7 +260,9 @@ section.divider {
   }
   .domains {
     margin-left: 100px;
+    margin-right: 25px;
     margin-top: 150px;
+    margin-bottom: 150px;
 
     @media (max-width: $tablet) {
       margin-left: 0px;
@@ -289,6 +291,9 @@ section.divider {
         margin: auto;
       }
     }
+  }
+  .list-of-services{
+    margin-bottom: 150px;
   }
 
   .service {
