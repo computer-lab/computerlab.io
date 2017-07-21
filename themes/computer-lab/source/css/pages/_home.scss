@@ -235,20 +235,11 @@ section.divider {
   @media (max-width: $tablet) {
     padding: $base-spacing * 4 0 $base-spacing * 8 0;
   } 
-  
-  h4 {
-    color: $brand;
-    letter-spacing: 1.1px;
-  }
 
-  h1 {
-    margin-top: $base-spacing * 2;
-    color: $copy;
-  }
 
   h3 {
-   color:$brand;
-   padding-bottom:10px;
+   color: $brand;
+   padding-bottom: 10px;
 
    @media (max-width: $tablet) {
     padding-left: 15px;
@@ -266,12 +257,10 @@ section.divider {
       padding-left: 15px;
 
     }
-
-
   }
   .domains {
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 150px;
 
     @media (max-width: $tablet) {
       margin-left: 0px;
@@ -281,15 +270,6 @@ section.divider {
       @media (max-width: $tablet) {
         margin-left: 0px;
         padding-left: 15px;
-      }
-    }
-
-    ul {
-      list-style-type: none;
-      text-align: left;
-
-      @media (max-width: $tablet) {
-        padding-left: 0px;
       }
     }
 
@@ -304,7 +284,7 @@ section.divider {
     .picture {
       width: 100%;
       display: flex;
-        margin-top:55px;
+      margin-top:55px;
       img {
         margin: auto;
       }
