@@ -29,7 +29,7 @@
 
       @media (max-width: $tablet) {
         display: block;
-      }
+      } 
     }
 
     @media (max-width: $tablet) {
@@ -231,19 +231,70 @@ section.divider {
   resize: vertical;
   overflow: auto;
   height: 100%;
+  padding: 100px 0px;
 
   @media (max-width: $tablet) {
     padding: $base-spacing * 4 0 $base-spacing * 8 0;
   } 
-  
-  h4 {
-    color: $brand;
-    letter-spacing: 1.1px;
+
+
+  h3 {
+   color: $brand;
+   padding-bottom: 10px;
+
+   @media (max-width: $tablet) {
+    padding-left: 15px;
+  }
   }
 
-  h1 {
-    margin-top: $base-spacing * 2;
+  p.heading {
+    padding-top: 0px;
     color: $copy;
+    font-weight: 600;
+    padding-bottom: 3px;
+
+    @media (max-width: $tablet) {
+      margin: 0px;
+      padding-left: 15px;
+
+    }
+  }
+  .domains {
+    margin-left: 85px;
+    margin-right: 25px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+    @media (max-width: $tablet) {
+      margin-left: 0px;
+    }
+
+    p.description {
+      @media (max-width: $tablet) {
+        margin-left: 0px;
+        padding-left: 15px;
+      }
+    }
+
+    .row {
+      margin-bottom: 40px;
+
+      @media (max-width: $tablet) {
+        padding-bottom: 60px;
+      }
+    }
+
+    .picture {
+      width: 100%;
+      display: flex;
+      margin-top:55px;
+      img {
+        margin: auto;
+      }
+    }
+  }
+  .list-of-services{
+    margin-bottom: 150px;
   }
 
   .service {
@@ -253,14 +304,13 @@ section.divider {
       text-align: center;
     }
 
-    ul li {
+    li {
       list-style: none;
-      font-size: 1.5em;
+      font-size: 21px;
       font-weight: 300;
       line-height: 2em; 
     }
   }
-
 }
 
 #feature-post {
