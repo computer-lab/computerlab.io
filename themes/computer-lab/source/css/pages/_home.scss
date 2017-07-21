@@ -256,7 +256,6 @@ section.divider {
   }
 
   p.heading {
-    padding-left: 40px;
     padding-top: 0px;
     color: $copy;
     font-weight: 600;
@@ -277,10 +276,8 @@ section.divider {
     @media (max-width: $tablet) {
       margin-left: 0px;
     }
-    
-    p.description {
-      padding-left: 40px;
 
+    p.description {
       @media (max-width: $tablet) {
         margin-left: 0px;
         padding-left: 15px;
@@ -304,29 +301,13 @@ section.divider {
       }
     }
 
-    li.pictures {
-      margin-top:55px;
-      padding-left: 0px;
-      margin-left: 0px;
-
-      @media (max-width: $tablet) {
-        margin-left: 0px;
-        text-align: center;
-        margin-top: 0px;
-        margin-bottom:0px;
-        display: none;
-
+    .picture {
+      width: 100%;
+      display: flex;
+        margin-top:55px;
+      img {
+        margin: auto;
       }
-    }
-
-    .col-xs-12 {
-      padding-left: 0px;
-      margin-left: 0px;
-    }
-
-    .col-md-1 {
-      padding: 0;
-      margin: 0;
     }
   }
 
