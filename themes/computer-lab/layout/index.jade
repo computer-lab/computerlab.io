@@ -23,10 +23,6 @@ block site_body
               span
               | Computer Lab is a full-service dev shop focused on the development of data-driven applications. 
               | We engineer solutions that shape and accelerate our clients' goals in media, tech, healthcare and beyond. 
-              //- | Learn more about our 
-              //- span
-              //-   a(target='_blank' href='/2016/01/11/lab-README/') processes and tools
-              //- |  to get a better sense of how we operate.
           .about.wow.fadeIn
             p
               | Computer Lab was founded in 2016 by 
@@ -43,13 +39,6 @@ block site_body
             p
               a.btn.btn-default.email(href='mailto:hi@computerlab.io?Subject=Inquiry') Email
               a.btn.btn-default.email(onclick="Intercom('show')") Chat
-  //- section.container.divider
-  //-   .row
-  //-     .col-md-4.col-md-offset-4
-  //-       hr
-  //-       .icon
-  //-         include _partial/svg/keyboard-svg
-
   section#projects.content-section
     .container
       .row
@@ -66,7 +55,6 @@ block site_body
             |  their paid subscription service before Pandora. We worked alongside 
             a(target='_blank' href='https://tech.iheart.com/') iHeart's web team
             |  to scale the existing React application to millions of users.
-          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
         .col-md-4.col-md-offset-2.bio.wow.fadeInRight.nectar
           include _partial/svg/artforum-logo.svg
           h4 React Native App
@@ -91,49 +79,42 @@ block site_body
             | , a creative agency in NYC. The 
             a(target='_blank' href="http://pinpoints.io") PinPoints
             |  build convinced us that React’s declarative components are a great fit for developing 3D user interfaces in the browser.
-          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
         .col-md-4.col-md-offset-2.bio.wow.fadeInRight.screen
           include _partial/svg/screen-logo
           h4 CMS/AWS Consulting
           p 
             a(target='_blank' href='http://onscreentoday.com') Screen
             |  is a curatorial collective based in New York, Beijing and Berlin. We worked closely with staff to improve the performance and user experience of their bilingual media platform. We reduced site loading speed, simplified content management and delivered an engaging experience to a global audience.
-          //- a.btn.btn-default.wow.fadeIn.read-more(href='http://onscreentoday.com') View
-
   section#services.content-section
     .container
-      .domains
-        .row
-          .col-xs-12.wow.fadeIn
-            h3.wow.fadeIn Great software engineering paired with domain expertise. 
-        .row
-          .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
-            .picture
-              img(src="/images/healthcare-biotech.png") 
+      .row
+        .col-xs-12.wow.fadeIn
+          h3.wow.fadeIn Great software engineering paired with domain expertise. 
+      .row
+        .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
+          .picture
+            img(src="/images/healthcare-biotech.png") 
 
-          .col-md-10.col-xs-12.wow.fadeIn
-            p.heading Healthcare and Biotech
-            p.description We'll be your partner as you navigate the unique regulatory and technical challenges of the healthcare industry. Our team has years of experience working with industry leaders like Flatiron Health and we're passionate about building better health information systems.  
-        .row
-          .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
-            .picture
-              img(src="/images/the-arts.png") 
+        .col-md-10.col-xs-12.wow.fadeIn
+          p.heading Healthcare and Biotech
+          p.description We'll be your partner as you navigate the unique regulatory and technical challenges of the healthcare industry. Our team has years of experience working with industry leaders like Flatiron Health and we're passionate about building better health information systems.  
+      .row
+        .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
+          .picture
+            img(src="/images/the-arts.png") 
 
-          .col-md-10.col-xs-12.wow.fadeIn
-            p.heading The Arts
-            p.description For our arts clients, we take care to develop solutions that will be sustainable within the context of their organization. Our involvement in creative internet communities means we have a personal interest in seeing arts projects succeed.  
-        .row
-          .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
-            .picture
-              img(src="/images/rapid-prototyping.png") 
+        .col-md-10.col-xs-12.wow.fadeIn
+          p.heading The Arts
+          p.description For our arts clients, we take care to develop solutions that will be sustainable within the context of their organization. Our involvement in creative internet communities means we have a personal interest in seeing arts projects succeed.  
+      .row
+        .col-md-2.col-xs-12.wow.fadeIn.hidden-xs
+          .picture
+            img(src="/images/rapid-prototyping.png") 
 
-          .col-md-10.col-xs-12.wow.fadeIn
-            p.heading Rapid Prototyping
-            p.description Computer Lab can rapidly form specialized teams to tackle MVP builds with highly involved technical, data science, or design needs. Our process ensures well-documented, world-class software engineering that will help de-risk your business.
-
-
-
-    .container
+        .col-md-10.col-xs-12.wow.fadeIn
+          p.heading Rapid Prototyping
+          p.description Computer Lab can rapidly form specialized teams to tackle MVP builds with highly involved technical, data science, or design needs. Our process ensures well-documented, world-class software engineering that will help de-risk your business.
+    //.container
       .list-of-services
         .row
           .col-md-4.wow.fadeIn
