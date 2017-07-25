@@ -69,8 +69,6 @@
     text-size: 21px;
   }
 
-
-
   .gallery{
     display: flex;
     flex-wrap: wrap;
@@ -86,7 +84,7 @@
 
   img{
     margin: 20px;
-    border: 5px solid $copy;
+    // border: 5px solid $copy;
     max-width: 300px;
     max-height: 300px;
   }

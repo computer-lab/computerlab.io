@@ -163,6 +163,7 @@ section.divider {
 
 #projects {
   min-height: 100vh;
+  margin-bottom: $base-spacing * 4;
   background-color: $white;
 
   .bio {
@@ -237,17 +238,14 @@ section.divider {
     padding: $base-spacing * 4 0 $base-spacing * 8 0;
   } 
 
-  h3 {
+  h2 {
    color: $brand;
-   padding-bottom: 10px;
   }
 
-  p.heading {
-    padding-top: 0px;
+  h3 {
     color: $copy;
-    font-weight: 600;
-    padding-bottom: 3px;
   }
+  
   .domains {
     margin: 100px 75px 100px 75px;
 
@@ -268,6 +266,7 @@ section.divider {
       }
     }
   }
+
   .list-of-services{
     margin-bottom: 150px;
   }
