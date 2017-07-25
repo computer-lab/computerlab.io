@@ -28,6 +28,52 @@ body {
 
 }
 
+.content-section {
+  padding: $base-spacing * 4 0; 
+  height: auto;
+
+  &.last {
+    // bring up footer for last section
+    margin-bottom: -94px;
+  }
+
+  @media (max-width: $tablet) {
+    padding: $base-spacing * 2 0;
+  }
+
+  h1.section-title {
+    margin: 0 0 $base-spacing * 2;
+    color: $copy;
+
+    @media (max-width: $tablet) {
+      margin: $base-spacing * 2 0 $base-spacing;
+      text-align: left;
+    }
+  }
+
+  .row {
+    display: flex;
+
+    .v-center {
+      display: flex;
+
+      @media (max-width: $tablet) {
+        display: block;
+      } 
+    }
+
+    @media (max-width: $tablet) {
+      display: block;
+    }
+  }
+
+  p {
+    margin: 0 0 $base-spacing-small;
+    font-size: 21px;
+    line-height: 2em; 
+  }
+}
+
 body.index {
 
   #content {
