@@ -19,11 +19,39 @@ geographically, here's how you can get things set up in a sane way.
 
 ### Settings File Changes
 
-foo
+We want to use Postgres with the Postgis extension installed in production, and use Sqlite for our
+local dev setup and CI testing. Assuming you have your settings files [broken up into local and
+production configs](add link here):
 
-### Local Spatialite: Ubuntu
+``` settings/local.py
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.contrib.gis.db.backends.spatialite',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
 
-foo
+SPATIALITE_LIBRARY_PATH = 'mod_spatialite' # not needed for some spatialite versions??
+```
+
+``` settings/production.py
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        ...
+    }
+}
+```
+
+Reference:
+
+### Local Spatialite: Ubuntu or other Debian-Based
+
+Installation differs on 16 and 14 (right?)
+
+How to check sqlite/spatialite version?
+
+Install packages: https://docs.djangoproject.com/en/1.11/ref/contrib/gis/install/spatialite/
 
 ### Local Spatialite: OSX
 
