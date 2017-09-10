@@ -1,33 +1,34 @@
 ---
 layout: post
-title: How 9/11 Inspired Google News (and Maybe Map Reduce) 
+title: How 9/11 Inspired Google News (and MapReduce)
 date: 2017-09-10
 category: Notes
-lede: ""
+lede: "Violence is often an accelerant for technological change, even in the information age."
 author: Patrick Steadman
-published: true
-image: "http://computerlab.io/images/power-of-vulnerability.png"
+published: false
+image: "http://computerlab.io/images/google-911.png"
 ---
 
-__Four types of vulnerability that you shouldn't lean into.__
+__Violence is often an accelerant for technological change, even in the information age.__
+
+![The Google homepage on the morning of 9/11](http://computerlab.io/images/google-911.png)
 
 On the morning of September 11th, 2001, Amit Singhal, director of search quality
 at Google, was at a conference in upstate New York. As the public searched for
-news about the attacks on the Twin Towers, Amit and his colleagues realized that
-Google was dramatically failing to meet the nation's information needs. Searches
-for "World Trade Center" led to pages about the architecture of the
-now-destroyed towers, or the lunch menu at the Windows on the World restaurant.
+news about the attacks on the Twin Towers, Amit and his colleagues quickly
+realized that Google was [dramatically failing to meet the nation's information
+needs](https://youtu.be/mTBShTwCnD4?t=2m). Searches for "World Trade Center" led
+to pages about the architecture of the now-destroyed towers, or the lunch menu
+at the Windows on the World restaurant.
 
 In 2001, Google was only able to index the internet about once a month. As a
 result, the index used to fulfill searches did not reflect the current,
 dramatically different state of the world.
 
-
-Over a conference call, Amit and the Google engineers decided on a hacky
-solution: they hand-edited the HTML of the Google homepage to include links to
-relevant news articles. This didn't work: the massive amounts of traffic
-directed to these articles caused the news network's servers to crash almost
-instantly.
+Over a conference call, Google engineers decided on a hacky solution: they
+hand-edited the HTML of the Google homepage to include links to relevant news
+articles. This didn't work: the massive amounts of traffic directed to these
+articles caused the news network's servers to crash almost instantly.
 
 Terrorism had revealed a major limit of the era's information processing
 systems.
@@ -42,25 +43,32 @@ data pipeline. New programming models for distributed systems would need to be
 developed in order to have enough computing power to concurrently index
 thousands of websites.
 
-Over the next few years, Google built and expanded their news platform, but
-Amit and other Google execs like Marissa Mayer realized that everything else
-also needed to be indexed in "real time".  In order to index the whole
-internet, every day, the programming techniques used to create Google News
-would have to be formalized.  In addition, Google realized that the rest of the
-internet had to catch up with Google. To address both of these concerns, in
-2004 Google released "the MapReduce paper", which explained the abstractions
-Google had developed in order to reason about their complicated distributed
-systems.
+Over the next few years, Google built and expanded their news platform, but Amit
+and other Google execs like Marissa Mayer realized that everything else also
+needed to be indexed in "real time". In order to index the whole internet, every
+day, the programming techniques used to create Google News would have to be
+formalized.  In addition, 9/11 seemed to drive home the degree to which Google
+had become a portal. Google realized that the rest of the internet had to catch
+up with Google.  To address both of these concerns, in 2004 Google released [the
+MapReduce
+paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf),
+which explained the abstractions Google had developed in order to reason about
+their complicated distributed systems. The paper notes that the MapReduce
+library was created in order to address the complexity arising from a number of
+ad-hoc distributed systems, and that the library was successfully used to
+simplify clustering problems for Google News.
 
 MapReduce is a process by which data can be mapped to many computers by a
 'magic' hash function, and reduced to useful information. A MapReduce platform
 like Hadoop enables programmers and businesses to solve problems in a
-distributed way without explicitly managing the cost of said distribution. This
-pattern became fundamental to Web 2.0 businesses.  Many web 2.0 companies
-manage their own complexity by using abstractions to efficently offload work to
-different nodes, or process user data to generate value. For example, in 2013
-Facebook used a MapReduce cluster with over eighty powerful servers just to
-compute 'recommended friends'...
+distributed way without explicitly managing the complexity and cost of the
+distribution.
 
-Source for the above: https://youtu.be/mTBShTwCnD4?t=2m
+Many web 2.0 companies manage their own complexity by using abstractions to
+efficently offload work to different nodes, or process user data to generate
+value. For example, in 2013 Facebook used a MapReduce cluster with over eighty
+powerful servers just to compute 'recommended friends'.
 
+Why does it matter that there's a direct link between 9/11, Google News, and
+MapReduce? First, because MapReduce platforms enabled the rise of a new
+generation of web 2.0 companies that
