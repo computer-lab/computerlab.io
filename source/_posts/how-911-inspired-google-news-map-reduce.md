@@ -28,7 +28,7 @@ hacky solution: they would hand-edit the HTML of the Google homepage to include
 links to relevant news articles. This didn't work: the large amounts of traffic
 directed to these articles caused the news network's servers to crash almost
 instantly. A month later, [an academic noted](http://bit.ly/2eOZa7d) that the
-internet in 2001 was still "a narrowcast medium", unsuited for massively
+internet in 2001 was still "a narrowcast medium,", unsuited for massively
 relevant, breaking events.
 
 <center>
@@ -40,7 +40,7 @@ systems.
 
 Amit and his colleague Krishna Bharat were stuck at the conference center until
 planes were allowed to fly again. Over the next few days, Singhal and Bharat
-sketched out the architecture of an internal tool that would would index news
+sketched out the architecture of an internal tool that would index news
 websites constantly, collecting information about events that had just
 happened. It would also cluster and rank stories without human editorial
 intervention.
@@ -63,18 +63,18 @@ become a new kind of portal, the 'homepage of the internet' where people would
 turn in times of need. Google had become more than just a search utility, it
 had become the future of the web.
 
-To address these concerns, in 2004 Google released [the MapReduce
+To address these concerns, Google released [the MapReduce
 paper](http://bit.ly/2wiDFlp), which detailed the abstractions Google had
-developed in order to manage the complexity of their numerous ad-hoc distributed
-systems. The paper noted that the MapReduce library was first successfully used
-in clustering news stories for Google News, and then applied to Google's core
-web index.
+developed to manage the complexity of their numerous ad-hoc distributed
+systems. The 2004 paper noted that the MapReduce library was first successfully
+used in clustering news stories for Google News, and then applied to Google's
+core web index.
 
 The fact that Google shared ideas like MapReduce in academic papers helped to
 enable a generation of web 2.0 companies that created value by quickly
-ingesting, indexing, and transforming vast amounts of user data. For example,
-in the late 2000s Facebook employed a MapReduce cluster with over eighty nodes just
-to compute uncannily accurate 'suggested friends'.
+ingesting, indexing, and transforming user data. For example, in 2009 Facebook
+employed a MapReduce cluster with over eighty nodes just to compute their
+uncannily accurate 'suggested friends'.
 
 <center>
 ![MapReduce diagram from the Google paper.](/images/map-reduce.png)
@@ -96,14 +96,14 @@ It's a reminder that 9/11 didn't just impact the political and military spheres
 of American life, it affected our relationship with technology as well. People
 in the tech industry like to describe the rise of computation as a sort of
 inexorable trend: computers will always get faster, and become a bigger part of
-our lives, at a mathematically determined rate similar to Moore's law. But, the
+our lives, at a mathematically determined rate similar to Moore's law. But the
 story of 9/11 and Google News, like the [story of 9/11 and the 24/7 TV news
 ticker](http://bit.ly/2jglZ8U), is an example of how violent crisis can inspire
 or enable tech leaders to push for rapid integration of technology into our
 daily lives.
 
 In the absence of a violent crisis, people are more willing to question the
-necessity of a technological solution: they are more likely to ask questions
+necessity of a technological solution, and are more likely to ask questions
 like:
 
 - Do we really need 24/7 news alert tickers?
@@ -113,7 +113,7 @@ like:
 These questions can be frustrating to engineers, who often respond by saying "the
 technology already exists!" or "you're slowing down innovation!".
 
-And, it's true that something like MapReduce would have been developed in the
+It's true that something like MapReduce would have been developed in the
 absence of 9/11. But, the punctured equilibrium created by violence can lead to
 new technology being hastily deployed to solve the wrong problems. For example,
 our government has expended vast resources to create comprehensive databases of
