@@ -80,7 +80,8 @@ that I can use as much 4G LTE data as necessary, because I don't like connecting
 to public WiFi networks and want to use my phone as a tether. At the last moment
 I decide to get the iPhone SE (which has the same form factor of the iPhone 5,
 but the processor of the 6s) instead of the iPhone 8. What's the point of having
-a big phone when I have my `smolson`?
+a big phone when I have my `smolson`? I'm also excited to be getting a `718`
+area code number.
 
 1:00PM: Head into the Computer Lab office.
 
