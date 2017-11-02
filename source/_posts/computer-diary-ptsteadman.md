@@ -48,5 +48,45 @@ bag!
 6:15PM: Take a call with my friend in the parking lot of Costco.
 
 8:30PM: Head a screening party with my GPD pocket (smolson). Hope that I'll get
-a chance to write, but drink because I feel anit-social.
+a chance to write, but drink because I feel anti-social.
+
+### Tuesday, October 31th 2017
+
+9:00AM: Get a ride back home to Bed-Stuy from Ridgewood. Decide to work from
+home, since I'll be going to yoga in Greenpoint that evening. 
+
+10:00AM - 6:00PM: Bill 4.5 hours for coding and research. Debug some issues
+related to JSON Web Tokens. Auth is always tricky, and I find working from home
+is often good for trying to figure out issues like this. Figure everything out
+by the time I head to yoga.
+
+9:30PM: Get out of yoga after a two-hour long class. I go across the street to get
+some Japanese food. My phone is dead. I sit there a long time, drinking the
+complimentary sake and reading the Wall Street Journal.
+
+11:30PM: Get home and fall asleep after a shower.
+
+### Wednesday, November 1st 2017
+
+10:00AM: Wake up without an alarm. Wednesdays are a day off for me, or rather a
+"hack day" where I don't really do billable hours. I like to break up the
+work week like this.
+
+10:30AM - 11:45AM: Buy a new phone plan and phone from the Verizon website. I've
+wanted my own plan for a while, because although I get a better deal paying for
+my part of my family's plan, my sibilings and I typically use up all the data
+before the end of the month and get throttled. I'd rather have my own plan so
+that I can use as much 4G LTE data as necessary, because I don't like connecting
+to public WiFi networks and want to use my phone as a tether. At the last moment
+I decide to get the iPhone SE (which has the same form factor of the iPhone 5,
+but the processor of the 6s) instead of the iPhone 8. What's the point of having
+a big phone when I have my `smolson`?
+
+1:00PM: Head into the Computer Lab office.
+
+2:00PM - 11:00PM: Spend most of the day using my `largeson` to research
+health insurance options. Do a quick call about the coding work I did the day
+before. Feed pigeons.
+
+
 
