@@ -89,5 +89,29 @@ area code number.
 health insurance options. Do a quick call about the coding work I did the day
 before. Feed pigeons.
 
+11:30PM: Get home. Feel like I haven't accomplished much, but remind myself that it's a
+day off. I feel like this every Wednesday.
+
+11:45PM: Decide to smoke weed and write. Get surprisingly high and waste more
+time (using bumble on my phone...), before finally settling on my ThinkPad and
+making some good edits.
+
+2:00AM: Eat eggo waffles and pass out.
+
+### Thursday, November 2nd 2017
+
+10:00AM: Wake up, go to gym, then pick up my new iPhone SE. I name this phone
+`youngbird`. I like it.
+
+11:00AM - 6:00PM: Do client work using my largeson. End up writing a small
+client library for the Auth0 Authorization API. Feel like a real programmer!
+It's interesting how these moments happen that force you to
+
+6:00PM - 7:00PM: Call my parents using my new number while I clean the office. I
+notice my largeson has accumulated a decent amount of dust. I keep it running
+almost constantly, it mines Monero when I'm not using it. (The graphics card has
+already paid for itself with mining!)
+
+
 
 
