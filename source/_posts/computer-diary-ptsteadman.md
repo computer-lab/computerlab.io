@@ -103,14 +103,84 @@ making some good edits.
 10:00AM: Wake up, go to gym, then pick up my new iPhone SE. I name this phone
 `youngbird`. I like it.
 
-11:00AM - 6:00PM: Do client work using my largeson. End up writing a small
-client library for the Auth0 Authorization API. Feel like a real programmer!
-It's interesting how these moments happen that force you to
+11:00AM - 6:00PM: Do client work using `largeson`. End up writing a small client
+library for the Auth0 Authorization API.  Most of the time as a programmer I
+feel like I'm completing video-game like tasks, but sometimes I find myself
+dealing with pretty fundamental concepts just to get something to work. It feels
+good.
 
-6:00PM - 7:00PM: Call my parents using my new number while I clean the office. I
-notice my largeson has accumulated a decent amount of dust. I keep it running
-almost constantly, it mines Monero when I'm not using it. (The graphics card has
+6:00PM - 7:00PM: Use my new phone to call my parents while I clean the office. I
+notice `largeson` has accumulated a decent amount of dust. I keep it running
+almost constantly; it mines Monero when I'm not using it. (The graphics card has
 already paid for itself with mining!)
+
+8:00PM: Get home and spend a while messing with my new phone. I meant to write,
+but I end up just doing yoga and going to bed around midnight.
+
+### Friday, November 3nd 2017
+
+8:30AM: Wake up feeling feeling...awake. It's a beautiful day. I take a shower
+and set up my new phone as a 2FA device so I can log into to some client
+services to check on things for a weekly standup at noon. Talk with Rob about
+security stuff using keybase.Talk with Rob about security stuff using keybase.
+
+12:40PM: Finish meeting with client and head into the office. I feel good about
+how things are going with the client, we've finally selected a middleware
+vendor.
+
+1:30PM-2:30PM: Work with Rob to set up a Virtual Private Cloud (VPC) on AWS
+which will be used as the "live fire range" of the Computer Lab CTF. I learn a
+lot about networking in the process: I studied information science in college,
+so I only have a vague understanding of terms like NAT Gateway, subnet mask,
+CIRD block. The familiar AWS interface helps make everything seem a lot less
+mysterious. We also set up an EC2 Container Service cluster. We plan to deploy
+CTF challenges and scoring servers to this cluster. Now that the cluster is up,
+we can get started. I look forward to making some great Dockerfiles: Docker will
+almost become the medium for my creativity over the next few months.
+
+3:00PM-7:30PM: Zachary and Elias have also arrived at lab. I work on client work
+while talking with them and also some people online. It's Friday! Take a long
+break to feed pigeons. I take some video of the birds eating from my hand.
+
+8:00PM - ???: Arrive at Brooklyn Kava. Get some Kratom and use `smolson` to research
+healthcare stuff for the event the next day. A bunch of people I know show up,
+so I transition to being social. After Kava closes, we head to Rebecca's and
+then Skytown. Done with computers, besides using my phone to call an uber to get
+home.
+
+### Saturday, November 4th 2017
+
+10:30AM: Wake up feeling extremely rested. Talk with Emily about how I want to
+become a part of 'pigeon instagram' and use my phone to add music to footage
+from the day before.
+
+12:10PM: Realize that there's no way I'll have time to get breakfast with Emily
+and bike to Max's workshop in Red Hook before 1pm. We get an Uber to Pioneer
+works and a get food nearby. I take notes at the workshop using `smolson`, and
+briefly use one of the classrooms iMac computers to scrape my social timeline
+using a program Max wrote. (The program is an Electron app that hasn't yet been
+packaged for Linux.)
+
+4:10PM: Leave workshop, and Uber to Brooklyn Kava.
+
+4:30PM - 11:00PM: Post up in Brooklyn Kava, and alternatively talk with people
+about their healthcare options and research a HSA for myself. Make good use of
+[Kaiser Family Foundation's Healthcare Reform
+FAQs](https://www.kff.org/health-reform/faq/health-reform-frequently-asked-questions/)
+and [HSA Search](https://www.hsasearch.com/). I tether `smolson` to my new
+Verizon phone because Brooklyn Kava's wifi seems to have an DNS issue that
+periodically causes the internet to hang. Rob talks with the bartender about
+fixing it. The mobile tether works fine, but is perhaps a bit slower than I had
+hoped for.
+
+11:00PM - 2:00AM: Celebrate Rob's birthday. Daylight saving's time begins.
+
+### Sunday, November 5th 2017
+
+
+
+
+
 
 
 
