@@ -6,13 +6,20 @@ category: Notes
 lede: "In Computer Diaries, lab members record a week of their computer use, with sometimes comic, often tragic and always revealing results. This week: Computer Lab partner Patrick Steadman, 25." 
 author: Patrick Steadman
 published: true
-image: "http://computerlab.io/images/power-of-vulnerability.png"
+image: "http://computerlab.io/images/smolson.jpg"
 ---
 
 
 __In Computer Diaries, lab members record a week of their computer use, with
 sometimes comic, often tragic, and always revealing results. This week: Computer
 Lab founding partner Patrick Steadman, 25.__
+
+<center>
+![Smolson at Mood Ring.](/images/mood-ring-smolson.jpg)
+</center>
+
+_Using my `smolson` at the bar Mood Ring._
+
 
 ### Monday, October 30th 2017
 
@@ -51,7 +58,9 @@ all sorts of environments.
 , or `smolson`, which has 8 gigs of RAM and fits in the pocket of my coat. No need to carry a
 bag!
 
-![GPD pocket (not mine).](https://pbs.twimg.com/media/DHI-InZXgAEmggO.jpg)
+<center>
+![Smolson](/images/smolson.jpg)
+</center>
 
 6:15PM: Take a call with my friend in the parking lot of Costco. I'm worried
 that my `shitbird` phone will have issues, so we use Zoom on her iPhone 6s Plus.
@@ -118,7 +127,9 @@ feel like I'm completing video-game-like tasks, but sometimes I find myself
 dealing with pretty fundamental concepts just to get something to work. It feels
 good.
 
-![largeson pic]()
+<center>
+![Family portrait.](/images/family-photo.jpg)
+</center>
 
 6:00PM - 7:00PM: Use my new phone to call my parents while I clean the office. I
 notice `largeson` has accumulated a decent amount of dust. I keep it running
