@@ -1,47 +1,54 @@
 ---
 layout: post
-title: "Computer Lab Computer Diary: Patrick Steadman"
+title: "Computer Diary: Patrick Steadman"
 date: 2017-11-10
 category: Notes
-lede: "Computer Lab's Computer Diaries ask anonymous city dwellers to record a week of their computer use, with sometimes comic, often tragic and always revealing results. This week is Computer Lab partner Patrick Steadman, 25." 
+lede: "In Computer Diaries, lab members record a week of their computer use, with sometimes comic, often tragic and always revealing results. This week: Computer Lab partner Patrick Steadman, 25." 
 author: Patrick Steadman
 published: true
 image: "http://computerlab.io/images/power-of-vulnerability.png"
 ---
 
+
+__In Computer Diaries, lab members record a week of their computer use, with
+sometimes comic, often tragic, and always revealing results. This week: Computer
+Lab founding partner Patrick Steadman, 25.__
+
 ### Monday, October 30th 2017
 
 4AM: Wake up because I fell asleep with the lights on and my contacts in. Before
-going back to sleep, I write for about forty minutes using the ThinkPad t440s
+going back to sleep, I write for about forty minutes using the <a target="_blank" href="https://www.amazon.com/gp/product/B0764M6SLV/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0764M6SLV&linkCode=undefined&tag=computerlab-20&linkId=13d2141b32874ebc7a9be76ed20eb330">Thinkpad T440S Business Ultrabook</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=computerlab-20&l=am2&o=1&a=B0764M6SLV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 that lives on my desk. I've removed the laptop's bottom plastic enclosure
 because of some sort of issue that causes the fan to randomly run at full power.
 When the case is removed, the fan works normally. This computer is called
 `daughter`. I bought it in college, when I was super obsessed with ThinkPads.
 
 8AM: Wake up and spend about twenty minutes on my iPhone 6s catching up on
-Slack. I call my iPhone `shitbird`.  I'm excited about an article my colleague
-Willis has posted about medical over-treatment and over-testing; it's related to
-the writing I was doing about copays just a few hours earlier at 4AM.
+Slack. I call my iPhone `shitbird` because of its various glitches. I'm excited
+about an article about medical over-treatment my colleague Willis has shared;
+it's related to the writing I was doing just a few hours earlier at 4AM.
 
 10:30AM: Arrive at the Computer Lab office in Tribeca. I don't look at my phone
 on the train, instead I read the Wall Street Journal, though I do block out the
-noise of the train using Bose QuietComfort noise cancelling headphones. It's
-monday, so I spend about 45 minute performing accounting tasks using my phone
-and my desktop tower computer, called `largeson`.  I built it earlier this year,
-it's a beast with an 8 core CPU running at XXGHz, 16GB of RAM, a graphics card,
-booting Ubuntu from 512GB M2 SSD. I deposit a bunch checks that arrived on
-Saturday, which puts me in an even better mood. The work is easier to do with
-two large desktop monitors.
+noise of the train using <a target="_blank"
+href="https://www.amazon.com/gp/product/B00VW7U8X4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VW7U8X4&linkCode=as2&tag=computerlab-20&linkId=b7c9b91f0b49b618080f3c4b70f8df76">Bose
+QuietComfort 25 Noise Cancelling Headphones</a><img
+src="//ir-na.amazon-adsystem.com/e/ir?t=computerlab-20&l=am2&o=1&a=B00VW7U8X4"
+width="1" height="1" border="0" alt="" style="border:none !important; margin:0px
+!important;" />. It's Monday, so I spend about 45 minute performing accounting
+tasks using my desktop tower computer, called `largeson`. I built it earlier
+this year, it's a beast with an 8 core i7-7700k CPU running at 4.2GHz, 16GB of
+RAM, a GTX 1080 graphics card, booting Ubuntu from 512GB M2 SSD. I deposit a
+bunch checks that arrived on Saturday, which puts me in an even better mood. 
 
 Noon: Feed the pigeons and get a haircut.
 
-1PM: Take a call from my desktop using Gotomeeting and my Plantrionics
+1PM: Take a call from my desktop using GoToMeeting and my <a target="_blank" href="https://www.amazon.com/gp/product/B005VAORH6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005VAORH6&linkCode=as2&tag=computerlab-20&linkId=a248b549d2addac97866bc37441ac901">Plantronics USB Headset</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=computerlab-20&l=am2&o=1&a=B005VAORH6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 headphones. I really want to find a headset that'll make my voice sound great in
-all sorts of environments. The Plantronics headset's headphones aren't great
-though.
+all sorts of environments.
 
-2PM: Head back to Brooklyn to work at my friend's house. I code on my GPD
-pocket, or `smolson`, which fits in the pocket of my coat. No need to carry a
+2PM: Head back to Brooklyn to work at my friend's house. I code on my new <a target="_blank" href="https://www.amazon.com/gp/product/B073ZGLLXN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B073ZGLLXN&linkCode=as2&tag=computerlab-20&linkId=44fa87b96fc9d19e7c5ca4fc48225795">GPD Pocket</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=computerlab-20&l=am2&o=1&a=B073ZGLLXN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+, or `smolson`, which has 8 gigs of RAM and fits in the pocket of my coat. No need to carry a
 bag!
 
 ![GPD pocket (not mine).](https://pbs.twimg.com/media/DHI-InZXgAEmggO.jpg)
@@ -49,13 +56,13 @@ bag!
 6:15PM: Take a call with my friend in the parking lot of Costco. I'm worried
 that my `shitbird` phone will have issues, so we use Zoom on her iPhone 6s Plus.
 
-8:30PM: Head a screening party with my GPD pocket (smolson). Hope that I'll get
-a chance to write, but drink because I feel anti-social.
+8:30PM: Head a screening party with my GPD pocket (`smolson`). Hope that I'll
+get a chance to write, but drink because I feel anti-social.
 
 ### Tuesday, October 31th 2017
 
 9:00AM: Get a ride back home to Bed-Stuy from Ridgewood. Decide to work from
-home, since I'll go to yoga in Greenpoint that evening. 
+home, since I'm going to yoga in Greenpoint that evening. 
 
 10:00AM - 6:00PM: Bill 4.5 hours for coding and research. Debug some issues
 related to JSON Web Tokens. Auth is always tricky, and I find working from home
@@ -82,7 +89,8 @@ data as necessary, because I don't like connecting to public WiFi networks and
 want to use my phone as a tether. At the last moment I decide to get the iPhone
 SE (which has the same form factor of the iPhone 5, but the processor of the 6s)
 instead of the iPhone 8. What's the point of having a big phone when I have my
-`smolson`? I'm also excited to be getting a `718` area code number.
+`smolson`, especially since I have cubital tunnel issues? I'm also excited to be
+getting a `718` area code number.
 
 1:00PM: Head into the Computer Lab office.
 
@@ -110,6 +118,8 @@ feel like I'm completing video-game-like tasks, but sometimes I find myself
 dealing with pretty fundamental concepts just to get something to work. It feels
 good.
 
+![largeson pic]()
+
 6:00PM - 7:00PM: Use my new phone to call my parents while I clean the office. I
 notice `largeson` has accumulated a decent amount of dust. I keep it running
 almost constantly; it mines Monero when I'm not using it. (The graphics card has
@@ -123,20 +133,21 @@ but I end up just doing yoga and going to bed around midnight.
 8:30AM: Wake up feeling ...awake. It's a beautiful day. I take a shower and set
 up my new phone as a 2FA device so I can log into to some client services to
 check on things for a weekly meeting at noon. Talk with Rob about security stuff
-using keybase.
+using Keybase teams, which I've recently come to love.
 
 12:40PM: Finish meeting with client and head into the office. I feel good about
 how things are going with the client, we've finally selected a middleware
 vendor.
 
 1:30PM-2:30PM: Work with Rob to set up a Virtual Private Cloud (VPC) on AWS
-which will be used as the "live fire range" of the Computer Lab CTF. I learn a
-lot about networking in the process: I studied information science in college,
-so I only have a vague understanding of terms like NAT Gateway, subnet mask,
-CIRD block. The familiar AWS interface helps make everything seem a lot less
-mysterious. We also set up an EC2 Container Service cluster. We plan to deploy
-CTF challenges and scoring servers to this cluster. Now that the cluster is up,
-we can get started. I look forward to making some great Dockerfiles.
+which will be used as the "live fire range" of the [Computer Lab
+CTF](https://github.com/computer-lab/ctf). I learn a lot about networking in the
+process: I studied information science in college, so I only have a vague
+understanding of terms like NAT Gateway, subnet mask, CIDR block. The familiar
+AWS interface helps make everything seem a lot less mysterious. We also set up
+an EC2 Container Service cluster. We plan to deploy CTF challenges and scoring
+servers to this cluster. Now that the cluster is up, we can get started. I look
+forward to making some great Dockerfiles.
 
 3:00PM-7:30PM: Zachary and Elias are also at lab. I work on client work,
 occassionally breaks to chat. It's Friday! Take a long break to feed pigeons. I
@@ -145,8 +156,8 @@ take some video of the birds eating from my hand.
 8:00PM - ???: Arrive at Brooklyn Kava. Get some Kratom and use `smolson` to
 research healthcare stuff for the event the next day. A bunch of people I know
 show up, so I transition to being social. After Kava closes, we head to
-Rebecca's and then Skytown. I'm done with computers, besides using my phone to
-call an Uber to get home.
+Rebecca's and then Skytown. I'm done with computers for the day, besides using
+my phone to call an Uber to get home.
 
 ### Saturday, November 4th 2017
 
@@ -154,12 +165,12 @@ call an Uber to get home.
 become a part of 'pigeon instagram', and use my phone to add music to footage
 from the day before.
 
-12:10PM: Realize that there's no way I'll have time to get breakfast with Emily
-and bike to Max's workshop in Red Hook before 1pm. We get an Uber to Pioneer
+12:10PM: Realize that there's no way I'll be able to get breakfast with Emily
+and bike to Max's workshop in Red Hook before 1PM. We take an Uber to Pioneer
 Works and a get quick brunch nearby. I take notes at the workshop using
-`smolson`, and briefly use one of the classroom iMac computers to scrape my
-social timeline using a program Max wrote. (The program is an Electron app that
-hasn't yet been packaged for Linux.)
+`smolson`, and briefly use one of the classroom iMacs to scrape my social
+timeline using a program Max wrote. (The program is an Electron app that hasn't
+yet been packaged for Linux.)
 
 4:10PM: Leave workshop, and Uber to Brooklyn Kava.
 
@@ -178,9 +189,9 @@ hoped for.
 ### Sunday, November 5th 2017
 
 11:00AM: Wake up and laze about. Start to think that I won't have time to go to
-the pigeon shop before it closes at 2PM, but then a friend messages me that
-she's in the neighborhood with her car, and is down to give me a ride to the
-pigeon shop. I grab `smolson` and `youngbird`.
+the [pigeon shop](https://goo.gl/maps/62nqxa1aChp) before it closes at 2PM, but
+a friend messages me that she's in the neighborhood with her car, and would be
+down to give me a ride to the pigeon shop. I grab `smolson` and `youngbird`.
 
 12:00PM - 4:00PM: The pigeon store is one of the least disappointing experiences
 of my life, and confirms my desire to start making more videos of pigeons. Maybe
@@ -191,9 +202,9 @@ drops me off at Rebecca's, a bar in Bushwick. Bushwick, three days in a row!
 4:00PM - 6:00PM: Do a little coding and writing at Rebecca's until a comedy show
 starts. Head over to Mood Ring, another recently-opened bar.
 
-7:00PM - 9:00PM: Eat my leftover burrito and finish writing up this diary. I'm
+7:00PM - 9:00PM: Eat my leftover burrito and finish writing this diary. I'm
 sitting in a booth at Rebecca's with a bunch of other people who are using the
-powerstrip.
+powerstrip. `smolson` always gets attention.
 
 9:00PM - 11:00PM: My friend arrives and we hang out and drink. We use `smolson`
 to order some nootropics and look at our mutual facebook friends.
