@@ -45,3 +45,47 @@ h1.post-title {
 nav.pagination {
   margin: $base-spacing * 4 0;
 }
+
+#archive .gift-guide {
+  .guide {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .gift {
+    flex: 1 1 100%;
+    margin-bottom: 30px;
+    padding: 15px;
+
+    @media (min-width: $mobile) {
+      flex: 0 0 46%;
+    }
+
+    &:nth-of-type(3n+1) {
+      border: 1px solid $brand;
+    }
+
+    &:nth-of-type(3n+2) {
+      background: $light-grey;
+    }
+
+    &:nth-of-type(3n) {
+      border: 3px solid $accent;
+    }
+
+    h3,
+    h4 {
+      margin: 0px 0px 10px;
+    }
+
+    img {
+      margin-top: 0px;
+    }
+
+    .twitter-tweet {
+      width: auto !important; // roast me
+    }
+  }
+}
