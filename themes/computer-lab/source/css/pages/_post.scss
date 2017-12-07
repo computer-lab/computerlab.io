@@ -51,16 +51,22 @@ nav.pagination {
     align-items: center;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-around;
+
+    @media (min-width: $mobile) {
+      max-height: 5000px;
+    }
   }
 
   .gift {
-    flex: 1 1 100%;
     margin-bottom: 30px;
     padding: 15px;
+    text-align: center;
 
     @media (min-width: $mobile) {
-      flex: 0 0 46%;
+      max-width: 500px;
+      width: 48%;
     }
 
     &:nth-of-type(3n+1) {
@@ -78,6 +84,13 @@ nav.pagination {
     h3,
     h4 {
       margin: 0px 0px 10px;
+    }
+
+    h3,
+    h4,
+    h5,
+    p {
+      text-align: left;
     }
 
     img {
