@@ -1,7 +1,7 @@
 ---
 layout: gift-guide
 title: The Official 2017 Computer Lab Gift Guide
-date: 2017-11-28
+date: 2017-12-13
 category: Products
 tags: 
 - gifts
