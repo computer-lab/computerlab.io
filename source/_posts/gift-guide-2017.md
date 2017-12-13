@@ -146,7 +146,7 @@ author: Computer Lab
   <div class="gift">
     <img src="//cdn.shopify.com/s/files/1/0168/6168/products/GradientPuzzle-BlueGreen-seamless_3600x@2x.jpg?v=1510601416" alt="Gradient Puzzle">
     <h3>A Meditative Puzzle</h3>
-    <h4>For the colorblind masocist</h4>
+    <h4>For the colorblind masochist</h4>
     <h5>
       <em>Gradient Puzzle</em>, $20 <a href="https://www.areaware.com/products/gradient-puzzle?variant=18213107204" target="_blank">at Areawear</a>
     </h5>
