@@ -45,3 +45,72 @@ h1.post-title {
 nav.pagination {
   margin: $base-spacing * 4 0;
 }
+
+#archive .gift-guide {
+  .guide {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+
+    @media (min-width: $mobile) {
+      max-height: 3300px;
+    }
+
+    @media (min-width: 992px) {
+      max-height: 3500px;
+    }
+
+    @media (min-width: 1200px) {
+      max-height: 4000px;
+    }
+  }
+
+  .gift {
+    margin-bottom: 30px;
+    padding: 15px;
+    text-align: center;
+
+    @media (min-width: $mobile) {
+      max-width: 500px;
+      width: 30%;
+    }
+
+    &:nth-of-type(odd) {
+      border: 1px solid $brand;
+    }
+
+    &:nth-of-type(even) {
+      background: $light-grey;
+    }
+
+    h4 {
+      font-weight: 400;
+    }
+
+    h5 {
+      margin: 0;
+    }
+
+    h3,
+    h4 {
+      margin: 0px 0px 10px;
+    }
+
+    h3,
+    h4,
+    h5,
+    p {
+      text-align: left;
+    }
+
+    img {
+      margin: 0 0 15px;
+    }
+
+    .twitter-tweet {
+      width: auto !important; // roast me
+    }
+  }
+}
