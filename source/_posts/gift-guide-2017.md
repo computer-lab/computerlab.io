@@ -29,8 +29,8 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="twt">
-      <twitterwidget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-0" style="position: static; visibility: visible; display: block; transform: rotate(0deg); max-width: 100%; width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="897671738032566272"></twitterwidget>
-      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr">uint friendshipsLostToCrypto;</p>&mdash; computer lab (@computerlab\_) <a href="https://twitter.com/computerlab_/status/897671738032566272?ref_src=twsrc%5Etfw">August 16, 2017</a></blockquote>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <h3>Cryptocurrency</h3>
     <h4>For the person that has everything</h4>
