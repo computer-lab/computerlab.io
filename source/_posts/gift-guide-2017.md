@@ -5,7 +5,7 @@ date: 2017-12-13
 category: Products
 tags: 
 - gifts
-lede: "Can’t figure out what to gift your loved ones this holiday season? We have some suggestions"
+lede: "Can’t figure out what to gift your loved ones this holiday season? We have some suggestions."
 author: Computer Lab
 ---
 
