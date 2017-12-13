@@ -194,7 +194,7 @@ author: Computer Lab
   <div class="gift">
     <img src="http://www.dyson.com/medialibrary/Group/ShopContent/Gallery%20Lightbox/FansAndHeaters/AM07/AM07BlackNickel/Dyson-AM07-Black-Nickel-Zoom_JPN.ashx?bc=ffffff" alt="Dyson AM06/AM07 tower fan">
     <h3>A Lucky Fan</h3>
-    <h4>For the mans whoo <em>is</em> hot</h4>
+    <h4>For the mans who <em>is</em> hot</h4>
     <h5>
       <em>Dyson AM07 Tower Fan,</em> $349.99 <a href="http://www.dyson.com/air-treatment/cooling-fans/am07/am07-tower-fan-black-nickel.aspx" target="_blank">from Dyson</a>
     </h5>
