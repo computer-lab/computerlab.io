@@ -12,15 +12,15 @@ image: "http://computerlab.io/images/google-911.png"
 __Like many others, in 2017 I became dangerously obsessed with blockchains and
 pigeons.__
 
-Some days I felt like my brain was broken, because all I could do was watch
-YouTube videos about the technicalities of scaling a global decentralized ledger
-or a loft of healthy Birmingham Roller pigeons.
+Some days it felt like my brain was broken because all I could do was watch
+YouTube videos about the challenges of scaling a global decentralized ledger or
+a loft of healthy Birmingham Roller pigeons.
 
 Many people were very skeptical about my new interests.
 
 "Pigeons are just rats with wings!" some friends said. "They spread disease!"
 
-Actually, these friends were just spreading FUD. The "rats with wings" phrase
+Actually, these friends were just repeating FUD. The "rats with wings" phrase
 originates from the 1980 movie "Stardust Memories", directed by accused child
 molestor Woody Allen. The belief that pigeons spread disease is the result of a
 misinformation campaign by pest control companies who want to sell poisons like
@@ -39,7 +39,7 @@ shoots, but pigeons are one of the four species that can be killed wantonly
 restriction under federal law, so there isn't much that pigeon activists can do.
 You can go into a park in NYC, net hundreds of pigeons, drive them to
 Pennsylvania and shoot them as they're ejected from a box, and that's perfectly
-fine legally. The other three unprotected species are sparrows, starlings, and
+fine legally. The three other unprotected species are sparrows, starlings, and
 nutria. In case you don't know what a nutria looks like, here's a video of a
 nutria couple having sex:
 
@@ -47,11 +47,35 @@ nutria couple having sex:
 
 Pigeons are unprotected because they're a non-native species. Domesticated
 pigeons were brought to North America, and the birds you see on the streets are
-feral versions of these beloved pet or food birds. Pigeons are also man's best
-friend. Dogs and cats were tamed in order to help humans hunt. Pigeons were
-domesticated in order to help carry information. The bond between man and pigeon
-is ancient. So, if someone asks me, why do you like pigeons? I often am tempted
-to reply, why don't you like pigeons? They are one of our partner-species!
+feral versions of these beloved pet, messenger, or food birds. Pigeons were the
+first domesticated bird and the only animal ever domesticated for messaging.
+
+The bond between man and pigeon is ancient. So, if someone asks me, why do you
+like pigeons? I often am tempted to reply, why don't you like pigeons?  They are
+one of our partner-species!
+
+I personally identify with the stoicism and adaptability of the birds.
+
+Despite being sensitive enough to electromagnetic fields and shifts in the sun,
+pigeons seem to waddle through really awful adversity without making a fuss. The
+"homing" instinct of pigeons that makes them so useful as messengers 
+
+
+I think most people are vaguely aware that people keep coops of pigeons on
+roofs in New York City, perhaps because of the lovely "Pigeon Man" episode in
+_Hey Arnold!_.
+
+Interestingly my pigeon mania was not sparked by one of these local pigeon men,
+but rather by an instagram video that my friend Alina sent me, posted by an
+account called @bird_7777. Pigeon instagram.
+
+Interacting with pigeons in the park is rewarding because the "homing" nature
+the birds means that you see the same birds each day, the variety of colorations
+and personality in the birds makes it easy to distinguish the birds. Also,
+making friends with a pigeon isn't that hard. I was inspired to actually feed
+the pigeons by this video on YouTube called "how to pet a pigeon".
+
+The homing ability of pigeons 
 
 Pigeon breeding, like nutria farming, has been a common site of fraud. There's
 even a horribly racist Vice documentary that claims that speculation in fancy
