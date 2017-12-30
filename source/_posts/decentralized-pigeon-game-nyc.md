@@ -16,23 +16,27 @@ Some days I felt like my brain was broken, because all I could do was watch
 YouTube videos about the technicalities of scaling a global decentralized ledger
 or a loft of healthy Birmingham Roller pigeons.
 
-Many people were very skeptical about my new interests.
+Many people were skeptical of my new interests.
 
 "Pigeons are just rats with wings!" some friends said. "They spread disease!"
 
 Actually, these friends were just spreading FUD. The "rats with wings" phrase
-originates from the 1980 movie "Stardust Memories", directed by accused child
-molestor Woody Allen. The belief that pigeons spread disease is the result of a
-misinformation campaign by pest control companies who want to sell poisons like
-Avitrol. Birds that eat Avitrol-laced seeds suffer horrific seizures and death.
+was popularized by the 1980 movie "Stardust Memories", directed by accused child
+molestor Woody Allen. The belief that pigeons spread disease is a lie spread by
+pest control companies who want to sell poisons like Avitrol. Birds that eat
+Avitrol-laced seeds suffer horrific seizures and death.
+
+<br />
 
 {% youtube mYdIz9N7TMY %}
 
+<br />
+
 In fact, as documented in [this academic paper from
 1965](http://www.jwildlifedis.org/doi/abs/10.7589/0090-3558-1.4.49?code=wdas-site),
-it's well-known that the body temperature of pigeons is on average around 108 F
-/ 43 C, an unusualy high level that makes it difficult for pigeon pathogens to
-survive in the human body.
+it's well-known that the body temperature of pigeons is on average around 108
+&deg;F / 43 &deg;C, an unusualy high level that makes it difficult for pigeon
+pathogens to survive in the human body.
 
 Many people are horrified by pigeon-directed cruelty of Avitrol and live pigeon
 shoots, but pigeons are one of the four species that can be killed wantonly
