@@ -21,16 +21,15 @@ Many people were skeptical of my new interests.
 I've heard all this FUD before. The "rats with wings" phrase was popularized by
 the 1980 movie "Stardust Memories", directed by accused child molester Woody
 Allen. The belief that pigeons spread disease is a lie spread by pest control
-companies who want to sell poisons like Avitrol. Birds who eat Avitrol-laced
-seeds suffer horrific seizures and death.
+companies who want to sell poisons like Avitrol.
 
 {% youtube mYdIz9N7TMY %}
 
-In fact, as documented in [this paper from
+In fact, as shown in [this paper from
 1965](http://www.jwildlifedis.org/doi/abs/10.7589/0090-3558-1.4.49?code=wdas-site),
-the body temperature of pigeons averages about 108&deg;F (43&deg;C). The
-unusual warmth of pigeons makes it difficult for their pathogens to survive in
-the human body and makes their little feet feel warm to the touch!
+the body temperature of pigeons averages about 108&deg;F (43&deg;C), which it
+difficult for their pathogens to survive in the human body and makes their
+little feet feel warm to the touch!
 
 Many people are horrified by pigeon-directed cruelty like Avitrol and [live
 pigeon shoots](https://www.youtube.com/watch?v=-3Daqrcob7M), but pigeons are one
@@ -121,7 +120,7 @@ and hydrate "my favorite", who I began to call Snowflake. I obsessively
 researched pigeon disease and treatment, worried that I was fucking up. I was
 afraid to bring Snowflake to a local wildlife rescue center, as they'd almost
 certainly be euthanized, given that the disease is extremely contagious. Every
-day I'd convince myself that Snowflake wes showing signs of improvement, or find
+day I'd convince myself that Snowflake was showing signs of improvement, or find
 a hopeful story online.
 
 
@@ -139,16 +138,17 @@ horrible seizures. I brought them to visit the park that was once their home,
 and then to a wildlife rescue center in Manhattan.
 
 In the weeks that followed, I tried to think about how I could use my new
-pigeon-care skills to help other birds. I learned more about the people who keep
-pigeons on their roofs, and started to make serious plans to become one of them.
+pigeon-care skills to help other birds, or make pigeons a bigger part of my
+life. I learned more about the people who keep pigeons on their roofs, and
+started to make serious plans to become one of them.
 
 For many rooftop pigeon keepers in New York, keeping pigeons is a game, a game
-quite different from pigeon racing or breeding for show. From what I understand,
-pigeon keepers release their flocks during the day, and the birds fly out and
-intermix with other neighboring flocks, communicating via flight. The pigeon
-keepers hope that all the birds will come home in the evening, along with birds
-from a neighboring flock. Hundreds of birds can be gained or lost in a day, and
-birds can be held hostage or ransomed back to their owners.
+quite different from pigeon racing or breeding for show. I learned that pigeon
+keepers release their flocks during the day, and the birds fly out and intermix
+with other neighboring flocks, communicating via flight. The pigeon keepers hope
+that all the birds will come home in the evening, along with birds from a
+neighboring flock. Hundreds of birds can be gained or lost in a day, and birds
+can be held hostage or ransomed back to their owners.
 
 {% youtube q1HFWlz4b7A %}
 
