@@ -12,7 +12,7 @@ image: "http://computerlab.io/images/pigeon_couple.jpg"
 __In 2017 I became dangerously obsessed with blockchain and pigeons.__
 
 Some days it felt like my brain was broken because I couldn't do anything but
-read, think, and watch videos about cryptocurrencies and pigeons.
+read, think, and watch videos about cryptocurrencies or pigeons.
 
 Many people were skeptical of my new interests.
 
@@ -34,11 +34,11 @@ the body temperature of pigeons averages about 108&deg;F (43&deg;C). The
 unusual warmth of pigeons makes it difficult for their pathogens to survive in
 the human body and makes their little feet feel warm to the touch!
 
-Many people are horrified by pigeon-directed cruelty like Avitrol and live
-pigeon shoots, but pigeons are one of the four species that can be killed
-without restriction under federal law. You can shoot them as they're ejected
-from a box, and that's perfectly fine legally. The three other unprotected
-species are sparrows, starlings, and
+Many people are horrified by pigeon-directed cruelty like Avitrol and [live
+pigeon shoots](https://www.youtube.com/watch?v=-3Daqrcob7M), but pigeons are one
+of the four species that can be killed without restriction under federal law.
+You can shoot domestic birds as they're ejected from a box, and that's perfectly
+fine legally. The three other unprotected species are sparrows, starlings, and
 [nutria](https://www.youtube.com/watch?v=u_H4my-TRgs).
 
 Pigeons exist in this legal gray area because they're a non-native species.
@@ -58,8 +58,8 @@ The bond between man and pigeon is ancient. So, if someone asks me, why do you
 like pigeons? I often am tempted to reply: why don't you like pigeons? They are
 one of our partner-species!
 
-I love how pigeons are sensitive enough to see earth's magnetic field and
-recognize paintings by Picasso but are also stoic enough to fly hundreds of
+I love how pigeons are sensitive enough to navigate using earth's magnetic field
+and recognize paintings by Picasso but are also stoic enough to fly hundreds of
 miles to get home and digest New York City garbage.
 
 I think most people are vaguely aware that pigeons are kept in rooftop coops in
@@ -81,7 +81,7 @@ The video, uploaded by Turkish pigeon fancier
 flying together above a field. The
 [@pigeon_mardin](https://instagram.com/pigeon_mardin) account is a popular
 Pigeon Instagram account. Pigeon Instagram is quite large, mainly populated by
-men from Pakistan, India, Belgium, Iran, and other Middle Eastern and European
+men from Pakistan, India, Belgium, Iran, and other Middle Eastern or European
 countries. There's a smaller American Pigeon Instagram centered around pigeon
 and dove rescue, but I didn't find it until later.
 
@@ -101,7 +101,7 @@ I ordered some seed from Amazon and followed the instructions in the video. I
 was delighted when after just a few days, I was able to pet a pigeon!
 
 Interacting with pigeons in the park was very rewarding. The "homing"
-orientation of pigeons meant that I saw the same birds each day, and began to
+orientation of pigeons meant that I saw the same birds every day, and began to
 develop a relationship with each of them individually. 
 
 One pigeon stood out: a light grey bird with green neck feathers that I came to
@@ -118,19 +118,19 @@ the more dominant birds on the ground but keen to eat as many seeds as possible.
 
 
 This summer and fall, I enjoyed hanging out with "my favorite" and other birds
-like "shitbird" and "squishfoot". But early this winter, "my favorite" suddenly
-began to behave strangely, twisting their neck and having trouble pecking at
-seeds. I recognized these behaviors as symptoms of the common disease Pigeon
-Paramyxovirus.
+in the flock like "shitbird" and "squishfoot". But early this winter, "my
+favorite" suddenly began to behave strangely, twisting their neck and having
+trouble pecking at seeds. I recognized these behaviors as symptoms of the common
+disease Pigeon Paramyxovirus.
 
 I hoped that "my favorite" would stabilize, but after just a few days they were
 so weak and confused that I was able to simply guide them into a banker's box and
 bring them home.
 
-The next few weeks were very difficult. "my favorite" got a little bit worse
-every day, first losing the ability to feed themselves, then losing the ability
+The next few weeks were very difficult. Every day, "my favorite" got a little
+bit worse, first losing the ability to feed themselves, then losing the ability
 to stand, and then beginning to twitch involuntarily. I stayed home to hand-feed
-and hydrate "my favorite", who I began to call Snowflake.  I obsessively
+and hydrate "my favorite", who I began to call Snowflake. I obsessively
 researched pigeon disease and treatment, worried that I was fucking up. I was
 afraid to bring Snowflake to a local wildlife rescue center, as they'd almost
 certainly be euthanized, given that the disease is extremely contagious. Every
@@ -150,19 +150,19 @@ time worrying that I might be interfering with nature or abetting the
 development of a global greed-virus started to get to me.
 
 Around the time I finally figured out the blockchain project, it became clear to
-me that Snowflake was probably not going to get better. I brought them to visit
-the park that was their home, and then to a wildlife rescue center in Manhattan.
+me that Snowflake was probably not going to get better. They were having
+horrible seizures. I brought them to visit the park that was once their home,
+and then to a wildlife rescue center in Manhattan.
 
-I tried to think about how I could use my new pigeon-care skills to help other
-birds, and learned more about the people who keep pigeons on their roofs. I
-started to make serious plans to become one of them, and this vision sustained
-my in the late weeks of 2017.
+In the weeks that followed, I tried to think about how I could use my new
+pigeon-care skills to help other birds. I learned more about the people who keep
+pigeons on their roofs, and started to make serious plans to become one of them.
 
 For many rooftop pigeon keepers in New York, keeping pigeons is a game, a game
 quite different from pigeon racing or breeding for show. From what I understand,
-pigeon keepers let their flocks out of the coop during the day, and the birds
-fly out and intermix with other neighboring flocks, communicating via flight.
-The hope is that all the birds will come home in the evening, along with birds
+pigeon keepers release their flocks during the day, and the birds fly out and
+intermix with other neighboring flocks, communicating via flight. The pigeon
+keepers hope that all the birds will come home in the evening, along with birds
 from a neighboring flock. Hundreds of birds can be gained or lost in a day, and
 birds can be held hostage or ransomed back to their owners.
 
@@ -175,8 +175,10 @@ organizing authority, and is a form of competitive caretaking. It doesn't even
 have a canonical name: it's known alternatively as pigeon flying, pigeon
 turning, the pigeon wars. The "rules" are constantly being redefined between
 individual participants, who freely enter and leave the game, perhaps meeting at
-hubs like "Pigeons on Broadway", a pet shop in Bed-Stuy with hundreds of pigeons
-in the back.
+hubs like "Pigeons on Broadway", a pet shop with hundreds of pigeons in the
+back.
 
-I hope that the game leads to happy pigeons and people, and enjoy imagining a
-future where more people compete to attract and care for flocks of birds.
+I hope that this game leads to happy pigeons and people. I enjoy imagining a
+future where many more people compete to attract and care for flocks of birds,
+or engage in similar activities. This vision helped me in the late weeks of
+2017.
