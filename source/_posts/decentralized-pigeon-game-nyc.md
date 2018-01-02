@@ -24,9 +24,7 @@ Allen. The belief that pigeons spread disease is a lie spread by pest control
 companies who want to sell poisons like Avitrol. Birds who eat Avitrol-laced
 seeds suffer horrific seizures and death.
 
-<br />
 {% youtube mYdIz9N7TMY %}
-<br />
 
 In fact, as documented in [this paper from
 1965](http://www.jwildlifedis.org/doi/abs/10.7589/0090-3558-1.4.49?code=wdas-site),
@@ -47,12 +45,9 @@ eventually pigeons were no longer popular as either food, pets, or messengers.
 The birds you see on the streets are the feral descendants of these beloved pet,
 messenger, or food birds. They're more like street cats than wild birds.
 
-<br />
-<div align="center">
+<div align="center" style="margin: 25px auto;">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Baq6AtUAJ7C/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Baq6AtUAJ7C/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">سرور دم سفید کبوتر انلاین... دوستان جهت خرید بهترین کبوترهای رنگی تزیئنی وپلاکی به کانال ما مراجعه کنید آدرس کانال داخل پیج قسمت بیو هست لطفا عضوشوید با تشکر👆👆👆</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kaftar.lrani.shiraz/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> kaftar shiraz</a> (@kaftar.lrani.shiraz) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-10-25T12:07:30+00:00">Oct 25, 2017 at 5:07am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
-
-<br />
 
 The bond between man and pigeon is ancient. So, if someone asks me, why do you
 like pigeons? I often am tempted to reply: why don't you like pigeons? They are
@@ -69,12 +64,9 @@ Arnold!_
 But, my pigeon obsession was not sparked by these local pigeon men.
 Instead, it began with an Instagram post my friend Alina sent me. 
 
-<br />
-<div align="center">
+<div align="center" style="margin: 25px auto;">
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BGxYYecSLii/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BGxYYecSLii/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by güvercin, pigeon, abo, bird (@pigeon_mardin)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-06-17T22:00:27+00:00">Jun 17, 2016 at 3:00pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
-
-<br />
 
 The video, uploaded by Turkish pigeon fancier
 [@pigeon_mardin](https://instagram.com/pigeon_mardin), shows a pigeon couple
@@ -90,9 +82,7 @@ I enjoy Pigeon Instagram very much and hope to become a part of it.
 About half a year later, another video had a big impact on me: "How to pet a
 pigeon" by Chetan Kothari on YouTube. 
 
-<br />
 {% youtube QxfusXIVTDc %}
-<br />
 
 This video made me realize that I could interact with the pigeons in the park by
 my office.
@@ -109,12 +99,9 @@ call "my favorite". They were the first pigeon to fly up on the park bench, and
 the first to perch on my hand to eat. They were uninterested in fighting with
 the more dominant birds on the ground but keen to eat as many seeds as possible.
 
-<br />
-<div align="center">
+<div align="center" style="margin: 25px auto;">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BbdZd_YAOyi/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BbdZd_YAOyi/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">@myfavorite_pigeon</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/tribeca.pigeons/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Tribeca Pigeons</a> (@tribeca.pigeons) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-11-14T02:44:50+00:00">Nov 13, 2017 at 6:44pm PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
-
-<br />
 
 
 This summer and fall, I enjoyed hanging out with "my favorite" and other birds
@@ -138,12 +125,9 @@ day I'd convince myself that Snowflake wes showing signs of improvement, or find
 a hopeful story online.
 
 
-<br />
-<div align="center">
+<div align="center" style="margin: 25px auto;">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BdcIZmoFK8g/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BdcIZmoFK8g/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">As they lost the ability to stand...</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/myfavorite_pigeon/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> My Favorite</a> (@myfavorite_pigeon) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-01-02T07:59:27+00:00">Jan 1, 2018 at 11:59pm PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
-
-<br />
 
 At the same time, I was working on a blockchain-related project. Spending all my
 time worrying that I might be interfering with nature or abetting the
@@ -166,9 +150,7 @@ keepers hope that all the birds will come home in the evening, along with birds
 from a neighboring flock. Hundreds of birds can be gained or lost in a day, and
 birds can be held hostage or ransomed back to their owners.
 
-<br />
 {% youtube q1HFWlz4b7A %}
-<br />
 
 The structure of this game really blows my mind. The game functions without any
 organizing authority, and is a form of competitive caretaking. It doesn't even
@@ -178,7 +160,7 @@ individual participants, who freely enter and leave the game, perhaps meeting at
 hubs like "Pigeons on Broadway", a pet shop with hundreds of pigeons in the
 back.
 
-I hope that this game leads to happy pigeons and people. I enjoy imagining a
-future where many more people compete to attract and care for flocks of birds,
-or engage in similar activities. This vision helped me in the late weeks of
-2017.
+I hope that this peer-to-peer game ultimately results in happy pigeons and
+people. I enjoy imagining a future where many more people compete to attract and
+care for flocks of birds, or engage in similar activities. This vision helped me
+in the late weeks of 2017.
