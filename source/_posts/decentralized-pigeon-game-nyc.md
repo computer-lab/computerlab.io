@@ -60,7 +60,7 @@ I love how pigeons are sensitive enough to see earth's magnetic field and
 recognize paintings by Picasso but are also stoic enough to fly hundreds of
 miles to get home and digest New York City garbage.
 
-I think many people are vaguely aware that people keep pigeons in rooftop coops
+I think most people are vaguely aware that people keep pigeons in rooftop coops
 in New York City, perhaps thanks to the lovely "Pigeon Man" episode of _Hey
 Arnold!_ But, my pigeon obsession was not sparked by one of these local pigeon
 men.  Instead, it began with an Instagram video post sent to me by friend Alina.
@@ -72,10 +72,10 @@ men.  Instead, it began with an Instagram video post sent to me by friend Alina.
 
 <br />
 
-The video, uploaded by the Turkish pigeon fancier
-[@pigeon_madrin](https://instagram.com/pigeon_madrin), shows a pigeon couple
+The video, uploaded by Turkish pigeon fancier
+[@pigeon_mardin](https://instagram.com/pigeon_mardin), shows a pigeon couple
 flying together above a field. The
-[@pigeon_madrin](https://instagram.com/pigeon_madrin) account is a popular
+[@pigeon_mardin](https://instagram.com/pigeon_mardin) account is a popular
 pigeon Instagram account. Pigeon Instagram is quite large, and seems to be
 mainly populated by men from Pakistan, India, Belgium, Iran, and other Middle
 Eastern and European countries. There's a smaller American Pigeon Instagram
@@ -96,14 +96,15 @@ front of my office.
 I ordered some seed from Amazon and followed the instructions in the video. I
 was delighted when after just a few days, I was able to pet a pigeon!
 
-Interacting with pigeons in the park is very rewarding because. The "homing"
-orientation of pigeons means that you see the same birds each day, and you begin to
-develop a relationship with each of them individually. 
+Interacting with pigeons in the park is very rewarding. The "homing" orientation
+of pigeons means that you see the same birds each day, and you begin to develop
+a relationship with each of them individually. 
 
-One pigeon stood out, a bird that I came to call "my favorite". They were the
-first bird to fly up on the park bench to avoid competing with the more dominant
-birds on the ground, and the first to perch on my hand to eat.  They were
-uninterested in fighting but keen to eat as many seeds as possible.
+One pigeon stood out, a light grey bird with purple and green neck feathers that
+I came to call "my favorite". They were the first pigeon to fly up on the park
+bench, and the first to perch on my hand to eat. They were uninterested in
+fighting with the more dominant birds on the ground but keen to eat as many
+seeds as possible.
 
 <br />
 <div align="center">
@@ -111,14 +112,57 @@ uninterested in fighting but keen to eat as many seeds as possible.
 </div>
 
 <br />
-Pigeon breeding, like nutria farming, has been a common site of fraud. There's
-even a horribly racist Vice documentary that claims that speculation in fancy
-pigeons is a scam rigged by wealthy insiders, especially in China.
 
-"Not everything needs to be pigeons!" fellow Computer Lab partner Zachary once
-exclaimed to me. I'm sure many readers have felt the urge to exclaim "Not
-everything needs to be blockchain!" at some point this year.
 
-After I learned about the decentralized NYC rooftop pigeon game / competition, I
-enjoyed fantasizing about a future when people competed to be the best caretaker
-of flocks of wild animals.
+This summer and fall, I enjoyed hanging out with "my favorite" and other birds
+like "shitbird" and "squishfoot". But early this winter, "my favorite" suddenly
+began to behave strangely, twisting their neck and having trouble pecking at
+seeds. I recognized these behaviors as symptoms of a common disease called
+Pigeon Paramyxovirus.
+
+I hoped that "my favorite" would stabilize, but after just a few days they were
+so weak and confused that I could simply guide them into a banker's box and
+bring them home.
+
+The next few weeks were very difficult. "my favorite" got a little bit worse
+every day, first losing the ability to feed themselves, then losing the ability
+to stand, and then beginning to twitch involuntarily. I stayed home most days to
+hand-feed and hydrate "my favorite", who I began to call Snowflake / Sweetheart.
+I obsessively researched pigeon disease and treatment, worried that I was
+fucking up. I was disinclined to bring Snowflake to a local wildlife rescue
+center, as they'd almost certainly be euthanized, given that the disease is
+extremely contagious. Every day I'd convince myself that Snowflake wes showing
+signs of improvement, or find a hopeful story online.
+
+At the same time, I was working on an Ethereum-related project. Spending all my
+time worrying that I might be interfering with nature or abetting the
+development of a global greed-virus started to get to me.
+
+Around the time I finally figured out the Ethereum project, it became clear to
+me that Snowflake was probably not going to get better. I brought them to visit
+the park that they called home, and then to a wildlife rescue center in
+Manhattan.
+
+In the remaining weeks of 2017, I tried to think about how I could use my new
+pigeon-care skills to help other birds, and learned more about the people who
+keep pigeons on their roofs. I started to make serious plans to become one of
+them.
+
+For many rooftop pigeon keepers in New York, keeping pigeons is a game, a game
+quite different from pigeon racing or breeding for show. From what I understand,
+pigeon keepers let their flocks out of the coop during the day, and the birds
+fly out and intermix with other neighboring flocks, communicating via flight.
+The hope is that all the birds will come home in the evening, along with birds
+from a neighboring flock. Hundreds of birds can be gained or lost in a day, and
+birds can be held hostage or ransomed back to their owners.
+
+The structure of this game really blows my mind. The game functions without any
+organizing authority, and is a form of competitive caretaking. It doesn't even
+have a canonical name: it's known alternatively as pigeon flying, pigeon
+turning, the pigeon wars. The "rules" are constantly being redefined between
+individual participants, who freely enter and leave the game, perhaps meeting at
+hubs like "Pigeons on Broadway", a pet shop in Bed-Stuy with hundreds of pigeons
+in the back.
+
+I hope that the game leads to happy pigeons and people, and enjoy imagining a
+future where more people compete to attract and care for flocks of birds.
