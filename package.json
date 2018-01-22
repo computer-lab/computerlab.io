@@ -1,9 +1,14 @@
 {
-  "name": "hexo-site",
+  "name": "computer-lab",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
   "hexo": {
-    "version": "3.4.4"
+    "version": "3.4.0"
+  },
+  "scripts": {
+    "develop": "hexo serve",
+    "start": "hexo serve"
   },
   "dependencies": {
     "hexo": "^3.3.8",
