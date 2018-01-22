@@ -37,5 +37,3 @@ notifications:
   slack:
     rooms:
     - computer-lab:9vWrWatbwuLTfTfb37qfeNR8#notifications
-after_deploy:
-- travis-ci-cloudfront-invalidation -a $AWS_KEY -s $AWS_SECRET -c E2ISCVBFRL2CPE -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST

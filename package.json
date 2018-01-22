@@ -22,7 +22,6 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.0",
-    "hexo-server": "^0.1.2",
-    "travis-ci-cloudfront-invalidation": "^0.0.4"
+    "hexo-server": "^0.1.2"
   }
 }
