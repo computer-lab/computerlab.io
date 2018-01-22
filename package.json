@@ -7,8 +7,8 @@
     "version": "3.4.0"
   },
   "scripts": {
-    "develop": "hexo serve",
-    "start": "hexo serve"
+    "develop": "hexo server",
+    "start": "hexo server"
   },
   "dependencies": {
     "hexo": "^3.3.8",

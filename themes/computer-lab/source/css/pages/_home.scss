@@ -60,7 +60,6 @@
   justify-content: center;
   resize: vertical;
   overflow: auto;
-  height: 100%;
   background-color: $alt-white;
 
   @media (max-width: $tablet) {
@@ -157,7 +156,6 @@
   justify-content: center;
   resize: vertical;
   overflow: auto;
-  height: 100%;
   padding: 100px 0px;
 
   @media (max-width: $tablet) {
@@ -221,7 +219,6 @@
   justify-content: center;
   resize: vertical;
   overflow: auto;
-  height: 100%;
 
   @media (max-width: $tablet) {
     padding-bottom: $base-spacing * 8;
