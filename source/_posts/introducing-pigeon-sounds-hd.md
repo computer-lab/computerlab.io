@@ -3,13 +3,13 @@ layout: post
 title: Pigeon Sounds HD Now Available for iOS and Android
 date: 2018-02-14
 category: Notes
-lede: "Download the free Pigeon Sounds HD app to access a curated collection of pigeon recordings."
+lede: "Install the free Pigeon Sounds HD app to access a curated collection of pigeon recordings including sounds ranging from happy grunts to grieving coos."
 author: Patrick Steadman
 published: true
 image: "https://computerlab.io/images/pigeon-sounds-banner.png"
 ---
 
-__Download the free Pigeon Sounds HD app to access a curated collection of pigeon recordings including everything from happy grunts to grieving coos.__
+__Install the free Pigeon Sounds HD app to access a curated collection of pigeon recordings including sounds ranging from happy grunts to grieving coos.__
 
 ![Pigeon Sounds HD](/images/pigeon-sounds-banner.png)
 
