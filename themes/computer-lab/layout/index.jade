@@ -7,7 +7,7 @@ block site_body
     .container.hero
       .row.copy
         .col-md-6.col-md-offset-3
-          h1 Computer Lab is a software consultancy and publishing house in New York City.
+          h1=config.description
       .row
         .col-md-6.col-md-offset-3
           a.btn.btn-default.alt(onclick="Intercom('show')") Chat Now
@@ -27,8 +27,8 @@ block site_body
               span
           .about.wow.fadeIn
             p
-              | We also publish writing and software, including technical 
-              | articles, open source libraries, and research about the domains 
+              | We publish writing and software informed by our consulting practice. We
+              | also host events, workshops and residencies related to the domains
               | where we work.
               | Get in touch to discuss your next project or arrange a visit to
               | our office in 

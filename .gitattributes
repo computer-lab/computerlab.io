@@ -1,0 +1,4 @@
+*.min.js binary
+*.min.css binary
+themes/computer-lab/source/bower_components/** binary
+
