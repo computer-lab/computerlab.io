@@ -1,5 +1,6 @@
 footer {
   background-color: $brand;
+  border-bottom: 6px solid darken($brand, 20%);
   height: auto;
   padding: $base-spacing * 2 0 $base-spacing * 3;
   color: $white;
