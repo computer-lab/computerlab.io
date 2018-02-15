@@ -7,7 +7,7 @@ block site_body
     .container.hero
       .row.copy
         .col-md-6.col-md-offset-3
-          h1 Computer Lab is a software consultancy in New York City that builds digital products.
+          h1=config.description
       .row
         .col-md-6.col-md-offset-3
           a.btn.btn-default.alt(onclick="Intercom('show')") Chat Now
@@ -22,19 +22,18 @@ block site_body
             p 
               span
               | Computer Lab is a full-service dev shop focused on the development of data-driven applications. 
-              | We engineer solutions that shape and accelerate our clients' goals in media, tech, healthcare and beyond. 
+              | We engineer solutions that shape and accelerate our clients' goals in healthcare, media and beyond.
+            p
+              span
           .about.wow.fadeIn
             p
-              | Computer Lab was founded in 2016 by 
-              span
-                a(target='_blank' href='http://mfowler.info/about.html') Max Fowler
-                | , 
-                a(target='_blank' href='https://ptsteadman.com/') Patrick Steadman
-                |  and 
-                a(target='_blank' href='http://zachtaylor.me') Zachary Taylor
-                | . Our office in 
-                a(target='_blank' href='https://www.google.com/maps/place/Computer+Lab/@40.720358,-74.0059364,19.49z/data=!4m13!1m7!3m6!1s0x89c2598ac53690e1:0x684ebca8b026f25c!2s260+W+Broadway,+New+York,+NY+10013!3b1!8m2!3d40.7206119!4d-74.0056692!3m4!1s0x0:0x29ce7dd0dcc4a944!8m2!3d40.7206119!4d-74.005669') Tribeca
-                |  is open to all; get in touch and let's discuss how we can help with your next project.
+              | We publish writing and software informed by our consulting
+              | practice, and host events and residencies related to the domains
+              | where we work.
+              | Get in touch to discuss your next project or arrange a visit to
+              | our office in 
+              a(target='_blank' href='https://www.google.com/maps/place/Computer+Lab/@40.720358,-74.0059364,19.49z/data=!4m13!1m7!3m6!1s0x89c2598ac53690e1:0x684ebca8b026f25c!2s260+W+Broadway,+New+York,+NY+10013!3b1!8m2!3d40.7206119!4d-74.0056692!3m4!1s0x0:0x29ce7dd0dcc4a944!8m2!3d40.7206119!4d-74.005669') Tribeca
+              | .
           .about.wow.fadeIn    
             p
               a.btn.btn-default.email(href='mailto:hi@computerlab.io?Subject=Inquiry') Email
@@ -97,7 +96,7 @@ block site_body
             | , a creative agency in NYC. The 
             a(target='_blank' href="http://pinpoints.io") PinPoints
             |  build convinced us that React’s declarative components are a great fit for developing 3D user interfaces in the browser.
-  section#services.content-section
+  section#domains.content-section
     .container
       .row
         .col-md-offset-2.col-md-8.col-xs-12.wow.fadeIn
@@ -127,7 +126,7 @@ block site_body
           h3 Rapid Prototyping
           p Computer Lab can rapidly form specialized teams to tackle MVP builds with highly involved technical, data science, or design needs. Our process ensures well-documented, world-class software engineering that will help de-risk your business.
     //.container
-      .list-of-services
+      .list-of-domains
         .row
           .col-md-4.wow.fadeIn
             .service
