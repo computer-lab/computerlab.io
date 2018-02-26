@@ -22,18 +22,23 @@ author: torcbell
 
 
 
-```basic``` is a system of predicate relations in which ```self``` is an enclosing object and ````I```` is a procedural force that can generate instance ````self````.  ```breed``` function symbolically mediates complicity between self-referential objects within the matrix and dominant language models. see ```abstract factory```.
+```basic``` is a system of predicate relations in which ```self``` is an enclosing object and ````I```` is a procedural force that can generate instance ````self````.  ```breed``` function symbolically mediates complicity between self-referential objects within the matrix and dominant language models. see also ```abstract factory```. 
 
 > *Each body wants to exhaust its form-of-life and leave it for dead. Then, it passes on to another. This is how a
 body gets thicker, nourished with experience. But it also becomes more supple: it has learned how to get rid of one
 figure of the self.* [citation needed]
 
-## Are you advanced ```basic```? It depends how far you're willing to go to get over yourself. 
-  ```
+```
   basic
   basic.class {Yoga, light CBT, adderall, moralistic therapeutic deism.}
   ``` 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic--  basic to the extent that it could do without us. The paradox is that there's nothing more ```basic``` than focusing in on the pejorative sense of the term. You're ```basic``` if you're still flagging the ```fuccboi``` you met last night, the ```baby voice```, elective victimhood, conscious capitalism, etc etc in the ongoing taste wars. That's not cultural practice. That's just ```basic``` trolling. 
+  ## Are you advanced ```basic```? It depends how far you're willing to go to get over yourself. 
+
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic, and basic enough to exist beyond us.  ```advbasic``` defines any instance beyond subject/object melodramas, which have only ever been the mediation of presence through ideas. A tendency of ```basic``` is to produce non-value producing value statements -- self/other, good/bad, like/dislike, worth it/not worth it, us/them, fake/real and so on.  All relationships become non-consensual sub/dom relationships ready for economic deployment. ```universal basic equivalence```. Not just capitalism but the entire framework of perception. 
+
+In cartesian logic, ```being``` emerges as an attribute of consciousness, rather than the intimacy between knowledge and perception. see also ```realization```.  Nobody exists in thought — but in ```basic``` terms, we survive there. ```basic``` is an existential programming construct that attempts to circumscribe the self in an intelligent machine logic, so that the only possibilities for being are those already constrained by the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile presence with representation. 
+
+The paradox is that there's nothing more ```basic``` than focusing in on the pejorative sense of the term. You're ```basic``` if you're still flagging the ```fuccboi``` you met last night, the ```baby voice```, elective victimhood, conscious capitalism, etc etc in the ongoing taste wars. That's not cultural practice. That's just ```basic``` trolling. 
 
 ```basic``` in the vernacular describes a compilation of phobias triggered by anyone who isn’t *being themselves* at all costs. 
 
@@ -48,16 +53,13 @@ Every lifestyle choice is a coping strategy, a means to overcome the basic fact 
 ```
 
 ```Basic``` as that which over-represents itself: a surplus of identity, a formalized pattern that operates as a security environment against the threat of the ```vulnerable.``` 
-```
-define: basic if{ chain purses, couples, meaningful tattoos, lace-up boots with zippers, identity politics, coachella, aspirant productivity, virtual militarization, spectator terrorism, kink, social justice startups, critical theory, legacy activism, schizophrenic feminism, #metoo, glamping, the alt-right, marxism, personal development, sonograms of unborn children circulating via facebook posts about your 'natural birth', breakdowns, fake news, diversity -> variety, preferences, finding yourself, finding the one, young creatives, social media crypto, consumer holidays, normativity, non-normativity, permaculture, lit hum, failed minimalism, cops, going out 
-
-```
 
 see also ```existential terrorism```. 
 
-You’re ```advbasic``` when you’re beyond subject/object melodramas, which has only ever been the mediation of being in the world through non-consensual sub/dom relationships. Not just capitalism but the entire framework of perception. In cartesian logic, ```being``` emerges as an attribute of consciousness, rather than the intimacy between knowledge and perception. see also ```realization```.  
+```
+define: basic if{ chain purses, couples, meaningful tattoos, lace-up boots with zippers, identity politics, coachella, aspirant productivity, virtual militarization, spectator terrorism, kink, social justice startups, critical theory, legacy activism, schizophrenic feminism, #metoo, glamping, the alt-right, marxism, personal development, sonograms of unborn children circulating via facebook posts about your 'natural birth', breakdowns, fake news, diversity -> variety, preferences, finding yourself, finding the one, young creatives, social media crypto, consumer holidays, normativity, non-normativity, permaculture, lit hum, failed minimalism, cops, going out 
 
-In other words, nobody exists in thought — but in ```basic``` terms, we survive there. ```basic``` is an existential programming construct that attempts to circumscribe the self in an intelligent machine logic, so that the only possibilities for being are those already constrained by the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile presence with representation. 
+``
 
 Various semantic glitches ensue, which require the ```social deviance``` patch to run. 
 
