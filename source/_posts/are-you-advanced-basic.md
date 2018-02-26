@@ -84,7 +84,7 @@ Various semantic glitches ensue, which require the ```social deviance``` patch t
 
 If the ```basic``` could be looked at as encryption - an artificial intelligence modeled after the european enlightenment, which didn’t so much liberate subjects than it did objects - then ```advbasic``` is decryption. It is anti-transcendential because that's how you hack shit. 
 
-```advbasic``` is high level semantics for fun and profit. A means of figuring out not *what something is, but how it is — and the strategic programming of possibilities from there. 
+```advbasic``` is high level semantics for fun and profit. A means of figuring out not *what something is, but how it is — and the strategic programming of possibilities from there.*
 
 
 
