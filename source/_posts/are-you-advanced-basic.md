@@ -45,16 +45,15 @@ Every lifestyle choice is a coping strategy, a means to overcome the basic fact 
 
 ```basic``` is an existential programming construct that circumscribes the self in an intelligent machine logic, so that the only possibilities for being are those at the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile oneself with the very objectivity through which your code was originally executed. ```Identity``` is defined as both a state of separation and a solution to connection, as well as a necessary function of the social order. There’s nothing more ```basic``` than being yourself, which is essentially gentrification elevated to the level of a formal perspective. 
 
-```being yourself```encapsulates all the shit we pile onto our experience, the resigned cynicism that populates our intelligence, the rackets we run as social relationships, all the lies we've earned to tell through a certain kind of participation in culture, the creativity behind our strife, great jobs, etc — basically, whatever hides us from the sense that *we’re living beyond our means, and that what it means is something we'll never live up to.  
+```being yourself```encapsulates all the shit we pile onto our experience, the resigned cynicism that populates our intelligence, the rackets we run as social relationships, all the lies we've earned to tell through a certain kind of participation in culture, the creativity behind our strife, great jobs, etc — basically, whatever hides us from the sense that *we’re living beyond our means, and that what it means is something we'll never live up to.*  
 
-```Basic``` over-represents itself: a surplus of identity, a formalized pattern that operates as a security environment against the threat of the ```vulnerable.``` 
+```Basic``` **over-represents itself and features a surplus of identity**. A formalized pattern that operates as a security environment against the threat of the ```vulnerable.``` 
 
-The ```basic``` is a mccarthyist predeliction aimed at ostracizing those who are a bit *too* socially mediated.  ```basic``` in the vernacular is the result of a compilation of phobias triggered by anyone who isn’t *expressing their tru self* at all costs, i.e.,  circulating as a fixed referent in relation to the dominant modes of value-formation. A tendency of ```basic``` is to produce non-value producing value statements -- self/other, good/bad, like/dislike, worth it/not worth it, us/them, fake/real and so on.  All relationships become non-consensual sub/dom relationships pre-programmed for exchange across the abstract plane of the economic. 
+The ```basic``` is a mccarthyist predeliction aimed at ostracizing those who are a bit *too* socially mediated. The vernacular sense of the term  ```basic```  is the result of a compilation of phobias triggered by anyone who isn’t *expressing their tru self* at all costs, i.e.,  circulating as a fixed referent in relation to the dominant modes of value-formation. 
 
+A tendency of ```basic``` is to produce non-value producing value statements -- self/other, good/bad, like/dislike, worth it/not worth it, us/them, fake/real and so on.  Within this paradigm, relationships become non-consensual sub/dom relationships pre-programmed for exchange across the abstract plane of the economic. 
 
-```advbasic``` isn’t about degentrifying the personal from consumer infiltration, or pop culture, or whateverdomination-- instead presents an alternative model to artifical humanism. 
-
-see also ```existential terrorism```. 
+```advbasic``` isn’t about degentrifying the personal from consumer infiltration, or pop culture, or whateverdomination-- instead presents an alternative model to artifical humanism and possibly the only way through. see ```existential terrorism```. 
 
 
 ```
@@ -71,11 +70,9 @@ My body is not an object(I have the right to own myself.)
   $I am who I am. 
   
 ```
-
-```basic.attribute {normalized deviance}```
-
 Various semantic glitches ensue, which require the ```social deviance``` patch to run. 
 
+```basic.attribute {normalized deviance}```
 
 ```basic``` is an inheritance model in which ```identity``` is a secure, self-referencing system. With the goal of having the kind of referential stability capable of outliving any humanity, including the one that produced it. ```basic``` defines profiles without users, any personality that seems to be abstracted from any one person. The only thing personal is property, and, as we all know, property is an attribute of objects. Thus the advanced distinction```advbasic``` as **particularity**, thereby overwriting personality as necessary to social survival.  
 
