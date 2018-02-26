@@ -36,8 +36,14 @@ figure of the self.* [citation needed]
 
 Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic, and basic enough to exist beyond us. ```advbasic``` defines any instance beyond the usual subject/object melodramas, which have only ever been the mediation of reality through representation. ```universal basic equivalence```: not just capitalism but the entire framework of perception. In cartesian logic, ```being``` emerges as an attribute of consciousness, rather than the intimacy between knowledge and perception. Nobody exists in thought — but in ```basic``` terms, we survive there. 
 
-```basic``` is an existential programming construct that circumscribes the self in an intelligent machine logic, so that the only possibilities for being are those at the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile oneself with the very objectivity through which you were originally executed. Identity describes both a state of separation and a solution to division, as well as a principle of social order. There’s nothing more ```basic``` than being yourself, which is essentially gentrification elevated to the level of a formal perspective. 
 
+
+``` Create object 
+  cartesian subject  basic.basic  also nuclear.basic``` 
+```
+
+
+```basic``` is an existential programming construct that circumscribes the self in an intelligent machine logic, so that the only possibilities for being are those at the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile oneself with the very objectivity through which you were originally executed. Identity describes both a state of separation and a solution to division, as well as a principle of social order. There’s nothing more ```basic``` than being yourself, which is essentially gentrification elevated to the level of a formal perspective. 
 ```being yourself```encapsulates all the shit we pile onto our experience, the resigned cynicism that populates our intelligence, the rackets we run as social relationships, all the lies we've earned to tell through a certain kind of participation in culture, the creativity behind our strife, great jobs, etc — basically, whatever hides us from the sense that *we’re living beyond our means, and that what it means is something we'll never live up to.  
 
 ```Basic``` over-represents itself: a surplus of identity, a formalized pattern that operates as a security environment against the threat of the ```vulnerable.``` 
@@ -46,10 +52,6 @@ The ```basic``` is a mccarthyist predeliction aimed at ostracizing those who are
 
 
 ```advbasic``` isn’t about degentrifying the personal from consumer infiltration, or pop culture, or whateverdomination-- instead presents an alternative model to artifical humanism. 
-
-``` Create object 
-  cartesian subject  basic.basic  also nuclear.basic``` 
-```
 
 see also ```existential terrorism```. 
 
