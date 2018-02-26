@@ -14,15 +14,15 @@ author: torcbell
 
 ```   
     BEGIN 
-    if(think)
-    then(be) 
+    if(representation)
+    then(reality) 
     LOOP 
 ```
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 
-```basic``` is a system of predicate relations in which ```self``` is an enclosing object and ````I```` is a procedural force that can generate instances of ````self````.  ```breed``` function symbolically mediates complicity between self-referential objects and interactive language domains. see ```abstract factory```.
+```basic``` is a system of predicate relations in which ```self``` is an enclosing object and ````I```` is a procedural force that can generate instance ````self````.  ```breed``` function symbolically mediates complicity between self-referential objects within the matrix and dominant language models. see ```abstract factory```.
 
 > *Each body wants to exhaust its form-of-life and leave it for dead. Then, it passes on to another. This is how a
 body gets thicker, nourished with experience. But it also becomes more supple: it has learned how to get rid of one
