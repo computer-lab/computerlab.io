@@ -82,7 +82,7 @@ Various semantic glitches ensue, which require the ```social deviance``` patch t
 
 ```advbasic``` isn’t a description logic: we’re not trying to develop the right interpreters, capable of processing the endless compilations of signs passing for culture these days, this would be a complete waste of time. Probably on par with critical theory, or consciousness raising. 
 
-If the ```basic``` could be looked at as encryption - an artificial intelligence modeled after the european enlightenment, which didn’t so much liberate subjects than it did objects - then ```advbasic``` is decryption. It is anti-transcendential because that isn’t how you hack shit. 
+If the ```basic``` could be looked at as encryption - an artificial intelligence modeled after the european enlightenment, which didn’t so much liberate subjects than it did objects - then ```advbasic``` is decryption. It is anti-transcendential because that's how you hack shit. 
 
 ```advbasic``` is high level semantics for fun and profit. A means of figuring out not *what something is, but how it is — and the strategic programming of possibilities from there. 
 
