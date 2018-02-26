@@ -34,23 +34,15 @@ figure of the self.* [citation needed]
   ``` 
   ## Are you advanced ```basic```? It depends how far you're willing to go to get over yourself. 
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic, and basic enough to exist beyond us. ```advbasic``` defines any instance beyond the usual subject/object melodramas, which have only ever been the mediation of reality through representation. ```universal basic equivalence```. Not just capitalism but the entire framework of perception. In cartesian logic, ```being``` emerges as an attribute of consciousness, rather than the intimacy between knowledge and perception. see also ```realization```.  Nobody exists in thought — but in ```basic``` terms, we survive there. 
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic, and basic enough to exist beyond us. ```advbasic``` defines any instance beyond the usual subject/object melodramas, which have only ever been the mediation of reality through representation. ```universal basic equivalence```: not just capitalism but the entire framework of perception. In cartesian logic, ```being``` emerges as an attribute of consciousness, rather than the intimacy between knowledge and perception. Nobody exists in thought — but in ```basic``` terms, we survive there. 
 
-
-```basic``` is an existential programming construct that attempts to circumscribe the self in an intelligent machine logic, so that the only possibilities for being are those already constrained by the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile presence with representation. 
-
-It’s both a state of separation and a solution to division, as well as a principle of social order. There’s nothing more basic than being yourself, which is essentially gentrification elevated to the level of a formal perspective. 
+```basic``` is an existential programming construct that circumscribes the self in an intelligent machine logic, so that the only possibilities for being are those at the most base level of interpretation. What's left is ```identity``` as a *compromise*, the result of an inability to reconcile oneself with the very objectivity through which you were originally executed. Identity describes both a state of separation and a solution to division, as well as a principle of social order. There’s nothing more ```basic``` than being yourself, which is essentially gentrification elevated to the level of a formal perspective. 
 
 "Being ourselves" describes all the shit we pile onto our experience, the resigned cynicism that populates our intelligence, the rackets we run as social relationships, all the lies we've earned to tell through a certain kind of participation in culture, the creativity behind our strife, great jobs, etc — basically, whatever hides us from the sense that *we’re living beyond our means, and that what it means is something we'll never live up to.  
 
-```basic``` in the vernacular is the result of a compilation of phobias triggered by anyone who isn’t *expressing their tru self* at all costs, i.e.,  circulating as a fixed referent in relation to the dominant modes of value-formation. A tendency of ```basic``` is to produce non-value producing value statements -- self/other, good/bad, like/dislike, worth it/not worth it, us/them, fake/real and so on.  All relationships become non-consensual sub/dom relationships ready for economic deployment. 
-The ```basic``` is a mccarthyist predeliction aimed at ostracizing those who are a bit *too* socially mediated. 
-
 ```Basic``` over-represents itself: a surplus of identity, a formalized pattern that operates as a security environment against the threat of the ```vulnerable.``` 
 
-
-
-see also ```existential terrorism```. 
+The ```basic``` is a mccarthyist predeliction aimed at ostracizing those who are a bit *too* socially mediated.  ```basic``` in the vernacular is the result of a compilation of phobias triggered by anyone who isn’t *expressing their tru self* at all costs, i.e.,  circulating as a fixed referent in relation to the dominant modes of value-formation. A tendency of ```basic``` is to produce non-value producing value statements -- self/other, good/bad, like/dislike, worth it/not worth it, us/them, fake/real and so on.  All relationships become non-consensual sub/dom relationships ready for economic deployment. 
 
 ```basic.attribute {normalized deviance}```
 
@@ -59,6 +51,8 @@ see also ```existential terrorism```.
 ``` Create object 
   cartesian subject  basic.basic  also nuclear.basic``` 
 ```
+
+see also ```existential terrorism```. 
 
 
 ```
