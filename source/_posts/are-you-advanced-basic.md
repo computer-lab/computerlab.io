@@ -10,7 +10,7 @@ author: torcbell
 *///cartesian metadata
 
 
-```b```*egin* ```a```*ll-purpose* ```s```*ymbolic* ```i```*nstruction* ```c```*ode* 
+```b```*asicz* ```a```*ll-purpose* ```s```*ymbolic* ```i```*nstruction* ```c```*ode* 
 
 ```   
     BEGIN 
