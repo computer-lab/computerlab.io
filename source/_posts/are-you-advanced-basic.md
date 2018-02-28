@@ -23,7 +23,7 @@ The definition of the advanced basic, via Urban Dictionary, describes “someone
 
 The second definition, slightly less popular, appears at first as a direct contradiction: “someone who acts very basic, but *does not have the basic attitude.* 
 
-This contradiction can exist because advanced basic is a semantic paradigm, a negative space rather than another identity trend, another list. 
+Advanced basic is a whole semantic paradigm, a negative space rather than another identity trend, another list. 
 
 You’re advanced basic if you can operate within the inescapable realm of basic-ness in a way that withstands any temptation to transcend it. 
 
