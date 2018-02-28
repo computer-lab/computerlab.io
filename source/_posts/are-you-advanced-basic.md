@@ -1,14 +1,3 @@
----
-layout: post
-title: Are You Advanced Basic? 
-date: 2018-03-03
-category: Notes
-lede: "If you answered “yes” to that question, then probably not."
-author: Victoria Campbell and Patrick Steadman
-published: true
-image: "https://computerlab.io/images/pigeon-sounds-banner.png"
----
-
 ## Are you advanced basic? 
 
 If you answered “yes” to that question, then probably not. If the basic can be construed as an ever-adapting, yet never evolving, status quo unconscious of itself as such, any attempt at cultural resistance is futile. You’re advanced basic if you can operate within this realm in a way that withstands any temptation to transcend it— and, at the same time, refuse to surrender to the logic of its conformity. 
@@ -27,6 +16,6 @@ by herp_thederp July 23, 2014
 
 Advanced basic describes a modality of self-expression that arises out of an active engagement with normative behavior, a means of dislocating identity beyond both any singular mode of participation or fixed representation of self. In this sense, the emergence of the advanced basic might have more in common with the biblical concept of being “in the world, yet not of it” than it does with any historical avant-garde. 
 
-The late sociologist Alvin Gouldner was of the first to articulate the emergent notion of the "New Class." In *The Future of Intellectuals and the Rise of the New Class,* Gouldner tracks the historical evolution of the cultural elite as a rising class that seeks to delegitimize an older, tr
+The late sociologist Alvin Gouldner was of the first to articulate the emergent notion of the "New Class." In *The Future of Intellectuals and the Rise of the New Class,* Gouldner tracks the historical evolution of the cultural elite as a rising class that seeks to delegitimize an older, traditional class through a strategic leveraging of the status-quo. Though the New Class appears 
 
 1979 trilogy, *The Dark Side of the Dialectic,* 
