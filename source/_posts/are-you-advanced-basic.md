@@ -1,3 +1,14 @@
+---
+layout: post
+title: Are You Advanced Basic? 
+date: 2018-03-03
+category: Notes
+lede: "If you answered “yes” to that question, then probably not."
+author: Victoria Campbell and Patrick Steadman
+published: true
+image: "https://computerlab.io/images/pigeon-sounds-banner.png"
+---
+
 ## Are you advanced basic? 
 
 If you answered “yes” to that question, then probably not. If the basic can be construed as an ever-adapting, yet never evolving, status quo unconscious of itself as such, any attempt at cultural resistance is futile. You’re advanced basic if you can operate within this realm in a way that withstands any temptation to transcend it— and, at the same time, refuse to surrender to the logic of its conformity. 
