@@ -8,10 +8,9 @@ author: Victoria Campbell and Patrick Steadman
 published: true
 image: "https://imgur.com/a/vKGzy"
 
+---
 
 ![alt text](https://imgur.com/a/vKGzy)
-
----
 
 Are you advanced basic? 
 ======
