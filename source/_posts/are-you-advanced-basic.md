@@ -21,7 +21,25 @@ An Ontological Framework
 ======
 
 
-```chain purses
+
+
+```
+Person one: Did you enjoy talking with Taylor? They seem interesting. 
+Person two: No, they dress well and went to Oberlin but are very boring. Taylor is an advanced basic.
+
+```
+
+```
+Girl 1: "Wow she is so basic." 
+Girl 2: "Nah, she does basic things because she likes them, not to fit in. She's advanced basic"
+by herp_thederp July 23, 2014
+
+#advanced#advanced basic#basic#basic bitch#bitch#freethinker#
+```
+
+
+
+chain purses
 couples
 meaningful tattoos
 lace-up boots with zippers
@@ -47,7 +65,7 @@ young creatives
 consumer holidays
 normativity
 cops
-going out.```
+going out.
 
 The definition of the advanced basic, via Urban Dictionary, describes “someone who has the appearance and knowledge of someone deeply involved with culture, but who has the basic attitude.”
 
@@ -60,22 +78,6 @@ You’re advanced basic if you can operate within the inescapable realm of basic
 Every advanced basic lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- basic to the extent that it could do without us. 
 
 Basics and advanced basics, even if they look nothing alike, both act and think in ways that converge on existing referents.
-
-
-
-```
-Person one: Did you enjoy talking with Taylor? They seem interesting. 
-Person two: No, they dress well and went to Oberlin but are very boring. Taylor is an advanced basic.
-
-```
-
-```
-Girl 1: "Wow she is so basic." 
-Girl 2: "Nah, she does basic things because she likes them, not to fit in. She's advanced basic"
-by herp_thederp July 23, 2014
-
-#advanced#advanced basic#basic#basic bitch#bitch#freethinker#
-```
 
 
 
