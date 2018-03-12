@@ -83,14 +83,10 @@ What we will designate as *advanced basic* is the capability of operating within
 
 ```
 
-15:03 03-02-2018 VARICK AVE 
+March 08, 2018 at 15:15
+Location: Varick Ave, Brooklyn. 
+Format: Mobile Device
 ---------------------------
-
-it has been difficult for me to figure out whether or not i'm advanced bc i've been willingly colonized by a host apparatus that
-
-pause to note passing
-confederate heels
-camoflage slacks
 
 
 
@@ -110,8 +106,10 @@ junkie          -        businessreplicant
 
 
 
-```
+not sure whether or not i'm advanced bc i've been willingly colonized by a host apparatus that's instilled within me some false awareness of distinction, i.e., walking around like some kind of untitled aristocrat. P.L.U. vs people very much not like us
 
+END NOTE 
+```
 
 In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
 
