@@ -10,7 +10,7 @@ image: "https://imgur.com/a/vKGzy"
 
 ---
 
-![alt text](https://imgur.com/a/vKGzy)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vKGzy"><a href="//imgur.com/vKGzy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Are you advanced basic? 
 ======
