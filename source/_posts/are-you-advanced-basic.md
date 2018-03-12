@@ -10,7 +10,7 @@ image: ""
 
 ---
 
-![alt text](https://github.com/torcbell/hello-world/IMG_6843.JPG "Life-Meaning")
+![alt text](https://github.com/torcbell/hello-world/master/IMG_6843.JPG "Life-Meaning")
 
 Are you advanced basic? 
 ======
