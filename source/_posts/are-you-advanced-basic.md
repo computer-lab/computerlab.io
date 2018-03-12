@@ -11,7 +11,13 @@ image: "https://computerlab.io/images/pigeon-sounds-banner.png"
 
 ## Are you advanced basic? 
 
-If you answered “yes” to that question, then probably not. 
+If you answered “yes” to that question, then probably not. Jot notes from the field. 
+
+---
+
+
+
+
 
 `Basic` was defined by creating a list of things that are basic. Basic people and situations could be identified using this list.
 
