@@ -6,7 +6,11 @@ category: Notes
 lede: "If you answered “yes” to that question, then probably not."
 author: Victoria Campbell and Patrick Steadman
 published: true
-image: "https://computerlab.io/images/pigeon-sounds-banner.png"
+image: "https://imgur.com/a/vKGzy"
+
+
+![alt text](https://imgur.com/a/vKGzy)
+
 ---
 
 Are you advanced basic? 
