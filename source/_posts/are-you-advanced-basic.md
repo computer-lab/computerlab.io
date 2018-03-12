@@ -77,7 +77,12 @@ going out.
 ``` 
 
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- basic to the extent that it could do without us. What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. 
+
+What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
+
+15:03 BROOKLYN 11237 (VARICK AVE) 
+------
 
 
 
