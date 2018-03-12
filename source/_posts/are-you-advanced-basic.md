@@ -9,26 +9,24 @@ published: true
 image: "https://computerlab.io/images/pigeon-sounds-banner.png"
 ---
 
-Alt-H1
+Are you advanced basic? 
 ======
 
-#Are you advanced basic? 
 
 If you answered “yes” to that question, then probably not. Jot notes in the field. 
 
 ---
 
-##An Ontological Distinction
+An Ontological Framework
+======
 
-To create 
+**Basic** is a distinction, a context of being. Or maybe in this case, not-being. 
 
-Basic people and situations could be identified using this list.
+>>Basic people and situations could be identified using this list.
 
-```
+>>```
 chain purses, couples, meaningful tattoos, lace-up boots with zippers, identity politics, coachella, aspirant productivity, virtual militarization, spectator terrorism, kink, social justice startups, legacy activism, schizophrenic feminism, glamping, personal development, sonograms of unborn children circulating via facebook posts about your 'natural birth', breakdowns, fake news, diversity -> variety, preferences, finding yourself, finding the one, young creatives, consumer holidays, normativity, cops, going out 
 ```
-
-
 
 `Basic` was defined by creating a list of things that are basic. 
 
