@@ -81,14 +81,36 @@ Every lifestyle choice is a coping strategy, a means to overcome the basic fact 
 
 What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
 
->
+```
 
 15:03 03-02-2018 VARICK AVE 
-  ------
+---------------------------
 
->
+it has been difficult for me to figure out whether or not i'm advanced bc i've been willingly colonized by a host apparatus that
+
+pause to note passing
+confederate heels
+camoflage slacks
 
 
+
+consumerist     +              chauvanist
+                |
+                |
+                |
+                |
+                |
+- --------------------------------- +
+                |
+                |
+                |
+                |
+                |
+junkie          -        businessreplicant
+
+
+
+```
 
 
 In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
