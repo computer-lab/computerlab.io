@@ -20,12 +20,34 @@ If you answered “yes” to that question, then probably not. Jot notes in the 
 An Ontological Framework
 ======
 
-**Basic** is a distinction, a context of being. Or maybe in this case, not-being. 
 
-```
-chain purses, couples, meaningful tattoos, lace-up boots with zippers, identity politics, coachella, aspirant productivity, virtual militarization, spectator terrorism, kink, social justice startups, legacy activism, schizophrenic feminism, glamping, personal development, sonograms of unborn children circulating via facebook posts about your 'natural birth', breakdowns, fake news, diversity -> variety, preferences, finding yourself, finding the one, young creatives, consumer holidays, normativity, cops, going out.```
-
-
+```chain purses
+couples
+meaningful tattoos
+lace-up boots with zippers
+identity politics
+coachella
+aspirant productivity
+virtual militarization
+spectator terrorism
+kink
+social justice startups
+legacy activism
+schizophrenic feminism
+glamping
+personal development
+sonograms of unborn children circulating via facebook posts about your 'natural birth'
+breakdowns
+fake news
+diversity -> variety
+preferences
+finding yourself
+finding the one
+young creatives
+consumer holidays
+normativity
+cops
+going out.```
 
 The definition of the advanced basic, via Urban Dictionary, describes “someone who has the appearance and knowledge of someone deeply involved with culture, but who has the basic attitude.”
 
@@ -38,6 +60,8 @@ You’re advanced basic if you can operate within the inescapable realm of basic
 Every advanced basic lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- basic to the extent that it could do without us. 
 
 Basics and advanced basics, even if they look nothing alike, both act and think in ways that converge on existing referents.
+
+
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
