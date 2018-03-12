@@ -81,9 +81,12 @@ Every lifestyle choice is a coping strategy, a means to overcome the basic fact 
 
 What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
 
-15:03 03-02-2018 VARICK AVE 
-------
+>
 
+15:03 03-02-2018 VARICK AVE 
+  ------
+
+>
 
 
 
