@@ -6,11 +6,11 @@ category: Notes
 lede: "If you answered “yes” to that question, then probably not."
 author: Victoria Campbell and Patrick Steadman
 published: true
-image: "https://imgur.com/a/vKGzy"
+image: ""
 
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vKGzy"><a href="//imgur.com/vKGzy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt text](https://github.com/torcbell/hello-world/IMG_6843.JPG "Life-Meaning")
 
 Are you advanced basic? 
 ======
