@@ -9,21 +9,26 @@ published: true
 image: "https://computerlab.io/images/pigeon-sounds-banner.png"
 ---
 
-## Are you advanced basic? 
+#Are you advanced basic? 
 
-If you answered “yes” to that question, then probably not. Jot notes from the field. 
+If you answered “yes” to that question, then probably not. Jot notes in the field. 
 
 ---
 
+##An Ontological Distinction
 
+To create 
 
-
-
-`Basic` was defined by creating a list of things that are basic. Basic people and situations could be identified using this list.
+Basic people and situations could be identified using this list.
 
 ```
 chain purses, couples, meaningful tattoos, lace-up boots with zippers, identity politics, coachella, aspirant productivity, virtual militarization, spectator terrorism, kink, social justice startups, legacy activism, schizophrenic feminism, glamping, personal development, sonograms of unborn children circulating via facebook posts about your 'natural birth', breakdowns, fake news, diversity -> variety, preferences, finding yourself, finding the one, young creatives, consumer holidays, normativity, cops, going out 
 ```
+
+
+
+`Basic` was defined by creating a list of things that are basic. 
+
 
 The definition of the advanced basic, via Urban Dictionary, describes “someone who has the appearance and knowledge of someone deeply involved with culture, but who has the basic attitude.”
 
