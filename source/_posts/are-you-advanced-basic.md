@@ -17,8 +17,13 @@ If you answered “yes” to that question, then probably not. Jot notes from th
 
 ---
 
-An Ontological Framework
+A Negative Anthropology
 ======
+
+Two definitions, one distinction. On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+
+
+UD defines *Advanced Basic* as recognizeably different from *basic*. Though opposed, both involve acting and thinking in ways that converge on existing referents: 
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
@@ -39,7 +44,9 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 ```
 
-Basics and advanced basics both act and think in ways that converge on existing referents. To move from **definition** to **distinction,** from a semantic category into a domain of being.  
+The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*, the invention of new contexts across the domain of being. Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
+
+
 
 
 ```chain purses
