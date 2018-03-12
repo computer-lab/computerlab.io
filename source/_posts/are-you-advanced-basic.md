@@ -10,8 +10,6 @@ image: ""
 
 ---
 
-![alt text](https://github.com/torcbell/hello-world/master/IMG_6843.JPG "Life-Meaning")
-
 Are you advanced basic? 
 ======
 If you answered “yes” to that question, then probably not. Jot notes from the expanded field.
@@ -76,9 +74,7 @@ going out.
 ``` 
 
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. 
-
-What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
 
 ---
 
@@ -88,12 +84,6 @@ March 08, 2018 at 15:15
 Location: Varick Ave, Brooklyn. 
 Format: Mobile Device
 ---------------------------
-
-
-not sure whether or not i'm advanced bc i've been willingly colonized by a host apparatus that's instilled within me some false awareness of distinction, i.e., walking around like some kind of untitled aristocrat. P.L.U. vs people very much not like us
-
-
-
 
 consumerist     +              chauvanist
                 |
@@ -108,10 +98,6 @@ consumerist     +              chauvanist
                 |
                 |
 junkie          -        businessreplicant
-
-
-
-
 
 ```
 
