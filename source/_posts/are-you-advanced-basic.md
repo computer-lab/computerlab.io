@@ -11,16 +11,13 @@ image: "https://computerlab.io/images/pigeon-sounds-banner.png"
 
 Are you advanced basic? 
 ======
-
-
 If you answered “yes” to that question, then probably not. Jot notes from the expanded field. 
 
 ---
 
-A Negative Anthropology
+Two Definitions, One Distinction.
 ======
-
-Two definitions, one distinction. On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
 
 UD defines *Advanced Basic* as recognizeably different from *basic*. Though opposed, both involve acting and thinking in ways that converge on existing referents: 
@@ -32,7 +29,6 @@ Person two: No, they dress well and went to Oberlin but are very boring. Taylor 
 Retreived from Urban Dictionary on 2/17/18 at 10:13:33 
 
 ```
-
 ```
 Girl 1: "Wow she is so basic." 
 Girl 2: "Nah, she does basic things because she likes them, not to fit in. She's advanced basic"
@@ -44,9 +40,9 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 ```
 
-The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*, the invention of new contexts across the domain of being. Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
+Advanced basic could describe a modality of self-expression that arises out of an active engagement with normative behavior, a means of dislocating identity and positioning the self above any singular mode of social participation. In this sense, the emergence of the advanced basic might have more in common with the biblical treatise of being “in the world, yet not of it” than it does with any historical avant-garde. 
 
-
+The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*, the practice of creating of new contexts across the domain of being. Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
 
 
 ```chain purses
@@ -92,7 +88,6 @@ Every advanced basic lifestyle choice is a coping strategy, a means to overcome 
 
 
 
-Advanced basic could describe a modality of self-expression that arises out of an active engagement with normative behavior, a means of dislocating identity and positioning the self above any singular mode of social participation. In this sense, the emergence of the advanced basic might have more in common with the biblical treatise of being “in the world, yet not of it” than it does with any historical avant-garde. 
 
 In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
 
