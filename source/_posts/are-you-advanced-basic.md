@@ -42,7 +42,9 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 Advanced basic could describe a modality of self-expression that arises out of an active engagement with normative behavior, a means of dislocating identity and positioning the self above any singular mode of social participation. In this sense, the emergence of the advanced basic might have more in common with the biblical treatise of being “in the world, yet not of it” than it does with any historical avant-garde. 
 
-The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*, the practice of creating of new contexts across the domain of being. Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
+The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
+
+Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
 
 
 ```chain purses
@@ -71,19 +73,11 @@ young creatives
 consumer holidays
 normativity
 cops
-going out``` 
+going out.
+``` 
 
 
-
-The definition of the advanced basic, via Urban Dictionary, describes “someone who has the appearance and knowledge of someone deeply involved with culture, but who has the basic attitude.”
-
-The second definition, slightly less popular, appears at first as a direct contradiction: “someone who acts very basic, but *does not have the basic attitude.* 
-
-Advanced basic is a whole semantic paradigm, a negative space rather than another identity trend, another list. 
-
-You’re advanced basic if you can operate within the inescapable realm of basic-ness in a way that withstands any temptation to transcend it. 
-
-Every advanced basic lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- basic to the extent that it could do without us. 
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- basic to the extent that it could do without us. What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it. 
 
 
 
