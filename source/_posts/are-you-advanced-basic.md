@@ -45,7 +45,7 @@ junkie          -               replicant
 
 The Search for Intelligent Life
 ======
->>On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+>>>On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
 _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
 
@@ -103,7 +103,7 @@ going out.
 
 
 Two definitions, One distinction.
-======
+-----
 
 ```
 The Neapolitan novels were published in English at around the same time the use of the term *basic* entered the American vernacular, between 2011 and 2014. The serial follows the lives of two women born in provincial Italy, and who come of age against the political upheavals of 1968. The main character, Elena, is a "smart girl" who manages to escape her conditions by means of a university education-- only to return to her place of birth unable to speak the dialect under which she was born. The other woman, Lina, remains in Naples, a city she will never leave until she disappears into it. Lina works in a sausage factory and is subject to the most basic of domestic abuse, until she becomes a computer programmer thanks to an IBM correspondence course. Both women must emerge in relation to their role as second-class citizens, the basic circumstances of which they will never escape.
@@ -112,7 +112,7 @@ Alvin Gouldner tracks the historical evolution of such an international cultural
 ```
 
 A History Without Traditions
------
+=======
 
 ![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 ```
