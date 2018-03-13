@@ -49,7 +49,6 @@ Perhaps a radically negative approach is in order by creating categories of *dis
 
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it.**
 
-> We attempt to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of **lifestyle.** 
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
@@ -68,6 +67,9 @@ by herp_thederp July 23, 2014
 Retreived from Urban Dictionary on 2/17/18 at 10:14:43 
 
 ```
+
+> We attempt to qualify, as a sense-making activity, that **form-of-life** as distinct from the quantifiable domain of **lifestyle.** 
+
 
 A History Without Traditions
 =======
@@ -152,10 +154,9 @@ decryption.
 
 I chose the user Ines, for inessential. There's nothing personal about this, but then again, it's a *personals* ad. 
 
-Ines finds it necessary to retain an element of the undiscovered. 
-
 >>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
 
+Ines finds it necessary to retain an element of the undiscovered. 
 
 
 
