@@ -117,9 +117,7 @@ The New Native
 
  *"Whoever said,"* the scientist Lina demands of her humanist friend, *"that a life has to have meaning?*
 
-![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323003-4e9d10e2-2657-11e8-9286-e1b8bc583fac.png)
-
-
+![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 
 
 
