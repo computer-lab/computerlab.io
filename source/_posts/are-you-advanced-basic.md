@@ -46,6 +46,10 @@ Two Definitions, One Distinction.
 
 >>On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. 
+
+_What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
+
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
 Person two: No, they dress well and went to Oberlin but are very boring. Taylor is an advanced basic.
@@ -98,9 +102,6 @@ cops
 going out.
 ``` 
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. 
-
-_What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
 
 An Intelligence Without Traditions
 -----
