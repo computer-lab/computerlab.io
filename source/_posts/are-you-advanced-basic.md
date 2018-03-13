@@ -164,4 +164,10 @@ We could map out a demographic plane of consistency that lacks the claim to any 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37327700-bf15623c-266d-11e8-9c93-557da69467da.jpg">
 
+Basic is a regulatory procedure that sets the parameters for divergence. This is why basic is iterated most deeply in its alternatives - feminists, underdogs, queers, outliers. The Whatever freshness of singularity and youth. 
+
+There's nothing more basic than being yourself, which is a process of gentrification that begins in adolescence and ends only when you're no longer a consumable. Rapid prototyping is the new existentialism. 
+
+
+
 
