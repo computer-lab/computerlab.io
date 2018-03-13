@@ -9,7 +9,7 @@ published: true
 image: ""
 ---
 
->>*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
+*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
 The New Native
 ======
