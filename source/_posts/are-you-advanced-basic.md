@@ -168,6 +168,7 @@ Basic is a regulatory procedure that sets the parameters for divergence. This is
 
 There's nothing more basic than being yourself, which is a process of gentrification that begins in adolescence and ends only when you're no longer a consumable. Rapid prototyping is the new existentialism. 
 
+![img_389a69e6c2ef-1](https://user-images.githubusercontent.com/28285201/37328129-5ee92770-266f-11e8-838c-68220f3e5bf1.jpeg)
 
 
 
