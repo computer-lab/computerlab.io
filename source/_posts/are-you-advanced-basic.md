@@ -52,7 +52,7 @@ When your head's down over your pieces, brother
 It's a drag, it's a bore, it's really such a pity
 To be looking at the board, not looking at the city
 
-1984
+1984 Top Charts
 
 ```
 
