@@ -158,6 +158,9 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 Ines finds it necessary to retain an element of the undiscovered. 
 
+A View From the Periphery to the Mob
+======
+
 
 
 
