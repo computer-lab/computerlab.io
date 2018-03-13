@@ -13,6 +13,8 @@ image: ""
 The Search for Intelligent Life
 ======
 
+Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
+
 I hosted an internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
 
 ```
@@ -39,7 +41,6 @@ junkie          -               replicant
 
 ```
 
-Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
 
 Two Definitions, One Distinction.
 -----
@@ -117,9 +118,7 @@ The New Native
 ![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
  *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
-
-
-
+Two images call to mind the face of 1999. One is Seattle. The other is Chloe Sevigny, the face of the multitude. In the iconic Art Club 2000 images, strains of kids elaborate living rooms and from there disappear into the streets of the mall. 
 
 
 
