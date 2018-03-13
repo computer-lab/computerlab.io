@@ -121,9 +121,8 @@ The New Native
 
  *"Whoever said,"* the scientist Lina demands of her humanist friend, *"that a life has to have meaning?*
 
-Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, but who instead sought to find meaning in their position within the emerging world socio-economic order.
+![screen shot 2018-03-13 at 00 38 23](https://user-images.githubusercontent.com/28285201/37322938-00c1fba8-2657-11e8-8a36-60b39a603f86.png)
 
-![gap](https://user-images.githubusercontent.com/28285201/37322819-4790fd78-2656-11e8-8409-d6979e3adbb9.png)
 
 
 
