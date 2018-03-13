@@ -39,11 +39,12 @@ junkie          -               replicant
 
 
 
-
-Are you advanced basic? 
+The Search for Intelligent Life
 ======
 
-If you answered “yes” to that question, then probably not. This post cross-references data collected from the internet-based public volunteer computing project employing the BOINC software platform created by the Berkeley SETI Research Center, hosted by the Space Sciences Laboratory, at the University of California, Berkeley, also known as SETI, with the dating app Feeld. 
+I downloaded the internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
+
+Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
 
 ---
 
