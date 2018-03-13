@@ -137,7 +137,7 @@ In the iconic Art Club 2000 images, strains of kids languidly occupy a living ro
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
 
- Oriental setting: it is very clear we are somewhere in New York, but also somewhere else.
+It is very clear we are somewhere in New York, but also somewhere else.
 
 
 
