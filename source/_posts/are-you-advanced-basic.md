@@ -106,6 +106,42 @@ After Gouldner managed to nail a cultural bourgeosie whose motivations were neit
 
 We find ourselves caught somewhere between ideology and technology; we are the becoming of a new, dialectical opposition.
 
+A View From the Periphery to the Mob
+======
+
+We could map out a demographic plane of consistency that lacks the claim to any one form of cultural distinction. *The spectre of the majority.*
+
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37327700-bf15623c-266d-11e8-9c93-557da69467da.jpg">
+
+Basic is a regulatory procedure that sets the parameters for divergence. This is why basic is iterated most deeply in its alternatives - feminists, underdogs, queers, outliers. The Whatever freshness of singularity and youth. 
+
+There's nothing more basic than being yourself, which is a process of gentrification that begins in adolescence and ends only when you're no longer a consumable. Rapid prototyping is the new existentialism. 
+
+![img_389a69e6c2ef-1](https://user-images.githubusercontent.com/28285201/37328129-5ee92770-266f-11e8-838c-68220f3e5bf1.jpeg)
+
+I began by asking people on Feeld if they resemble their profiles. Why doesn't anyone find this as funny as I do? 
+
+As a pickup line this has not proved very workable - I guess people think I'm asking whether or not their photos are real? 
+
+Anyway this line of thought is also amusing, at least to me. 
+
+
+```
+
+Stephanie Castaneda
+DOB: 9/12/1986
+Hair: Brown
+Eyes: Brown
+Height: 5'4
+
+```
+
+The photograph on the card is a bleach-stained image of a woman of uncertain origin, uncertain character. Hair of an uncertain brown. Her eyebrows are plucked then like the stress-marks above vowel, pronunciation marks. 
+
+Before I was of age I used Stephanie Castaneda as an alias to get into bars. Of course, having to slouch slightly as to better conform my 5'7 to a strangers 5'4. 
+
+Since when do we resemble our representations, isn't it supposed to be the other way around, don't just memorize the day and month on your fake ID - a smart doorman will ask your zodiac sign. 
+
 
 On the Necessity of Shallow Abstract Categories
 ======
@@ -155,20 +191,9 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 >>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
 
-Ines finds it necessary to retain an element of the undiscovered. 
+Ines finds it necessary to retain an element of the undiscovered. Because the dating app was pitched to me as an alternative to the norm, as a "more conscious, more open community of those looking for love and sex." 
 
-A View From the Periphery to the Mob
-======
-
-We could map out a demographic plane of consistency that lacks the claim to any one form of cultural distinction. *The spectre of the majority.*
-
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37327700-bf15623c-266d-11e8-9c93-557da69467da.jpg">
-
-Basic is a regulatory procedure that sets the parameters for divergence. This is why basic is iterated most deeply in its alternatives - feminists, underdogs, queers, outliers. The Whatever freshness of singularity and youth. 
-
-There's nothing more basic than being yourself, which is a process of gentrification that begins in adolescence and ends only when you're no longer a consumable. Rapid prototyping is the new existentialism. 
-
-![img_389a69e6c2ef-1](https://user-images.githubusercontent.com/28285201/37328129-5ee92770-266f-11e8-838c-68220f3e5bf1.jpeg)
+This amounts to being asked for consent *before* they send the dick pics. 
 
 
 
