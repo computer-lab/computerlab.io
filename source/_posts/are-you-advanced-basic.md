@@ -131,7 +131,7 @@ It is very clear we are somewhere in New York, but also somewhere else. Perhaps 
 
 ![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
 
-Or are we in the gravitational pull of the void of identity presented by the Millenium Bug? <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
+It is also possible that we find ourselves, once again and always already, up against the gravitational pull of the void of identity presented by the Millenium Bug. <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
 
 
 
