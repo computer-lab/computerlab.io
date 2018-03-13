@@ -10,6 +10,9 @@ image: ""
 
 ---
 
+![alt text](http://url/to/img.png)
+
+
 Are you advanced basic? 
 ======
 If you answered “yes” to that question, then probably not. Jot notes from the expanded field.
