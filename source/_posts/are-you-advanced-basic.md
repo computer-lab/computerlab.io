@@ -195,7 +195,7 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 >>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
 
-Ines finds it necessary to retain an element of the undiscovered. *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
+Ines finds it necessary to retain an element of the undiscovered. *"Whoever said,"* the scientist Lina demands of her humanist friend, *"that a life has to have meaning?*
 
 
 
