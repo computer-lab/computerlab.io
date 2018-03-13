@@ -119,7 +119,7 @@ going out.
 
 
 Two definitions, One distinction.
------
+=====
 
 ```
 The Neapolitan novels were published in English at around the same time the use of the term *basic* entered the American vernacular, between 2011 and 2014. The serial follows the lives of two women born in provincial Italy, and who come of age against the political upheavals of 1968. The main character, Elena, is a "smart girl" who manages to escape her conditions by means of a university education-- only to return to her place of birth unable to speak the dialect under which she was born. The other woman, Lina, remains in Naples, a city she will never leave until she disappears into it. Lina works in a sausage factory and is subject to the most basic of domestic abuse, until she becomes a computer programmer thanks to an IBM correspondence course. Both women must emerge in relation to their role as second-class citizens, the basic circumstances of which they will never escape.
