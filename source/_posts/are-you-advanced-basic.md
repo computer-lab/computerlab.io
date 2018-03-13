@@ -128,11 +128,9 @@ The Neapolitan novels were published in English at around the same time the use 
 Alvin Gouldner tracks the historical evolution of such an international cultural elite. His 1979 tractatus *The Future of Intellectuals and the Rise of the The New Class* describes a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex. 
 ```
 
-Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us._ 
-
-*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
-
 Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, but who instead sought to find meaning in their position within the emerging world socio-economic order.	
+
+Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
 What makes this literature powerful is that it is the story of a political education that takes place on the terrain of basic life. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
 
