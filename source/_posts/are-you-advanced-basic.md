@@ -109,9 +109,7 @@ A View From the Periphery to the Mob
 
 I began by asking people on Feeld if they resemble their profiles. Why doesn't anyone find this as funny as I do? 
 
-As a pickup line this has not proved very workable - I guess people think I'm asking whether or not their photos are real? 
-
-Anyway this line of thought is also amusing, at least to me. 
+As a pickup line this has not proved very workable - I guess people think I'm asking whether or not their photos are real? This line of thought is also amusing, at least to me. 
 
 
 ![img_389a69e6c2ef-1](https://user-images.githubusercontent.com/28285201/37328129-5ee92770-266f-11e8-838c-68220f3e5bf1.jpeg)
