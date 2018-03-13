@@ -119,7 +119,7 @@ What makes this literature powerful is that it is the story of a politial educat
 Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, but who instead sought to find *meaning* in their position within the emerging world socio-economic order. The thesis is captured with a compelling acuity, but I don't believe anyone has captured the spirit of this phenomenon better than the novelist Elena Ferrante. 
 
 An Intelligence Without Traditions
-==================================
+-----
 
 
 
