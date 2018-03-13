@@ -105,7 +105,8 @@ We find ourselves caught somewhere between ideology and technology; we are the b
 
 *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
-#On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+======
 
 
 ```chain purses
