@@ -41,6 +41,34 @@ junkie          -               replicant
 It is possible that we find ourselves, once again and always already, up against the gravitational pull that is the void of identity. <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
 
 
+A History Without Traditions
+=======
+
+![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
+```
+One town's very like another
+When your head's down over your pieces, brother
+
+It's a drag, it's a bore, it's really such a pity
+To be looking at the board, not looking at the city
+
+            One Night in Bangkok
+            Murray Head(October 1984)
+```
+
+Two images call to mind the face of 1999.
+
+One is of Chloe Sevigny, the face of the multitude. The other is the face of Seattle. In the iconic Art Club 2000 images, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. 
+
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
+
+It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window. Is this the effect of the Millenium Bug? 
+
+![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
+
+
+
+
 The Search for Intelligent Life
 ======
 
@@ -109,32 +137,6 @@ The Neapolitan novels were published in English at around the same time the use 
 
 Alvin Gouldner tracks the historical evolution of such an international cultural elite. His 1979 tractatus *The Future of Intellectuals and the Rise of the The New Class* describes a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex. 
 ```
-
-A History Without Traditions
-=======
-
-![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
-```
-One town's very like another
-When your head's down over your pieces, brother
-
-It's a drag, it's a bore, it's really such a pity
-To be looking at the board, not looking at the city
-
-            One Night in Bangkok
-            Murray Head(October 1984)
-```
-
-Two images call to mind the face of 1999.
-
-One is of Chloe Sevigny, the face of the multitude. The other is the face of Seattle. In the iconic Art Club 2000 images, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. 
-
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
-
-It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window. Is this the effect of the Millenium Bug? 
-
-![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
-
 
 
 
