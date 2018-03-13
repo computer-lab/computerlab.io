@@ -106,7 +106,7 @@ After Gouldner managed to nail a cultural bourgeosie whose motivations were neit
 We find ourselves caught somewhere between ideology and technology; we are the becoming of a new, dialectical opposition.
 
 
-On the Necessity of Shallow Abstract Categories to Circumvent the Prejudices of the Researcher
+On the Necessity of Shallow Abstract Categories
 ======
 
 
