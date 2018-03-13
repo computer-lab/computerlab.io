@@ -180,6 +180,10 @@ Public policy measures visibility. Not just facial recognition (racial recogniti
 
 Therefore our strategy is to look as distinct as one appears anonymous. 
 
+Exploring Symbolically Mediated Relationships of Complicity
+======
+
+
 ```
 During times of distress or trend shifting I 
 spend a lot of time with my closet. Trying
@@ -191,9 +195,12 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 >>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
 
-Ines finds it necessary to retain an element of the undiscovered. Because the dating app was pitched to me as an alternative to the norm, as a "more conscious, more open community of those looking for love and sex." 
+Ines finds it necessary to retain an element of the undiscovered.
 
-This amounts to being asked for consent *before* they send the dick pics. 
+Non-Consensual Sub-Dom Relationships
+======
+
+The dating app was pitched to me as an alternative to the norm, as a "more conscious, more open community of those looking for love and sex." This amounts to being asked for consent *before* they send the dick pics. 
 
 
 
