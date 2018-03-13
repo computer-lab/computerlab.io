@@ -10,7 +10,7 @@ image: ""
 
 ---
 
-![screen shot 2018-03-12 at 02 41 38](https://user-images.githubusercontent.com/28285201/37315866-42a1b254-2632-11e8-9b5b-5392eae0e8fc.png)
+
 
 
 Are you advanced basic? 
@@ -22,7 +22,7 @@ If you answered “yes” to that question, then probably not. Jot notes from th
 Two Definitions, One Distinction.
 -----
 
-On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+>>On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
@@ -42,9 +42,9 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 ```
 
-The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
+> The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
 
-Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
+>Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of its **lifestyle.** 
 
 
 ```chain purses
