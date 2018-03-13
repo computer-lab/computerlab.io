@@ -113,24 +113,24 @@ The Neapolitan novels were published in English at around the same time the use 
 ```
 
 ```
-In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
+
+
 ```
-
 What makes this literature powerful is that it is the story of a politial education that takes place on the terrain of basic life. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. Ferrante's world is populated by those trying to escape tradition, only to find themselves subject to the trappings of history. Her characters are caught somewhere between ideology and technology, they are themselves the becoming of a new, dialectical opposition. *"Whoever said,"* the scientist Lina demands of her humanist friend, *"that a life has to have meaning?"* 
-
-
-
+```
 
 Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, but who instead sought to find *meaning* in their position within the emerging world socio-economic order. The thesis is captured with a compelling acuity, but I don't believe anyone has captured the spirit of this phenomenon better than the novelist Elena Ferrante. 
 
-
+```
+In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
+```
 
 
 
 
 
 An Intelligence Without Traditions
-
+==================================
 
 
 
