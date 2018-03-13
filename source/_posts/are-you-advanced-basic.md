@@ -92,8 +92,6 @@ Is this the effect of the Millenium Bug?
 Two definitions, One distinction.
 =====
 
-*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
-
 Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
 
 ```
@@ -197,7 +195,8 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 >>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
 
-Ines finds it necessary to retain an element of the undiscovered.
+Ines finds it necessary to retain an element of the undiscovered. *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
+
 
 
 
