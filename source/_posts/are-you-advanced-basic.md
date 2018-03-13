@@ -42,7 +42,8 @@ junkie          -               replicant
 
 Are you advanced basic? 
 ======
-If you answered “yes” to that question, then probably not. 
+
+If you answered “yes” to that question, then probably not. This post cross-references data collected from the internet-based public volunteer computing project employing the BOINC software platform created by the Berkeley SETI Research Center, hosted by the Space Sciences Laboratory, at the University of California, Berkeley, also known as SETI, with the dating app Feeld. 
 
 ---
 
@@ -121,8 +122,7 @@ The New Native
 
  *"Whoever said,"* the scientist Lina demands of her humanist friend, *"that a life has to have meaning?*
 
-![screen shot 2018-03-13 at 00 38 23](https://user-images.githubusercontent.com/28285201/37322938-00c1fba8-2657-11e8-8a36-60b39a603f86.png)
-
+![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323003-4e9d10e2-2657-11e8-9286-e1b8bc583fac.png)
 
 
 
