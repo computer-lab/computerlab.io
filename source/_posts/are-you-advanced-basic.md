@@ -43,7 +43,9 @@ It is possible that we find ourselves, once again and always already, up against
 The Search for Intelligent Life
 ======
 
-> The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
+> The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. 
+
+Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
 
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it.**
 
