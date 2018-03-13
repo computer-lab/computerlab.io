@@ -8,8 +8,8 @@ author: Victoria Campbell and Patrick Steadman
 published: true
 image: ""
 
----
 
+```
 March 08, 2018 at 15:15
 Location: Varick Ave, Brooklyn. 
 Format: Mobile Device
@@ -29,12 +29,11 @@ consumerist     +              chauvanist
                 |
 junkie          -               replicant
 
+
+
 ```
 
----
 
-An Intelligence Without Traditions
-======
 
 
 
@@ -123,7 +122,7 @@ Every lifestyle choice is a coping strategy, a means to overcome the basic fact 
 
 
 
-
+An Intelligence Without Traditions
 
 
 
