@@ -160,7 +160,7 @@ Ines finds it necessary to retain an element of the undiscovered.
 A View From the Periphery to the Mob
 ======
 
-Or what might have previously been called the working class, but since that term means nothing with regard to us, we could map out a demographic plane of consistency that lacks the claim to any one form of cultural distinction. The spectre of the majority. 
+We could map out a demographic plane of consistency that lacks the claim to any one form of cultural distinction. The spectre of the majority. 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37327700-bf15623c-266d-11e8-9c93-557da69467da.jpg">
 
