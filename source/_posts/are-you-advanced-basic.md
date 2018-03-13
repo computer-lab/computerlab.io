@@ -105,7 +105,7 @@ going out.
 ``` 
 
 
-An Intelligence Without Traditions
+#An Intelligence Without Traditions
 -----
 
 ```
