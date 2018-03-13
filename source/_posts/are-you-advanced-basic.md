@@ -14,8 +14,6 @@ image: ""
 The New Native
 ======
 
-Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
-
 I hosted an internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
 
 ```
@@ -39,6 +37,7 @@ consumerist     +              chauvanist
 junkie          -               replicant
 
 
+Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
 
 ```
 
