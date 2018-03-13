@@ -10,6 +10,13 @@ image: ""
 ---
 
 
+The Search for Intelligent Life
+======
+
+I downloaded the internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
+
+Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
+
 
 ```
 March 08, 2018 at 15:15
@@ -34,19 +41,6 @@ junkie          -               replicant
 
 
 ```
-
-
-
-
-
-The Search for Intelligent Life
-======
-
-I downloaded the internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
-
-Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
-
----
 
 Two Definitions, One Distinction.
 -----
