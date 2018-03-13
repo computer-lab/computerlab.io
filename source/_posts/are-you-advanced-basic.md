@@ -106,7 +106,7 @@ After Gouldner managed to nail a cultural bourgeosie whose motivations were neit
 We find ourselves caught somewhere between ideology and technology; we are the becoming of a new, dialectical opposition.
 
 
-On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+On the Necessity of Shallow Abstract Categories to Circumvent the Prejudices of the Researcher
 ======
 
 
@@ -136,7 +136,7 @@ young creatives
 consumer holidays
 normativity
 cops
-going out.
+going out
 ``` 
 
 
