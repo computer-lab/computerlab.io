@@ -150,9 +150,13 @@ things on as a means of self-
 decryption. 
 ```
 
-I chose the user Ines, for inessential. She finds it necessary to retain an element of the undiscovered. There's nothing personal about this, but then again, it's a *personals* ad. 
+I chose the user Ines, for inessential. There's nothing personal about this, but then again, it's a *personals* ad. 
 
->>Case Study: Lana Del Rey. Her claim to fame being that she found someone else to do it. 
+Ines finds it necessary to retain an element of the undiscovered. 
+
+>>Case Study: Lana Del Rey. [Her claim to fame being that she found someone else to do it.](https://thenewinquiry.com/the-fake-as-more/)
+
+
 
 
 
