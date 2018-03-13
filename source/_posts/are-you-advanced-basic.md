@@ -9,6 +9,7 @@ published: true
 image: ""
 ---
 
+>>*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
 The Search for Intelligent Life
 ======
@@ -117,7 +118,6 @@ The New Native
 -----
 ![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 
->>*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
 Two images call to mind the face of 1999. One is Chloe Sevigny, the face of the multitude. The other is Seattle. In the iconic Art Club 2000 images, strains of kids elaborate living rooms and from there disappear into the streets of the mall. It is very clear we are somewhere in New York, but also somewhere elsewhere. 
 
@@ -128,8 +128,8 @@ When your head's down over your pieces, brother
 It's a drag, it's a bore, it's really such a pity
 To be looking at the board, not looking at the city
 
-One Night in Bangkok
-Murray Head
+            One Night in Bangkok
+            Murray Head
 ```
 
 
