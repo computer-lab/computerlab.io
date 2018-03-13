@@ -8,11 +8,11 @@ author: Victoria Campbell and Patrick Steadman
 published: true
 image: ""
 ---
-
-*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
+Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
 
 The New Native
 ======
+
 
 I hosted an internet-based public volunteer computer project employing the BOINC software platform created by the Berkely SETI Research Center with the intention of cross-referencing qualitative data obtained from the dating platform Feeld. 
 
@@ -36,11 +36,7 @@ consumerist     +              chauvanist
                 |
 junkie          -               replicant
 
-
-Are you Advanced Basic? If you answered 'yes' to that question, then probably not. 
-
 ```
-
 
 The Search for Intelligent Life
 ======
