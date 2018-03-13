@@ -49,7 +49,7 @@ The Search for Intelligent Life
 
 _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
+> The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
@@ -69,10 +69,8 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 ```
 
-> The following anthropology is an attempt to advance the basic tendency to assign substantial properties to **beings** in terms of predicates and attributes, i.e., to *define* people as *things*. Perhaps a radically negative approach is in order by creating categories of *distinction*: the method of creating of new contexts across the domain of being. 
 
->Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of **lifestyle.** 
-
+>Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of **lifestyle.** Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
 
 ```chain purses
 couples
