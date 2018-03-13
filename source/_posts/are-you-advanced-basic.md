@@ -138,7 +138,7 @@ To be looking at the board, not looking at the city
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
 
-It is very clear we are somewhere in New York, but also somewhere else. Oriental setting. 
+ Oriental setting. It is very clear we are somewhere in New York, but also somewhere else.
 
 
 
