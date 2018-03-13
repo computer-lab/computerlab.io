@@ -135,7 +135,7 @@ One is of Chloe Sevigny, the face of the multitude. The other is the face of Sea
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
 
-It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window. The GAP.
+It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window.
 
 ![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
 
