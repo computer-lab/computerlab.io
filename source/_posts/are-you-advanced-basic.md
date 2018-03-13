@@ -117,14 +117,6 @@ You're in the New Class if you've been inculcated with the historical consciousn
 Two Definitions, One Distinction.
 -----
 ![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
-
-
-Two images call to mind the face of 1999.
-
-One is of Chloe Sevigny, the face of the multitude. The other is the face of Seattle. 
-
-In the iconic Art Club 2000 images, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. 
-
 ```
 One town's very like another
 When your head's down over your pieces, brother
@@ -135,6 +127,13 @@ To be looking at the board, not looking at the city
             One Night in Bangkok
             Murray Head(October 1984)
 ```
+
+Two images call to mind the face of 1999.
+
+
+One is of Chloe Sevigny, the face of the multitude. The other is the face of Seattle. 
+
+In the iconic Art Club 2000 images, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
 
