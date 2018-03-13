@@ -68,39 +68,6 @@ by herp_thederp July 23, 2014
 Retreived from Urban Dictionary on 2/17/18 at 10:14:43 
 
 ```
-> On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
-
-
-```chain purses
-couples
-meaningful tattoos
-lace-up boots with zippers
-identity politics
-coachella
-aspirant productivity
-virtual militarization
-spectator terrorism
-kink
-social justice startups
-legacy activism
-schizophrenic feminism
-glamping
-personal development
-sonograms of unborn children circulating via facebook posts about your 'natural birth'
-breakdowns
-fake news
-diversity -> variety
-preferences
-finding yourself
-finding the one
-young creatives
-consumer holidays
-normativity
-cops
-going out.
-``` 
-
-
 
 A History Without Traditions
 =======
@@ -136,3 +103,35 @@ Ferrante's world is populated by those trying to escape tradition, only to find 
 What makes this literature powerful is that it is the story of a political education that takes place on the terrain of basic life. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
 
 Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
+
+> On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
+
+
+```chain purses
+couples
+meaningful tattoos
+lace-up boots with zippers
+identity politics
+coachella
+aspirant productivity
+virtual militarization
+spectator terrorism
+kink
+social justice startups
+legacy activism
+schizophrenic feminism
+glamping
+personal development
+sonograms of unborn children circulating via facebook posts about your 'natural birth'
+breakdowns
+fake news
+diversity -> variety
+preferences
+finding yourself
+finding the one
+young creatives
+consumer holidays
+normativity
+cops
+going out.
+``` 
