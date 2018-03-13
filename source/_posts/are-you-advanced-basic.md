@@ -91,18 +91,19 @@ Is this the effect of the Millenium Bug?
 Two definitions, One distinction.
 =====
 
+Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
+
 ```
 The Neapolitan novels were published in English at around the same time the use of the term *basic* entered the American vernacular, between 2011 and 2014. The serial follows the lives of two women born in provincial Italy, and who come of age against the political upheavals of 1968. The main character, Elena, is a "smart girl" who manages to escape her conditions by means of a university education-- only to return to her place of birth unable to speak the dialect under which she was born. The other woman, Lina, remains in Naples, a city she will never leave until she disappears into it. Lina works in a sausage factory and is subject to the most basic of domestic abuse, until she becomes a computer programmer thanks to an IBM correspondence course. Both women must emerge in relation to their role as second-class citizens, the basic circumstances of which they will never escape.
 
 Alvin Gouldner tracks the historical evolution of such an international cultural elite. His 1979 tractatus *The Future of Intellectuals and the Rise of the The New Class* describes a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex. 
 ```
-Ferrante's world is populated by those trying to escape tradition, only to find themselves subject to the trappings of history. Her characters are caught somewhere between ideology and technology, they are themselves the becoming of a new, dialectical opposition. After Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, what arose was the story of those, instead, who sought meaning from their position within the emerging world socio-economic order. 
+
+After Gouldner managed to nail a cultural bourgeosie whose motivations were neither entirely altruistic nor entirely economic, what arose was the story of those, instead, who sought meaning from their position within the emerging world socio-economic order. Ferrante's world is populated by those trying to escape tradition, only to find themselves subject to the trappings of history. Her characters are caught somewhere between ideology and technology, they are themselves the becoming of a new, dialectical opposition.
 
 *"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
-What makes this literature powerful is that it is the story of a political education that takes place on the terrain of basic life. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
-
-Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
+What makes this literature powerful is that it is the story of a political education that takes place on the terrain of basic life.
 
 > On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
