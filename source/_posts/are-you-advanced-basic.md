@@ -139,4 +139,16 @@ cops
 going out
 ``` 
 
+Public policy measures visibility. Not just facial recognition (racial recognition) but a catalogue measure of faces and spaces, organized in the cultural imagination as a means to divide and ensemble. 
+
+Therefore our strategy is to look as distinct as one appears anonymous. 
+
+```
+During times of distress or trend shifting I 
+spend a lot of time with my closet. Trying
+things on as a means of self-
+decryption. 
+
+I chose the user Ines, for inessential. She finds it necessary to retain an element of the undiscovered. There's nothing personal about this, but then again, it's a *personals* ad. 
+
 
