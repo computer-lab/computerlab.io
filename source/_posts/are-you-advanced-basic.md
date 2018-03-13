@@ -52,7 +52,7 @@ One is of Chloe Sevigny, the face of the multitude.
 
 The other is the face of Seattle.
 
-Queue fog machine. In Art Club 2000's iconic photographs, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window. 
+Queue fog machine. In Art Club 2000's iconic photographs, strains of kids languidly occupy a living room setting and from there disappear into the streets of the mall. It is very clear we are somewhere in New York, but also somewhere else. Perhaps somewhere close to the vaccuum left in the wake of the systematic smashing of a Starbucks window during the 1999 GTO protests. 
 
 Is this the effect of the Millenium Bug? 
 
