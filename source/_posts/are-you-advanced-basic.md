@@ -199,19 +199,7 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 
 Ines finds it necessary to retain an element of the undiscovered.
 
-Non-Consensual Sub-Dom Relationships
-======
 
-The dating app was pitched to me as an alternative to the norm, as a "more conscious, more open community of those looking for love and sex." This amounts to being asked for consent *before* they send the dick pics. 
-
-The Mutuality of the Dispossessed
-======
-
-Everything basic stays in basic, everything realized - even the intimacies, the joy, the child rearing, the street protests - no higher level game is visible in basic. 
-
-We are as limited as we are singular as we are vulnerable. 
-
-Welcome to Y2K. 
 
 
 
