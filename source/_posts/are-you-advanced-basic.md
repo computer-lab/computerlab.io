@@ -68,8 +68,7 @@ Retreived from Urban Dictionary on 2/17/18 at 10:14:43
 
 ```
 
-
->Or to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of **lifestyle.** Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
+>We attempt to qualify, as a sense-making activity, that **form-of-life** from the quantifiable domain of **lifestyle.** Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
 
 ```chain purses
 couples
