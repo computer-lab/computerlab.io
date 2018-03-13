@@ -44,7 +44,6 @@ It is possible that we find ourselves, once again and always already, up against
 A History Without Traditions
 =======
 
-![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 ```
 One town's very like another
 When your head's down over your pieces, brother
@@ -55,6 +54,8 @@ To be looking at the board, not looking at the city
 1984 Top Charts
 
 ```
+
+![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 
 Two images call to mind the face of 1999.
 
