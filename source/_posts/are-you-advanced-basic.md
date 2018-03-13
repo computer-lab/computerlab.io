@@ -49,8 +49,7 @@ The Search for Intelligent Life
 
 _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
-
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us.
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
