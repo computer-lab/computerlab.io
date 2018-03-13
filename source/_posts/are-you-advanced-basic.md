@@ -91,6 +91,8 @@ Is this the effect of the Millenium Bug?
 Two definitions, One distinction.
 =====
 
+*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
+
 Because every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. It's a story that has as much to do with the legacy of the nineteenth century as it does with the contradictions of the twentieth. 
 
 ```
@@ -103,7 +105,6 @@ After Gouldner managed to nail a cultural bourgeosie whose motivations were neit
 
 We find ourselves caught somewhere between ideology and technology; we are the becoming of a new, dialectical opposition.
 
-*"Whoever said," the scientist Lina demands of her humanist friend, "that a life has to have meaning?*
 
 On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 ======
