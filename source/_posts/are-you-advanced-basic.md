@@ -38,7 +38,7 @@ junkie          -               replicant
 
 ```
 
-It is possible that we find ourselves, once again and always already, up against the gravitational pull that is the void of identity. <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
+It is possible that we find ourselves, once again and always already, up against the gravitational pull that is the void of identity. The search for intelligent life begins with us.  <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
 
 
 A History Without Traditions
@@ -52,8 +52,8 @@ When your head's down over your pieces, brother
 It's a drag, it's a bore, it's really such a pity
 To be looking at the board, not looking at the city
 
-            One Night in Bangkok
-            Murray Head(October 1984)
+1984
+
 ```
 
 Two images call to mind the face of 1999.
