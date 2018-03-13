@@ -105,7 +105,7 @@ going out.
 ``` 
 
 
-Two Definitions, One Distinction.
+An Intelligence Without Traditions
 ======
 
 ```
@@ -114,7 +114,7 @@ The Neapolitan novels were published in English at around the same time the use 
 In *The Future of Intellectuals and the Rise of the New Class,* Alvin Gouldner tracks the historical evolution of an international cultural elite. The New Class, according to Gouldner, is a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex, the hey-days of 1968. And though Gouldner's thesis applies directly to those of the boomer generation that managed to avoid, for men, the draft; or for women, the housewife's secondary status; the concept hasn't lost its relevance for those trying to figure out what the hell is going on today. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. 
 ```
 
-An Intelligence Without Traditions
+Two Definitions, One Distinction.
 -----
 ![screen shot 2018-03-13 at 00 41 04](https://user-images.githubusercontent.com/28285201/37323429-34f25cee-265a-11e8-8bda-55e0ed3be51f.png)
 
