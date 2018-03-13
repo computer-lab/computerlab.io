@@ -185,10 +185,12 @@ Exploring Symbolically Mediated Relationships of Complicity
 
 
 ```
-During times of distress or trend shifting I 
-spend a lot of time with my closet. Trying
-things on as a means of self-
-decryption. 
+if(consciousness) {
+	representation (distance, time, form);
+	else ( 
+	interpretation ();
+	)
+}
 ```
 
 I chose the user Ines, for inessential. There's nothing personal about this, but then again, it's a *personals* ad. 
