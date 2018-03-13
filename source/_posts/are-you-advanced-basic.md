@@ -4,7 +4,7 @@ title: Are You Advanced Basic?
 date: 2018-03-03
 category: Notes
 lede: "Jot notes from the expanded field."
-author: Victoria Campbell and Patrick Steadman
+author: Victoria Campbell
 published: true
 image: ""
 ---
