@@ -38,7 +38,7 @@ junkie          -               replicant
 
 ```
 
-It is possible that we find ourselves, once again and always already, up against the gravitational pull that is the void of identity. The search for intelligent life begins with us.  <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
+It is possible that we find ourselves, once again and always already, up against the gravitational pull that is the void of identity. <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37325423-3e3c8c0c-2664-11e8-9e1f-2bb60c389020.jpg">
 
 The Search for Intelligent Life
 ======
