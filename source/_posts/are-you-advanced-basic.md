@@ -44,13 +44,13 @@ junkie          -               replicant
 
 
 The Search for Intelligent Life
------
-
+======
 >>On the necessity of shallow abstract categories to circumvent the prejudices of the researcher. 
 
-Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. 
-
 _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
+
+Every lifestyle choice is a coping strategy, a means to overcome the basic fact that life is just basic -- and basic to the extent that it could do without us. _What we will designate as *advanced basic* is the capability of operating withing the inescabable realm of basic-ness in a way that withstands any temptation to transcend it._
+
 
 ```
 Person one: Did you enjoy talking with Taylor? They seem interesting. 
@@ -111,7 +111,7 @@ Two definitions, One distinction.
 ```
 The Neapolitan novels were published in English at around the same time the use of the term *basic* entered the American vernacular, between 2011 and 2014. The serial follows the lives of two women born in provincial Italy, and who come of age against the political upheavals of 1968. The main character, Elena, is a "smart girl" who manages to escape her conditions by means of a university education-- only to return to her place of birth unable to speak the dialect under which she was born. The other woman, Lina, remains in Naples, a city she will never leave until she disappears into it. Lina works in a sausage factory and is subject to the most basic of domestic abuse, until she becomes a computer programmer thanks to an IBM correspondence course. Both women must emerge in relation to their role as second-class citizens, the basic circumstances of which they will never escape.
 
-You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. Alvin Gouldner tracks the historical evolution of such an international cultural elite. His 1979 tractatus *The Future of Intellectuals and the Rise of the The New Class* describes a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex. 
+Alvin Gouldner tracks the historical evolution of such an international cultural elite. His 1979 tractatus *The Future of Intellectuals and the Rise of the The New Class* describes a rising demographic that seeks to delegitimize an older, traditional class by means of strategic leverage over the status-quo. You're in the New Class if you've been inculcated with the historical consciousness of the European Left, possess more (or more specialized) technical abilities than the generation prior to you, or can claim a certain amount of cultural capital that always seems to be inversely proportionate to the amount of money you make. This is an exclusively post-war phenomenon, a product of both the social upheavals of the civil rights era and the university-industrial complex. 
 ```
 
 A History Without Traditions
