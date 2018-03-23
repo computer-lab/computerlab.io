@@ -35,14 +35,15 @@ junkies          -               replicants
 
 ```
 
-
-
-**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
+**"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
 A History Without Traditions
 =======
 
-"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."
+Advanced basic training  
+
+
+**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
 
 Had I really reached a point in my life where I was having more issues with my consciousness than with capitalism? Were my 20's really coming to a close? 
