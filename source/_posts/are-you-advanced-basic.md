@@ -41,6 +41,8 @@ A History Without Traditions
 =======
 
 Advanced basic training  
+=======
+Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?
 
 
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
@@ -111,7 +113,7 @@ Structurally, the price of the course
 
 that you don't have to wait for 
 
-Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan? I draw the line at Scientology and colonics. 
+ I draw the line at Scientology and colonics. 
 
 
 
