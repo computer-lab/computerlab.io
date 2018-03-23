@@ -37,11 +37,14 @@ junkies          -               replicants
 
 **"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
+
 A History Without Traditions
 =======
 
-Advanced basic training  
-=======
+![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
+---------------------------------------------------------------------------------------------------------------------------
+ADVANCED BASIC TRAINING FIELD REPORT 
+---------------------------------------------------------------------------------------------------------------------------
 Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?
 
 
