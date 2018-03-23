@@ -9,6 +9,15 @@ published: true
 image: ""
 ---
 
+![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
+---------------------------------------------------------------------------------------------------------------------------
+ADVANCED BASIC TRAINING FIELD REPORT 
+---------------------------------------------------------------------------------------------------------------------------
+![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
+*Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?*
+
+
+**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
@@ -41,14 +50,7 @@ junkies          -               replicants
 A History Without Traditions
 =======
 
-![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
----------------------------------------------------------------------------------------------------------------------------
-ADVANCED BASIC TRAINING FIELD REPORT 
----------------------------------------------------------------------------------------------------------------------------
-Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?
 
-
-**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
 
 Had I really reached a point in my life where I was having more issues with my consciousness than with capitalism? Were my 20's really coming to a close? 
