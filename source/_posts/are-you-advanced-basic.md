@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Are You Advanced Basic? 
+title: Report on Intelligent Design 
 date: 2018-03-03
 category: Notes
-lede: "Jot notes from the expanded field."
+lede: Advanced Basic Training
 author: Victoria Campbell
 published: true
 image: ""
 ---
 
+
+:anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 ```
 March 08, 2018 at 15:15
 Location: Varick Ave, Brooklyn. 
@@ -31,6 +33,8 @@ junkies          -               replicants
 
 
 ```
+
+
 
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
