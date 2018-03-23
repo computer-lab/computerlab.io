@@ -225,7 +225,6 @@ Is this the effect of the Millenium Bug?
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/28285201/37324209-7a0749d0-265e-11e8-92a9-ab58e799b966.jpg">
 
-![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
 
 
 Two definitions, One distinction.
