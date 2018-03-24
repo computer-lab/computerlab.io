@@ -8,12 +8,10 @@ author: Victoria Campbell
 published: true
 image: ""
 ---
-
-**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
-
+```
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
-```
+
 March 08, 2018 at 15:15
 Location: Varick Ave, Brooklyn. 
 Format: Mobile Device
@@ -33,18 +31,19 @@ breeders        +              jingos
                 |
 junkies          -               replicants
 
-
+:anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
+:zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
+**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 ```
-
 **"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
+
+---------------------------------------------------------------------------------------------------------------------------
+FIELD REPORT: ARE YOU ADVANCED BASIC?
+---------------------------------------------------------------------------------------------------------------------------
 
 
 A History Without Traditions
 =======
-
----------------------------------------------------------------------------------------------------------------------------
-ADVANCED BASIC TRAINING FIELD REPORT 
----------------------------------------------------------------------------------------------------------------------------
 ![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
 *Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?*
 
@@ -57,35 +56,30 @@ Here's a cost-benefit breakdown of your conceptual strife from a two point persp
 
 I'd taken to task the coming of age from an early start, probably too early: this might account for the pollution. Yes I was polluted with consciousness, my name is Just Short of 30 Under 30 and I admit I have a problem, I'm so under the influence of my thought I've literally transcended culture. 
 
+Full-blown radical theory. You're the best card history's dealt. You subject of consciousness, you organ of disillusionment, you brilliant child of god, you. You're alienated. You're depressed. You dress like you smoke - casually,  without regard for the cost. Denim, canvas, deadstock cotton. You're woke but you're broke, you can see the Emporer for the clothes, but everything naked looks like a king. 
+
+You get by with your charm and your cunning. You avoid crisis with deconstruction. What you lack in compassion you make up for in ideologic dexterity. What you lack in mobility you make up for in ambition, what you lack in ambition you make up for in flagrant cosmopolitanism. You are as bad at dating as you are good in bed. You're romantic, but wary of bourgeosie sentiment. Your emotions are subject to inflation, so you regulate with conceptual strife. You like to sleep with common people. You're sensitive to gluten. 
 
 
-full-blown radical theory. Before you know it you think you're the best card history's dealt. Look at you, you subject of consciousness, you organ of disillusionment. You're alienated. You dress like you smoke - casually,  without regard for the cost - which comes off like you know better- denim, canvas, deadstock cotton. You're woke but you're broke, you can see the Emporer for the clothes, but everything naked looks like a king. You get by with your charm and your cunning. You avoid crisis with deconstruction. What you lack in compassion you make up for in ideologic dexterity. What you lack in mobility you make up for in ambition, what you lack in ambition you make up for in flagrant cosmopolitanism. You are as bad at dating as you are good in bed. You're romantic, but wary of bourgeosie sentiment. Your emotions are subject to inflation, so you regulate with conceptual strife. You're sensitive to gluten. 
-
-
-
-
-
-
-
-
-you are easily bored 
+**"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
 
 
 
 
-exhibit the kind of ideologic dexterity some would call 
 
-You're affected by seasonal depression 
+you are easily bored. you exhibit the kind of ideologic dexterity some might call a borderline crisis. 
 
-- but your thought has never been limited by means - and so denies any relationship to them, except the means by which you think, which is in stoic observance of the world. Of course you think the problem is systemic. You reject pronouns, both the ones assigned to you and pronouns in general. You're neurotic, but don't suffer nervous breakdowns: you only take the time to 'deconstruct.' 
-
+> but your thought has never been limited by means - and so denies any relationship to them, except the means by which you think, which is in stoic observance of the world. Of course you think the problem is systemic. You reject pronouns, both the ones assigned to you and pronouns in general. You're neurotic, but don't suffer nervous breakdowns: you only take the time to 'deconstruct.'  
 
 
 
-ationalize class drag with dialectics. In leiue of never having your shit together, you become well versed in deconstructionist theory. You not only reject assigned programs, you reject pronouns entirely. You begin to inhabit your body as if no outside existed. You are an anthropology unto yourself; poor at networking, yet capable of small talk and "the expanded field," which includes visiting your parents. 
 
-so-called actually-existing cultural Marxism and tracking vintage Lenin on ebay. You're cool, you dress like you smoke: casually and without regard for the cost. Or you dress like a materialist: denim, canvas, deadstock cotton. You dress like you know better than everyone else, because you're a historian, why keep up with style when it repeats? Reads Hegel once. Finds love on dating app, never. 
+Rationalize class drag with dialectics. Gain ten pounds. In leiue of never having your shit together, you become well versed in deconstruction. You're basic if you give truck to assigned prounouns: the real cheese is in predicate appropriation. Begin to inhabit your body as if no outside existed. Become an anthropology unto yourself; poor at networking, yet capable of small talk. 
+
+
+
+So-called actually-existing cultural Marxism and tracking vintage Lenin on ebay. You're a historian, why keep up with style when it repeats? Reads Hegel once. Finds love on dating app, never. 
 
 You desire to engage in political conduct, yet you find social justice unconvincing, because you know under capitalism there can be no justice. 
 
