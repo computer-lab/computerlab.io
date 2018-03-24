@@ -9,14 +9,6 @@ published: true
 image: ""
 ---
 
-![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
----------------------------------------------------------------------------------------------------------------------------
-ADVANCED BASIC TRAINING FIELD REPORT 
----------------------------------------------------------------------------------------------------------------------------
-![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
-*Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?*
-
-
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
@@ -50,14 +42,24 @@ junkies          -               replicants
 A History Without Traditions
 =======
 
+---------------------------------------------------------------------------------------------------------------------------
+ADVANCED BASIC TRAINING FIELD REPORT 
+---------------------------------------------------------------------------------------------------------------------------
+![51534324](https://user-images.githubusercontent.com/28285201/37324523-37632af2-2660-11e8-9651-28e325707606.jpg)
+*Why wait for a breakthrough when you can import it straight from the Silicon Valley to the asshole of Midtown Manhattan?*
 
 
 
-Had I really reached a point in my life where I was having more issues with my consciousness than with capitalism? Were my 20's really coming to a close? 
+Had i really reached a point in my life where i was having more issues with my consciousness than with capitalism? Were my 20's really coming to a close? 
+
+Here's a cost-benefit breakdown of your conceptual strife from a two point perspective. 
+
 
 I'd taken to task the coming of age from an early start, probably too early: this might account for the pollution. Yes I was polluted with consciousness, my name is Just Short of 30 Under 30 and I admit I have a problem, I'm so under the influence of my thought I've literally transcended culture. 
 
-It's a slippery slope from casually skimming the Verso aisle into full-blown radical theory. Before you know it you think you're the best card history's dealt. Look at you, you subject of consciousness, you organ of disillusionment. You're alienated. You dress like you smoke - casually,  without regard for the cost - which comes off like you know better- denim, canvas, deadstock cotton. You're woke but you're broke, you can see the Emporer for the clothes, but everything naked looks like a king. You get by with your charm and your cunning. You avoid crisis with deconstruction. What you lack in compassion you make up for in ideologic dexterity. What you lack in mobility you make up for in ambition, what you lack in ambition you make up for in flagrant cosmopolitanism. You are as bad at dating as you are good in bed. You're romantic, but wary of bourgeosie sentiment. Your emotions are subject to inflation, so you regulate with conceptual strife. You're sensitive to gluten. 
+
+
+full-blown radical theory. Before you know it you think you're the best card history's dealt. Look at you, you subject of consciousness, you organ of disillusionment. You're alienated. You dress like you smoke - casually,  without regard for the cost - which comes off like you know better- denim, canvas, deadstock cotton. You're woke but you're broke, you can see the Emporer for the clothes, but everything naked looks like a king. You get by with your charm and your cunning. You avoid crisis with deconstruction. What you lack in compassion you make up for in ideologic dexterity. What you lack in mobility you make up for in ambition, what you lack in ambition you make up for in flagrant cosmopolitanism. You are as bad at dating as you are good in bed. You're romantic, but wary of bourgeosie sentiment. Your emotions are subject to inflation, so you regulate with conceptual strife. You're sensitive to gluten. 
 
 
 
