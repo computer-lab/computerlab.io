@@ -17,7 +17,7 @@ image: ""
 						Format: Mobile Device
 						---------------------------
 						
-						       adv basic territory  
+						           adv basic  
 						
 
 						breeders        +              jingos
@@ -26,18 +26,18 @@ image: ""
 						                |
 						                |
 						                |
-	adv basic territory                     - ------------------------------ +                       adv basic territory  
+	 adv basic                             - -------------------------------- +                    adv basic 
 						                |
 						                |
 						                |
 						                |
 						                |
-						junkies         -               replicants
+					        junkies         -               replicants
 						
 						```
 
 
-							adv basic territory  
+							    adv basic  
 
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
