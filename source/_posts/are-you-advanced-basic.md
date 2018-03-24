@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Report on Intelligent Design 
+title: Are You Advanced Basic?
 date: 2018-03-03
 category: Notes
-lede: Advanced Basic Training
+lede: Recent advacements in the cultural survival game. 
 author: Victoria Campbell
 published: true
 image: ""
@@ -12,10 +12,10 @@ image: ""
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
 
 						```
-						March 08, 2018 at 15:15
-						Location: Varick Ave, Brooklyn. 
-						Format: Mobile Device
-						---------------------------
+March 08, 2018 at 15:15
+Location: Varick Ave, Brooklyn. 
+Format: Mobile Device
+------------------------------------------------------------------------------------------------------------------------------
 						
 						           adv basic  
 						
@@ -26,7 +26,7 @@ image: ""
 						                |
 						                |
 						                |
-	 adv basic                             - -------------------------------- +                    adv basic 
+	 adv basic                             - -------------BASIC---------------- +                    adv basic 
 						                |
 						                |
 						                |
@@ -36,9 +36,10 @@ image: ""
 						
 						```
 
-
-							    adv basic  
-
+							    adv basic
+							    
+Figure A. Map of the Basic All-Purpose Symbolic Identity Contingent (BASIC). Victoria Campebell, 2018.
+------------------------------------------------------------------------------------------------------------------------------
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
