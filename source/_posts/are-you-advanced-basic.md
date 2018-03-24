@@ -42,7 +42,7 @@ V. A MINORITY REPORT
 REMARKS 
 
 ```
->**"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
+>**:trollface:"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
 A History Without Traditions
 =======
