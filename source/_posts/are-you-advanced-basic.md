@@ -9,19 +9,26 @@ published: true
 image: ""
 ---
 
-
-
-
-
 ```
 ---------------------------------------------------------------------------------------------------------------------------
 ARE YOU ADVANCED BASIC?: AN INTELLIGENCE REPORT
----------------------------------------------------------------------------------------------------------------------------
-ARE YOU ADVANCED BASIC? A 
-TABLE OF CONTENTS
+--------------------------------------------------------------------------------------------------------------------------
+      ________________________________         
+    /                                "-_          
+   /      .  |  .                       \          
+  /      : \ | / :                       \         
+ /        '-___-'                         \      
+/_________________________________________ \      
+     _______| |________________________--""-L 
+    /       F J                              \ 
+   /       F   J                              L
+  /      :'     ':                            F
+ /        '-___-'                            / 
+/_________________________________________--" 
 
-INTRODUCTION
-================================================================					           .      .   
+CONTENTS
+INTRO
+================================================================				           .      .   
 I.  A HISTORY WITHOUT TRADITION					      *             .    . .  +    .  .       
 ================================================================           .      .    .     . .   . . .        ! /  
 II. GET RID OF YOURSELF						
@@ -34,76 +41,7 @@ V. A MINORITY REPORT
 ================================================================
 REMARKS 
 
-. .  +    .  . 
- .
- 
- BRO1: "Nah, she does basic things because she 										         likes them, not to fit in."					
-          .     .    .  +   . .  *  .       . 
-.              +   .                .   . .     .  .
-                   .                    .       .     *				 .              +   .                .   . .     								.  .
-                   .                  .       .     *
- 				 .       									*                       							 . . . .  .   .  + .
-           								            											
-	   
-	   
-	   									    "ADV BASIC"            .   .  +  . . .
-						        .        |         		   |
-                									  \|/            .       .   . .	
-       										 . .       V          .    * . . .  .  +   .
-"It occured to me that I possessed about as much cultural                                                                      diversity as the outside of an american apparel bag."            +      .           .   .      +
-                            .       . +  .+. .
-  .                      .     . + .  . .     .     
-               . + .  .  .  .. +  .
-.      .  .  .  *   .  *  . +..  .            *
- .      .   . .   .   .   . .  +   .    .            + 	 .              +   .                .   . .     .  .
-                   .                    .       .     *
-  .       *                        . . . .  .   .  + .          
-            "ADV BASIC"            .   .  +  . . .      
-	    	  | 					 
-				
-.                 |             .  .   .    .    . 
-                  |           .     .     . +.    +  .
-                 \|/            .       .   . .	         			             
-        . .       V          .    * . . .  .  +   .
-           +      .           .   .      +							- O -
-                            .       . +  .+. .
-  .                      .     . + .  . .     .      .  
-  
-.     . .   . . .        ! /
- Person two: No, they dress well and went to Oberlin 									      	but are very boring. Taylor is an advanced basic.								
 ```
-
-.     .    .  +   . .  *  .       . / |
-										               . + .  .  .  .. +  .
-						.      .  .  .  *   .  *  . +..  .            *					.      .   . .   .   .   . .  +   .    .            +
-  									.       *                        . . . .  .   .  + .
-           										 "ADV BASIC"            .   .  +  . . .
-.                 |             .  .   .    .    . .								 .              +   .                .   . .     .  .
-                   .                    .       .     *
-  .       *                        . . . .  .   .  + .
- 							           "ADV BASIC"            .   .  +  . . .
-.               							|             .  .   .    .    . .
-                  							|           .     .     . +.    +  .
-                 						       \|/            .       .   . .
-        						      . .       V          .    * . . .  .  +   .
-           +      .           .   .      +
-                            .       . +  .+. .
-  .                      .     . + .  . .     .      .
-           .      .    .     . .   . . .      
-	   					! / 								
-						
-```
-
-
-
-
-
-
-
-
-
-
-
 
 
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
@@ -438,6 +376,81 @@ I chose the user Ines, for inessential. There's nothing personal about this, but
 ```
 
 *Figure A. Map of the Basic All-Purpose Symbolic Identity Contingent (BASIC). Victoria Campebell, 2018.*
+
+
+
+
+. .  +    .  . 
+ .
+ 
+ BRO1: "Nah, she does basic things because she 										         likes them, not to fit in."					
+          .     .    .  +   . .  *  .       . 
+.              +   .                .   . .     .  .
+                   .                    .       .     *				 .              +   .                .   . .     								.  .
+                   .                  .       .     *
+ 				 .       									*                       							 . . . .  .   .  + .
+           								            											
+	   
+	   
+	   									    "ADV BASIC"            .   .  +  . . .
+						        .        |         		   |
+                									  \|/            .       .   . .	
+       										 . .       V          .    * . . .  .  +   .
+"It occured to me that I possessed about as much cultural                                                                      diversity as the outside of an american apparel bag."            +      .           .   .      +
+                            .       . +  .+. .
+  .                      .     . + .  . .     .     
+               . + .  .  .  .. +  .
+.      .  .  .  *   .  *  . +..  .            *
+ .      .   . .   .   .   . .  +   .    .            + 	 .              +   .                .   . .     .  .
+                   .                    .       .     *
+  .       *                        . . . .  .   .  + .          
+            "ADV BASIC"            .   .  +  . . .      
+	    	  | 					 
+				
+.                 |             .  .   .    .    . 
+                  |           .     .     . +.    +  .
+                 \|/            .       .   . .	         			             
+        . .       V          .    * . . .  .  +   .
+           +      .           .   .      +							- O -
+                            .       . +  .+. .
+  .                      .     . + .  . .     .      .  
+  
+.     . .   . . .        ! /
+ Person two: No, they dress well and went to Oberlin 									      	but are very boring. Taylor is an advanced basic.								
+```
+
+.     .    .  +   . .  *  .       . / |
+										               . + .  .  .  .. +  .
+						.      .  .  .  *   .  *  . +..  .            *					.      .   . .   .   .   . .  +   .    .            +
+  									.       *                        . . . .  .   .  + .
+           										 "ADV BASIC"            .   .  +  . . .
+.                 |             .  .   .    .    . .								 .              +   .                .   . .     .  .
+                   .                    .       .     *
+  .       *                        . . . .  .   .  + .
+ 							           "ADV BASIC"            .   .  +  . . .
+.               							|             .  .   .    .    . .
+                  							|           .     .     . +.    +  .
+                 						       \|/            .       .   . .
+        						      . .       V          .    * . . .  .  +   .
+           +      .           .   .      +
+                            .       . +  .+. .
+  .                      .     . + .  . .     .      .
+           .      .    .     . .   . . .      
+	   					! / 								
+						
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
