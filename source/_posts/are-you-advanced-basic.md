@@ -8,34 +8,20 @@ author: Victoria Campbell
 published: true
 image: ""
 ---
-
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
 
-March 08, 2018 at 15:15
-Location: Varick Ave, Brooklyn. 
-Format: Mobile Device
----------------------------
 
-breeders        +              jingos
-                |
-                |
-                |
-                |
-                |
-- --------------------------------- +
-                |
-                |
-                |
-                |
-                |
-junkies          -               replicants
 
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
 **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
 
 **"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 FIELD REPORT: ARE YOU ADVANCED BASIC?
