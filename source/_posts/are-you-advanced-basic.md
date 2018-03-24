@@ -10,24 +10,34 @@ image: ""
 ---
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
-March 08, 2018 at 15:15
-Location: Varick Ave, Brooklyn. 
-Format: Mobile Device
----------------------------
 
-breeders        +              jingos
-                |
-                |
-                |
-                |
-                |
-- --------------------------------- +
-                |
-                |
-                |
-                |
-                |
-junkies          -               replicants
+						```
+						March 08, 2018 at 15:15
+						Location: Varick Ave, Brooklyn. 
+						Format: Mobile Device
+						---------------------------
+						
+						       adv basic territory  
+						
+
+						breeders        +              jingos
+						                |
+						                |
+						                |
+						                |
+						                |
+	adv basic territory                     - ------------------------------ +                       adv basic territory  
+						                |
+						                |
+						                |
+						                |
+						                |
+						junkies         -               replicants
+						
+						```
+
+
+							adv basic territory  
 
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
