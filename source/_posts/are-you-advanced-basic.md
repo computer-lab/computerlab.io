@@ -8,21 +8,24 @@ author: Victoria Campbell
 published: true
 image: ""
 ---
-<rawtext>
+
+```
      ________________________________         
     /                                "-_          
    /      .  |  .                       \          
   /      : \ | / :                       \         
  /        '-___-'                         \      
-/_________________________________________ \      
+/_________________________________________ \                       **What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
      _______| |________________________--""-L 
     /       F J                              \ 
    /       F   J                              L
   /      :'     ':                            F
  /        '-___-'                            / 
 /_________________________________________--"  
+```
 
-</rawtext>
+
+
 
 ```
 ------------------------------------------------------------------------------------------------------------------------------
@@ -62,7 +65,7 @@ ________________________________________________________________________________
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zz
 
 :zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
-**What we will designate as *advanced basic* is the capability of operating withing the inescabable plane of basic in a way that withstands any temptation to transcend it.**
+
 
 **"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
