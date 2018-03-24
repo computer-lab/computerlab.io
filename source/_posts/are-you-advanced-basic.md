@@ -8,7 +8,10 @@ author: Victoria Campbell
 published: true
 image: ""
 ---
-:anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀██████               
+░░░░ ░░░░░░░▀█▄█▄███▀░░░ ▀█▄█▄███
+
 ```
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,9 +42,7 @@ Format: Mobile Device
 ```
 *Figure A. Map of the Basic All-Purpose Symbolic Identity Contingent (BASIC). Victoria Campebell, 2018.*
 ______________________________________________________________________________________________________________________________
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀██████                                    
-░░░░ ░░░░░░░▀█▄█▄███▀░░░ ▀█▄█▄███
+
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
