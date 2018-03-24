@@ -26,23 +26,17 @@ ARE YOU ADVANCED BASIC?: AN INTELLIGENCE REPORT
  /        '-___-'                            / 
 /_________________________________________--" 
 
-CONTENTS
-INTRO
-================================================================				           .      .   
-I.  A HISTORY WITHOUT TRADITION					      *             .    . .  +    .  .       
-================================================================           .      .    .     . .   . . .        ! /  
-II. GET RID OF YOURSELF						
-================================================================      *             .                         - O -
-III.BACK TO PEAK BASIC AND BACK AGAIN
-================================================================					      / |
-IV. NEW DEVELOPMENTS IN THE CULTURAL SURVIVAL GAME
-================================================================
-V. A MINORITY REPORT                       
-================================================================
-REMARKS 
-
+[ ]=[ 1 ] a history without tradition
+: :
+[ ]=[ 2 ] get rid of yourself
+: :
+[ ]=[ 3 ] back to peak basic
+: :  
+[ ]=[ 4 ] new developments in the cultural survival game
+: :				  	
+[ ]=[ 5 ] a minority report 
 ```
->**:trollface:"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
+#:trollface:"This is a group of people that may have felt neglected in the past," said Noe Garcia III, a Republican volunteer dressed in non-NASCAR-like khakis and T-shirt. "We want to speak directly to them. We want them to know that we share many of the same values."**
 
 A History Without Traditions
 =======
