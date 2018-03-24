@@ -19,6 +19,7 @@ ARE YOU ADVANCED BASIC?: AN INTELLIGENCE REPORT
 ---------------------------------------------------------------------------------------------------------------------------
 ARE YOU ADVANCED BASIC? A 
 TABLE OF CONTENTS
+
 INTRODUCTION
 ================================================================					           .      .   
 I.  A HISTORY WITHOUT TRADITION					      *             .    . .  +    .  .       
@@ -31,32 +32,35 @@ IV. NEW DEVELOPMENTS IN THE CULTURAL SURVIVAL GAME
 ================================================================
 V. A MINORITY REPORT                       
 ================================================================
-													 . .  +    .  . 
- .
+REMARKS 
 
-					
+. .  +    .  . 
+ .
+ 
+ BRO1: "Nah, she does basic things because she 										         likes them, not to fit in."					
           .     .    .  +   . .  *  .       . 
 .              +   .                .   . .     .  .
                    .                    .       .     *				 .              +   .                .   . .     								.  .
-                   .                    .       .     *
+                   .                  .       .     *
  				 .       									*                       							 . . . .  .   .  + .
-           								            "ADV BASIC"            .   .  +  . . .
-						        .        |          
-
-            .     .     . +.    +  .
-                									 \|/            .       .   . .	
-       										 . .      V          .    * . . .  .  +   .
-           +      .           .   .      +
+           								            											
+	   
+	   
+	   									    "ADV BASIC"            .   .  +  . . .
+						        .        |         		   |
+                									  \|/            .       .   . .	
+       										 . .       V          .    * . . .  .  +   .
+"It occured to me that I possessed about as much cultural                                                                      diversity as the outside of an american apparel bag."            +      .           .   .      +
                             .       . +  .+. .
   .                      .     . + .  . .     .     
                . + .  .  .  .. +  .
 .      .  .  .  *   .  *  . +..  .            *
  .      .   . .   .   .   . .  +   .    .            + 	 .              +   .                .   . .     .  .
                    .                    .       .     *
-  .       *                        . . . .  .   .  + .
+  .       *                        . . . .  .   .  + .          
             "ADV BASIC"            .   .  +  . . .      
 	    	  | 					 
-		  					  
+				
 .                 |             .  .   .    .    . 
                   |           .     .     . +.    +  .
                  \|/            .       .   . .	         			             
@@ -66,7 +70,8 @@ V. A MINORITY REPORT
   .                      .     . + .  . .     .      .  
   
 .     . .   . . .        ! /
-
+ Person two: No, they dress well and went to Oberlin 									      	but are very boring. Taylor is an advanced basic.								
+```
 
 .     .    .  +   . .  *  .       . / |
 										               . + .  .  .  .. +  .
@@ -84,32 +89,10 @@ V. A MINORITY REPORT
            +      .           .   .      +
                             .       . +  .+. .
   .                      .     . + .  . .     .      .
-           .      .    .     . .   . . .        ! / 				
-										
-										
-      *             .    . .  +    .  .       - O -
-          .     .    .  +   . .  *  .       . / |
-               . + .  .  .  .. +  .
-.      .  .  .  *   .  *  . +..  .            *
- .      .   . .   .   .   . .  +   .    .            +
-                  |           .     .     . +.    +  .                                     
-                 \|/            .       .   . .				
-        . .       V          .    * . . .  .  +   .
-           +      .           .   .      +
-                            .       . +  .+. .
-  .                      .     . + .  . .     .      .
-           .      .    .     . .   . . .        ! /
-      *             .    . .  +    .  .       - O -
-          .     .    .  +   . .  *  .       . / |				
-               . + .  .  .  .. +  .
-.      .  .  .  *   .  *  . +..  .            *
- .      .   . .   .   .   . .  +   .    .            + 
-  .              +   .                .   . .     .  .
- +
-
+           .      .    .     . .   . . .      
+	   					! / 								
+						
 ```
-
-
 
 
 
