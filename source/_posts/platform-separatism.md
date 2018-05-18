@@ -58,7 +58,7 @@ here? maybe the industry HAS consolidated around Pinterest).
 What's the difference between a social platform and a software (computing)
 platform?
 
-alignment of interests is an asset
+alignment of interests is an asset more important than 
 
 Is it impossible to create a generic social platform?
 
