@@ -142,4 +142,11 @@ professional information security conference. The event's sponsors seem to
 already understand this, and the hackable vending machines and arcade games were
 a good first step towards irreverence and informality.
 
-
+Jeff Moss and his friends at Baidu have now proved that you can do a DEF CON in
+China without [Jacob Appelbaum in
+Egypt](https://www.youtube.com/watch?v=0qa8SRN86V8) type drama. What does this
+mean? Perhaps many of our mental models of the infosec world are wrong -- per
+Dan Kaminsky's talk -- and many of us are blind to a variety of opportunties and
+threats in a politically bewildering time. And perhaps many people, like me, are
+simply drawn to hacking as a sort of glass bead game like nothing that has come
+before.
