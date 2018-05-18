@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My Experience at DEF CON China Beta
+title: My Experience at DEF CON China
 date: 2018-05-18
 category: Notes
-lede: Parameterizing a REST API over multiple types of users can be a headache. Learn how we addressed this common pattern with our own reusable Django application - django-rest-framework-roles.
+lede: Hosting an American hacking conference in China challenges a lot of assumptions about hacking itself.
 author: Patrick Steadman
 published: true
 image: "https://computerlab.io/images/defcon-china-1.jpg"
@@ -19,7 +19,7 @@ After failing to qualify for the "Crash and Compile" drinking and coding
 competition at DEF CON 25, my friend Rob and I wandered over to the IoT village
 and cleared some space for our laptops. Rob helped me start exploring the
 village's capture the flag (CTF) network, using `arp-scan` to identify
-vulnerable routers, fitness trackers and even appliances set up by the CTF's
+vulnerable routers, fitness trackers and appliances set up by the CTF's
 organizers. I chose a low point value router with a CVE, and began the process
 of writing an exploit based on the CVE's write-up.
 
@@ -27,20 +27,16 @@ Several iterations and Red Bull vodkas later, my exploit suddenly worked (!),
 springing me into a crude reverse shell.
 
 I felt, for the first time in years, a spiky jolt of pure dopamine, and
-immediately felt empowered to weaponize my middling web engineer skills and
-learn other classic hacking stuff like binary reversing, just because I wanted
-to play CTF. 
+immediately felt motivated to weaponize my middling web developer skills and
+learn classic hacking stuff like binary reversing, just because I wanted to
+play CTF.
 
-CTF, in its many variants, simultaneously appeals to to the part of me that
-likes the intensity of team sports, and the part of me that wants to play with
-weird computing systems.
-
-People all over the world seem to find CTF really compelling. Thanks to the CTF
-directory [ctftime.org](https://ctftime.org), I've been able to participate in CTFs hosted by
-organizations based in India, China, Iran, and even Pennsylvania. Ironically,
-this Olympian quality can lead to interesting problems, like when many
-competitors in the Iranian CTF found themselves unable to connect to challenge
-machines because their IPs had been added to ISP blacklists.
+People all over the world seem to find CTF similarly compelling. Thanks to the
+CTF directory [ctftime.org](https://ctftime.org), I've been able to participate
+in CTFs hosted by organizations based in India, China, Iran, and even
+Pennsylvania. Ironically, this Olympian quality can lead to problems, like when
+many competitors in the Iranian CTF found themselves unable to connect to
+challenge machines because their IPs had been added to ISP blacklists.
 
 DEF CON China has its roots in international CTF culture, specifically in a 2016
 coffee date between Jeff Moss and Baidu Security exec Ma Jie, who was in Vegas
@@ -49,7 +45,7 @@ the DEF CON CTF finals. Apparently, in that meeting, the two developed an
 understanding, and the rest is recently-made history. A lot of the
 Chinese-language articles about the event focus on the Blue Lotus CTF team
 aspect of the story (the team eventually got 2nd!). Western press about DEF CON
-China has simply been...sparse, but the reaction on
+China has been...sparse, but the reaction on
 [Twitter](https://twitter.com/wbm312/status/891871962271633410) and
 [Reddit](https://www.reddit.com/r/Defcon/comments/6qtwe6/defcon_beta_in_beijing_china_huge_fing_mistake/?st=jhch6rd3&sh=c152af0b#bottom-comments)
 was basically "Wtf? Why would you do DEF CON in China? [Prediction of
