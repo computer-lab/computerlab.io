@@ -7,6 +7,7 @@ branches:
   - staging
 before_install:
 - npm install
+- npm install -g hexo-cli
 install:
 - npm run generate
 deploy:
