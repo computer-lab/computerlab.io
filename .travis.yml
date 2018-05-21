@@ -6,7 +6,6 @@ branches:
   - master
   - staging
 before_install:
-- npm install -g hexo
 - npm install
 install:
 - npm run generate
