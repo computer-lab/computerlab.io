@@ -9,7 +9,7 @@ before_install:
 - npm install -g hexo
 - npm install
 install:
-- hexo generate
+- npm run generate
 deploy:
   - provider: s3
     on:

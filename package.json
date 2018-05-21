@@ -4,14 +4,15 @@
   "private": false,
   "license": "MIT",
   "hexo": {
-    "version": "3.4.4"
+    "version": "3.7.1"
   },
   "scripts": {
     "develop": "hexo server",
-    "start": "hexo server"
+    "start": "hexo server",
+    "generate": "hexo generate"
   },
   "dependencies": {
-    "hexo": "^3.3.8",
+    "hexo": "^3.4.4",
     "hexo-generator-archive": "^0.1.2",
     "hexo-generator-category": "^0.1.2",
     "hexo-generator-recent": "^0.1.2",
