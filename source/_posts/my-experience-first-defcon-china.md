@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Went to DEF CON China
-date: 2018-05-18
+date: 2018-05-21
 category: Notes
 lede: Hosting an American hacking conference in China challenges a lot of assumptions about hacking itself.
 author: Patrick Steadman
@@ -53,11 +53,11 @@ was basically "Wtf? Why would you do DEF CON in China? [Prediction of
 disaster]."
 
 As someone who has lived and worked in mainland China, I had my own set of
-likelihood filters for major drama. And overall, DEF CON China matched my
-expectations pretty neatly. I personally made the trip because 1) I hoped to be
-exposed to some new computer ideas, 2) I hoped to meet Chinese hackers via
-workshops and contests, 3) all in a relaxed, celebratory atmosphere sort of
-unique to DEF CON.
+expectation filters for major disaster or drama. And overall, DEF CON China
+matched my expectations pretty neatly. I personally made the trip because 1) I
+hoped to be exposed to some new computer ideas, 2) I hoped to meet Chinese
+hackers via workshops and contests, 3) all in a relaxed, celebratory atmosphere
+sort of unique to DEF CON.
 
 My first two hopes were realized. Most of the talks I saw were good, from a
 deep-dive into the technicalities of [CORS vulnerabiity
