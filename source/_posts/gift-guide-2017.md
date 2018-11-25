@@ -12,7 +12,7 @@ author: Computer Lab
 <p class="text-center"><strong>Can’t figure out what to gift your loved ones this holiday season? We have some suggestions:</strong></p>
 <div class="guide">
   <div class="gift">
-    <img src="http://cdn.needsupply.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/5/h582a34274ea12.jpg" alt="Scissors">
+    <img src="/images/gift-guide-17-scissors.jpg" alt="Scissors">
     <h3>Sexy Scissors</h3>
     <h4>For a desk to impress</h4>
     <h5>
@@ -80,7 +80,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="//cdn.shopify.com/s/files/1/2010/0437/products/pure_box_vape_grande_grande_c6c03e4c-31ae-4027-a83c-91721902b665_large.jpg?v=1499364183" alt="CBD Vape">
+    <img src="/images/gift-guide-17-vape.jpg" alt="CBD Vape">
     <h3>A CBD Vape</h3>
     <h4>Give Them The Gift of Chill</h4>
     <h5>
@@ -144,7 +144,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="//cdn.shopify.com/s/files/1/0168/6168/products/GradientPuzzle-BlueGreen-seamless_3600x@2x.jpg?v=1510601416" alt="Gradient Puzzle">
+    <img src="/images/gift-guide-17-puzzle.jpg" alt="Gradient Puzzle">
     <h3>A Meditative Puzzle</h3>
     <h4>For the colorblind masochist</h4>
     <h5>
@@ -152,7 +152,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="http://cdn.shoprescuespa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/5/p50_1970-new_1.jpg" alt="Biologique Recherche P50">
+    <img src="/images/gift-guide-17-p50.jpg" alt="Biologique Recherche P50">
     <h3>The Best Exfoliant</h3>
     <h4>For someone that’s looking to start anew (every night)</h4>
     <h5>
