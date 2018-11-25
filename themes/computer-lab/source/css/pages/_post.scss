@@ -9,7 +9,7 @@ h1.post-title {
   text-align: center;
 
   h5 {
-    font-family: 'Gill Sans', Arial, sans-serif;    
+    font-family: 'Gill Sans', Arial, sans-serif;
     letter-spacing: 1px;
 
     span.date {
@@ -29,7 +29,7 @@ h1.post-title {
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Gill Sans', Arial, sans-serif;
-    letter-spacing: 0px;  
+    letter-spacing: 0px;
   }
 
   strong {
@@ -54,17 +54,34 @@ nav.pagination {
     flex-direction: column;
     justify-content: space-around;
 
-    @media (min-width: $mobile) {
-      max-height: 3300px;
+    &.guide-2017 {
+      @media (min-width: $mobile) {
+        max-height: 3300px;
+      }
+
+      @media (min-width: 992px) {
+        max-height: 3500px;
+      }
+
+      @media (min-width: 1200px) {
+        max-height: 4000px;
+      }
     }
 
-    @media (min-width: 992px) {
-      max-height: 3500px;
+    &.guide-2018 {
+      @media (min-width: $mobile) {
+        max-height: 3300px;
+      }
+
+      @media (min-width: 992px) {
+        max-height: 2500px;
+      }
+
+      @media (min-width: 1200px) {
+        max-height: 2500px;
+      }
     }
 
-    @media (min-width: 1200px) {
-      max-height: 4000px;
-    }
   }
 
   .gift {
