@@ -14,7 +14,7 @@ author: Computer Lab
   <div class="gift">
     <img src="/images/gift-guide-18-moss.png" alt="Marimo Moss Ball">
     <h3>Marimo Moss Ball</h3>
-    <h4>what makes it dope is its ability to 'swim' - <a href="https://instagram.com/robheppler">rob</a></h4>
+    <h4>What makes it dope is its ability to 'swim' - <a href="https://instagram.com/robheppler">rob</a></h4>
     <h5>
       <em>6 Marimo Moss Ball Variety Pack</em>, $13 <a href="https://www.amazon.com/Marimo-Moss-Ball-Variety-Pack/dp/B00I323A0E" target="_blank">at Amazon</a>
     </h5>
@@ -58,7 +58,7 @@ author: Computer Lab
     <img src="/images/gift-guide-18-clippers.jpg" alt="Muji nail clipper">
     <h3>Muji Nail Clipper</h3>
     <h4>
-      the rolls royce of nail clippers - amazon reviewer
+      The rolls royce of nail clippers - amazon reviewer
     <h5>
       <em>MUJI Japan Nail Clipper [Large 8cm]</em>, $9.50 <a href="https://www.amazon.com/MUJI-Japan-Nail-Clipper-Large/dp/B00IJE7KOS/ref=pd_sim_194_1?_encoding=UTF8&pd_rd_i=B00IJE7KOS&pd_rd_r=7f03558b-f068-11e8-a029-3b664630e258&pd_rd_w=WRqq2&pd_rd_wg=1btG5&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=WN5GXQM3EP5F5MXZXYWC&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=WN5GXQM3EP5F5MXZXYWC" target="_blank">at Amazon</a>
     </h5>
@@ -99,7 +99,7 @@ author: Computer Lab
   <div class="gift">
     <img src="https://www.sephora.com/productimages/product/p6025-av-01-Lhero.jpg" alt="Caudalie Beauty Elixir">
     <h3>A Refreshing Mist</h3>
-    <h4>For the parched (and several Moms of Lab)</h4>
+    <h4>For the parched Moms of Lab</h4>
     <h5>
       <em>Caudalie Beauty Elixir</em>, $18 <a href="https://www.sephora.com/product/beauty-elixir-P6025?skuId=455774" target="blank">at Sephora</a>
     </h5>
