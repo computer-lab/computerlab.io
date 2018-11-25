@@ -10,7 +10,7 @@ author: Computer Lab
 ---
 
 <p class="text-center"><strong>Can’t figure out what to gift your loved ones this holiday season? We have some suggestions:</strong></p>
-<div class="guide">
+<div class="guide guide-2017">
   <div class="gift">
     <img src="/images/gift-guide-17-scissors.jpg" alt="Scissors">
     <h3>Sexy Scissors</h3>
