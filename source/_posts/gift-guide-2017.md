@@ -88,7 +88,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="https://www.sephora.com/productimages/product/p6025-av-01-Lhero.jpg" alt="Caudalie Beauty Elixir">
+    <img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir">
     <h3>A Refreshing Mist</h3>
     <h4>For the parched (and several Moms of Lab)</h4>
     <h5>
