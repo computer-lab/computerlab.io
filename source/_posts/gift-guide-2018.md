@@ -154,7 +154,7 @@ author: Computer Lab
   </div>
   <div class="gift">
     <img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl">
-    <h3>Big Bowl With Tiny House In It</h3>
+    <h3>Big Bowl With Tiny House</h3>
     <h4>You heard they like houses so put a house in their house</h4>
     <h5>
       <em>La Maison Inondée Bowl</em>, $24 - $55 <a href="https://store.moma.org/kitchen-dining/serving-flatware/la-maison-inond%C3%A9e-bowl/v116585.html" target="_blank">at MoMA Design Store</a>
@@ -171,7 +171,7 @@ author: Computer Lab
   <div class="gift">
     <img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards">
     <h3>Personalized 3x5 Index Cards</h3>
-    <h4>A generic, handsome gift; a more data-driven business card</h4>
+    <h4>A generic, handsome gift for the creative professional</h4>
     <h5>
       <em>250 Personalized 3 x 5 Cards</em>, $49 <a href="https://www.levenger.com/stationery-notebooks-322/note-cards-20583/custom-note-cards-20589/250-personalized-3-x-5-cards-vertical-13683.aspx" target="_blank">at Levenger</a>
     </h5>
