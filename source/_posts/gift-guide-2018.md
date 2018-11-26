@@ -73,7 +73,7 @@ author: Computer Lab
   </div>
   <div class="gift">
     <img src="/images/gift-guide-18-miffy.jpg" alt="Miffy">
-    <h3>Gigantic Mify Lamp</h3>
+    <h3>Gigantic Miffy Lamp</h3>
     <h4>It is expensive but it is v cool</h4>
     <h5>
       <em>Miffy XL design lamp</em>, €199 <a href="https://mrmaria.com/miffy-xl-lamp/" target="blank">at MrMaria</a>
@@ -128,5 +128,37 @@ author: Computer Lab
       <em>Biologique Richerche Lotion P50 “1970”</em>, $27 <a href="http://shoprescuespa.com/biologique-recherche-p50-original-1970.html" target="_blank">at Rescue Spa</a>
     </h5>
   </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-plastic.jpg" alt="Plastic food">
+    <h3>Fake Plastic Food</h3>
+    <h4>Order via email for international shipping</h4>
+    <h5>
+      <em>おふくろの味カレー</em>, 7,800円 <a href="http://ii-fake.com/?pid=108421866&fbclid=IwAR2x3fE3-V0a2V9MaumP98rYn7yk6c787ztQ4_lZdH35onCzNPymVl_O9Sk" target="_blank">at ii-fake</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-suit.jpg" alt="Plastic food">
+    <h3>Insect Mesh Suit</h3>
+    <h4>Suit tf up!!!</h4>
+    <h5>
+      <em>Lixada Mosquito Suit,Repellent Bug Jacket Mesh Hooded Suits Unisex Ultra-fine Mesh Insect Protective for Fishing Hiking Camping Gardening</em>, $23.99 <a href="https://www.amazon.com/Lixada-Repellent-Ultra-fine-Protective-Gardening/dp/B01I5AX9UO?fbclid=IwAR0Ywxo2IiEcrcT6Q8rzkPlylbG_y7ZEVXDWfm_lYpb38xcLhxhldx68Q9g" target="_blank">at Amazon</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-suit.jpg" alt="Plastic food">
+    <h3>Insect Mesh Suit</h3>
+    <h4>Suit tf up!!!</h4>
+    <h5>
+      <em>Lixada Mosquito Suit,Repellent Bug Jacket Mesh Hooded Suits Unisex Ultra-fine Mesh Insect Protective for Fishing Hiking Camping Gardening</em>, $23.99 <a href="https://www.amazon.com/Lixada-Repellent-Ultra-fine-Protective-Gardening/dp/B01I5AX9UO?fbclid=IwAR0Ywxo2IiEcrcT6Q8rzkPlylbG_y7ZEVXDWfm_lYpb38xcLhxhldx68Q9g" target="_blank">at Amazon</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-rmb.jpg" alt="Renminbi Pillow">
+    <h3>Renminbi Pillow</h3>
+    <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
+    <h5>
+      <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82.00 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
+    </h5>
+  </div>
 </div>
-<small>All photos courtesy of the vendors</small>
+<small>All photos courtesy of the vendors.</small>
