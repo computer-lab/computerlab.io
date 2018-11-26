@@ -1,6 +1,6 @@
 ---
 layout: gift-guide
-title: The 2018 Cozy Lab Gift Guide
+title: The 2018 Computer Lab Gift Guide
 date: 2018-11-30
 category: Products
 tags: 
@@ -97,7 +97,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="https://www.sephora.com/productimages/product/p6025-av-01-Lhero.jpg" alt="Caudalie Beauty Elixir">
+    <img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir">
     <h3>A Refreshing Mist</h3>
     <h4>For the parched Moms of Lab</h4>
     <h5>
@@ -145,19 +145,35 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-suit.jpg" alt="Plastic food">
-    <h3>Insect Mesh Suit</h3>
-    <h4>Suit tf up!!!</h4>
-    <h5>
-      <em>Lixada Mosquito Suit,Repellent Bug Jacket Mesh Hooded Suits Unisex Ultra-fine Mesh Insect Protective for Fishing Hiking Camping Gardening</em>, $23.99 <a href="https://www.amazon.com/Lixada-Repellent-Ultra-fine-Protective-Gardening/dp/B01I5AX9UO?fbclid=IwAR0Ywxo2IiEcrcT6Q8rzkPlylbG_y7ZEVXDWfm_lYpb38xcLhxhldx68Q9g" target="_blank">at Amazon</a>
-    </h5>
-  </div>
-  <div class="gift">
-    <img src="/images/gift-guide-18-rmb.jpg" alt="Renminbi Pillow">
+    <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
     <h3>Renminbi Pillow</h3>
     <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
     <h5>
       <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82.00 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl">
+    <h3>Big Bowl With Tiny House In It</h3>
+    <h4>You heard they like houses so put a house in their house</h4>
+    <h5>
+      <em>La Maison Inondée Bowl</em>, $24 - $55 <a href="https://store.moma.org/kitchen-dining/serving-flatware/la-maison-inond%C3%A9e-bowl/v116585.html" target="_blank">at MoMA Design Store</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-plus.jpg" alt="Feline plush">
+    <h3>PURRFECT PICNIC Plush Toys</h3>
+    <h4>Temptingly pre-stuf'd with USDA certified Organic Catnip</h4>
+    <h5>
+      <em>Feline Frenzy Plush Toy Collection</em>, $9.90 <a href="https://www.petplay.com/feline-frenzy-plush-toys/?color=340&size=" target="_blank">at P.L.A.Y.</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards">
+    <h3>Personalized 3x5 Index Cards</h3>
+    <h4>A generic, handsome gift; a more data-driven business card</h4>
+    <h5>
+      <em>250 Personalized 3 x 5 Cards</em>, $49 <a href="https://www.levenger.com/stationery-notebooks-322/note-cards-20583/custom-note-cards-20589/250-personalized-3-x-5-cards-vertical-13683.aspx" target="_blank">at Levenger</a>
     </h5>
   </div>
 </div>
