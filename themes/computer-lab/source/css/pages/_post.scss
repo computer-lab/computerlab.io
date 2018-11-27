@@ -48,50 +48,27 @@ nav.pagination {
 
 #archive .gift-guide {
   .guide {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: space-around;
+    column-fill: balance;
 
-    &.guide-2017 {
-      @media (min-width: $mobile) {
-        max-height: 3300px;
-      }
-
-      @media (min-width: 992px) {
-        max-height: 3500px;
-      }
-
-      @media (min-width: 1200px) {
-        max-height: 4000px;
-      }
+    @media (min-width: $mobile) {
+      columns: 2;
+      column-gap: 30px;
     }
 
-    &.guide-2018 {
-      @media (min-width: $mobile) {
-        max-height: 3300px;
-      }
-
-      @media (min-width: 992px) {
-        max-height: 2500px;
-      }
-
-      @media (min-width: 1200px) {
-        max-height: 3500px;
-      }
+    @media (min-width: 992px) {
+      columns: 3;
     }
-
   }
 
   .gift {
+    break-inside: avoid;
     margin-bottom: 30px;
     padding: 15px;
+    position: relative;
     text-align: center;
 
     @media (min-width: $mobile) {
       max-width: 500px;
-      width: 30%;
     }
 
     &:nth-of-type(odd) {
@@ -126,10 +103,18 @@ nav.pagination {
       margin: 0 0 15px;
     }
 
+    a:after {
+      bottom: 0;
+      content: '';
+      left: 0;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+
     .twitter-tweet {
       width: auto !important; // roast me
     }
-
   }
 }
 
