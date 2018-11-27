@@ -176,5 +176,34 @@ author: Computer Lab
       <em>250 Personalized 3 x 5 Cards</em>, $49 <a href="https://www.levenger.com/stationery-notebooks-322/note-cards-20583/custom-note-cards-20589/250-personalized-3-x-5-cards-vertical-13683.aspx" target="_blank">at Levenger</a>
     </h5>
   </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-brush.jpg" alt="Hairstory Brush">
+    <h3>An In-Shower Head Massage</h3>
+    <h4>Just trust us on this one</h4>
+    <h5><em>Brush</em>, $10 <a href="https://www.hairstory.com/catalogue/brush_75/" target="_blank">at Hairstory</a></h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-speaker.jpg" alt="Sonos One">
+    <h3>Sexy Speakers</h3>
+    <h4>They have Alexa built-in!</h4>
+    <h5><em>HAY Sonos One Limited Edition Speakers</em>, $229 <a href="https://store.moma.org/home/featured/hay/hay-sonos-one-limited-edition-speakers/200618.html?cgid=home-featured-hay&dwvar_200618_color=Red#start=1" target="_blank">at MoMA Design Store</a></h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-sweater.jpg" alt="Undercover Sweatshirt">
+    <h3>Self Aware Sweatshirt</h3>
+    <h5><em>Undercover "Human Error" Sweatshirt</em>, $527 <a href="https://www.farfetch.com/shopping/men/undercover-human-error-sweatshirt-item-13254256.aspx?storeid=9774" target="_blank">at Farfetch</a></h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-booties.jpg" alt="North Face Booties">
+    <h3>Cozy Booties</h3>
+    <h4>A rugged alternative to Uggs</h4>
+    <h5><em>The North Face ThermoBall Traction Bootie</em>, $59.95 <a href="https://www.zappos.com/p/the-north-face-thermoball-traction-bootie-shiny-tnf-black-dark-shadow-grey/product/9045744/color/696677?utm_source=google&utm_medium=pla_g&utm_campaign=988163034&utm_term=pla-393761117662&ef_id=WYpqsgAAAGnIok-c:20181127030748:s" target="_blank">at Zappos</a></h5>
+  </div>
+  <div class="gift">
+    <img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts">
+    <h3>A Book of Apple T-Shirts</h3>
+    <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
+    <h5><em>Apple T-Shirts</em>, £195.00 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
+  </div>
 </div>
 <small>All photos courtesy of the vendors.</small>
