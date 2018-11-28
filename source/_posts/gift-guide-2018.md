@@ -12,7 +12,7 @@ author: Computer Lab
 <p class="text-center"><strong>Nice software presents for your friends and family. </strong></p>
 <div class="guide guide-2018">
   <div class="gift">
-    <img src="/images/gift-guide-18-moss.png" alt="Marimo Moss Ball">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-moss.png" alt="Marimo Moss Ball"></div>
     <h3>Marimo Moss Ball</h3>
     <h4>What makes it dope is its ability to 'swim' - <a href="https://instagram.com/robheppler">rob</a></h4>
     <h5>
@@ -20,7 +20,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-perfume.jpg" alt="Chris Rusak perfume">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-perfume.jpg" alt="Chris Rusak perfume"></div>
     <h3>Indie Perfume Sampler</h3>
     <h4>
       <b>33</b> for all you green vetiver lovers<br />
@@ -31,7 +31,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-miso.jpg" alt="J.Hannah Miso Nail Polish">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-miso.jpg" alt="J.Hannah Miso Nail Polish"></div>
     <h3>"Miso" Nail Polish</h3>
     <h4>Miso is the perfect savory beige</h4>
     <h5>
@@ -39,7 +39,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-mohair.jpg" alt="Avoca Mohair Throw">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-mohair.jpg" alt="Avoca Mohair Throw"></div>
     <h3>Mohair Throw</h3>
     <h4>A color scheme suited to almost any decor </h4>
     <h5>
@@ -47,7 +47,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-jade.jpg" alt="Jade">
+    <div class="img-wrapper">
+      <span class="tout">u can get from sephora very good for facial massage</span>
+      <img src="/images/gift-guide-18-jade.jpg" alt="Jade">
+    </div>
     <h3>Facial Lifting Tool</h3>
     <h4>They will love it</h4>
     <h5>
@@ -55,7 +58,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-clippers.jpg" alt="Muji nail clipper">
+    <div class="img-wrapper">
+      <span class="tout">good gift for dad????</span>
+      <img src="/images/gift-guide-18-clippers.jpg" alt="Muji nail clipper">
+    </div>
     <h3>Muji Nail Clipper</h3>
     <h4>
       The rolls royce of nail clippers - amazon reviewer
@@ -64,7 +70,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-grass.png" alt="Grip Grass">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-grass.png" alt="Grip Grass"></div>
     <h3>Softie Grip Grass</h3>
     <h4>Comes in nice colors like mint, gray, navy, etc</h4>
     <h5>
@@ -72,7 +78,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-miffy.jpg" alt="Miffy">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-miffy.jpg" alt="Miffy"></div>
     <h3>Gigantic Miffy Lamp</h3>
     <h4>It is expensive but it is v cool</h4>
     <h5>
@@ -80,7 +86,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-roller.jpg" alt="Roller">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-roller.jpg" alt="Roller"></div>
     <h3>Heavy Minimal Lint Roller</h3>
     <h4>The smoothest and most pleasant way to remove dust and hair from your
     clothing or home</h4>
@@ -89,7 +95,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-pusheen.jpg" alt="Pusheen Slippers">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-pusheen.jpg" alt="Pusheen Slippers"></div>
     <h3>Pusheen Slippers</h3>
     <h4>:3</h4>
     <h5>
@@ -97,7 +103,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir">
+    <div class="img-wrapper"><img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir"></div>
     <h3>A Refreshing Mist</h3>
     <h4>For the parched Moms of Lab</h4>
     <h5>
@@ -105,7 +111,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-canmake.jpg" alt="Canmake">
+    <div class="img-wrapper">
+      <span class="tout">apple cream red my fav</span>
+      <img src="/images/gift-guide-18-canmake.jpg" alt="Canmake">
+    </div>
     <h3>Cream Cheek Blush</h3>
     <h4>Great color payoff v easy to use gel formulation</h4>
     <h5>
@@ -113,7 +122,13 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-lily.jpg" alt="Thirsty Cat Fountain 'Water Lily'">
+    <div class="img-wrapper">
+      <span class="tout">the cat will love</span>
+      <span class="tout">so ceramic</span>
+      <span class="tout">much crafty</span>
+      <span class="tout">it is foodsafe tbh</span>
+      <img src="/images/gift-guide-18-lily.jpg" alt="Thirsty Cat Fountain 'Water Lily'">
+    </div>
     <h3>"Waterlily" Cat Fountain</h3>
     <h4>The cat will love</h4>
     <h5>
@@ -121,7 +136,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-17-p50.jpg" alt="Biologique Recherche P50">
+    <div class="img-wrapper"><img src="/images/gift-guide-17-p50.jpg" alt="Biologique Recherche P50"></div>
     <h3>The Best Exfoliant</h3>
     <h4>For someone that’s looking to start anew (every night)</h4>
     <h5>
@@ -129,7 +144,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-plastic.jpg" alt="Plastic food">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-plastic.jpg" alt="Plastic food"></div>
     <h3>Fake Plastic Food</h3>
     <h4>Order via email for international shipping</h4>
     <h5>
@@ -137,7 +152,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-suit.jpg" alt="Plastic food">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-suit.jpg" alt="Plastic food"></div>
     <h3>Insect Mesh Suit</h3>
     <h4>Suit tf up!!!</h4>
     <h5>
@@ -145,7 +160,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow"></div>
     <h3>Renminbi Pillow</h3>
     <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
     <h5>
@@ -153,7 +168,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl"></div>
     <h3>Big Bowl With Tiny House</h3>
     <h4>You heard they like houses so put a house in their house</h4>
     <h5>
@@ -161,7 +176,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-plus.jpg" alt="Feline plush">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-plus.jpg" alt="Feline plush"></div>
     <h3>PURRFECT PICNIC Plush Toys</h3>
     <h4>Temptingly pre-stuf'd with USDA certified Organic Catnip</h4>
     <h5>
@@ -169,7 +184,7 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards"></div>
     <h3>Personalized 3x5 Index Cards</h3>
     <h4>A generic, handsome gift for the creative professional</h4>
     <h5>
@@ -177,30 +192,30 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-brush.jpg" alt="Hairstory Brush">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-brush.jpg" alt="Hairstory Brush"></div>
     <h3>An In-Shower Head Massage</h3>
     <h4>Just trust us on this one</h4>
     <h5><em>Brush</em>, $10 <a href="https://www.hairstory.com/catalogue/brush_75/" target="_blank">at Hairstory</a></h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-speaker.jpg" alt="Sonos One">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-speaker.jpg" alt="Sonos One"></div>
     <h3>Sexy Speakers</h3>
     <h4>They have Alexa built-in!</h4>
     <h5><em>HAY Sonos One Limited Edition Speakers</em>, $229 <a href="https://store.moma.org/home/featured/hay/hay-sonos-one-limited-edition-speakers/200618.html?cgid=home-featured-hay&dwvar_200618_color=Red#start=1" target="_blank">at MoMA Design Store</a></h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-sweater.jpg" alt="Undercover Sweatshirt">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-sweater.jpg" alt="Undercover Sweatshirt"></div>
     <h3>Self Aware Sweatshirt</h3>
     <h5><em>Undercover "Human Error" Sweatshirt</em>, $527 <a href="https://www.farfetch.com/shopping/men/undercover-human-error-sweatshirt-item-13254256.aspx?storeid=9774" target="_blank">at Farfetch</a></h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-booties.jpg" alt="North Face Booties">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-booties.jpg" alt="North Face Booties"></div>
     <h3>Cozy Booties</h3>
     <h4>A rugged alternative to Uggs</h4>
     <h5><em>The North Face ThermoBall Traction Bootie</em>, $59.95 <a href="https://www.zappos.com/p/the-north-face-thermoball-traction-bootie-shiny-tnf-black-dark-shadow-grey/product/9045744/color/696677?utm_source=google&utm_medium=pla_g&utm_campaign=988163034&utm_term=pla-393761117662&ef_id=WYpqsgAAAGnIok-c:20181127030748:s" target="_blank">at Zappos</a></h5>
   </div>
   <div class="gift">
-    <img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts"></div>
     <h3>A Book of Apple T-Shirts</h3>
     <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
     <h5><em>Apple T-Shirts</em>, £195.00 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>

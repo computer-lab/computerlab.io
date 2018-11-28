@@ -115,6 +115,83 @@ nav.pagination {
     .twitter-tweet {
       width: auto !important; // roast me
     }
+
+    .img-wrapper {
+      position: relative;
+    }
+
+    .tout {
+      background: rgba(255,255,255,.8);
+      color: black;
+      display: block;
+      font: 11px Courier, serif;
+      max-width: 150px;
+      position: absolute;
+      text-align: left;
+    }
+
+    &:nth-of-type(3n) .tout {
+      top: 70%;
+      right: -30px;
+
+      &:nth-of-type(4n) {
+        left: -30px;
+        right: unset;
+        top: 20%;
+      }
+
+      &:nth-of-type(4n+2) {
+        top: 35%;
+      }
+
+      &:nth-of-type(4n+3) {
+        left: -30px;
+        right: unset;
+        top: 60%;
+      }
+    }
+
+    &:nth-of-type(3n+1) .tout {
+      left: -30px;
+      top: 25%;
+
+      &:nth-of-type(4n) {
+        left: unset;
+        right: -30px;
+        top: 75%;
+      }
+
+      &:nth-of-type(4n+2) {
+        top: 60%;
+      }
+
+      &:nth-of-type(4n+3) {
+        left: unset;
+        right: -30px;
+        top: 35%;
+      }
+    }
+
+    &:nth-of-type(3n+2) .tout {
+      right: -30px;
+      top: 75%;
+
+      &:nth-of-type(4n) {
+        left: -30px;
+        right: unset;
+        top: 25%;
+      }
+
+      &:nth-of-type(4n+2) {
+        top: 40%;
+      }
+
+      &:nth-of-type(4n+3) {
+        left: -30px;
+        right: unset;
+        top: 60%;
+      }
+    }
   }
 }
 
