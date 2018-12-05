@@ -107,7 +107,11 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-miffy.jpg" alt="Miffy"></div>
+    <div class="img-wrapper">
+      <span class="tout">peaceful presence</span>
+      <img src="/images/gift-guide-18-miffy.jpg" alt="Miffy">
+      <span class="tout">soft presence</span>
+    </div>
     <h3>Gigantic Miffy Lamp</h3>
     <h4>It is expensive but it is v cool</h4>
     <h5>
@@ -260,7 +264,10 @@ author: Computer Lab
     <h5><em>WASARA MARU large plate</em>, $8 <a href="http://oakoakshop.com/eat-drink-kids/wasara-maru-medium-plate-d4m59" target="_blank">at Oak Oak</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-futon.jpg" alt="futon"></div>
+    <div class="img-wrapper">
+      <span class="tout">functional configurations</span>
+      <img src="/images/gift-guide-18-futon.jpg" alt="futon">
+    </div>
     <h3>Convertible Futon</h3>
     <h4>Can be used as a bed, couch, literal shelving unit, and 2 chair 1 table combo</h4>
     <h5><em>Campfield Futon</em>, $749.95 <a href="https://snowpeak.com/products/camp-couch?variant=47585826383" target="_blank">at snow peak</a></h5>
