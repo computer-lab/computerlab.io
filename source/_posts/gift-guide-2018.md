@@ -1,6 +1,6 @@
 ---
 layout: gift-guide
-title: The Official 2018 Computer Lab Gift Guide
+title: The 2018 Computer Lab Gift Guide
 date: 2018-12-04
 category: Products
 tags: 
@@ -44,7 +44,6 @@ author: Computer Lab
   <div class="gift">
     <div class="img-wrapper">
       <img src="/images/gift-guide-18-perfume.jpg" alt="Chris Rusak perfume">
-      <span class="tout">io is a smoky dry incense</span>
       <span class="tout">33 for green vetiver lovers</span>
       <span class="tout">unisex</span>
     </div>
@@ -85,7 +84,7 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="img-wrapper">
-      <span class="tout">good gift for dad????</span>
+      <span class="tout">good gift for dad?</span>
       <img src="/images/gift-guide-18-clippers.jpg" alt="Muji nail clipper">
     </div>
     <h3>Muji Nail Clipper</h3>
@@ -126,10 +125,10 @@ author: Computer Lab
   <div class="gift">
     <div class="img-wrapper">
       <img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir">
-      <span class="tout">returning fav gift from '17</span>
+      <span class="tout">returning fav from '17</span>
     </div>
     <h3>A Refreshing Mist</h3>
-    <h4>For the parched Moms of Lab</h4>
+    <h4>For the parched</h4>
     <h5>
       <em>Caudalie Beauty Elixir</em>, $18 <a href="https://www.sephora.com/product/beauty-elixir-P6025?skuId=455774" target="blank">at Sephora</a>
     </h5>
