@@ -227,16 +227,73 @@ author: Computer Lab
     <h5><em>WASARA MARU large plate</em>, $8 <a href="http://oakoakshop.com/eat-drink-kids/wasara-maru-medium-plate-d4m59" target="_blank">at Oak Oak</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe">
+      <span class="tout">helps serious reader focus</span>
+      </div>
     <h3>Squeezy Canoe</h3>
     <h4>The canoe's inflation level can be adjusted to vary the intensity of the 'cocooning' effect</h4>
     <h5><em>Calming Squeezy Canoe</em>, $159.99 <a href="https://www.nationalautismresources.com/squeezy-canoe/" target="_blank">at National Autism Resources</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe"></div>
+    <div class="img-wrapper"><img src="/images/gift-guide-18-futon.jpg" alt="futon"></div>
     <h3>Convertible Futon</h3>
     <h4>Can be used as a bed, couch, literal shelving unit, and 2 chair 1 table combo</h4>
     <h5><em>Campfield Futon</em>, $749.95<a href="https://snowpeak.com/products/camp-couch?variant=47585826383" target="_blank">at snow peak</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-blobfish.jpg" alt="blobfish"></div>
+    <h3>Colossal Blobfish Plush</h3>
+    <h4>Give the gift of forever friendship and hugs</h4>
+    <h5><em>Colossal Blobfish</em>, $119.99<a href="https://www.hashtagcollectibles.com/collections/blobfish-and-other-weird-animals/products/colossal-blobfish" target="_blank">at Hashtag Collectibles</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-moneyplant.jpg" alt="moneyplant">
+      <span class="tout">ufo plant</span>
+      <span class="tout">sharing plant</span>
+      <span class="tout">pancake plant</span>
+    </div>
+    <h3>Chinese Money Plant</h3>
+    <h4>Beautiful, dirty, rich</h4>
+    <h5><em>Pilea Peperomioides</em>, $8<a href="https://www.etsy.com/listing/633137623/pilea-peperomioides-chinese-money-plant" target="_blank">at Etsy</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-zen.jpg" alt="zen">
+      <span class="tout">many other themes</span>
+    </div>
+    <h3>Tiny Zen Garden</h3>
+    <h4>You could also make this by hand?</h4>
+    <h5><em>Lucky Cat Zen Garden</em>, $18<a href="https://www.etsy.com/listing/599797287/lucky-cat-zen-garden-maneki-neko-mini?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zen+garden&ref=sr_gallery-1-3&organic_search_click=1&bes=1&col=1" target="_blank">at Etsy</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-crispr.jpg" alt="crispr">
+      <span class="tout">pcr machine w/ heated lid</span>
+      <span class="tout">light activated bacteria</span>
+      <span class="tout">weigh boats</span>
+      <span class="tout">CRISPR</span>
+    </div>
+    <h3>Genetic Engineering Home Lab</h3>
+    <h4>For the mediocre web dev looking for a way out</h4>
+    <h5><em>Genetic Engineering Home Lab</em>, $1,849 <a href="http://www.the-odin.com/genetic-engineering-home-lab-kit/" target="_blank">at Odin</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-tool.jpg" alt="wine tool">
+    </div>
+    <h3>Insane Wine Drinking Tool</h3>
+    <h4>Looks like something from a genetics lab in a Ridley Scott film</h4>
+    <h5><em>Coravin Model Two Wine System</em>, $300 <a href="https://www.neimanmarcus.com/p/coravin-model-two-wine-system-prod193540067" target="_blank">at Neiman Marcus</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-tool.jpg" alt="wine tool">
+    </div>
+    <h3>Designer Ant Farm</h3>
+    <h4>Reminder that we are just bustling around in little tunnels in search of nutrients for most of our lives</h4>
+    <h5><em>Designer Hardwood Ant Farm (Walnut)</em>, $79.99 <a href="https://www.etsy.com/listing/560474477/ant-farm-designer-hardwood-ant-farm?gpla=1&gao=1&utm_campaign=shopping_us_BlueSkyWorkshop_sfc_osa&utm_medium=cpc&utm_source=google&utm_custom1=0&utm_content=14135092&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfOMTFqS8tulv6-WSLHrRiROf2x58CbQsFrJ58HWyMKGJBm08UMff1RoCjYUQAvD_BwE" target="_blank">at Etsy</a></h5>
   </div>
 </div>
 <small>All photos courtesy of the vendors.</small>
