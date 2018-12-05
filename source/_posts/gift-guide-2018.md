@@ -5,12 +5,12 @@ date: 2018-12-04
 category: Products
 tags: 
 - gifts
-lede: "Nice soft presents for your friends and family. "
+lede: "Gentle gift suggestions from your favorite lifestyle brand."
 image: "http://computerlab.io/images/gift-guide-18-bowl.jpg"
 author: Computer Lab
 ---
 
-<p class="text-center"><strong>Nice soft presents for your friends and family. </strong></p>
+<p class="text-center"><strong>Gentle gift suggestions from your favorite lifestyle brand.</strong></p>
 <br />
 <div class="guide guide-2018">
   <div class="gift">
@@ -64,7 +64,6 @@ author: Computer Lab
     <h4>Miso is the perfect savory beige</h4>
     <h5>
       <em>Miso</em>, $19 <a href="https://jhannahjewelry.com/products/miso" target="_blank">at J.Hannah</a>
-    </h5>
   </div>
   <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-mohair.jpg" alt="Avoca Mohair Throw"></div>
@@ -89,13 +88,16 @@ author: Computer Lab
     </div>
     <h3>Muji Nail Clipper</h3>
     <h4>
-      The rolls royce of nail clippers - amazon reviewer
+      "The rolls royce of nail clippers" - amazon reviewer
     <h5>
       <em>MUJI Japan Nail Clipper [Large 8cm]</em>, $9.50 <a href="https://www.amazon.com/MUJI-Japan-Nail-Clipper-Large/dp/B00IJE7KOS/ref=pd_sim_194_1?_encoding=UTF8&pd_rd_i=B00IJE7KOS&pd_rd_r=7f03558b-f068-11e8-a029-3b664630e258&pd_rd_w=WRqq2&pd_rd_wg=1btG5&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=WN5GXQM3EP5F5MXZXYWC&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=WN5GXQM3EP5F5MXZXYWC" target="_blank">at Amazon</a>
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-grass.png" alt="Grip Grass"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-grass.png" alt="Grip Grass">
+      <span class="tout">100% supple silicone</span>
+    </div>
     <h3>Softie Grip Grass</h3>
     <h4>Comes in nice colors like mint, gray, navy, etc</h4>
     <h5>
@@ -109,7 +111,7 @@ author: Computer Lab
       <span class="tout">soft</span>
     </div>
     <h3>Gigantic Miffy Lamp</h3>
-    <h4>It is expensive but it is v cool</h4>
+    <h4>One of many large units in this guide</h4>
     <h5>
       <em>Miffy XL design lamp</em>, €199 <a href="https://mrmaria.com/miffy-xl-lamp/" target="blank">at MrMaria</a>
     </h5>
@@ -147,7 +149,7 @@ author: Computer Lab
     <h4>The smoothest and most pleasant way to remove dust and hair from your
     clothing or home</h4>
     <h5>
-      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at peanutdressshop.com</a>
+      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at peanutdressscompany.com</a>
     </h5>
   </div>
   <div class="gift">
@@ -242,7 +244,11 @@ author: Computer Lab
     <h5><em>Brush</em>, $10 <a href="https://www.hairstory.com/catalogue/brush_75/" target="_blank">at Hairstory</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-speaker.jpg" alt="Sonos One"></div>
+    <div class="img-wrapper">
+      <span class="tout">free surveillance</span>
+      <img src="/images/gift-guide-18-speaker.jpg" alt="Sonos One">
+      <span class="tout">*random laughter*</span>
+      </div>
     <h3>Sexy Speakers</h3>
     <h4>They have Alexa built-in!</h4>
     <h5><em>HAY Sonos One Limited Edition Speakers</em>, $229 <a href="https://store.moma.org/home/featured/hay/hay-sonos-one-limited-edition-speakers/200618.html?cgid=home-featured-hay&dwvar_200618_color=Red#start=1" target="_blank">at MoMA Design Store</a></h5>
@@ -250,7 +256,7 @@ author: Computer Lab
   <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts"></div>
     <h3>A Book of Apple T-Shirts</h3>
-    <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
+    <h4>A history of the first 20 years of Apple, told through employee and staff t-shirts</h4>
     <h5><em>Apple T-Shirts</em>, £195 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
   </div>
   <div class="gift">
@@ -337,6 +343,5 @@ author: Computer Lab
     <h5><em>Designer Hardwood Ant Farm (Walnut)</em>, $79.99 <a href="https://www.etsy.com/listing/560474477/ant-farm-designer-hardwood-ant-farm?gpla=1&gao=1&utm_campaign=shopping_us_BlueSkyWorkshop_sfc_osa&utm_medium=cpc&utm_source=google&utm_custom1=0&utm_content=14135092&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfOMTFqS8tulv6-WSLHrRiROf2x58CbQsFrJ58HWyMKGJBm08UMff1RoCjYUQAvD_BwE" target="_blank">at Etsy</a></h5>
   </div>
 </div>
-<small>All photos courtesy of the vendors.</small>
-<br />
-<small>Thanks to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
+<p>Curated by <a href="https://www.instagram.com/herearemypics/">Alina</a>, <a href="https://twitter.com/ptsteadman">Patrick</a> and <a href="https://twitter.com/l8j42">Zoe</a>.</p> 
+<p>Thanks to <a href="https://twitter.com/emojiclit">Nico</a>, <a href="https://twitter.com/20bux">Daniel</a>, <a href="http://willisplummer.tumblr.com/">Willis</a>, <a href="https://twitter.com/worbeo">Emily</a>, and <a href="https://www.instagram.com/jijiglamorous/">Jiji</a> for suggestions.</p>
