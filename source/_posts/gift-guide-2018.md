@@ -149,7 +149,7 @@ author: Computer Lab
     <h4>The smoothest and most pleasant way to remove dust and hair from your
     clothing or home</h4>
     <h5>
-      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at thepeanutdressscompany.com</a>
+      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at thepeanutdresscompany.com</a>
     </h5>
   </div>
   <div class="gift">
