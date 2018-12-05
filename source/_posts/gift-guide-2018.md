@@ -6,7 +6,7 @@ category: Products
 tags: 
 - gifts
 lede: "Nice soft presents for your friends and family. "
-image: "http://computerlab.io/images/gift-guide-18-bowl.png"
+image: "http://computerlab.io/images/gift-guide-18-bowl.jpg"
 author: Computer Lab
 ---
 
@@ -199,11 +199,15 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow"></div>
+    <div class="img-wrapper">
+      <span class="tout">破财消灾</span>
+      <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
+      <span class="tout">電腦實驗室</span>
+    </div>
     <h3>Renminbi Pillow</h3>
     <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
     <h5>
-      <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82.00 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
+      <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
     </h5>
   </div>
   <div class="gift">
@@ -328,3 +332,4 @@ author: Computer Lab
   </div>
 </div>
 <small>All photos courtesy of the vendors.</small>
+<small>Thanks to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
