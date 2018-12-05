@@ -1,12 +1,12 @@
 ---
 layout: gift-guide
 title: The 2018 Computer Lab Gift Guide
-date: 2018-12-04
+date: 2018-12-05
 category: Products
 tags: 
 - gifts
 lede: "Gentle gift suggestions from your favorite lifestyle brand."
-image: "http://computerlab.io/images/gift-guide-18-bowl.jpg"
+image: "http://computerlab.io/images/gift-guide-18-hero.jpg"
 author: Computer Lab
 ---
 
