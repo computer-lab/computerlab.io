@@ -76,14 +76,11 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper">
-      <span class="tout">u can get from sephora very good for facial massage</span>
-      <img src="/images/gift-guide-18-jade.jpg" alt="Jade">
-    </div>
-    <h3>Facial Lifting Tool</h3>
-    <h4>They will love it</h4>
+    <div class="img-wrapper"><img src="/images/gift-guide-18-suit.jpg" alt="Plastic food"></div>
+    <h3>Insect Mesh Suit</h3>
+    <h4>Suit tf up!!!</h4>
     <h5>
-      <em>Mount Lai Gua Sha Facial Lifting Tool (in Xiyuan Jade)</em>, $28 <a href="https://www.sephora.com/product/gua-sha-facial-lifting-tool-P432823" target="blank">at Sephora</a>
+      <em>Lixada Mosquito Suit,Repellent Bug Jacket Mesh Hooded Suits Unisex Ultra-fine Mesh Insect Protective for Fishing Hiking Camping Gardening</em>, $23.99 <a href="https://www.amazon.com/Lixada-Repellent-Ultra-fine-Protective-Gardening/dp/B01I5AX9UO?fbclid=IwAR0Ywxo2IiEcrcT6Q8rzkPlylbG_y7ZEVXDWfm_lYpb38xcLhxhldx68Q9g" target="_blank">at Amazon</a>
     </h5>
   </div>
   <div class="gift">
@@ -191,11 +188,14 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-suit.jpg" alt="Plastic food"></div>
-    <h3>Insect Mesh Suit</h3>
-    <h4>Suit tf up!!!</h4>
+    <div class="img-wrapper">
+      <span class="tout">u can get from sephora very good for facial massage</span>
+      <img src="/images/gift-guide-18-jade.jpg" alt="Jade">
+    </div>
+    <h3>Facial Lifting Tool</h3>
+    <h4>They will love it</h4>
     <h5>
-      <em>Lixada Mosquito Suit,Repellent Bug Jacket Mesh Hooded Suits Unisex Ultra-fine Mesh Insect Protective for Fishing Hiking Camping Gardening</em>, $23.99 <a href="https://www.amazon.com/Lixada-Repellent-Ultra-fine-Protective-Gardening/dp/B01I5AX9UO?fbclid=IwAR0Ywxo2IiEcrcT6Q8rzkPlylbG_y7ZEVXDWfm_lYpb38xcLhxhldx68Q9g" target="_blank">at Amazon</a>
+      <em>Mount Lai Gua Sha Facial Lifting Tool (in Xiyuan Jade)</em>, $28 <a href="https://www.sephora.com/product/gua-sha-facial-lifting-tool-P432823" target="blank">at Sephora</a>
     </h5>
   </div>
   <div class="gift">
@@ -332,4 +332,5 @@ author: Computer Lab
   </div>
 </div>
 <small>All photos courtesy of the vendors.</small>
-<small>Thanks to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
+<br />
+<small>Thanks very much to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
