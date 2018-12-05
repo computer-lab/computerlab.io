@@ -1,7 +1,7 @@
 ---
 layout: gift-guide
-title: The 2018 Computer Lab Gift Guide
-date: 2018-11-30
+title: The Official 2018 Computer Lab Gift Guide
+date: 2018-12-04
 category: Products
 tags: 
 - gifts
