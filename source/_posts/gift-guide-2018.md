@@ -218,7 +218,25 @@ author: Computer Lab
     <div class="img-wrapper"><img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts"></div>
     <h3>A Book of Apple T-Shirts</h3>
     <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
-    <h5><em>Apple T-Shirts</em>, £195.00 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
+    <h5><em>Apple T-Shirts</em>, £195 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-plates.jpg" alt="pretty plates"></div>
+    <h3>Pretty Disposable Plates</h3>
+    <h4>For the host with the most (tip: get them 4+ packs for a disposable gift with heft)</h4>
+    <h5><em>WASARA MARU large plate</em>, $8 <a href="http://oakoakshop.com/eat-drink-kids/wasara-maru-medium-plate-d4m59" target="_blank">at Oak Oak</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe"></div>
+    <h3>Squeezy Canoe</h3>
+    <h4>The canoe's inflation level can be adjusted to vary the intensity of the 'cocooning' effect</h4>
+    <h5><em>Calming Squeezy Canoe</em>, $159.99 <a href="https://www.nationalautismresources.com/squeezy-canoe/" target="_blank">at National Autism Resources</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe"></div>
+    <h3>Convertible Futon</h3>
+    <h4>Can be used as a bed, couch, literal shelving unit, and 2 chair 1 table combo</h4>
+    <h5><em>Campfield Futon</em>, $749.95<a href="https://snowpeak.com/products/camp-couch?variant=47585826383" target="_blank">at snow peak</a></h5>
   </div>
 </div>
 <small>All photos courtesy of the vendors.</small>
