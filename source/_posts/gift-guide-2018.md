@@ -5,33 +5,62 @@ date: 2018-11-30
 category: Products
 tags: 
 - gifts
-lede: "Nice software presents for your friends and family. "
+lede: "Nice soft presents for your friends and family. "
+image: "http://computerlab.io/images/gift-guide-18-bowl.png"
 author: Computer Lab
 ---
 
-<p class="text-center"><strong>Nice software presents for your friends and family. </strong></p>
+<p class="text-center"><strong>Nice soft presents for your friends and family. </strong></p>
+<br />
 <div class="guide guide-2018">
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-moss.png" alt="Marimo Moss Ball"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-moss.png" alt="Marimo Moss Ball">
+      <span class="tout">easiest live aquarium plant</span>
+    </div>
     <h3>Marimo Moss Ball</h3>
-    <h4>What makes it dope is its ability to 'swim' - <a href="https://instagram.com/robheppler">rob</a></h4>
+    <h4>What makes it dope is its ability to 'swim'</h4>
     <h5>
       <em>6 Marimo Moss Ball Variety Pack</em>, $13 <a href="https://www.amazon.com/Marimo-Moss-Ball-Variety-Pack/dp/B00I323A0E" target="_blank">at Amazon</a>
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-perfume.jpg" alt="Chris Rusak perfume"></div>
+    <div class="img-wrapper"><img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl"></div>
+    <h3>Big Bowl With Tiny House</h3>
+    <h4>You heard they like houses so put a house in their house</h4>
+    <h5>
+      <em>La Maison Inondée Bowl</em>, $24 - $55 <a href="https://store.moma.org/kitchen-dining/serving-flatware/la-maison-inond%C3%A9e-bowl/v116585.html" target="_blank">at MoMA Design Store</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe">
+      <span class="tout">helps serious reader focus</span>
+      </div>
+    <h3>Squeezy Canoe</h3>
+    <h4>The canoe's inflation level can be adjusted to vary the intensity of the 'cocooning' effect</h4>
+    <h5><em>Calming Squeezy Canoe</em>, $159.99 <a href="https://www.nationalautismresources.com/squeezy-canoe/" target="_blank">at National Autism Resources</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-perfume.jpg" alt="Chris Rusak perfume">
+      <span class="tout">io is a smoky dry incense</span>
+      <span class="tout">33 for green vetiver lovers</span>
+      <span class="tout">unisex</span>
+    </div>
     <h3>Indie Perfume Sampler</h3>
     <h4>
-      <b>33</b> for all you green vetiver lovers<br />
-      <b>io</b> is a smoky dry incense<br />
       <b>bluer skies</b> is just fresh, happy sunshiney 100% cali girl</h4>
     <h5>
       <em>Perfume Sample Discovery Pack</em>, $24 <a href="https://shop.chrisrusak.com/products/perfume-sample-pack" target="_blank">at Chris Rusak</a>
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-miso.jpg" alt="J.Hannah Miso Nail Polish"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-miso.jpg" alt="J.Hannah Miso Nail Polish">
+      <span class="tout">dried rice</span>
+      <span class="tout">gracefulness of hands</span>
+    </div>
     <h3>"Miso" Nail Polish</h3>
     <h4>Miso is the perfect savory beige</h4>
     <h5>
@@ -86,15 +115,6 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-roller.jpg" alt="Roller"></div>
-    <h3>Heavy Minimal Lint Roller</h3>
-    <h4>The smoothest and most pleasant way to remove dust and hair from your
-    clothing or home</h4>
-    <h5>
-      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at peanutdressshop.com</a>
-    </h5>
-  </div>
-  <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-pusheen.jpg" alt="Pusheen Slippers"></div>
     <h3>Pusheen Slippers</h3>
     <h4>:3</h4>
@@ -103,7 +123,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-17-mist.jpg" alt="Caudalie Beauty Elixir">
+      <span class="tout">returning fav gift from '17</span>
+    </div>
     <h3>A Refreshing Mist</h3>
     <h4>For the parched Moms of Lab</h4>
     <h5>
@@ -112,7 +135,19 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="img-wrapper">
-      <span class="tout">apple cream red my fav</span>
+      <img src="/images/gift-guide-18-roller.jpg" alt="Roller">
+      <span class="tout">magnetic clasp</span>
+      <span class="tout">includes four rolls</span>
+    </div>
+    <h3>Heavy Minimal Lint Roller</h3>
+    <h4>The smoothest and most pleasant way to remove dust and hair from your
+    clothing or home</h4>
+    <h5>
+      <em>tornado simple</em>, $100 <a href="https://shop.thepeanutdresscompany.com/products/tornado-simple" target="blank">at peanutdressshop.com</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
       <img src="/images/gift-guide-18-canmake.jpg" alt="Canmake">
     </div>
     <h3>Cream Cheek Blush</h3>
@@ -168,15 +203,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-bowl.jpg" alt="House Bowl"></div>
-    <h3>Big Bowl With Tiny House</h3>
-    <h4>You heard they like houses so put a house in their house</h4>
-    <h5>
-      <em>La Maison Inondée Bowl</em>, $24 - $55 <a href="https://store.moma.org/kitchen-dining/serving-flatware/la-maison-inond%C3%A9e-bowl/v116585.html" target="_blank">at MoMA Design Store</a>
-    </h5>
-  </div>
-  <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-plus.jpg" alt="Feline plush"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-plus.jpg" alt="Feline plush">
+      <span class="tout">many options</span>
+      </div>
     <h3>PURRFECT PICNIC Plush Toys</h3>
     <h4>Temptingly pre-stuf'd with USDA certified Organic Catnip</h4>
     <h5>
@@ -184,7 +214,10 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-cards.jpg" alt="Personalized index cards">
+      <span class="tout">more data-rich biz card</span>
+      </div>
     <h3>Personalized 3x5 Index Cards</h3>
     <h4>A generic, handsome gift for the creative professional</h4>
     <h5>
@@ -204,6 +237,12 @@ author: Computer Lab
     <h5><em>HAY Sonos One Limited Edition Speakers</em>, $229 <a href="https://store.moma.org/home/featured/hay/hay-sonos-one-limited-edition-speakers/200618.html?cgid=home-featured-hay&dwvar_200618_color=Red#start=1" target="_blank">at MoMA Design Store</a></h5>
   </div>
   <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts"></div>
+    <h3>A Book of Apple T-Shirts</h3>
+    <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
+    <h5><em>Apple T-Shirts</em>, £195 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
+  </div>
+  <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-sweater.jpg" alt="Undercover Sweatshirt"></div>
     <h3>Self Aware Sweatshirt</h3>
     <h5><em>Undercover "Human Error" Sweatshirt</em>, $527 <a href="https://www.farfetch.com/shopping/men/undercover-human-error-sweatshirt-item-13254256.aspx?storeid=9774" target="_blank">at Farfetch</a></h5>
@@ -215,37 +254,22 @@ author: Computer Lab
     <h5><em>The North Face ThermoBall Traction Bootie</em>, $59.95 <a href="https://www.zappos.com/p/the-north-face-thermoball-traction-bootie-shiny-tnf-black-dark-shadow-grey/product/9045744/color/696677?utm_source=google&utm_medium=pla_g&utm_campaign=988163034&utm_term=pla-393761117662&ef_id=WYpqsgAAAGnIok-c:20181127030748:s" target="_blank">at Zappos</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-apple-book.jpg" alt="Apple T-Shirts"></div>
-    <h3>A Book of Apple T-Shirts</h3>
-    <h4>A history of the first 20 years of Apple, told in employee and staff t-shirts</h4>
-    <h5><em>Apple T-Shirts</em>, £195 <a href="http://www.ideanow.online/store/Apple-T-Shirts-p105726035" target="_blank">at IDEA</a></h5>
-  </div>
-  <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-plates.jpg" alt="pretty plates"></div>
     <h3>Pretty Disposable Plates</h3>
     <h4>For the host with the most (tip: get them 4+ packs for a disposable gift with heft)</h4>
     <h5><em>WASARA MARU large plate</em>, $8 <a href="http://oakoakshop.com/eat-drink-kids/wasara-maru-medium-plate-d4m59" target="_blank">at Oak Oak</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper">
-      <img src="/images/gift-guide-18-canoe.jpg" alt="squeezy canoe">
-      <span class="tout">helps serious reader focus</span>
-      </div>
-    <h3>Squeezy Canoe</h3>
-    <h4>The canoe's inflation level can be adjusted to vary the intensity of the 'cocooning' effect</h4>
-    <h5><em>Calming Squeezy Canoe</em>, $159.99 <a href="https://www.nationalautismresources.com/squeezy-canoe/" target="_blank">at National Autism Resources</a></h5>
-  </div>
-  <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-futon.jpg" alt="futon"></div>
     <h3>Convertible Futon</h3>
     <h4>Can be used as a bed, couch, literal shelving unit, and 2 chair 1 table combo</h4>
-    <h5><em>Campfield Futon</em>, $749.95<a href="https://snowpeak.com/products/camp-couch?variant=47585826383" target="_blank">at snow peak</a></h5>
+    <h5><em>Campfield Futon</em>, $749.95 <a href="https://snowpeak.com/products/camp-couch?variant=47585826383" target="_blank">at snow peak</a></h5>
   </div>
   <div class="gift">
     <div class="img-wrapper"><img src="/images/gift-guide-18-blobfish.jpg" alt="blobfish"></div>
     <h3>Colossal Blobfish Plush</h3>
     <h4>Give the gift of forever friendship and hugs</h4>
-    <h5><em>Colossal Blobfish</em>, $119.99<a href="https://www.hashtagcollectibles.com/collections/blobfish-and-other-weird-animals/products/colossal-blobfish" target="_blank">at Hashtag Collectibles</a></h5>
+    <h5><em>Colossal Blobfish</em>, $119.99 <a href="https://www.hashtagcollectibles.com/collections/blobfish-and-other-weird-animals/products/colossal-blobfish" target="_blank">at Hashtag Collectibles</a></h5>
   </div>
   <div class="gift">
     <div class="img-wrapper">
@@ -256,7 +280,7 @@ author: Computer Lab
     </div>
     <h3>Chinese Money Plant</h3>
     <h4>Beautiful, dirty, rich</h4>
-    <h5><em>Pilea Peperomioides</em>, $8<a href="https://www.etsy.com/listing/633137623/pilea-peperomioides-chinese-money-plant" target="_blank">at Etsy</a></h5>
+    <h5><em>Pilea Peperomioides</em>, $8 <a href="https://www.etsy.com/listing/633137623/pilea-peperomioides-chinese-money-plant" target="_blank">at Etsy</a></h5>
   </div>
   <div class="gift">
     <div class="img-wrapper">
@@ -265,7 +289,7 @@ author: Computer Lab
     </div>
     <h3>Tiny Zen Garden</h3>
     <h4>You could also make this by hand?</h4>
-    <h5><em>Lucky Cat Zen Garden</em>, $18<a href="https://www.etsy.com/listing/599797287/lucky-cat-zen-garden-maneki-neko-mini?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zen+garden&ref=sr_gallery-1-3&organic_search_click=1&bes=1&col=1" target="_blank">at Etsy</a></h5>
+    <h5><em>Lucky Cat Zen Garden</em>, $18 <a href="https://www.etsy.com/listing/599797287/lucky-cat-zen-garden-maneki-neko-mini?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zen+garden&ref=sr_gallery-1-3&organic_search_click=1&bes=1&col=1" target="_blank">at Etsy</a></h5>
   </div>
   <div class="gift">
     <div class="img-wrapper">
@@ -289,7 +313,7 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="img-wrapper">
-      <img src="/images/gift-guide-18-tool.jpg" alt="wine tool">
+      <img src="/images/gift-guide-18-farm.jpg" alt="ant farm">
     </div>
     <h3>Designer Ant Farm</h3>
     <h4>Reminder that we are just bustling around in little tunnels in search of nutrients for most of our lives</h4>
