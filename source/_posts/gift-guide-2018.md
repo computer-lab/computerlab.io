@@ -333,4 +333,4 @@ author: Computer Lab
 </div>
 <small>All photos courtesy of the vendors.</small>
 <br />
-<small>Thanks very much to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
+<small>Thanks to Alina, Zoe, Nico, Daniel, Willis, Emily, and Jiji for suggestions, copy and dev.</small>
