@@ -106,7 +106,7 @@ author: Computer Lab
     <div class="img-wrapper">
       <span class="tout">peaceful presence</span>
       <img src="/images/gift-guide-18-miffy.jpg" alt="Miffy">
-      <span class="tout">soft presence</span>
+      <span class="tout">soft</span>
     </div>
     <h3>Gigantic Miffy Lamp</h3>
     <h4>It is expensive but it is v cool</h4>
@@ -115,7 +115,11 @@ author: Computer Lab
     </h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-pusheen.jpg" alt="Pusheen Slippers"></div>
+    <div class="img-wrapper">
+      <span class="tout">(^._.^)/</span>
+      <img src="/images/gift-guide-18-pusheen.jpg" alt="Pusheen Slippers">
+      <span class="tout">~(=^–^)</span>
+    </div>
     <h3>Pusheen Slippers</h3>
     <h4>:3</h4>
     <h5>
@@ -201,7 +205,6 @@ author: Computer Lab
     <div class="img-wrapper">
       <span class="tout">破财消灾</span>
       <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
-      <span class="tout">電腦實驗室</span>
     </div>
     <h3>Renminbi Pillow</h3>
     <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
@@ -213,8 +216,9 @@ author: Computer Lab
     <div class="img-wrapper">
       <img src="/images/gift-guide-18-plus.jpg" alt="Feline plush">
       <span class="tout">many options</span>
+      <span class="tout">tempting</span>
       </div>
-    <h3>PURRFECT PICNIC Plush Toys</h3>
+    <h3>Purrfect Picnic Plush Toys</h3>
     <h4>Temptingly pre-stuf'd with USDA certified Organic Catnip</h4>
     <h5>
       <em>Feline Frenzy Plush Toy Collection</em>, $9.90 <a href="https://www.petplay.com/feline-frenzy-plush-toys/?color=340&size=" target="_blank">at P.L.A.Y.</a>
@@ -255,7 +259,10 @@ author: Computer Lab
     <h5><em>Undercover "Human Error" Sweatshirt</em>, $527 <a href="https://www.farfetch.com/shopping/men/undercover-human-error-sweatshirt-item-13254256.aspx?storeid=9774" target="_blank">at Farfetch</a></h5>
   </div>
   <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-booties.jpg" alt="North Face Booties"></div>
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-booties.jpg" alt="North Face Booties">
+      <span class="tout">wow look at the soles</span>
+    </div>
     <h3>Cozy Booties</h3>
     <h4>A rugged alternative to Uggs</h4>
     <h5><em>The North Face ThermoBall Traction Bootie</em>, $59.95 <a href="https://www.zappos.com/p/the-north-face-thermoball-traction-bootie-shiny-tnf-black-dark-shadow-grey/product/9045744/color/696677?utm_source=google&utm_medium=pla_g&utm_campaign=988163034&utm_term=pla-393761117662&ef_id=WYpqsgAAAGnIok-c:20181127030748:s" target="_blank">at Zappos</a></h5>
