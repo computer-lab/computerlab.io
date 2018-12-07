@@ -141,6 +141,25 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="img-wrapper">
+      <span class="tout">破财消灾</span>
+      <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
+    </div>
+    <h3>Renminbi Pillow</h3>
+    <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
+    <h5>
+      <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
+    </h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
+      <img src="/images/gift-guide-18-critters.png" alt="silica mag">
+    </div>
+    <h3>Silica Mag Print Bundle</h3>
+    <h4>It's like 032c but about animals instead of hot people</h4>
+    <h5><em>The Critter Issue Print Bundle</em>, $20 <a href="https://silicamag.bigcartel.com/product/the-critter-issue-print-bundle" target="_blank">at Silica Mag</a></h5>
+  </div>
+  <div class="gift">
+    <div class="img-wrapper">
       <img src="/images/gift-guide-18-roller.jpg" alt="Roller">
       <span class="tout">magnetic clasp</span>
       <span class="tout">includes four rolls</span>
@@ -205,17 +224,6 @@ author: Computer Lab
   </div>
   <div class="gift">
     <div class="img-wrapper">
-      <span class="tout">破财消灾</span>
-      <img src="/images/gift-guide-18-renminbi.jpg" alt="Renminbi Pillow">
-    </div>
-    <h3>Renminbi Pillow</h3>
-    <h4>Depicts a roll of fifth-series 100 yuan banknotes</h4>
-    <h5>
-      <em>Rolled Banknote Shape Pillow, Renminbi</em>, $82 <a href="https://www.etsy.com/listing/19264521/rolled-banknote-shape-pillow-renminbi?ref=shop_home_active_26&frs=1" target="_blank">at Etsy</a>
-    </h5>
-  </div>
-  <div class="gift">
-    <div class="img-wrapper">
       <img src="/images/gift-guide-18-plus.jpg" alt="Feline plush">
       <span class="tout">many options</span>
       <span class="tout">tempting</span>
@@ -236,12 +244,6 @@ author: Computer Lab
     <h5>
       <em>250 Personalized 3 x 5 Cards</em>, $49 <a href="https://www.levenger.com/stationery-notebooks-322/note-cards-20583/custom-note-cards-20589/250-personalized-3-x-5-cards-vertical-13683.aspx" target="_blank">at Levenger</a>
     </h5>
-  </div>
-  <div class="gift">
-    <div class="img-wrapper"><img src="/images/gift-guide-18-brush.jpg" alt="Hairstory Brush"></div>
-    <h3>An In-Shower Head Massage</h3>
-    <h4>Just trust us on this one</h4>
-    <h5><em>Brush</em>, $10 <a href="https://www.hairstory.com/catalogue/brush_75/" target="_blank">at Hairstory</a></h5>
   </div>
   <div class="gift">
     <div class="img-wrapper">
@@ -342,6 +344,13 @@ author: Computer Lab
     <h4>Reminder that we are just bustling around in little tunnels in search of nutrients for most of our lives</h4>
     <h5><em>Designer Hardwood Ant Farm (Walnut)</em>, $79.99 <a href="https://www.etsy.com/listing/560474477/ant-farm-designer-hardwood-ant-farm?gpla=1&gao=1&utm_campaign=shopping_us_BlueSkyWorkshop_sfc_osa&utm_medium=cpc&utm_source=google&utm_custom1=0&utm_content=14135092&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfOMTFqS8tulv6-WSLHrRiROf2x58CbQsFrJ58HWyMKGJBm08UMff1RoCjYUQAvD_BwE" target="_blank">at Etsy</a></h5>
   </div>
+  <div class="gift">
+    <div class="img-wrapper"><img src="/images/gift-guide-18-brush.jpg" alt="Hairstory Brush"></div>
+    <h3>An In-Shower Head Massage</h3>
+    <h4>Just trust us on this one</h4>
+    <h5><em>Brush</em>, $10 <a href="https://www.hairstory.com/catalogue/brush_75/" target="_blank">at Hairstory</a></h5>
+  </div>
 </div>
+<br />
 <p>Curated by <a href="https://www.instagram.com/herearemypics/">Alina</a>, <a href="https://twitter.com/ptsteadman">Patrick</a> and <a href="https://twitter.com/l8j42">Zoe</a>.</p> 
 <p>Thanks to <a href="https://twitter.com/emojiclit">Nico</a>, <a href="https://twitter.com/20bux">Daniel</a>, <a href="http://willisplummer.tumblr.com/">Willis</a>, <a href="https://twitter.com/worbeo">Emily</a>, and <a href="https://www.instagram.com/jijiglamorous/">Jiji</a> for suggestions.</p>
