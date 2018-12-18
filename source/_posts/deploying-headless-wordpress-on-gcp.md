@@ -18,17 +18,14 @@ published: true
 WordPress, especially WordPress admin, is the result of over a decade of
 experimentation ... to 
 
+You can read about its features here.
+https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit
 
 ### Step 0: Get headless-wp-starter working locally
 
 Clone: https://github.com/postlight/headless-wp-starter
 
-- Note at time of writing (12/14/18) the docker setup on the master branch
-  doesn't work properly, but there's a PR that fixes it, and allows you to
-  simply run `docker-compose up`. Everything runs inside the docker
-  containers...
 
-https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit
 
 ### Step 1: Set up your Google Cloud toolchain
 
@@ -76,7 +73,7 @@ $ gcloud sql users set-password root \
     --password=YOUR_INSTANCE_ROOT_PASSWORD # Don't use this password!
 ```
 
-You can also do this using the console UI by following these steps:
+Or, you can also do this using the console UI by following these steps:
 
 1. Open the left side hamburger menu and select "SQL".
 2. Click "Create Instance".
@@ -84,7 +81,7 @@ You can also do this using the console UI by following these steps:
 4. Enter an instance id, generate a root password, and make a note of both of
   those values.
 5. Wait a bit for the instance to be created.
-5. Create a database by clicking on the Databases tab, and clicking 'Create
+6. Create a database by clicking on the Databases tab, and clicking 'Create
    Database', setting the name as wordpress.
 
 Following these steps, you should now have a Cloud SQL instance named
@@ -93,12 +90,42 @@ Following these steps, you should now have a Cloud SQL instance named
 
 ### Step 3: Set up WordPress on Google App Engine
 
-Google has a neat little tool to add Google App Engine (GAE) yaml files to
-your wordpress project.
+Google has a [neat little
+tool](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress)
+to add Google App Engine (GAE) config files to our existing wordpress project. 
 
-Use Google's tool:
+First set up the tool as described in its
+[documentation](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#setup).
+You need to have [install
+composer](https://getcomposer.org/doc/00-intro.md) so that composer can install this tool's dependencies.
 
-https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#create-or-update-a-wordpress-project-for-app-engine
+
+```sh
+git clone https://github.com/GoogleCloudPlatform/php-docs-samples.git
+cd php-docs-samples/appengine/php72/wordpress
+composer install
+```
+
+(_Note_ If you receive an error about extensions, install phar and zip PHP
+extensions and retry.)
+
+Then we run the tool, pointing it at the WordPress directory in our project:
+
+```
+php wordpress.php update headless-wp-starter/wordpress
+```
+
+This will create a bunch of new files that tell GAE how to run our app.
+
+There's just one change to make in `headless-wp-starter/wordpress/app.yaml`
+
+
+
+
+
+
+
+
 
 - `php wordpress.php update ~/projects/meredithmonk.org/wordpress/`
 
