@@ -3,8 +3,8 @@ layout: post
 title: Deploying Headless WordPress + React Starter Kit on Google Cloud Platform
 date: 2018-12-17
 category: Notes
-lede: Most people like WordPress. Most developers like JSON APIs and React. Here's how to robustly deploy the best of both worlds to the cloud.
-author: Patrick Steadman and Mark Neuberger
+lede: Most content editors know and like WordPress. Developers like JSON APIs and React. Here's how to robustly deploy the best of both worlds to the cloud.
+author: Patrick Steadman and Mark Neuburger
 published: true
 ---
 
@@ -24,8 +24,6 @@ https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-
 ### Step 0: Get headless-wp-starter working locally
 
 Clone: https://github.com/postlight/headless-wp-starter
-
-
 
 ### Step 1: Set up your Google Cloud toolchain
 
@@ -188,10 +186,10 @@ version control stuff like that. Thankfully, db-migrate-pro allows developers to
 efficiently pull, push, backup and transform WordPress databases. For example, a
 developer could "pull" down a copy of the prod database to work with locally,
 and then push back his changes, making a backup of the current prod database's
-state. All of this occurs on top of Googple's scheduled backups, which can help
+state. All of this occurs on top of Google's scheduled backups, which can help
 recovery from real big mess ups.
 
-The only real downside of the various composabile tools around wp-migrate-pro is
+The only real downside of the various composable tools around wp-migrate-pro is
 that they require a license key. I personallhy think this is fine, I think it's
 good to have one person beigng paid to make these databadse sysnc stuff work
 safely and well . db-mograte-pro has been building cli tools, which could make
@@ -199,29 +197,29 @@ things even better.
 
 ### Step 6: Set up Google Cloud Storage media uploads
 
-- In Google Cloud console, navigate to Storage > Browser
+A common vulnerability for web apps is the ability to introduce malicious files through an upload script. By moving media uploads to Google Cloud Storage, we can remove this possible attack vector. In fact, we don't enable any write permissions on Wordpress's upload directory at all.
 
-- Create a bucket and give it a name (e.g. meredithmonk-media)
+1. In Google Cloud console, navigate to Storage > Browser
+2. Create a bucket and give it a name (e.g. `meredithmonk-media`)
+3. Give public read access by granting allUsers the Storage Object Viewer
 
-Give public read access by granting allUsers the Storage Object Viewer
-
-```
-role:p-config.php after ABSPATH is defined (near the end)
+wp-config.php after `ABSPATH` is defined (near the end)
+```php
 if (!$onGae) {
 	putenv('GOOGLE_APPLICATION_CREDENTIALS=' . ABSPATH . /gcs-service-account.json');
 }
-Do not commit or deploy the service account JSON key. It is/should be excluded from git with .gitignore and from deployments with .gcloudignore.
-Adding custom post types (e.g. repertory works on MM)
-In Wordpress admin area, enable Google Cloud Storage plugin
-Navigate to GCS settings and enter the name of the bucket you created above
-Enabling media uploads to GCS from local machine
-Visit Cloud Console, go to IAM & Admin -> Service accounts and create a service account with Storage Admin privileges. If there is already a service account with this role, you do not need to create another one. NOTE: The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
-Download the json key file, name it gcs-service-account.json and place it in the wordpress/ directory
-Add the following line to your w
-Read: https://github.com/postlight/headless-wp-starter/issues/98
+```
+
+4. In Wordpress admin area, enable Google Cloud Storage plugin
+5. Navigate to GCS settings and enter the name of the bucket you created above.
 
 ### Step 7: Enable Media Uploads From Local Machine
 
+1. Visit Cloud Console, go to IAM & Admin -> Service accounts and create a service account with Storage Admin privileges. If there is already a service account with this role, you do not need to create another one. *Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
+2. Download the json key file, name it `gcs-service-account.json` and place it in the wordpress/ directory
+
+*Note:* Do not commit or deploy the service account JSON key. It is/should be excluded from git with .gitignore and from deployments with .gcloudignore.
+  
 ### Reservations?
 
 Why no real CI/CD triggered by code pushes? Or is that actauly the best way?
