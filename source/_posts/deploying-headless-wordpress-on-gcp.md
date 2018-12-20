@@ -8,8 +8,8 @@ author: Patrick Steadman and Mark Neuburger
 published: true
 ---
 
-_Most content editors know and like WordPress. Most developers know and like 
-React. Here's how to deploy the best of both worlds to the cloud._
+__Most content editors know and like WordPress. Most developers know and like 
+React. Here's how to deploy the best of both worlds to the cloud.__
 
 ### Background
 
@@ -274,6 +274,10 @@ It would be cool to set up continuous integration / continuous deployment to
 perform these steps automatically upon code pushes, perhaps to different staging
 and prod environments specified by `app-production.yaml` and `app-staging.yaml`
 files.
+
+Please [contact us](mailto:patrick@computerlab.io) or make a [pull
+request](https://github.com/computer-lab/computerlab.io/blob/master/source/_posts/deploying-headless-wordpress-on-gcp.md)
+if you encounter an issue using this guide.
 
 ### Our Implementation
 
