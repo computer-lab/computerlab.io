@@ -1,32 +1,52 @@
 ---
 layout: post
 title: Deploying Headless WordPress + React Starter Kit on Google Cloud Platform
-date: 2018-12-17
+date: 2018-12-20
 category: Notes
-lede: Most content editors know and like WordPress. Developers like JSON APIs and React. Here's how to robustly deploy the best of both worlds to the cloud.
+lede: Most content editors know and like WordPress. Most developers know and like React. Here's how to deploy the best of both worlds to the cloud.
 author: Patrick Steadman and Mark Neuburger
 published: true
 ---
 
-> "Just because you have the right to do something, doesn't mean it's the right
-> thing to do."
-
-*- Mr. Crane, Casey Middle School Computer Lab Monitor*
+_Most content editors know and like WordPress. Most developers know and like 
+React. Here's how to deploy the best of both worlds to the cloud._
 
 ### Background
 
-WordPress, especially WordPress admin, is the result of over a decade of
-experimentation ... to 
+If you think headless WordPress + React might be a good fit for your project,
+check out Gina Trapani's [post introducing the starter
+kit](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit).
+Gina and the team at Postlight (which includes Paul ["What Is Code"](
+https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
+have a really deep understanding of how developers and content editors work
+together to build and maintain a content-driven site. The Postlight starter kit
+seems to address many of the common problems that arise for teams using
+current-gen static site, static site + headless CMS, and vanilla WordPress
+architectures.
 
-This guide will show you how to set up the headless WordPress and Next.js React
-frontend as independent, scalable App Engine services, backed by 
+This guide is focused on how to set up the starter kit on Google Cloud Platform
+App Engine standard environement.  This setup has these nice features:
 
-You can read about its features here.
-https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit
+- PaaS simplicity that makes sense for WordPress, but also scalability,
+  robustness, and a straightforward migration path to Kubernetes
+- StackDriver logging nicely aggregates errors
+- Many orgs are already using GSuite for identity, analytics, ads, etc
+- Google Cloud Storage WordPress Plugin
+- Automated SQL backups / Cloud SQL Proxy
+- Google Domains / DNS
+- Cheap
 
-### Step 0: Get headless-wp-starter working locally
+### Step 0: Local Dockerized Setup
 
-Clone: https://github.com/postlight/headless-wp-starter
+You can clone the repository
+[here](https://github.com/postlight/headless-wp-starter) and follow the README
+to get a local, dockerized setup working using `docker-compose`.
+
+Dockerizing MySQL in dev mitigates a lot of the database-related annoyances that
+made WordPress a pain for developers: no need to manually configure MySQL
+locally, and you can just recreate the [docker containers and
+volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
+if things get really messed up.
 
 ### Step 1: Set up your Google Cloud project and toolchain
 
@@ -43,7 +63,6 @@ service, and storage buckets.
 Then [install the gcloud
 toolchain](https://cloud.google.com/sdk/docs/quickstarts) on your development
 machine and log in with `gcloud init`, selecting the project you just created.
-
 
 ### Step 2: Set up a SQL Database 
 
@@ -99,12 +118,12 @@ the gcloud CLI.
 First, set up the tool as described in its
 [documentation](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#setup):
 
-
 ```text
 git clone https://github.com/GoogleCloudPlatform/php-docs-samples.git
 cd php-docs-samples/appengine/php72/wordpress
 composer install
 ```
+
 (You need to [install
 composer](https://getcomposer.org/doc/00-intro.md) so that composer can install this tool's dependencies.
 If you receive an error about extensions, install phar and zip PHP
@@ -126,7 +145,8 @@ Before deploying, do two more things:
    accessible at the url `https://wordpress-dot-myproject.appsot.com` rather
    than `myproject.appspot.com` where we want the frontend.
 
-2. Modify `wordpress/wp-config.php`... `wp-config.php` is .gitignored, you can
+2. Modify `wordpress/wp-config.php` to include your database creds created
+   earlier. `wp-config.php` is .gitignored, you can
    treat it as a secret that you share securely with team members.
 
 You can now deploy WordPress to GAE standard using the command `gcloud app
@@ -182,30 +202,23 @@ To deploy, execute `gcloud beta app deploy --no-cache frontend/app.yaml`. The
 addition of `beta` and '--no-cache` are currently necessary to make this work
 properly.
 
+### Step 5: Push Your Local Database to the Cloud
 
-### Step 5: Move Around the Database
+After setting up pages, custom fields, or post types in the course of
+development, how do you push these (database) changes to staging and then prod?
 
-Dockerizing MySQL in dev and the
-[db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) WordPress
-extension mitigate a lot of the database-related annoyances that made WordPress
-a pain for developers.
-
-Dockerized MySQL means that developers don't have to manually configure MySQL
-locally, and can just recreate the [docker containers and
-volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
-if things get messed up.
-
-The db-migrate-pro plugin allows developers to efficiently pull, push, backup and
-transform WordPress databases. For example, a developer could "pull" down a copy
-of the prod database to work with locally, and then push back their changes,
-after making a backup of the current production database state.
+The [db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) allows
+developers to efficiently push, pull, backup and transform WordPress databases.
+For example, a developer could pull down a copy of the prod database to work
+with locally, and then push back their changes, after making a backup of the
+current production database state. It's available via the "Tools" sidebar in
+WordPress admin and as a CLI tool.
 
 ![Pushing and pulling the database.](/images/headless-wp-push-pull.png)
 
-The only real downside to db-migrate-pro is that it requires a license key. It's
-found in the WordPress admin sidebar under "Tools".
+The only real downside to db-migrate-pro is that it requires a license key.
 
-### Step 6: Set up Google Cloud Storage media uploads
+### Step 6: Set up Google Cloud Storage Media Uploads
 
 A common vulnerability for web apps is the ability to introduce malicious files
 through an upload script. By moving media uploads to Google Cloud Storage, we
@@ -237,12 +250,31 @@ if (!$onGae) {
 }
 ```
   
-### Reservations?
+### Summary and Possible Improvements
 
-Why no real CI/CD triggered by code pushes? Or is that actauly the best way?
+To deploy database changes (including ACF / CPT stuff):
 
+```
+Use the db-migrate-pro UI or CLI
+```
 
-### Our implementation
+To deploy code changes made in `frontend/`:
 
+```
+gcloud beta app deploy --no-cache frontend/app.yaml
+```
 
-https://github.com/computer-lab/meredithmonk.org/
+To deploy changes made to WordPress / PHP code (rare?):
+
+```
+gcloud app deploy wordpress/app.yaml
+```
+
+It would be cool to set up continuous integration / continuous deployment to
+perform these steps automatically upon code pushes, perhaps to different staging
+and prod environments specified by `app-production.yaml` and `app-staging.yaml`
+files.
+
+### Our Implementation
+
+You can see the source of a real project using this setup [here](https://github.com/computer-lab/meredithmonk.org/).
