@@ -12,17 +12,16 @@ immediately view updated content.
 The `staging` branch currently deploys to [staging.computerlab.io](http://staging.computerlab.io).
 
 ## Developer Setup
+
 1. Clone this repository with `git clone https://github.com/computer-lab/computerlab.io`. 
 
 2. `cd` to `computerlab.io`, and install dependencies with `npm install`.
 
-3. Install `hexo-cli`, and start a development server with `hexo server`. The
-   site will be browsable at [localhost:4000](http://localhost:4000).
+3. Run `npm run start` The site will be browsable at [localhost:4000](http://localhost:4000).
 
-4. To deploy live, simply push to master.  The [Travis](https://travis-ci.org/)
+4. To deploy live, simply push to staging or master.  The [Travis](https://travis-ci.org/)
 continuous integration server will build the site and deploy it to s3.  The
-build takes about a minute.  If you made changes to the theme submodule, commit
-and push those first.
+build takes a few minutes.  
 
 ## Content
 
