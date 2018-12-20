@@ -18,6 +18,9 @@ published: true
 WordPress, especially WordPress admin, is the result of over a decade of
 experimentation ... to 
 
+This guide will show you how to set up the headless WordPress and Next.js React
+frontend as independent, scalable App Engine services, backed by 
+
 You can read about its features here.
 https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit
 
@@ -25,16 +28,17 @@ https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-
 
 Clone: https://github.com/postlight/headless-wp-starter
 
-### Step 1: Set up your Google Cloud toolchain
+### Step 1: Set up your Google Cloud project and toolchain
 
 If you don't have a Google Cloud Platform (GCP) account, you can sign up
-[here](https://console.cloud.google.com/freetrial/signup) for a $300 credit free
-trial. Note that you probably probably want your GCP project to be managed under
-your GSuite organization, so be cognizant of your currently selected Google
-while signing up. 
+[here](https://console.cloud.google.com/freetrial/signup). Note that you
+probably probably want your GCP project to be managed under your GSuite
+organization, so be cognizant of your currently selected Google Account while signing
+up. 
 
-You should then create a project (new users will be prompted). If we're making a
-website at meredith-monk-website, we could call the project "meredith-monk-website".
+You should then create a project (`myproject` in this guide) which will group
+together the SQL database, wordpress app engine service, frontend app engine
+service, and storage buckets.
 
 Then [install the gcloud
 toolchain](https://cloud.google.com/sdk/docs/quickstarts) on your development
@@ -43,61 +47,60 @@ machine and log in with `gcloud init`, selecting the project you just created.
 
 ### Step 2: Set up a SQL Database 
 
-When using Advanced Custom Fields and Custom Post Types, a lot of the site's
-structure and content is stored in the SQL database. So, it makes a lot of sense
-to use a managed SQL service like Cloud SQL.
+When using Advanced Custom Fields and Custom Post Types, much of the your site's
+content *and* structure is stored in your SQL database. So, it makes a lot of sense
+to use a managed SQL service like Cloud SQL where you can easily make, schedule,
+and restore database backups.
 
-You can use the `gcloud` cli to create the database instance by following the following
-steps:
-
+You can use the gcloud CLI to create the database instance:
 
 1. Create a new Cloud SQL instance with the following command:
 ```sh
-$ gcloud sql instances create wordpress \
+gcloud sql instances create wordpress \
     --activation-policy=ALWAYS \
     --tier=db-n1-standard-1
 ```
 
 2. Next, create the database you want your WordPress site to use:
 ```sh
-$ gcloud sql databases create wordpress --instance wordpress
+gcloud sql databases create wordpress --instance wordpress
 ```
 
 3. Finally, change the root password for your instance:
-```sh
-$ gcloud sql users set-password root \
+```text
+gcloud sql users set-password root \
     --host=% \
     --instance wordpress \
     --password=YOUR_INSTANCE_ROOT_PASSWORD # Don't use this password!
 ```
 
-Or, you can also do this using the console UI by following these steps:
+Or, you can create the database using the [console UI](https://console.cloud.google.com/sql):
 
 1. Open the left side hamburger menu and select "SQL".
 2. Click "Create Instance".
 3. Select MySQL, Second Generation.
-4. Enter an instance id, generate a root password, and make a note of both of
+4. Enter an instance id `wordpress`, generate a root password, and make a note of both of
   those values.
 5. Wait a bit for the instance to be created.
 6. Create a database by clicking on the Databases tab, and clicking 'Create
-   Database', setting the name as wordpress.
+   Database', setting the name as `wordpress`.
 
 Following these steps, you should now have a Cloud SQL instance named
 `wordpress` with a database `wordpress`.
-
 
 ### Step 3: Set up WordPress on Google App Engine
 
 Google has a [neat little
 tool](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress)
-to add Google App Engine (GAE) config files to our existing wordpress project. 
+to add Google App Engine (GAE) standard environment config files to our existing
+wordpress project. Once these files are added, we can deploy our service using
+the gcloud CLI.
 
-First set up the tool as described in its
-[documentation](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#setup).
-()
+First, set up the tool as described in its
+[documentation](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#setup):
 
 
-```sh
+```text
 git clone https://github.com/GoogleCloudPlatform/php-docs-samples.git
 cd php-docs-samples/appengine/php72/wordpress
 composer install
@@ -115,11 +118,16 @@ php wordpress.php update headless-wp-starter/wordpress
 
 This will create a bunch of new files that tell GAE how to run our app.
 
-Before deploying, add the line `service: wordpress` to `headless-wp-starter/wordpress/app.yaml`.
-We do this so that WordPress will deployed with the service name `wordpress` and
-not `default`, and be accessible at the url
-`https://wordpress-dot-myproject.appsot.com` rather than
-`myproject.appspot.com` (the default service where the frontend belongs).
+Before deploying, do two more things: 
+
+1. Add the line `service: wordpress` to
+   `headless-wp-starter/wordpress/app.yaml`, so that WordPress will
+   deployed with the service name `wordpress` and not `default`,
+   accessible at the url `https://wordpress-dot-myproject.appsot.com` rather
+   than `myproject.appspot.com` where we want the frontend.
+
+2. Modify `wordpress/wp-config.php`... `wp-config.php` is .gitignored, you can
+   treat it as a secret that you share securely with team members.
 
 You can now deploy WordPress to GAE standard using the command `gcloud app
 deploy wordpress/app.yaml`.
@@ -129,7 +137,7 @@ deploy wordpress/app.yaml`.
 [These
 instructions](https://cloud.google.com/appengine/docs/standard/nodejs/building-app/writing-web-service)
 on how to set up an express server on GAE can be easily adapted for the
-eadless-wp-starter Next.js server.
+headless-wp-starter Next.js server.
 
 Add a simple app.yaml specifying the node rumtime:
 
@@ -137,10 +145,8 @@ Add a simple app.yaml specifying the node rumtime:
 runtime: nodejs8
 ```
 
-
-
 Change `frontend/server.js` from listening on hardcoded port 3000 to use the
-port provided by GAE via an ENV variable:
+port provided by GAE via the `PORT` env variable:
 
 ```js
 // Listen to the App Engine-specified port, or 3000 otherwise
@@ -156,69 +162,80 @@ Next modify `frontend/config.js` to set apiUrl as the `wordpress` service url in
 production, and `localhost:8080` in dev:
 
 ```js
-
 export const Config = {
   apiUrl: process.env.NODE_ENV == 'production'
-    ? 'https://wordpress-dot-meredith-monk-website.appspot.com'
+    ? 'https://wordpress-dot-myproject.appspot.com'
     : 'http://localhost:8080'
 }
 ```
 
-In order to build the Next.js static assets on deploy, add:
+In order to build the Next.js static assets on deploy, add a [gcp-build
+script](https://cloud.google.com/appengine/docs/standard/nodejs/running-custom-build-step):
 
-```js"
+```js
   "gcp-build": "NODE_ENV=production npm run build",
 ```
 
 to the 'scripts' section in `frontend/package.json`.
 
-When `gcloud beta app deploy --no-cache frontend/app.yaml` is executed,
-the `gcp-build` script will be executed on deploy. The addition of `beta` and
-'--no-cache` are currently necessary to make this work properly.
+To deploy, execute `gcloud beta app deploy --no-cache frontend/app.yaml`. The
+addition of `beta` and '--no-cache` are currently necessary to make this work
+properly.
 
 
 ### Step 5: Move Around the Database
 
-In WordPress development that uses Advanced Custom Fields and Custom Post Types,
-a lot of important data, core to the structure of the website, lives in the SQL
-database. This makes developers uncomfortable, because developers like to
-version control stuff like that. Thankfully, db-migrate-pro allows developers to
-efficiently pull, push, backup and transform WordPress databases. For example, a
-developer could "pull" down a copy of the prod database to work with locally,
-and then push back his changes, making a backup of the current prod database's
-state. All of this occurs on top of Google's scheduled backups, which can help
-recovery from real big mess ups.
+Dockerizing MySQL in dev and the
+[db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) WordPress
+extension mitigate a lot of the database-related annoyances that made WordPress
+a pain for developers.
 
-The only real downside of the various composable tools around wp-migrate-pro is
-that they require a license key. I personallhy think this is fine, I think it's
-good to have one person beigng paid to make these databadse sysnc stuff work
-safely and well . db-mograte-pro has been building cli tools, which could make
-things even better.
+Dockerized MySQL means that developers don't have to manually configure MySQL
+locally, and can just recreate the [docker containers and
+volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
+if things get messed up.
+
+The db-migrate-pro plugin allows developers to efficiently pull, push, backup and
+transform WordPress databases. For example, a developer could "pull" down a copy
+of the prod database to work with locally, and then push back their changes,
+after making a backup of the current production database state.
+
+![Pushing and pulling the database.](/images/headless-wp-push-pull.png)
+
+The only real downside to db-migrate-pro is that it requires a license key. It's
+found in the WordPress admin sidebar under "Tools".
 
 ### Step 6: Set up Google Cloud Storage media uploads
 
-A common vulnerability for web apps is the ability to introduce malicious files through an upload script. By moving media uploads to Google Cloud Storage, we can remove this possible attack vector. In fact, we don't enable any write permissions on Wordpress's upload directory at all.
+A common vulnerability for web apps is the ability to introduce malicious files
+through an upload script. By moving media uploads to Google Cloud Storage, we
+can remove this possible attack vector. In fact, we don't enable any write
+permissions on Wordpress's upload directory at all.
 
 1. In Google Cloud console, navigate to Storage > Browser
-2. Create a bucket and give it a name (e.g. `meredithmonk-media`)
+2. Create a bucket and give it a name (e.g. `myproject-media`)
 3. Give public read access by granting allUsers the Storage Object Viewer
+4. In Wordpress admin area, enable Google Cloud Storage plugin
+5. Navigate to GCS settings and enter the name of the bucket you created above.
 
-wp-config.php after `ABSPATH` is defined (near the end)
+### Step 7: Enable Media Uploads From Local Machine (Optional)
+
+1. Visit Cloud Console, go to IAM & Admin -> Service accounts and create a service account with Storage Admin privileges. If there is already a service account with this role, you do not need to create another one.
+
+*Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
+
+2. Download the json key file, name it `gcs-service-account.json` and place it
+   in the `wordpress/` directory. Do not commit or deploy the service account JSON
+   key. It is (and should be) excluded from git with .gitignore and from deployments
+   with .gcloudignore.
+
+3. Edit your `wp-config.php` where `ABSPATH` is defined (near the end):
+
 ```php
 if (!$onGae) {
 	putenv('GOOGLE_APPLICATION_CREDENTIALS=' . ABSPATH . /gcs-service-account.json');
 }
 ```
-
-4. In Wordpress admin area, enable Google Cloud Storage plugin
-5. Navigate to GCS settings and enter the name of the bucket you created above.
-
-### Step 7: Enable Media Uploads From Local Machine
-
-1. Visit Cloud Console, go to IAM & Admin -> Service accounts and create a service account with Storage Admin privileges. If there is already a service account with this role, you do not need to create another one. *Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
-2. Download the json key file, name it `gcs-service-account.json` and place it in the wordpress/ directory
-
-*Note:* Do not commit or deploy the service account JSON key. It is/should be excluded from git with .gitignore and from deployments with .gcloudignore.
   
 ### Reservations?
 
