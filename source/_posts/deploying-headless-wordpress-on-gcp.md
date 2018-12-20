@@ -16,8 +16,9 @@ React. Here's how to deploy the best of both worlds to the cloud.__
 If you think headless WordPress + React might be a good fit for your project,
 check out Gina Trapani's
 [post](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit)
-introducing the starter kit.  Gina and the team at Postlight (which includes
-Paul ["What Is Code"](
+introducing the [headless-wp-starter
+kit](https://github.com/postlight/headless-wp-starter). Gina and the team at
+Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
 together to build and maintain a content-driven site. The Postlight kit seems to
@@ -27,8 +28,9 @@ site + headless CMS, and vanilla WordPress architectures.
 This guide is focused on how to set up the starter kit on Google Cloud
 Platform's App Engine standard environement, which has these nice features:
 
-- PaaS simplicity that makes sense for WordPress, but also scalability,
-  robustness, and a straightforward migration path to Kubernetes
+- PaaS simplicity that makes sense for WordPress, but also provides a
+  straightforward migration path to Kubernetes
+- Scalability, robustness, zero-downtime deploys
 - StackDriver logging nicely aggregates errors
 - Many orgs are already using GSuite for identity, analytics, ads, etc
 - Google Cloud Storage WordPress Plugin
