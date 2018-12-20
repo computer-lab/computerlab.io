@@ -22,14 +22,14 @@ Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
 together to build and maintain a content-driven site. The Postlight kit seems to
-address many problems that arise for teams using static site generator, static
-site + headless CMS, and vanilla WordPress architectures.
+address many problems that arise for teams using static site generators, static
+site + headless CMS systems, and vanilla WordPress architectures.
 
 This guide is focused on how to set up the starter kit on Google Cloud
-Platform's App Engine standard environement, which has these nice features:
+Platform's App Engine standard environment, which has these nice features:
 
-- PaaS simplicity that makes sense for WordPress, but also provides a
-  straightforward migration path to Kubernetes
+- PaaS simplicity that makes sense for WordPress
+- Straightforward migration path to Kubernetes
 - Scalability, robustness, zero-downtime deploys
 - StackDriver logging nicely aggregates errors
 - Many orgs are already using GSuite for identity, analytics, ads, etc

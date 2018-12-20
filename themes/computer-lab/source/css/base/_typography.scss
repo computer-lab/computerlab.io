@@ -1,4 +1,4 @@
-// global 
+// global
 body {
   font-family: 'Yantramanav', sans-serif;
   font-weight: 400;
@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin: 0 0 $base-spacing;
   line-height: 160%;
-  font-weight: 400;  
+  font-weight: 400;
   font-style: normal;
   font-size: 21px;
   letter-spacing: -.003em;
@@ -44,7 +44,6 @@ code {
 
 a {
   color: $brand;
-  padding-bottom: 1px;
   border-bottom: 2px solid $brand;
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
@@ -77,12 +76,12 @@ ul {
     margin: 2px 0 2px;
     line-height: 1.2;
     font-size: 22px;
-    font-weight: 400;   
+    font-weight: 400;
 
     @media(min-width:768px) {
       margin: 2px 0 2px;
       line-height: 1.3;
-    }        
+    }
   }
 }
 
