@@ -16,8 +16,8 @@ React. Here's how to deploy the best of both worlds to the cloud.__
 If you think headless WordPress + React might be a good fit for your project,
 check out Gina Trapani's
 [post](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit)
-introducing the [headless-wp-starter
-kit](https://github.com/postlight/headless-wp-starter). Gina and the team at
+introducing [headless-wp-starter
+](https://github.com/postlight/headless-wp-starter). Gina and the team at
 Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
@@ -44,10 +44,10 @@ Clone the repository [here](https://github.com/postlight/headless-wp-starter)
 and follow the README to get a local dockerized setup working using
 `docker-compose up`.
 
-Dockerizing MySQL in dev mitigates a lot of the database-related annoyances that
-made WordPress a pain for developers: now there's no need to manually configure
-MySQL globally on your machine, and you can just recreate the [docker containers
-and
+Dockerizing MySQL locally mitigates a lot of the database-related annoyances
+that made WordPress (or any database-driven CMS) a pain for developers: now
+there's no need to manually configure MySQL globally on your machine, and you
+can just [recreate the docker containers and
 volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
 if things get really messed up.
 
