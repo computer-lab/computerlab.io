@@ -14,18 +14,18 @@ React. Here's how to deploy the best of both worlds to the cloud.__
 ### Background
 
 If you think headless WordPress + React might be a good fit for your project,
-check out Gina Trapani's [post introducing the starter
-kit](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit).
-Gina and the team at Postlight (which includes Paul ["What Is Code"](
+check out Gina Trapani's
+[post](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit)
+introducing the starter kit.  Gina and the team at Postlight (which includes
+Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
-together to build and maintain a content-driven site. The Postlight starter kit
-seems to address many of the common problems that arise for teams using
-current-gen static site, static site + headless CMS, and vanilla WordPress
-architectures.
+together to build and maintain a content-driven site. The Postlight kit seems to
+address many problems that arise for teams using static site generator, static
+site + headless CMS, and vanilla WordPress architectures.
 
-This guide is focused on how to set up the starter kit on Google Cloud Platform
-App Engine standard environement.  This setup has these nice features:
+This guide is focused on how to set up the starter kit on Google Cloud
+Platform's App Engine standard environement, which has these nice features:
 
 - PaaS simplicity that makes sense for WordPress, but also scalability,
   robustness, and a straightforward migration path to Kubernetes
@@ -38,13 +38,14 @@ App Engine standard environement.  This setup has these nice features:
 
 ### Step 0: Local Dockerized Setup
 
-You can clone the repository
-[here](https://github.com/postlight/headless-wp-starter) and follow the README
-to get a local, dockerized setup working using `docker-compose`.
+Clone the repository [here](https://github.com/postlight/headless-wp-starter)
+and follow the README to get a local dockerized setup working using
+`docker-compose up`.
 
 Dockerizing MySQL in dev mitigates a lot of the database-related annoyances that
-made WordPress a pain for developers: no need to manually configure MySQL
-locally, and you can just recreate the [docker containers and
+made WordPress a pain for developers: now there's no need to manually configure
+MySQL globally on your machine, and you can just recreate the [docker containers
+and
 volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
 if things get really messed up.
 
@@ -204,11 +205,11 @@ properly.
 
 ### Step 5: Push Your Local Database to the Cloud
 
-After setting up pages, custom fields, or post types in the course of
-development, how do you push these (database) changes to staging and then prod?
+After editing pages, custom fields, or post types in the course of development,
+how do you push these (database) changes to prod?
 
-The [db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) allows
-developers to efficiently push, pull, backup and transform WordPress databases.
+The [db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) makes it
+easy for developers to push, pull, backup and transform WordPress databases.
 For example, a developer could pull down a copy of the prod database to work
 with locally, and then push back their changes, after making a backup of the
 current production database state. It's available via the "Tools" sidebar in
@@ -223,7 +224,7 @@ The only real downside to db-migrate-pro is that it requires a license key.
 A common vulnerability for web apps is the ability to introduce malicious files
 through an upload script. By moving media uploads to Google Cloud Storage, we
 can remove this possible attack vector. In fact, we don't enable any write
-permissions on Wordpress's upload directory at all.
+permissions on WordPress's upload directory at all.
 
 1. In Google Cloud console, navigate to Storage > Browser
 2. Create a bucket and give it a name (e.g. `myproject-media`)
@@ -233,7 +234,9 @@ permissions on Wordpress's upload directory at all.
 
 ### Step 7: Enable Media Uploads From Local Machine (Optional)
 
-1. Visit Cloud Console, go to IAM & Admin -> Service accounts and create a service account with Storage Admin privileges. If there is already a service account with this role, you do not need to create another one.
+1. Visit Cloud Console, go to IAM & Admin -> Service accounts and create a
+   service account with Storage Admin privileges. If there is already a service
+   account with this role, you do not need to create another one.
 
 *Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
 
@@ -246,11 +249,11 @@ permissions on Wordpress's upload directory at all.
 
 ```php
 if (!$onGae) {
-	putenv('GOOGLE_APPLICATION_CREDENTIALS=' . ABSPATH . /gcs-service-account.json');
+  putenv('GOOGLE_APPLICATION_CREDENTIALS=' . ABSPATH . /gcs-service-account.json');
 }
 ```
   
-### Summary and Possible Improvements
+### Summary and Potential Improvements
 
 To deploy database changes (including ACF / CPT stuff):
 
@@ -277,8 +280,11 @@ files.
 
 Please [contact us](mailto:patrick@computerlab.io) or make a [pull
 request](https://github.com/computer-lab/computerlab.io/blob/master/source/_posts/deploying-headless-wordpress-on-gcp.md)
-if you encounter an issue using this guide.
+if you have suggestions or encounter issues.
 
 ### Our Implementation
 
 You can see the source of a real project using this setup [here](https://github.com/computer-lab/meredithmonk.org/).
+
+<br />
+
