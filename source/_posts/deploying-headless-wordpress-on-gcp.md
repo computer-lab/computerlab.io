@@ -17,15 +17,14 @@ If you think headless WordPress + React might be a good fit for your project,
 check out Gina Trapani's
 [post](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit)
 introducing [headless-wp-starter
-](https://github.com/postlight/headless-wp-starter), which explains both the
+](https://github.com/postlight/headless-wp-starter), which highlights both the
 technical and business benefits of the architecture. Gina and the team at
 Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
-together to build and maintain content-driven sites. It make sense, then, that
-the Postlight kit seems to address many of problems that arise for teams using
-static site generators, static site + headless CMS systems, vanilla WordPress,
-or other architectures.
+together on content-driven sites. So it makes sense that the Postlight kit seems
+to address many of problems that arise for teams using static site generators,
+static site + headless CMS systems, vanilla WordPress, or other architectures.
 
 This guide is focused on how to set up the starter kit on Google Cloud
 Platform's App Engine standard environment, which has these nice features:
@@ -34,17 +33,17 @@ Platform's App Engine standard environment, which has these nice features:
 - Scalability, robustness, zero-downtime deploys
 - Straightforward migration path to Kubernetes
 - StackDriver logging nicely aggregates errors
-- Many organizations are already using GSuite for identity
 - Media storage via the Google Cloud Storage WordPress Plugin
 - Automated SQL backups / Cloud SQL Proxy
-- Google Domains / DNS
+- Google Domains / DNS / SSL
+- Many organizations are already using GSuite for identity
 - Cheap
 
 ### Step 0: Local Dockerized Setup
 
-Clone the [starter hit](https://github.com/postlight/headless-wp-starter) and
-follow the README to get a local dockerized setup working using `docker-compose
-up` with WordPress and the frontend running in the containers.
+Clone the [starter kit](https://github.com/postlight/headless-wp-starter) and
+follow the README to get a local dockerized setup working using
+`docker-compose`.
 
 Dockerizing MySQL locally mitigates a lot of the database-related annoyances
 that made WordPress (or any database-driven CMS) a pain for developers: now
