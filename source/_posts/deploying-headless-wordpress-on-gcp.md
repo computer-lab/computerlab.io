@@ -22,12 +22,13 @@ technical and business benefits of the architecture. Gina and the team at
 Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
-together on content-driven sites. So it makes sense that the Postlight kit seems
-to address many of problems that arise for teams using static site generators,
-static site + headless CMS systems, vanilla WordPress, or other architectures.
+together on content-driven sites, so it makes sense that the Postlight kit
+addresses many of problems that arise for teams using static site generators,
+static site + headless CMS SaaS systems, vanilla WordPress, and other
+architectures.
 
-This guide is focused on how to set up the starter kit on Google Cloud
-Platform's App Engine standard environment, which has these nice features:
+This guide will help you set up the starter kit on Google Cloud Platform's App
+Engine standard environment, which has these nice features:
 
 - PaaS simplicity that makes sense for WordPress
 - Scalability, robustness, zero-downtime deploys
@@ -39,10 +40,10 @@ Platform's App Engine standard environment, which has these nice features:
 - Many organizations are already using GSuite for identity
 - Cheap
 
-### Step 0: Local Dockerized Setup
+### Step 0: Set up Your Local Dockerized WordPress
 
 Clone the [starter kit](https://github.com/postlight/headless-wp-starter) and
-follow the README to get a local dockerized setup working using
+follow the README to get a local development environment running using
 `docker-compose`.
 
 Dockerizing MySQL locally mitigates a lot of the database-related annoyances
@@ -52,7 +53,7 @@ can just [recreate the docker containers and
 volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
 if things get really messed up.
 
-### Step 1: Set up your Google Cloud Project and Toolchain
+### Step 1: Set up Your Google Cloud Platform Project and Toolchain
 
 If you don't have a Google Cloud Platform (GCP) account, you can sign up
 [here](https://console.cloud.google.com/freetrial/signup). Note that you
@@ -78,14 +79,14 @@ and restore database backups.
 You can use the gcloud CLI to create the database instance:
 
 1. Create a new Cloud SQL instance with the following command:
-```sh
+```text
 gcloud sql instances create wordpress \
     --activation-policy=ALWAYS \
     --tier=db-n1-standard-1
 ```
 
 2. Next, create the database you want your WordPress site to use:
-```sh
+```text
 gcloud sql databases create wordpress --instance wordpress
 ```
 
@@ -136,7 +137,7 @@ extensions, install the missing PHP extensions (xml and zip) and retry.
 
 Then we run the tool, pointing it at the WordPress directory in our project:
 
-```
+```text
 php wordpress.php update /path/to/headless-wp-starter/wordpress
 ```
 
@@ -183,14 +184,13 @@ Before deploying, do two more things:
   with teammates who need to do deploys. 
 
 2. Add the line `service: wordpress` to
-   `headless-wp-starter/wordpress/app.yaml`, so that WordPress will
-   deployed with the service name `wordpress` and not `default`,
-   accessible at the url `https://wordpress-dot-myproject.appsot.com` rather
-   than `myproject.appspot.com` where we want the frontend.
+   `headless-wp-starter/wordpress/app.yaml`, so that WordPress will deployed
+   with the service name `wordpress` and not `default`. This way, it'll
+   accessible at `wordpress-dot-myproject.appsot.com` rather than
+   `myproject.appspot.com` where we want the frontend.
 
 You can now deploy WordPress to GAE standard using the command `gcloud app
-deploy wordpress/app.yaml`. Assuming all goes well, you can commit all the files created
-by the tool.
+deploy wordpress/app.yaml`.
 
 ### Step 4: Set up Next.js Frontend on Google App Engine
 
@@ -199,14 +199,13 @@ instructions](https://cloud.google.com/appengine/docs/standard/nodejs/building-a
 on how to set up an express server on GAE can be easily adapted for the
 headless-wp-starter Next.js server.
 
-Add a simple app.yaml specifying the node rumtime:
+Add a one-line app.yaml specifying the node rumtime:
 
 ```yaml
 runtime: nodejs8
 ```
 
-Change `frontend/server.js` from listening on hardcoded port 3000 to use the
-port provided by GAE via the `PORT` env variable:
+Change `frontend/server.js` to listen port provided by GAE via the `PORT` env variable:
 
 ```js
 // Listen to the App Engine-specified port, or 3000 otherwise
@@ -223,7 +222,7 @@ production, and `localhost:8080` in dev:
 
 ```js
 export const Config = {
-  apiUrl: process.env.NODE_ENV == 'production'
+  apiUrl: process.env.NODE_ENV === 'production'
     ? 'https://wordpress-dot-myproject.appspot.com'
     : 'http://localhost:8080'
 }
@@ -296,9 +295,10 @@ if (!$onGae) {
 
 To deploy frontend code changes: `gcloud beta app deploy --no-cache frontend/app.yaml`
 
-To deploy database changes (including ACF/CPT changes): `use the db-migrate-pro UI or CLI`
-
 To deploy WordPress code changes: `gcloud app deploy wordpress/app.yaml`
+
+To deploy database changes: `use the db-migrate-pro UI or CLI`
+
 
 It would be cool to set up continuous integration / continuous deployment to
 perform these steps automatically upon code pushes, perhaps to different staging
