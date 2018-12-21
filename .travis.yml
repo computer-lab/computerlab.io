@@ -1,13 +1,12 @@
 language: node_js
 node_js:
-- '6'
+- '8'
 branches:
   only:
   - master
   - staging
 before_install:
 - npm install
-- npm install -g hexo-cli
 install:
 - npm run generate
 deploy:
