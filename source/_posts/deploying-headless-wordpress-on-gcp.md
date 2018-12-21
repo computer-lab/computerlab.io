@@ -17,32 +17,34 @@ If you think headless WordPress + React might be a good fit for your project,
 check out Gina Trapani's
 [post](https://postlight.com/about/news/introducing-postlights-wordpress-react-starter-kit)
 introducing [headless-wp-starter
-](https://github.com/postlight/headless-wp-starter). Gina and the team at
+](https://github.com/postlight/headless-wp-starter), which explains both the
+technical and business benefits of the architecture. Gina and the team at
 Postlight (which includes Paul ["What Is Code"](
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Ford) seem to
 have a really deep understanding of how developers and content editors work
-together to build and maintain a content-driven site. The Postlight kit seems to
-address many problems that arise for teams using static site generators, static
-site + headless CMS systems, and vanilla WordPress architectures.
+together to build and maintain content-driven sites. It make sense, then, that
+the Postlight kit seems to address many of problems that arise for teams using
+static site generators, static site + headless CMS systems, vanilla WordPress,
+or other architectures.
 
 This guide is focused on how to set up the starter kit on Google Cloud
 Platform's App Engine standard environment, which has these nice features:
 
 - PaaS simplicity that makes sense for WordPress
-- Straightforward migration path to Kubernetes
 - Scalability, robustness, zero-downtime deploys
+- Straightforward migration path to Kubernetes
 - StackDriver logging nicely aggregates errors
-- Many orgs are already using GSuite for identity, analytics, ads, etc
-- Google Cloud Storage WordPress Plugin
+- Many organizations are already using GSuite for identity
+- Media storage via the Google Cloud Storage WordPress Plugin
 - Automated SQL backups / Cloud SQL Proxy
 - Google Domains / DNS
 - Cheap
 
 ### Step 0: Local Dockerized Setup
 
-Clone the repository [here](https://github.com/postlight/headless-wp-starter)
-and follow the README to get a local dockerized setup working using
-`docker-compose up`.
+Clone the [starter hit](https://github.com/postlight/headless-wp-starter) and
+follow the README to get a local dockerized setup working using `docker-compose
+up` with WordPress and the frontend running in the containers.
 
 Dockerizing MySQL locally mitigates a lot of the database-related annoyances
 that made WordPress (or any database-driven CMS) a pain for developers: now
@@ -51,7 +53,7 @@ can just [recreate the docker containers and
 volumes](https://medium.com/the-code-review/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
 if things get really messed up.
 
-### Step 1: Set up your Google Cloud project and toolchain
+### Step 1: Set up your Google Cloud Project and Toolchain
 
 If you don't have a Google Cloud Platform (GCP) account, you can sign up
 [here](https://console.cloud.google.com/freetrial/signup). Note that you
@@ -70,7 +72,7 @@ machine and log in with `gcloud init`, selecting the project you just created.
 ### Step 2: Set up a SQL Database 
 
 When using Advanced Custom Fields and Custom Post Types, much of the your site's
-content *and* structure is stored in your SQL database. So, it makes a lot of sense
+content *and* structure is stored in the SQL database. So, it makes a lot of sense
 to use a managed SQL service like Cloud SQL where you can easily make, schedule,
 and restore database backups.
 
@@ -88,7 +90,7 @@ gcloud sql instances create wordpress \
 gcloud sql databases create wordpress --instance wordpress
 ```
 
-3. Finally, change the root password for your instance:
+3. Finally, change the root password for your instance to something secure:
 ```text
 gcloud sql users set-password root \
     --host=% \
@@ -115,10 +117,10 @@ Following these steps, you should now have a Cloud SQL instance named
 Google has a [neat little
 tool](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress)
 to add Google App Engine (GAE) standard environment config files to our existing
-wordpress project. Once these files are added, we can deploy our service using
+WordPress project. Once these files are added, we can deploy our service using
 the gcloud CLI.
 
-First, set up the tool as described in its
+First, set up the tool as described in its very helpful
 [documentation](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress#setup):
 
 ```text
@@ -127,33 +129,69 @@ cd php-docs-samples/appengine/php72/wordpress
 composer install
 ```
 
-(You need to [install
-composer](https://getcomposer.org/doc/00-intro.md) so that composer can install this tool's dependencies.
-If you receive an error about extensions, install phar and zip PHP
-extensions and retry.)
+*Note:*: You need to install PHP and composer so that composer can install this
+tool's dependencies. You can [install composer directly into your working
+directory](https://getcomposer.org/download/) and run `php composer.phar
+install` instead of `composer install`. If you receive an error about
+extensions, install the missing PHP extensions (xml and zip) and retry.
 
 Then we run the tool, pointing it at the WordPress directory in our project:
 
 ```
-php wordpress.php update headless-wp-starter/wordpress
+php wordpress.php update /path/to/headless-wp-starter/wordpress
 ```
 
-This will create a bunch of new files that tell GAE how to run our app.
+This will ask us questions and then create a bunch of new files that tell GAE
+how to run our app and modify our `wp-config.php`.
+
+*Note:* You may get permission denied errors, this is because the WordPress
+files created by docker are owned by root. You can fix this by running the tool
+using sudo.
+
+![Using the gcp wordpress updater.](/images/headless-wp-tool.png)
 
 Before deploying, do two more things: 
 
-1. Add the line `service: wordpress` to
+1. Fix your local build: in the `wp-config.php` created by the tool, the local
+   config expects the database host to be `localhost`, but because everything is
+   running in docker-land, `DB_HOST` should be set to `db-headless`. 
+
+  ```js
+  // ** MySQL settings - You can get this info from your web host ** //
+  if ($onGae) {
+      /** The name of the Cloud SQL database for WordPress */
+      define('DB_NAME', 'wordpress');
+      /** Production login info */
+      define('DB_HOST', ':/cloudsql/myproject:us-central1:wordpress');
+      define('DB_USER', 'root');
+      define('DB_PASSWORD', 'YOUR_INSTANCE_ROOT_PASSWORD');
+  } else {
+      /** The name of the local database for WordPress */
+      define('DB_NAME', 'wp_headless');
+      /** Local environment MySQL login info */
+      define('DB_HOST', 'db-headless');
+      define('DB_USER', 'wp_headless');
+      define('DB_PASSWORD', 'wp_headless');
+  }
+  ```
+
+  You might also have issues with permissions that can be fixed with `sudo chmod
+  +x wordpress/wp-config.php`. You can debug other tricky WordPress issues by
+  `docker exec`ing into the container and running `tail -f
+  /var/log/apache2/error.log`.
+
+  Your `wp-config.php` is now a .gitignored secret that can be shared securely
+  with teammates who need to do deploys. 
+
+2. Add the line `service: wordpress` to
    `headless-wp-starter/wordpress/app.yaml`, so that WordPress will
    deployed with the service name `wordpress` and not `default`,
    accessible at the url `https://wordpress-dot-myproject.appsot.com` rather
    than `myproject.appspot.com` where we want the frontend.
 
-2. Modify `wordpress/wp-config.php` to include your database creds created
-   earlier. `wp-config.php` is .gitignored, you can
-   treat it as a secret that you share securely with team members.
-
 You can now deploy WordPress to GAE standard using the command `gcloud app
-deploy wordpress/app.yaml`.
+deploy wordpress/app.yaml`. Assuming all goes well, you can commit all the files created
+by the tool.
 
 ### Step 4: Set up Next.js Frontend on Google App Engine
 
@@ -202,7 +240,7 @@ script](https://cloud.google.com/appengine/docs/standard/nodejs/running-custom-b
 to the 'scripts' section in `frontend/package.json`.
 
 To deploy, execute `gcloud beta app deploy --no-cache frontend/app.yaml`. The
-addition of `beta` and '--no-cache` are currently necessary to make this work
+addition of `beta` and `--no-cache` are currently necessary to make this work
 properly.
 
 ### Step 5: Push Your Local Database to the Cloud
@@ -240,9 +278,9 @@ permissions on WordPress's upload directory at all.
    service account with Storage Admin privileges. If there is already a service
    account with this role, you do not need to create another one.
 
-*Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn’t seem to be enough.
+*Note:* The GCS Plugin instructions say Storage Object Admin privileges are sufficient but in practice this doesn't seem to be enough.
 
-2. Download the json key file, name it `gcs-service-account.json` and place it
+2. Download the JSON key file, name it `gcs-service-account.json` and place it
    in the `wordpress/` directory. Do not commit or deploy the service account JSON
    key. It is (and should be) excluded from git with .gitignore and from deployments
    with .gcloudignore.
@@ -257,23 +295,11 @@ if (!$onGae) {
   
 ### Summary and Potential Improvements
 
-To deploy database changes (including ACF / CPT stuff):
+To deploy frontend code changes: `gcloud beta app deploy --no-cache frontend/app.yaml`
 
-```
-Use the db-migrate-pro UI or CLI
-```
+To deploy database changes (including ACF/CPT changes): `use the db-migrate-pro UI or CLI`
 
-To deploy code changes made in `frontend/`:
-
-```
-gcloud beta app deploy --no-cache frontend/app.yaml
-```
-
-To deploy changes made to WordPress / PHP code (rare?):
-
-```
-gcloud app deploy wordpress/app.yaml
-```
+To deploy WordPress code changes: `gcloud app deploy wordpress/app.yaml`
 
 It would be cool to set up continuous integration / continuous deployment to
 perform these steps automatically upon code pushes, perhaps to different staging
@@ -282,11 +308,10 @@ files.
 
 Please [contact us](mailto:patrick@computerlab.io) or make a [pull
 request](https://github.com/computer-lab/computerlab.io/blob/master/source/_posts/deploying-headless-wordpress-on-gcp.md)
-if you have suggestions or encounter issues.
+if you have suggestions or encounter issues using this guide.
 
 ### Our Implementation
 
 You can see the source of a real project using this setup [here](https://github.com/computer-lab/meredithmonk.org/).
 
-<br />
 
