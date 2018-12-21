@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Deploying Headless WordPress + React Starter Kit on Google Cloud Platform
+title: Deploying Headless WordPress + React Starter on Google Cloud Platform
 date: 2018-12-20
 category: Notes
-lede: Most content editors know and like WordPress. Most developers know and like React. Here's how to deploy the best of both worlds to the cloud.
+lede: Most content editors know and like WordPress. Many developers know and like React. Here's how to deploy the best of both worlds to the cloud.
 author: Patrick Steadman and Mark Neuburger
+image: "https://computerlab.io/images/headless-practice.jpg"
 published: true
 ---
 
