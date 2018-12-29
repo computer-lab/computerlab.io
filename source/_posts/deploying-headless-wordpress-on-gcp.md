@@ -155,7 +155,7 @@ Before deploying, do two more things:
 
 1. Fix your local build: in the `wp-config.php` created by the tool, the local
    config expects the database host to be `localhost`, but because everything is
-   running in docker-land, `DB_HOST` should be set to `db_headless`. 
+   running in docker-land, `DB_HOST` should be set to `db-headless`. 
 
   ```js
   // ** MySQL settings - You can get this info from your web host ** //
@@ -170,7 +170,7 @@ Before deploying, do two more things:
       /** The name of the local database for WordPress */
       define('DB_NAME', 'wp_headless');
       /** Local environment MySQL login info */
-      define('DB_HOST', 'db_headless');
+      define('DB_HOST', 'db-headless');
       define('DB_USER', 'wp_headless');
       define('DB_PASSWORD', 'wp_headless');
   }
