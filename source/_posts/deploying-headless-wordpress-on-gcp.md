@@ -12,6 +12,10 @@ published: true
 __Most content editors know and like WordPress. Most developers know and like 
 React. Here's how to deploy the best of both worlds to the cloud.__
 
+**Note: as of January 2018, the headless WordPress deploy on Google App Engine standard environment
+currently doesn't work because of issues with slugs. Use the flexible
+environment or hosted WordPress.
+
 ### Background
 
 If you think headless WordPress + React might be a good fit for your project,
@@ -113,7 +117,58 @@ Or, you can create the database using the [console UI](https://console.cloud.goo
 Following these steps, you should now have a Cloud SQL instance named
 `wordpress` with a database `wordpress`.
 
-### Step 3: Set up WordPress on Google App Engine
+### Step 3: Set up Next.js Frontend on Google App Engine
+
+[These
+instructions](https://cloud.google.com/appengine/docs/standard/nodejs/building-app/writing-web-service)
+on how to set up an express server on GAE can be easily adapted for the
+headless-wp-starter Next.js server.
+
+Add a one-line app.yaml specifying the node rumtime:
+
+```yaml
+runtime: nodejs8
+```
+
+Change `frontend/server.js` to listen port provided by GAE via the `PORT` env variable:
+
+```js
+// Listen to the App Engine-specified port, or 3000 otherwise
+const port = process.env.PORT || 3000;
+
+server.listen(port, err => {
+    if (err) throw err;
+    console.log(`> Ready on port ${port}`);
+});
+```
+
+Next modify `frontend/config.js` to set apiUrl as the `wordpress` service url we
+will create in production, and `localhost:8080` in dev:
+
+```js
+export const Config = {
+  apiUrl: process.env.NODE_ENV === 'production'
+    ? 'https://wordpress-dot-myproject.appspot.com'
+    : 'http://localhost:8080'
+}
+```
+
+In order to build the Next.js static assets on deploy, add a [gcp-build
+script](https://cloud.google.com/appengine/docs/standard/nodejs/running-custom-build-step):
+
+```js
+  "gcp-build": "NODE_ENV=production npm run build",
+```
+
+to the 'scripts' section in `frontend/package.json`.
+
+To deploy, execute `gcloud beta app deploy --no-cache frontend/app.yaml`. The
+addition of `beta` and `--no-cache` are currently necessary to make this work
+properly. It might take a try or two, but you should now be able to browse to
+`https://myproject.appspot.com` (currently with an error, because WordPress has
+not yet been deployed.
+
+### Step 4: Set up WordPress on Google App Engine
 
 Google has a [neat little
 tool](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress)
@@ -177,7 +232,7 @@ Before deploying, do two more things:
   ```
 
   You might also have issues with permissions that can be fixed with `sudo chmod
-  +x wordpress/wp-config.php`. You can debug other tricky WordPress issues by
+  +rx wordpress/wp-config.php`. You can debug other tricky WordPress issues by
   `docker exec`ing into the container and running `tail -f
   /var/log/apache2/error.log`.
 
@@ -191,56 +246,9 @@ Before deploying, do two more things:
    `myproject.appspot.com` where we want the frontend.
 
 You can now deploy WordPress to GAE standard using the command `gcloud app
-deploy wordpress/app.yaml`.
+deploy wordpress/app.yaml`. Once this completes, you should see a WordPress
+install dialog at `wordpress-dot-myproject.appspot.com`.
 
-### Step 4: Set up Next.js Frontend on Google App Engine
-
-[These
-instructions](https://cloud.google.com/appengine/docs/standard/nodejs/building-app/writing-web-service)
-on how to set up an express server on GAE can be easily adapted for the
-headless-wp-starter Next.js server.
-
-Add a one-line app.yaml specifying the node rumtime:
-
-```yaml
-runtime: nodejs8
-```
-
-Change `frontend/server.js` to listen port provided by GAE via the `PORT` env variable:
-
-```js
-// Listen to the App Engine-specified port, or 3000 otherwise
-const port = process.env.PORT || 3000;
-
-server.listen(port, err => {
-    if (err) throw err;
-    console.log(`> Ready on port ${port}`);
-});
-```
-
-Next modify `frontend/config.js` to set apiUrl as the `wordpress` service url in
-production, and `localhost:8080` in dev:
-
-```js
-export const Config = {
-  apiUrl: process.env.NODE_ENV === 'production'
-    ? 'https://wordpress-dot-myproject.appspot.com'
-    : 'http://localhost:8080'
-}
-```
-
-In order to build the Next.js static assets on deploy, add a [gcp-build
-script](https://cloud.google.com/appengine/docs/standard/nodejs/running-custom-build-step):
-
-```js
-  "gcp-build": "NODE_ENV=production npm run build",
-```
-
-to the 'scripts' section in `frontend/package.json`.
-
-To deploy, execute `gcloud beta app deploy --no-cache frontend/app.yaml`. The
-addition of `beta` and `--no-cache` are currently necessary to make this work
-properly.
 
 ### Step 5: Push Your Local Database to the Cloud
 
@@ -251,8 +259,12 @@ The [db-migrate-pro](https://deliciousbrains.com/wp-migrate-db-pro/) makes it
 easy for developers to push, pull, backup and transform WordPress databases.
 For example, a developer could pull down a copy of the prod database to work
 with locally, and then push back their changes, after making a backup of the
-current production database state. It's available via the "Tools" sidebar in
-WordPress admin and as a CLI tool.
+current production database state.
+
+To push the current dev database to prod, first do the WordPress installation
+using temporary information, and then activate the WordPress plugins at
+`wordpress-dot-myproject.appspot.com/wp-admin`. Then, follow the db-migrate pro
+instructions for "pushing" a database from `http://localhost:8080/wp-admin`. 
 
 ![Pushing and pulling the database.](/images/headless-wp-push-pull.png)
 
