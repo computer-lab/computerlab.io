@@ -14,7 +14,7 @@ React. Here's how to deploy the best of both worlds to the cloud.__
 
 **Note: as of January 2018, the headless WordPress deploy on Google App Engine standard environment
 currently doesn't work because of issues with slugs. Use the flexible
-environment or hosted WordPress.
+environment or hosted WordPress.**
 
 ### Background
 
