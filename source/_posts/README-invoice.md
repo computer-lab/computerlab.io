@@ -5,7 +5,7 @@ date: 2017-01-03
 category: README
 lede: How to send an invoice, account for it properly, and make sure it gets paid.
 author: Lab
-published: true
+published: false
 ---
 
 1. __Scheduling__
