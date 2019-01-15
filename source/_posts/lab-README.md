@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Computer Lab README
-date: 2016-01-11
+date: 2019-01-14
 category: Notes
 tags:
 - Procedure
@@ -154,3 +154,6 @@ Our AWS account alias is `computerlab`, so if someone has created an IAM account
 for you, you should be able to sign in
 [here](https://computerlab.signin.aws.amazon.com/console/). This website is
 hosted on AWS with s3, cloudfront, and CI/CD using TravisCI.
+
+
+*Last Updated: January 14th, 2019*
