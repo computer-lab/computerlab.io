@@ -47,7 +47,7 @@ certain project, whether the project is client work or research. Consultants are
 independent contractors, with their own software or design practice, and are
 paid as such. Computer Lab maintains an index of good contractors, and reaches
 out to them when good projects arise (sometimes using our [mailing
-list](https://confirmsubscription.com/h/j/53E8DEBA95C07A35). Sometimes Computer
+list](https://confirmsubscription.com/h/j/53E8DEBA95C07A35)). Sometimes Computer
 Lab will just pass projects on to them, if there isn't a Partner willing and
 able to manage the project. 
 
