@@ -32,23 +32,24 @@ paired with domain expertise in healthcare, biotech, finance, and the arts.
 ## Organization and Roles
 
 There are currently two roles in the Computer Lab organization: **Partner** and
-**Contractor**.
+**Consultant**.
 
 A **Partner** owns a part of the Cloister Products LLC, the Limited Liability
 Company that backs Computer Lab.  A Partner can make deals on behalf of the
-company and recruit Contractors to work on projects as necessary. Computer
+company and recruit Consultants to work on projects as necessary. Computer
 Lab's profits are distributed annually to partners based on an "Eat What You
 Kill" formula that includes the business generated and managed by each partner,
 each partner's personal billable work, and other contributions as agreed on by
 the partners. 
 
-A **Contractor** has access to Computer Lab resources within the scope of a
-certain project, whether the project is client work or research. Contractors are
+A **Consultant** has access to Computer Lab resources within the scope of a
+certain project, whether the project is client work or research. Consultants are
 independent contractors, with their own software or design practice, and are
 paid as such. Computer Lab maintains an index of good contractors, and reaches
-out to them when good projects arise. Sometimes Computer Lab will just pass
-projects on to them, if there isn't a Partner willing and able to manage the
-project. 
+out to them when good projects arise (sometimes using our [mailing
+list](https://confirmsubscription.com/h/j/53E8DEBA95C07A35). Sometimes Computer
+Lab will just pass projects on to them, if there isn't a Partner willing and
+able to manage the project. 
 
 ## Communication
 
@@ -113,9 +114,10 @@ We also have a more social "free" Slack at
 ### Campaign Monitor
 
 Our email newsletter is managed at [Campaign
-Monitor](https://computerlab.createsend.com).  We use send emails to the
+Monitor](https://computerlab.createsend.com). We use send emails to the
 newsletter list to inform potential subcontractors / partners of projects in the
-pipeline. It is a very low-noise mailing list.
+pipeline. It is a very low-noise mailing list, you can sign up
+[here](https://confirmsubscription.com/h/j/53E8DEBA95C07A35).
 
 ### Bonsai
 
