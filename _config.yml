@@ -23,19 +23,6 @@ proudly call themselves Agile or Scrum teams, while others are defined by their 
 of Agile practices. Some groups care a lot about accounting and finance, while other 
 companies outsource those concerns and focus on code or relationships.'
 
-# Featured Case Study
-feature_case_title: 'Verdes Pinpoints'
-feature_case_date: 'June 14th, 2016'
-feature_case_author: 'Patrick Steadman'
-feature_case_path: 'blog/'
-feature_case_project_path: 'http://pinpoints.io'
-feature_case_lede: 'We built an interactive 3D landing page for a marketing data visualization tool.'
-feature_case_excerpt: 'The engineers who built ReactJS were inspired by the efficiency 
-and simplicity of the “DOOM” video game engine, 
-so it’s not surprising that React is a good tool for building responsive 3D websites. 
-The PinPoints build convinced us that React’s declarative components are a great fit 
-for developing 3D user interfaces in the browser.'
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://computerlab.io
