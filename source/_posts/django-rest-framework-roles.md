@@ -12,8 +12,8 @@ published: true
 > things we talked about. The application of this knife, the division of the
 > world into parts and the building of this structure, is something everybody
 > does."
-
-*Zen and the Art of Motorcycle Maintenance - Robert M Pirsig*
+>
+> *Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig*
 
 ### Background
 

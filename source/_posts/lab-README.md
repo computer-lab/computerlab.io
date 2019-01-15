@@ -1,18 +1,27 @@
 ---
 layout: post
 title: The Computer Lab README
-date: 2019-01-14
+date: 2019-01-15
 category: Notes
-tags:
-- Procedure
 lede: "Computer Lab operating procedures, development playbook, goals, and tools."
 author: Lab
 published: true
 ---
 
-This README should help you start to understand the organization, goals,
-processes, and tools of Computer Lab. It's a non-comprehensive, living
-document.
+> "The key to the UCI boathouse was always on the sill above the back door. Just
+> let yourself in - lower your single from the rafters - do your workout - wash your
+> boat and put it away - lock up when you leave - put the key on the sill above
+> the back door.
+>
+> No fuss, no muss. No dues, no hassles, no insurance, no security codes, no
+> liability issues, no nothing. Nothing. Nothingness is enlightenment.
+> Enlightenment is extremely rare."
+>
+> *Lido for Time: 14:39 - Brad Alan Lewis*
+
+
+This README should help you understand the organization, goals, processes, and
+tools of Computer Lab. It's a non-comprehensive, living document.
 
 ## What is Computer Lab?
 
@@ -27,18 +36,18 @@ There are currently two roles in the Computer Lab organization: **Partner** and
 
 A **Partner** owns a part of the Cloister Products LLC, the Limited Liability
 Company that backs Computer Lab.  A Partner can make deals on behalf of the
-company, and recruit Contractors to work on projects as necessary. Computer
+company and recruit Contractors to work on projects as necessary. Computer
 Lab's profits are distributed annually to partners based on an "Eat What You
 Kill" formula that includes the business generated and managed by each partner,
 each partner's personal billable work, and other contributions as agreed on by
 the partners. 
 
-A **Contractor** has access to the Computer Lab resources within the scope of a
+A **Contractor** has access to Computer Lab resources within the scope of a
 certain project, whether the project is client work or research. Contractors are
 independent contractors, with their own software or design practice, and are
 paid as such. Computer Lab maintains an index of good contractors, and reaches
 out to them when good projects arise. Sometimes Computer Lab will just pass
-projects on to them, if there isn't a Partner able and willing to manage the
+projects on to them, if there isn't a Partner willing and able to manage the
 project. 
 
 ## Communication
@@ -63,8 +72,8 @@ project.
 
 ### Linting 
 
-We ensure a common code style and eliminate bugs by using linters. The linters
-are set to run during development to problems can be addressed while writing
+We ensure a common code style and eliminate bugs by using linters. Linters
+are set to run during development so problems can be addressed while writing
 code.
 
 ### Testing
@@ -79,19 +88,20 @@ production environments.
 
 ### Documentation
 
-We create documentation on GitHub for important things, and expose it via GitHub
-pages if appropriate.  This documentation is key to successfully handing off
-code to clients who are in the process building their own engineering team.
+We create documentation on GitHub for important things, and expose it publically
+if appropriate. This documentation is key to successfully handing off code to
+clients who are in the process building their own engineering team, or for
+successfully maintaining our own work in the future.
 
 ## Tools
 
 ### Slack
 
 Our work Slack is located at
-[computer-lab-paid.slack.com](https://computer-lab-paid.slack.com). Slack is use
-service useful for discussing projects in detail, and setting up feeds from
-integrations. The "work" Slack requires 2FA so it is a relatively safe place for
-sharing keys and secrets.
+[computer-lab-paid.slack.com](https://computer-lab-paid.slack.com). Slack is
+used for discussing projects in detail, and setting up feeds from integrations.
+The "work" Slack requires 2FA so it is a relatively safe place for sharing keys
+and secrets.
 
 Each full-member user costs $8/month. These users can access all channels. Some
 users who are working on a specific project might just be invited to the
@@ -140,10 +150,10 @@ We also have a GCP organization named `computerlab.io`.
 
 ### Banking
 
-We have a Capital One Spark Business checking account with debit cards.  We use
-checks, online Bill Pay and the debit card to pay expenses (you can send paper
-checks for free using Bill Pay), and use the Capital One mobile app to deposit
-checks from clients.
+We have a Capital One Spark Business checking account with credit and debit
+cards.  We use Bill Pay and the credit card to pay expenses (you
+can send paper checks for free using Bill Pay), and use the Capital One mobile
+app to deposit checks from clients.
 
 ### Xero
 
@@ -162,4 +172,4 @@ for you, you should be able to sign in
 hosted on AWS with s3, cloudfront, and CI/CD using TravisCI.
 
 
-*Last Updated: January 14th, 2019*
+*Last Updated: January 15th, 2019*
