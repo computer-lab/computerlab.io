@@ -5,8 +5,9 @@ date: 2019-01-14
 category: Notes
 tags:
 - Procedure
-lede: "Computer Lab operating procedures, development playbook, and business tools."
+lede: "Computer Lab operating procedures, development playbook, goals, and tools."
 author: Lab
+published: true
 ---
 
 This README should help you start to understand the organization, goals,
@@ -15,12 +16,13 @@ document.
 
 ## What is Computer Lab?
 
-Computer Lab is a software consultancy and research group. We're very
-flexible, anti-fragile, and extremely online.
+Computer Lab is a software consultancy and research group. We're flexible,
+anti-fragile, lightweight, and extremely online. We deliver great engineering
+paired with domain expertise in healthcare, biotech, finance, and the arts.
 
 ## Organization and Roles
 
-There are currently two roles in the Computer Lab organization: **Partner**, and
+There are currently two roles in the Computer Lab organization: **Partner** and
 **Contractor**.
 
 A **Partner** owns a part of the Cloister Products LLC, the Limited Liability
@@ -57,7 +59,7 @@ project.
   so the client, point of contact, and other involved parties can discuss the
   project. 
 
-## Technical Procedures
+## Technical Best Practices
 
 ### Linting 
 
@@ -77,7 +79,9 @@ production environments.
 
 ### Documentation
 
-We create documentation on GitHub for important things (like this), and expose it via GitHub pages if appropriate.
+We create documentation on GitHub for important things, and expose it via GitHub
+pages if appropriate.  This documentation is key to successfully handing off
+code to clients who are in the process building their own engineering team.
 
 ## Tools
 
@@ -98,10 +102,10 @@ We also have a more social "free" Slack at
 
 ### Campaign Monitor
 
-Our email newsletter is managed at [Campaign Monitor](https://computerlab.createsend.com).
-We use send emails to the newsletter list to inform potential subcontractors /
-partners of projects in the pipeline. It should be a very low-noise mailing
-list.
+Our email newsletter is managed at [Campaign
+Monitor](https://computerlab.createsend.com).  We use send emails to the
+newsletter list to inform potential subcontractors / partners of projects in the
+pipeline. It is a very low-noise mailing list.
 
 ### Bonsai
 
@@ -147,6 +151,8 @@ We use Xero accounting software to maintain good records of income, expenses,
 and distribution of funds.
 
 The Xero account costs $9/month currently.
+
+Our accountant is [Scott Hunzinger](http://www.hunzingerpc.com/).
 
 ### AWS
 
