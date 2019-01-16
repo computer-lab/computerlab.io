@@ -4,7 +4,7 @@
   "private": false,
   "license": "MIT",
   "hexo": {
-    "version": "3.4.4"
+    "version": "3.7.1"
   },
   "scripts": {
     "develop": "hexo server",
