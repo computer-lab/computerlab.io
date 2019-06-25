@@ -4,7 +4,7 @@
   "private": false,
   "license": "MIT",
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.9.0"
   },
   "scripts": {
     "develop": "hexo server",
@@ -12,7 +12,7 @@
     "generate": "hexo generate"
   },
   "dependencies": {
-    "hexo": "^3.7.1",
+    "hexo": "^3.9.0",
     "hexo-generator-archive": "^0.1.2",
     "hexo-generator-category": "^0.1.2",
     "hexo-generator-recent": "^0.1.2",
