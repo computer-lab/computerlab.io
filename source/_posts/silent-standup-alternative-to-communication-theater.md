@@ -11,28 +11,29 @@ published: true
 
 ### Is the standard standup redundant for "scrumban" teams?
 
-In the degenerate standup, bleary programmers sit with their coffee, silently
-judging latecomers as they field questions from "product people" that could be
-answered with a glance at the trello board. In this pathological case, the
-standup has been reduced to an instrument of discipline. On happier teams,
-members might value the structure and time-sync aspects of the standup, but feel
-that the highly-structured nature of the meeting is redundant. (In this case,
-standup is mostly just a series of people saying "let's take this offline.")
+In the degenerate standup, bleary programmers sit with their coffee, judging
+latecomers as they field questions that could be answered with a glance at the
+trello board. In this pathological case, the standup has been reduced to an
+instrument of discipline. On happier teams, members might value the structure
+and time-sync aspects of the standup, but feel that the highly-structured nature
+of the meeting is redundant. (In this case, standup is mostly just a series of
+people saying "let's take this offline.")
 
-There might be a historical explanation for the redundancy of the ["three
-questions"](https://www.scrumguides.org/scrum-guide.html#events-daily) and the
-process flow board: the standup meeting (or "scrum") and the process flow board
-(or "kanban board") originate from two different schools of agile. The three
-questions of the scrum are designed for a team that doesn't maintain a
-up-to-date, transparent representation of most or all of the stories making up
-the current project (this idea of visibile project state is the core of kanban,
-or "see-board").
+There might be a historical explanation for the redundancy of both practicing
+the ["three
+questions"](https://www.scrumguides.org/scrum-guide.html#events-daily) and
+maintaining a process flow board: the standup meeting (or "scrum") and the
+process flow board (or "kanban board") originate from two different schools of
+agile. The three questions of the scrum are designed for a team that doesn't
+maintain a up-to-date, transparent representation of the stories making up the
+current project (this idea of visibile project state is the core of kanban, or
+"see-board").
 
 Because most present-day teams use both scrum and kanban methodology (scrumban),
 the highly structured communication of standups can feel redundant. But, often
-the standup still feels indispensible, not because of its communication value,
-but for its disciplinary and time-sync benefits. (Ironically, standup may be
-sold to members of "chill", distributed teams as a communication exercise, when
+the standup still feels indispensible, not because the communication it
+facilitiates, but because of the time discipline it instills. (Ironically, standup
+may be sold to members of distributed teams as a communication exercise, when
 it's really just a simplified version of "punching in.") 
 
 Agile is supposed to favor people and interactions over processes and tools. At
