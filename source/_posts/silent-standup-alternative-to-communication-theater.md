@@ -11,13 +11,16 @@ published: true
 
 ### Is the standard standup redundant for "scrumban" teams?
 
-In the degenerate standup, bleary programmers sit with their coffee, judging
-latecomers as they field questions that could be answered with a glance at the
-trello board. In this pathological case, the standup has been reduced to an
-instrument of discipline. On happier teams, members might value the structure
-and time-sync aspects of the standup, but feel that the highly-structured nature
-of the meeting is redundant. (In this case, standup is mostly just a series of
-people saying "let's take this offline.")
+
+In the degenerate standup, bored programmers sit with their coffee, fielding
+questions from the "product people" while silently judging latecomers.  In this
+pathological case, the standup has been reduced to an instrument of discipline:
+everyone can see project state on the Trello board, so the "three questions"
+mostly just serve as daily dose of carrot and stick. On happier teams,
+team members might value the structure and time-sync aspects of the standup,
+even if the highly-structured nature of the meeting feels redundant. (In this
+case, standup is mostly just a series of people saying "let's take this
+offline.")
 
 There might be a historical explanation for the redundancy of both practicing
 the ["three
@@ -43,6 +46,13 @@ individual and group well-being.
 
 ### The silent standup: all the syncing, none of the theater
 
+I first became interested in the Neiyang and Zhanzhuan styles of Qigong because
+of the [scientific
+literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068184)
+showing that practices can increase self-control and self-discipline. As a
+self-employed software engineer, establishing control over my own work
+scheduling is critical to both my own happiness and the happiness of people that
+I work with.
 
 ### Our Implementation
 
