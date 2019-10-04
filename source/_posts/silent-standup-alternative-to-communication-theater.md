@@ -3,7 +3,7 @@ layout: post
 title: "The Silent Standup: An Alternative to Communication Theater"
 date: 2019-12-20
 category: Notes
-lede: Why standing together quietly might be a better way to sync up than overly structured talking.
+lede: Why standing together quietly can be a better way to sync up than talking at each other mindlessly.
 author: Patrick Steadman
 image: "https://computerlab.io/images/toyota-kanban.jpg"
 published: true
@@ -16,11 +16,11 @@ In the degenerate standup, bored programmers sit with their coffee, fielding
 questions from the product people while silently judging latecomers.  In this
 pathological case, the standup has been reduced to an instrument of discipline:
 because project state is clearly visible on Trello or Jira, the ["three
-questions"](https://www.scrumguides.org/scrum-guide.html#events-daily) mostly
-serve as a daily dose of carrot and stick. In a less pathalogical case, the
+questions"](https://www.scrumguides.org/scrum-guide.html#events-daily) serve
+primarily as a daily dose of carrot and stick. For less pathological teams, the
 highly-structured communication of the standup feels redundant, but the
-time-sync aspect of the meeting is still valuable. (In this kind of standup,
-people are constantly saying "let's take this offline.")
+time-sync aspect of the meeting is still valuable. (In this kind of standup, any
+real communication must be "taken offline.")
 
 There might be a historical explanation for the redundancy of the three
 questions and the process flow board: the standup meeting (or "scrum") and the
@@ -30,8 +30,13 @@ up-to-date, transparent representation of the stories making up the project
 (this idea of visibile project state is the core of kanban, or "see-board").
 Many teams practicing a mix of both scrum and kanban (so-called "scrumban")
 probably continue doing standup not because it facilitates communication, but
-because it helps instill time discipline. This simplified form of "punching in"
-can be especially important for distributed teams.
+because it helps instill time discipline.
+
+This simplified form of "punching in" can be especially important for
+distributed teams or as a way to create power distance between employees and
+owners of firms. If the c-suite does not participate in standups, it leads to a
+dynamic where employees are constantly being held to account for their
+shortcomings, while the c-suite is off "meeting with the board/investors".
 
 Agile is supposed to favor people and interactions over processes and tools,
 so it's worth rethinking the standup to reduce communication theater in favor of
@@ -61,7 +66,7 @@ park outside the office, and spending about 20 minutes completing ten short
 exercises and two long standing poses taken from [this
 book](https://www.amazon.com/Way-Energy-Mastering-Internal-Strength/dp/0671736450).
 After Qigong is over, the communication and interaction that standup is supposed
-to faciliate tends to happen naturally among the collected practicioners, if
+to facilitate tends to happen naturally among the collected practitioners, if
 it's necessary. I personally find that the post-practice sense of calm and
 discipline helps with proactively dealing with problems before they get hairy.
 
@@ -69,9 +74,18 @@ discipline helps with proactively dealing with problems before they get hairy.
 ![Silent standup in the park](/images/silent-standup-2.jpg)
 </center>
 
-Of course, practicing something like Zhanzhuang Qigong might not be a good fit
-for many (most) teams or team members. Qigong is just one example of a positive group
-activity that could be used as a time-sync.
+Of course, practicing Qigong might not be a good fit for many (most) teams.
+Qigong is just one example of a group activity that could be used as a
+time-sync. A very different alt-standup practice observed on the streets of FiDi
+is the ["man
+clump"](https://gothamist.com/arts-entertainment/fidi-man-clump-will-get-you-amped-day-deal-making)
+used to get sales staff AMPED UP. Other teams set aside time to journal each
+morning (my personal favorite artefact of this sort of practice is Brad Alan
+Lewis's Olympic journal, ["Lido for Time
+14:39"](https://www.amazon.com/Lido-Time-14-training-Olympics/dp/1461052319). I
+think that anything that equitably promotes discipline and creates a space for
+well-being and communication (they're related!) should be considered as an
+alternative to the received standard standup.
 
 <center>
 ![Silent standup in the park](/images/silent-standup-3.jpg)
