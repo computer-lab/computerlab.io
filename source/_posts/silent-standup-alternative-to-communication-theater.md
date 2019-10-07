@@ -17,9 +17,9 @@ pathological case, the standup has been reduced to an instrument of discipline:
 because project state is clearly visible on Trello or Jira, the ["three
 questions"](https://www.scrumguides.org/scrum-guide.html#events-daily) serve
 primarily as a daily dose of carrot and stick. For less pathological teams, the
-highly-structured communication of the standup might feel redundant, but the
-time-sync aspect of the meeting is still valuable. (In this kind of standup, any
-real communication must be "taken offline.")
+highly-structured communication of the standup feels redundant, but the
+time-sync aspect of the meeting is still valuable, resulting in a zombie standup
+where any real communication is "taken offline". 
 
 ![](/images/toyota-kanban.jpg)
 
@@ -36,9 +36,10 @@ most teams.
 
 This simplified form of "punching in" can be especially important for
 distributed teams, or as a way to create power distance between employees and
-owners of firms. The standup forces employees to constantly apologize for their
-petty shortcomings (and, uh, latecomings) while the c-suite is off "meeting with
-the board/investors".
+owners of firms. It's important to note who is exempt from (or not invited to)
+standup, because not being regularly held accountable for one's time or
+(conversely) not having one's work recognized as a "story" can shape team
+dynamics.
 
 If you believe that agile is supposed to favor people and interactions over
 processes and tools, it's worth rethinking the standup to reduce
@@ -46,7 +47,7 @@ communication theater in favor of group well-being and efficacy.
 
 ### The silent standup: all the syncing, none of the theater
 
-I first became interested in the Neiyang and Zhanzhuan styles of Qigong when I
+I first became interested in the Neiyang and Zhanzhuang styles of Qigong when I
 came across [scientific
 literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068184)
 showing that the practices can increase self-control and self-discipline. For
@@ -55,8 +56,11 @@ scheduling and prioritization is obviously critical to both happiness and
 effectiveness. I also liked that Zhanzhuan Qigong is a fairly *embodied* form of
 mindfulness practice: the core exercises are designed to release tension and
 align strength in the body, rather than prescribing an ideal mental state.
-Because of these features, Zhanzhaung Qigong seems like a good fit for groups of
-modern knowledge workers suffering from sitting at a desk all day.
+"Zhanzhaung" literally means "standing like a post" (站桩), and that's basically
+what it's all about: learning to stand calmly. Because of these features, Zhanzhaung
+Qigong seems like a good fit for groups of modern knowledge workers suffering
+from sitting at a desk all day. The resonance between "standing meditation"
+and "standup meeting" is just a bonus feature.
 
 <center>
 ![Silent standup in the park](/images/silent-standup-1.jpg)
@@ -81,14 +85,13 @@ Qigong is just one example of a group activity that could be used as a
 time-sync. A very different alt-standup practice observed on the streets of FiDi
 is the ["man
 clump"](https://gothamist.com/arts-entertainment/fidi-man-clump-will-get-you-amped-day-deal-making)
-used to get sales staff AMPED UP for a day of cold calling. Other, less
-annoying teams set
-aside time to journal each morning (my personal favorite artefact of this sort
-of practice is Brad Alan Lewis's Olympic journal, ["Lido for Time
-14:39"](https://www.amazon.com/Lido-Time-14-training-Olympics/dp/1461052319)(. I
-think that anything that equitably promotes discipline and creates a space for
-well-being and communication (they're related!) should be considered as an
-alternative to the received standup format.
+used to get sales staff AMPED UP for a day of cold calling. Other, less annoying
+teams set aside time to journal each morning (my personal favorite artefact of
+this sort of practice is Brad Alan Lewis's Olympic journal, ["Lido for Time
+14:39"](https://www.amazon.com/Lido-Time-14-training-Olympics/dp/1461052319). I
+think that anything that equitably creates a space for disciplined well-being and
+communication (they're related!) should be considered as an alternative to the
+received standup format.
 
 <center>
 ![Silent standup in the park](/images/silent-standup-3.jpg)
