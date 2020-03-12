@@ -73,15 +73,10 @@ a {
 ul {
 
   li {
-    margin: 2px 0 2px;
-    line-height: 1.2;
+    margin: 6px 0 6px;
+    line-height: 1.4;
     font-size: 22px;
     font-weight: 400;
-
-    @media(min-width:768px) {
-      margin: 2px 0 2px;
-      line-height: 1.3;
-    }
   }
 }
 
