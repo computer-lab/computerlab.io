@@ -43,8 +43,18 @@ material, collaborator, or symbol.
 ### Works where pigeons are depicted
 
 - [Tristan Higginbotham: If I sees you - I will seize you - and I'll squeeze you - till you squirt](https://www.tristanhigginbotham.com/if-i-sees-you-1)
+<center>
+![If I sees you](/images/pigeon-art-higg013.jpg)
+</center>
+<center>
+![If I sees you](/images/pigeon-art-higg2.jpg)
+</center>
+
 - [Pat McCarthy: NikNak's City Cart](https://www.patmccarthy.net/niknaks-city-cart)
 - [Manuel Ferreiro Badía: Plaza de Pontevedra](https://commons.wikimedia.org/wiki/File:A_Coru%C3%B1a_-_Plaza_de_Pontevedra_2.JPG)
+<center>
+![Plaza de Pontevedra](/images/pigeon-art-plaza.jpg)
+</center>
 - [Mother Pigeon: soft sculptures](https://www.instagram.com/motherpigeonbrooklyn/?hl=en)
 - [Adele Renault: pigeon murals](https://www.adelerenault.com/) 
 
