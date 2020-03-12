@@ -61,3 +61,7 @@ material, collaborator, or symbol.
 ### Conceptual works where pigeons were involved
 
 - [Google: PigeonRank April Fool's Prank](https://archive.google.com/pigeonrank/)
+<center>
+![Google pigeon compute](/images/pigeon-art-system.jpg)
+</center>
+<br>
