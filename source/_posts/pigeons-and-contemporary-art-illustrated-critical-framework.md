@@ -11,6 +11,11 @@ published: true
 
 **Updated 2020-03-11**
 
+Note: this is a living document, the current goal is to create a representative
+list of pigeon works with good illustrations + metadata. Then, these works will
+be further catergorized based on how the artist treats the pigeon as subject,
+material, collaborator, or symbol.
+
 ### Performances or installations where live pigeons were involved
 
 - [Duke Riley: Fly By Night](http://creativetime.org/projects/flybynight/)
