@@ -36,7 +36,7 @@ material, collaborator, or symbol.
 
 - [Amalia Ulman: Privilege](http://privilege.amaliaulman.eu/index.html)
 
-### Works where pigeon feathers, eggs, etc. were used as materials
+### Works where pigeon feathers, eggs, etc. were used as material
 
 - [Amalia Ulman: The Humble Origins of Bob the Pigeon](http://www.palomapowers.com/flora-powers-shop/amalia-ulman) 
 
