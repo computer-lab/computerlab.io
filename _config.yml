@@ -4,18 +4,24 @@
 
 # Site
 title: Computer Lab
-description: "Computer Lab is a software consultancy that helps artists and arts organizations execute technically demanding projects."
+description: "Computer Lab is a software consultancy and research group in New York City."
 author: Computer Lab
 language:
 timezone:
 contact_link: https://app.hellobonsai.com/u/computer-lab/contact
 
 # Featured Note
-feature_note_title: 'Deploying Headless WordPress + React Starter on Google Cloud Platform'
-feature_note_date: 'December 20th, 2018'
-feature_note_author: 'Patrick Steadman and Mark Neuburger'
-feature_note_path: '2018/12/20/deploying-headless-wordpress-on-gcp/'
-feature_note_excerpt: "Most content editors know and like WordPress. (Or at least tolerate it.) Most developers know and like React. Postlight's headless-wp-starter promises to give you the best of the both worlds. This guide will help you set up the starter kit on Google Cloud Platform's App Engine standard environment."
+feature_note_title: 'Ten Inspiring Software Consultancies'
+feature_note_date: 'January 4th, 2017'
+feature_note_author: 'Patrick Steadman'
+feature_note_path: "2017/01/03/inspiring-consultancies/"
+feature_note_excerpt: 'One big thing I learned this year is that there’s no one right way
+to run a software consulting business. I’ve tried to become a student of the industry, 
+and in reading the blogs of successful companies, I’ve often found that the best practices
+of one consultancy are considered anti-patterns at another. For example, some companies 
+proudly call themselves Agile or Scrum teams, while others are defined by their rejection 
+of Agile practices. Some groups care a lot about accounting and finance, while other 
+companies outsource those concerns and focus on code or relationships.'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
