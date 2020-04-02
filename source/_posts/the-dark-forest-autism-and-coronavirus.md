@@ -109,12 +109,12 @@ for.
 2) That rates of autism diagnosis are an important political factor in today's
 world. In "Death's End", a character who is never explicitly described as
 autistic, Yun Tianming, struggles during adolescence and adulthood. On the verge
-of being voluntarily euthanized due to his terminal cancer, he recieves a lump
-sum of money from an old schoolfriend he once gave away a business idea to for
+of being "voluntarily euthanized" due to his terminal cancer, he recieves a lump
+sum of money from an old schoolfriend he once gave a business idea to for
 free. Instead of using the money to save his own life, he buys a star for his
-childhood sweetheart, who then saves him life, but then sticks his brain into a
+childhood sweetheart, who then saves his life, but then sticks his brain into a
 spaceship and shoots it at the Trisolarians in yet-another deranged scheme to
-save humanity. Yikes. "Death's End" seems to make a number of subtle point about
+save humanity. Yikes. "Death's End" seems to make a number of subtle points about
 the intersection of class, capital, romance, and autism. To put it bluntly,
 privileged and powerful parents are much more able to help their autistic
 children find a good place in the world, while the autistic children of the
@@ -122,6 +122,24 @@ working class and the global poor suffer irrevocable trauma. Perhaps the rates
 of autism diagnosis aren't really rising, it's more that good treatment for
 autism is expanding. Slowly, inside the well-worn grooves of privilege and power.
 
+I have not studied autism in an academic setting, and in fact, I only really
+started thinking about autism when I read these books last year and when people
+I held in extremely high respect told me that they had been diagnosed with
+autism. I was diagnosed with autism (or perhaps "aspergers") during a difficult
+first year in college. At the time I thought it was a trick to get a leave of
+absence (and perhaps it was): my idea of a person with autism was based middle
+school experiences and stereotypes of people who like math and feel no emotion.
+I barely tolerate math and tend to be overemotional, so I completely rejected
+the diagnosis and didn't think about it again for almost a decade.
+
+Autism can be seen as a close alignment with material reality, a fixation on the
+dark forest of our universe as opposed to the social fabric of humanity. But
+autism is not just an abstract lens to analyze character, it lives in the body,
+causes embodied "side effects" that impair daily life. I've referenced Liu
+Cixin's popular work in an attempt to give readers common ground as we all work
+to respond to this terrible crisis. I hope that transparent discussions about
+autism, and the role of autistic people in organizations, will lead to a safer,
+happier world for all.
 
 
 
