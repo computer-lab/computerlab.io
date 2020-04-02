@@ -89,14 +89,21 @@ This is the end of book two, a sort of "Empire Strikes Back" dark second part of
 a trilogy.
 
 Back to autism. What are the potential real world implications, especially
-during this present crisis?
+during this present, long-term crisis?
 
-1) That people on the autism spectrum may be very valuable in creating +
-executing plans in resource-constrained environments that might be socially
-unacceptable in a broad sense, such as advising the public that masks are
-unnecessary for the general population in order to ensure availability for
-doctors. It's likely that autistic people, who often have a good understanding
-of the implications of tail risks (
+1) That people on the autism spectrum may be valuable in creating and executing
+heartbreaking plans in resource-constrained situations, such as government
+organizations advising the public that masks are unnecessary for the general
+population in order to ensure availability for doctors. It's likely that
+autistic people, who often have a good understanding of the consequences of tail
+risks (ex: see [this video](https://www.youtube.com/watch?v=UxD-mU4cz20) where
+an autistic man who works with his dad cutting trees talks about his concerns
+about trees falling on houses and people), were able to predict that these
+heartbreaking situations would arise, along with many other concerned
+individuals, expressed their concerns but these concerns were either ignored or
+proper preparation was not made.
+
+
 
 
 
