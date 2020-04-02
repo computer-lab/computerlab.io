@@ -95,13 +95,36 @@ during this present, long-term crisis?
 heartbreaking plans in resource-constrained situations, such as government
 organizations advising the public that masks are unnecessary for the general
 population in order to ensure availability for doctors. It's likely that
-autistic people, who often have a good understanding of the consequences of tail
-risks (ex: see [this video](https://www.youtube.com/watch?v=UxD-mU4cz20) where
-an autistic man who works with his dad cutting trees talks about his concerns
-about trees falling on houses and people), were able to predict that these
-heartbreaking situations would arise, along with many other concerned
-individuals, expressed their concerns but these concerns were either ignored or
-proper preparation was not made.
+autistic people, along with other people have a good understanding of the
+consequences of tail risks (ex: see [this
+video](https://www.youtube.com/watch?v=UxD-mU4cz20) where an autistic man who
+works with his dad cutting trees talks about his concerns about trees falling on
+houses and people), were able to predict that these heartbreaking situations
+would probably arise, expressed their concerns but these concerns were either
+ignored or proper mitigations were not enacted. In "Death's End", the volume
+following "The Dark Forest", an autistic physicist who eventually commits
+suicide is described as an "intellectual battery" used by the company he works
+for.
+
+2) That rates of autism diagnosis are an important political factor in today's
+world. In "Death's End", a character who is never explicitly described as
+autistic, Yun Tianming, struggles during adolescence and adulthood. On the verge
+of being voluntarily euthanized due to his terminal cancer, he recieves a lump
+sum of money from an old schoolfriend he once gave away a business idea to for
+free. Instead of using the money to save his own life, he buys a star for his
+childhood sweetheart, who then saves him life, but then sticks his brain into a
+spaceship and shoots it at the Trisolarians in yet-another deranged scheme to
+save humanity. Yikes. "Death's End" seems to make a number of subtle point about
+the intersection of class, capital, romance, and autism. To put it bluntly,
+privileged and powerful parents are much more able to help their autistic
+children find a good place in the world, while the autistic children of the
+working class and the global poor suffer irrevocable trauma. Perhaps the rates
+of autism diagnosis aren't really rising, it's more that good treatment for
+autism is expanding. Slowly, inside the well-worn grooves of privilege and power.
+
+
+
+
 
 
 
