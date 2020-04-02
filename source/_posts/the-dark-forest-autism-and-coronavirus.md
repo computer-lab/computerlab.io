@@ -102,10 +102,12 @@ video](https://www.youtube.com/watch?v=UxD-mU4cz20) where an autistic man who
 works with his dad cutting trees talks about his concerns re: trees falling on
 houses and people), were able to predict that these heartbreaking situations
 would probably arise, expressed their concerns but these concerns were either
-ignored or proper mitigations were not enacted. Autistic people are may be
-valuable, but they vulnerable. In "Death's End", the volume following "The Dark
-Forest", an autistic physicist who eventually commits suicide is described as an
-"intellectual battery" used by the company he works for.
+ignored or proper mitigations were not enacted. Many autistic people are also
+good at mentally modeling complex, interdependent systems, like our economy and
+healthcare systems. Autistic people are may be valuable, but they vulnerable.
+In "Death's End", the volume following "The Dark Forest", an autistic physicist
+who eventually commits suicide is described as an "intellectual battery" used by
+the company he works for.
 
 2) That rates of autism diagnosis are an important political factor in today's
 world. In "Death's End", a character who is never explicitly described as
