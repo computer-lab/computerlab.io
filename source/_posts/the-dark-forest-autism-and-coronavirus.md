@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dark Forest, Autism, and Coronavirus
+title: The Dark Forest, Autism, and the Coronavirus Crisis
 date: 2020-04-02
 category: Notes
 lede: "How Liu Cixin's science fiction novel may be a useful model for thinking about the role of autistic people during protracted crisis response situations."
