@@ -107,7 +107,8 @@ good at mentally modeling complex, interdependent systems, like our economy and
 healthcare systems. Autistic people are may be valuable, but they vulnerable.
 In "Death's End", the volume following "The Dark Forest", an autistic physicist
 who eventually commits suicide is described as an "intellectual battery" used by
-the company he works for.
+the company he works for. Other characters suffer as they get caught up in
+political intrigue around cascading resource shortages.
 
 2) That rates of autism diagnosis are an important political factor in today's
 world. In "Death's End", a character who is never explicitly described as
