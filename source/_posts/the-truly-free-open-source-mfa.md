@@ -3,55 +3,52 @@ layout: post
 title: The Truly Free, Open Source MFA
 date: 2020-04-16
 category: Notes
-lede: "Everyone loves to talk shit about MFAs, but what's the free option for people who want a good MFA but don't want to pay for it?"
+lede: "Everyone loves to talk shit about MFAs, but what's the good free option for people who want the MFA experience but are unable or unwilling to pay for it?"
 author: Patrick Steadman
 published: true
 image: "http://computerlab.io/images/free-mfa-sales.jpg"
 ---
 
-
 ![53% of artists successfully selling work on secondary market have an MFA. Image source: artnet](/images/free-mfa-sales.jpg)
 
-__Everyone loves to talk shit about MFAs, but what's the free option for people
-who want a good MFA but don't want to pay for it?__
+__Everyone loves to talk shit about MFAs, but what's the good free option for people who want the MFA experience but are unable or unwilling to pay for it?__
 
 *Work in Progress: updated April 16th 2020*
 
-The popular consensus on MFAs seems to be that they're [overpriced and
-exclusionary](http://bfamfaphd.com/#topic-reports), but there's also a lot of
-[evidence that getting an MFA is key to "making it" as an
+The art world consensus seems to be that MFA programs are [overpriced and
+borderline predatory](http://bfamfaphd.com/#topic-reports), but there's also a
+lot of [evidence that getting an MFA is key to "making it" as an
 artist](https://news.artnet.com/art-world/mfa-degree-successful-artists-620891)
 or arts professional. 
 
-Even if you don't care about making it as an arts professional, there's plenty
-of reasons why you might want to get a good MFA: because you enjoy making art
-and want feedback, because you like learning about art and want to learn faster,
-because you want to make friends who care about art. Overall, the experience of
-getting an MFA seems pretty great except for the fact that it's [super expensive
-and
+Even if you don't care about making it as an arts professional, there are still
+plenty of reasons why you might want the MFA experience: because you enjoy
+making art and want feedback, because you like learning about art and want to
+learn faster, because you want to make friends who care about art. Overall, the
+experience of getting an MFA seems pretty great except for the fact that it's
+[super expensive and
 competitive](https://www.vulture.com/2013/12/saltz-on-the-trouble-with-the-mfa.html)
 and therefore super stressful.
 
 So, what are the good free or cheap MFA options? From what I've read, if one
 carefully put together a CV and applied for scholarships, one might be able to
-get a free or nearly free ride at Hunter College or UCLA. I'm sure there are
-other good options out there. But getting on the institutional MFA track poses
-three problems for me: 1) chicken and egg problem of needing to build a portfolio
-while being employed full time without the skills/connections needed to build a
-portfolio that an MFA is supposed to provide, 2) very good chance I wouldn't
-even get admitted, space is limited, 3) these institutions are far from where I
-live, *and are now closed indefinitely*.
+get a free or cheap ride at Hunter College or UCLA. I'm sure there are other
+good options out there. But getting on the institutional MFA track poses three
+problems for me: 1) chicken and egg problem of needing to build a quality
+portfolio while being employed full time without the skills and connections that
+an MFA is supposed to provide, 2) space is limited, so there's a good chance I
+wouldn't even get admitted, 3) these institutions are far from where I live,
+__and are now closed indefinitely__.
 
 ![43 of the top 500 artists by auction sales went to Yale, lol. Image source: artnet](/images/free-mfa-yale.jpg)
 
-Given that I can't afford to go to Yale, I think my best option is
-some sort of non-official, self-administered MFA experience. If you care more
-about mastery than a credential, a non-institutional MFA might even be
-better in the long run.
+Given all the above factors, I think my best option is some sort of
+non-official, self-administered MFA experience. If you care more about mastery
+than a credential, a non-institutional MFA might even be better in the long run.
 
 The two main problems with self-administering an MFA experience I can think of
-are: how do you teach yourself the stuff you don't know you don't know, and how
-do you meet the people you don't know you need to know? In an institutional
+are: __how do you teach yourself the stuff you don't know you don't know__, and __how
+do you meet the people you don't know you need to know?__ In an institutional
 context, these problems are solved by the academic departments and the
 admissions department, respectively. We'll have to do our best to replicate
 their functions. 
@@ -93,23 +90,24 @@ what you're reading. This is harder to do without an institution, but not
 impossible.  I think the avenues for discussion need to fit the personality of
 the MFA student. Here's the avenues I've identified for myself:
 
-- __Write at least seven blog posts / articles.__ 
+- __Publish at least seven blog posts / articles.__ 
 
   I think the caveat here is that these articles must be published in places you
-  actually read yourself, or where you'll actually get feedback. Hopefully doing
-  the type of reading outlined above will give you some ideas for what to write
-  about. These blog posts and articles replace the essays you'd be assigned to
-  write by MFA instructors.
+  actually read yourself, or where you'll actually get feedback. Editors will
+  hopefully prevent you from publishing something you'll regret later.
+  Hopefully doing the type of reading outlined above will give you some ideas
+  for what to write about. These blog posts and articles replace the essays
+  you'd be assigned to write by MFA instructors.
 
   *Will update with some good publications and blogs.*
 
 - __Shitpost at least once a week on Instagram / Twitter / Facebook / etc.__ 
 
   Before quarantine, a lot of art world discourse was happening on social media,
-  now, I'd imagine it's the primary place for discourse. It's hard to get into
+  and now I'd imagine it's the primary place for discourse. It's hard to get into
   the habit of shitposting (i.e.  posting your thoughts on things more or less
   as they arise), but the wonderful thing about social media is that if your
-  thoughts are stupid, there's a good chance someone will correct you, for free,
+  thoughts are stupid, there's a good chance someone will correct them, for free,
   very directly. Shitposting, like going to parties, takes a certain amount of
   chutzpah, but as long as you are relatively polite and respectful you might
   have some fun.
