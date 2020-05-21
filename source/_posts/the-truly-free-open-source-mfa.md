@@ -34,11 +34,12 @@ So, what are the good free or cheap MFA options? From what I've read, if one
 carefully put together a CV and applied for scholarships, one might be able to
 get a free or cheap ride at Hunter College or UCLA. I'm sure there are other
 good options out there. But getting on the institutional MFA track poses three
-problems for me: 1) chicken and egg problem of needing to build a quality
-portfolio while being employed full time without the skills and connections that
-an MFA is supposed to provide, 2) space is limited, so there's a good chance I
-wouldn't even get admitted, 3) these institutions are far from where I live,
-__and are now closed indefinitely__.
+problems for me: 1) there's a chicken and egg problem of needing to build a
+quality portfolio, while being employed full time, without the skills and
+connections needed to build a portfolio that an MFA is supposed to provide, 2)
+space is limited, so there's a good chance I wouldn't even get admitted, 3)
+these institutions are far from where I live, __and are now closed
+indefinitely__.
 
 ![43 of the top 500 artists by auction sales went to Yale, lol. Image source: artnet](/images/free-mfa-yale.jpg)
 
