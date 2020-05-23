@@ -124,6 +124,12 @@
     }
   }
 
+  i {
+    font-size: 16px;
+    display: block;
+    margin-top: $base-spacing * 1.5;
+  }
+
   svg {
     width: $base-spacing * 10;
     position: relative;
@@ -131,13 +137,14 @@
     height: $base-spacing * 8;
     margin: $base-spacing * 2 auto 0;
 
-    &#nectar-logo {
-      width: $base-spacing * 8;
-    }
-
     .cls-1 {
       fill: $brand;
     }
+  }
+
+  .tall-logo svg {
+    width: $base-spacing * 7;
+
   }
 
   a.btn {

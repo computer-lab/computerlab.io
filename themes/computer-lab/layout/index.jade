@@ -42,41 +42,40 @@ block site_body
   section#projects.content-section
     .container
       .row
-        .col-md-4.col-md-offset-1.bio.wow.fadeInLeft.isf
+        .col-md-4.col-md-offset-1.bio.wow.fadeInLeft.isf.tall-logo
           include _partial/svg/isf-logo.svg
           h4 Shader Editor and Sharing Website
           p
             span Computer Lab worked with video DJ software company VIDVOX to build 
-            a(target='_blank' href='https://editor.isf.video') a web editor and community site
+            a(target='_blank' href='https://editor.isf.video') a web editor
             |  for their open source 
             a(target='_blank' href='https://isf.video/') Interactive Shader Format (ISF)
-            |  standard. The highly-polished web editor allows anyone to start
+            |  standard. The polished editor allows anyone to start
             | writing reusable, cross-platform, high performance video effects
-            | with realtime input parameters like audio, video, or sensors. The
-            | editor's 
+            | with realtime inputs like audio, video, or sensor data. The
+            | site's 
             a(target='_blank' href='https://editor.isf.video') search and community features
             |  allow users to explore and remix a collection of over 4,000 high
             | quality shaders.
           p 
-            i React, Redux, Express, Elasticsearch, AWS Fargate, AWS CodePipeline
+            i React, Redux, Docker, Elasticsearch, AWS Fargate
         .col-md-4.col-md-offset-2.bio.wow.fadeInRight.artforum
           include _partial/svg/artforum-logo.svg
           h4 iOS and Android Apps
           p 
-            | Lab helped 
+            | We helped 
             a(target='_blank' href='https://artforum.com') Artforum
-            |  develop mobile app
+            |  develop mobile
             | experiences for their invaluable artguide service, a directory of exhibitions
             | at thousands of galleries and museums worldwide. We tackled
-            | the constraints of mobile to ensure that the artguide app is a
+            | platform constraints to ensure that the artguide app is a
             | polished and essential tool consistent with the Artforum brand.
             | Download the artguide app on 
             a(target='_blank' href='https://itunes.apple.com/us/app/artguide/id508043725?mt=8') iOS
             |  or 
             a(target='_blank' href='https://play.google.com/store/apps/details?id=com.artforuma') Android
             | .
-          p 
-            i React Native, React Native v20-v60 upgrades, React Native Maps, Symfony
+          i React Native, React Native v20-v60 upgrades, Symfony
       .row
         .col-md-4.col-md-offset-1.bio.wow.fadeInRight.giphy
           include _partial/svg/giphy-logo
@@ -90,8 +89,7 @@ block site_body
             | of the format's 30-year history. The site, built quickly with Three.js, looked great projected on the wall at Giphy's 
             a(target='_blank' href='https://twitter.com/i/moments/875411092650020869') #HappyBirthdayGif
             |  party, and still works great on mobile devices.
-          p 
-            i JavaScript, Three.JS, Amazon S3, LetsEncrypt, VueJS
+          i JavaScript, Three.JS, Amazon S3, LetsEncrypt, VueJS
         .col-md-4.col-md-offset-2.bio.wow.fadeInLeft.screen
           include _partial/svg/successkit-logo.svg
           h4 MVP
@@ -100,9 +98,10 @@ block site_body
             | A Computer Lab team transformed wireframes for the case study management tool 
             a(target='_blank' href='https://successkit.io') SuccessKit
             |  into a polished, extensible MVP in just a few months. 
-            | Computer Lab established a sound engineering culture and was able 
+            | Computer Lab established a sound codebase and engineering culture and was able 
             | sucessfully hand off the project to 
             | the SuccessKit team.
+          i Django, Django Rest Framework, React, Ansible
       .row
         .col-md-4.col-md-offset-1.bio.wow.fadeInRight.verdes
           include _partial/svg/verdes-logo
@@ -113,10 +112,13 @@ block site_body
             | , a creative agency in NYC. The 
             a(target='_blank' href="http://pinpoints.io") PinPoints
             |  build convinced us that React’s declarative components are a great fit for developing 3D user interfaces in the browser.
+          i React, ThreeJS, React-Three-Renderer, Webpack
         .col-md-4.col-md-offset-2.bio.wow.fadeInLeft.screen
           include _partial/svg/screen-logo
           h4 CMS and DevOps
-          p Screen is a curatorial collective based in New York, Beijing and Berlin. We worked closely with staff to improve the performance and user experience of their bilingual media platform. We reduced site loading speed, simplified content management and delivered an engaging experience to a global audience.
+          p Screen is a curatorial collective based in New York, Beijing and
+            | Berlin. We improved the performance and overall user experience of their bilingual media platform. We reduced site loading speed, simplified content management and delivered an engaging experience to a global audience.
+          i MongoDB Atlas, KeystoneJS, React, ExpressJS
       .row
         .col-md-4.col-md-offset-1.bio.wow.fadeInLeft.iheart
           include _partial/svg/iheart-logo
@@ -130,21 +132,29 @@ block site_body
             a(target='_blank' href='http://www.forbes.com/sites/hughmcintyre/2016/12/01/iheartradio-launches-new-on-demand-streaming-apps-to-compete-with-spotify/#134dceb91a90') launch
             |  their paid subscription service before Pandora. We worked alongside 
             a(target='_blank' href='https://tech.iheart.com/') iHeart's web team
-            |  to scale the existing React application to millions of users.
-        .col-md-4.col-md-offset-2.bio.wow.fadeInRight.mm
+            |  to scale the existing React application to millions of users 
+            | and rapidly developed high-quality new audio library, web radio, and payment
+            | features under a hard deadline.
+
+          i React, Backbone, Jenkins, Docker, JWPlayer
+        .col-md-4.col-md-offset-2.bio.wow.fadeInRight.mm.tall-logo
           include _partial/svg/mm-logo.svg
           h4 WordPress Site and Archive
           p 
-            | Computer Lab worked with 
-            a(target='_blank' href='https://artforum.com') Artforum
-            |  to develop a native app
-            | experience for their artguide feature. We tackled platform 
-            | constraints to ensure that the app was a polished and essential 
-            | tool matching the Artforum brand. Download the artguide app on 
-            a(target='_blank' href='https://itunes.apple.com/us/app/artguide/id508043725?mt=8') iOS
-            |  or 
-            a(target='_blank' href='https://play.google.com/store/apps/details?id=com.artforuma') Android
-            | .
+            | We began our work with avant-garde singer and filmmaker 
+            a(href='https://en.wikipedia.org/wiki/Meredith_Monk' target='_blank') Meredith Monk
+            |  by developing an understanding of the House Foundation's needs
+            | for their 
+            a(href='https://meredithmonk.org' target='_blank') new web presence
+            | : easily-editable calendars for workshops and performances
+            | and pages detailing the organization's history and repertory. We ended up deploying a 
+            a(href='/2018/12/20/deploying-headless-wordpress-on-gcp') headless WordPress CMS
+            |  and went on to lay groundwork for a long-term archival project 
+            | using the open source 
+            a(target='_blank' href='https://collectiveaccess.org') Collective Access
+            |  software.
+          p 
+            i WordPress, NextJS, Docker, Google Cloud, PHP
   section#domains.content-section
     .container
       .row
