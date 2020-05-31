@@ -9,6 +9,8 @@ image: ""
 published: true
 ---
 
+<center>![Healthy pigeon toes](/images/stringfoot-nice-toes.jpg)</center>
+
 
 ### You've probably seen pigeons with mangled, entangled, or missing toes. Here's how you can help these 'stringfoot' birds.
 
@@ -39,6 +41,8 @@ to quickly release the bird where you found him, because he might have a bonded
 mate or nestling waiting for him. Thankfully, most pigeons can be quickly
 dethreaded using a few simple tools, or even your bare hands. Here’s the items
 in my “destringing kit”:
+
+<center>![Cutting and Tweezing tools](/images/stringfoot-tools.jpg)</center>
 
 - _Cutting and Tweezing Tools_: I bought this [cheap dissection
   kit](https://www.amazon.com/gp/product/B01M7VYU82) I found on Amazon because
@@ -109,8 +113,7 @@ as far away from you as possible.
 *Hint*: If you see a stringfoot bird near your home or workplace, you don’t need
 to catch and treat it immediately. Pigeons are homebodies, and will typically
 forage in a small area near their roost. You can build a relationship with the
-bird over time and catch it more easily.  #### Video works where pigeons were
-camera operators
+bird over time and catch it more easily.  
 
 
 ### Step Three: Set Up the Catch
@@ -142,7 +145,6 @@ above:
 
 
 {% youtube MjQeyDLjJ4o %}
-https://www.youtube.com/watch?v=MjQeyDLjJ4o&t
 
 I’m sure there are other ways to catch pigeons, but I’ve found this method works
 well for NYC parks, where one doesn’t want to be too disruptive and pigeons tend
@@ -206,3 +208,9 @@ https://www.facebook.com/groups/167760393812237
 
 How to catch stringfoot pigeon video:
 https://www.youtube.com/watch?v=xgwO4EVKVxM&feature=youtu.be
+
+Pigeon stringfoot removal NYC, with more info on treating birds with other
+problems
+https://www.youtube.com/watch?v=JEfHdjw4N9g
+
+{% youtube JEfHdjw4N9g %}
