@@ -4,13 +4,14 @@ title: "How to Help a Stringfoot Pigeon"
 date: 2020-05-22
 category: Notes
 lede: "You've likely noticed pigeons with mangled, entangled, or missing toes. Here's how you can help these 'stringfoot' birds."
-author: Patrick Steadman
-image: ""
+author: Patrick Steadman and Anya Katz
+image: "https://computerlab.io/images/stringfoot-nice-toes.jpg"
 published: true
 ---
 
-<center>![Healthy pigeon toes](/images/stringfoot-nice-toes.jpg)</center>
+![Healthy pigeon toes](/images/stringfoot-nice-toes.jpg)
 
+*Illustrations by [Anya Katz](#).*
 
 ### You've probably seen pigeons with mangled, entangled, or missing toes. Here's how you can help these 'stringfoot' birds.
 
@@ -42,7 +43,7 @@ mate or nestling waiting for him. Thankfully, most pigeons can be quickly
 dethreaded using a few simple tools, or even your bare hands. Here’s the items
 in my “destringing kit”:
 
-<center>![Cutting and Tweezing tools](/images/stringfoot-tools.jpg)</center>
+![Cutting and Tweezing tools](/images/stringfoot-tools.jpg)
 
 - _Cutting and Tweezing Tools_: I bought this [cheap dissection
   kit](https://www.amazon.com/gp/product/B01M7VYU82) I found on Amazon because
@@ -59,9 +60,11 @@ in my “destringing kit”:
   prescription from [online pigeon supply
   stores](https://www.foyspigeonsupplies.com/medications)!  
 
+![Towel for making pigeon burrito](/images/stringfoot-towel.jpg)
+
 - _Towel and Paper Towels_: The towel is important both to keep your clothes
   clean and to keep the bird calm.  Usually pigeons will hold their poop while
-  you’re holding them, but it’s better safe than sorry.  
+  you’re holding them, but better safe than sorry.  
 
 - _Duffle Bag, Box, or Backpack_: If you find a bird with a really mangled foot
   or other health problems, or if you find a bird when you don’t have your
@@ -80,6 +83,8 @@ in my “destringing kit”:
   well. I once was able to [sweet talk a young bird into my
   hand](https://www.instagram.com/p/BkQQktjFOqw) without using
   food, but this will probably only work with a desperate, trusting pigeon.  
+
+![Purell for disinfecting hands immediate after releasing pigeon.](/images/stringfoot-purell.jpg)
 
 - _Hand Sanitizer_: You’re unlikely to get
   sick from handling a pigeon, but it’s obviously a good idea to wash your hands
@@ -143,7 +148,6 @@ wait for the flock to return, and repeat the process.
 This video I filmed with a GoPro headcam illustrates the strategy I’ve described
 above:
 
-
 {% youtube MjQeyDLjJ4o %}
 
 I’m sure there are other ways to catch pigeons, but I’ve found this method works
@@ -151,6 +155,8 @@ well for NYC parks, where one doesn’t want to be too disruptive and pigeons te
 to be fairly trusting.
 
 ### Step Four: Dethreading
+
+![How to hold a pigeon.](/images/stringfoot-holding.jpg)
 
 As soon as you’ve successfully grabbed a pigeon, your first step is to secure
 the bird and calm them down. If a pigeon is [held
@@ -167,6 +173,9 @@ throw out the string when you’ve removed it so that it doesn’t entangle anot
 bird.
 
 ![An relatively easy case.](/images/how-to-help-white-pigeon.jpg)
+
+> A relatively straightforward case of stringfoot where string has not yet cut
+> into the foot.
 
 But if the string has cut into the pigeon’s foot, the dethreading process can be
 quite difficult, and take over a half hour in the most difficult cases. In
@@ -196,21 +205,29 @@ into the foot. Also, I recommend avoiding attempting to "treat" birds where a
 toe looks like it's about to fall off, skin has completely grown over a loop of
 string, or where the pigeon seems to have fully adapted to their stringfoot,
 unless you're ready to take the bird home with you and seek professional help.
-Case studies describing some of difficult cases are available at the New York Pigeon rescue
+Case studies describing some difficult cases are available at the New York Pigeon rescue
 club's string removal page below.
 
-### Further Reading / Resources
+![Pigeon missing their entire foot](/images/stringfoot-missing-toes.jpg)
 
+> Pigeons can survive tangles that cut off circulation from all toes and
+> eventually result in all toes falling off. However, missing or injured toes
+> cause serious problems for pigeons, especially in the winter when pigeons
+> benefit from switching feet to keep toes warm.
+
+### Further Reading, Resources, and Communities
+
+New York Pigeon Rescue Central "Foot Squad" information page:
 http://nycprc.org/StringRemoval.html
 
-Stringfoot pigeon nyc group:
+Stringfoot Pigeon NYC Facebook Group:
 https://www.facebook.com/groups/167760393812237
 
-How to catch stringfoot pigeon video:
-https://www.youtube.com/watch?v=xgwO4EVKVxM&feature=youtu.be
+How to catch pigeon from standing position:
 
-Pigeon stringfoot removal NYC, with more info on treating birds with other
-problems
-https://www.youtube.com/watch?v=JEfHdjw4N9g
+{% youtube xgwO4EVKVxM %}
+
+Pigeon foot string removal in NYC, with more info on treating pigeons with other
+problems:
 
 {% youtube JEfHdjw4N9g %}
