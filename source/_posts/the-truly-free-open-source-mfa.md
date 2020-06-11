@@ -13,7 +13,7 @@ image: "http://computerlab.io/images/free-mfa-sales.jpg"
 
 __Everyone loves to talk shit about MFAs, but what's the good free option for people who want the MFA experience but are unable or unwilling to pay for it?__
 
-*Work in Progress: updated April 16th 2020*
+*Work in Progress: updated June 11th 2020*
 
 The art world consensus seems to be that MFA programs are [overpriced and
 borderline predatory](http://bfamfaphd.com/#topic-reports), but there's also a
@@ -81,8 +81,14 @@ My current idea of the number of readings required to achieve MFA-like mastery:
 
 - __Five books (or books totaling ~1,500) of "free reading"__
 
-*Note: Will update later with sources for syllabi and texts, unfortunately most
-universities don't make syllabi public, though there are some exceptions.*
+*Note: Will continually update with the syllabi I'm using, unfortunately most
+universities don't make syllabi public, though there are some exceptions, like
+the Pratt Infosci department which makes [all syllabi available on
+Dropbox](https://www.pratt.edu/academics/information/current-students/syllabus-archive/).*
+
+1) [Whitney ISP 2014](https://library.computerlab.io/shelf/3), 13 texts, read 2020-04-05 to 2020-06-11
+
+2) [Pratt INFO 665: Projects in Digital Archives](https://library.computerlab.io/shelf/6)
 
 ### II) Discussion
 
