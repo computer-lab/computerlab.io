@@ -226,14 +226,11 @@ lot from resources like the case studies available at the New York Pigeon rescue
 club's string removal page below, or posts in the Palomacy Pigeon Rescue
 Facebook group. Good luck!
 
-New York Pigeon Rescue Central "Foot Squad" information page:
-http://nycprc.org/StringRemoval.html
+- [New York Pigeon Rescue Central "Foot Squad" information page](http://nycprc.org/StringRemoval.html)
 
-Stringfoot Pigeon NYC Facebook Group:
-https://www.facebook.com/groups/167760393812237
+- [Stringfoot Pigeon NYC Facebook Group](https://www.facebook.com/groups/167760393812237)
 
-Palomacy Help Group for Pigeon & Dove Rescue & Adoption:
-https://facebook.com/groups/Palomacy/
+- [Palomacy Help Group for Pigeon & Dove Rescue & Adoption](https://facebook.com/groups/Palomacy/)
 
 Pigeon foot string removal in NYC, with more info on treating pigeons with other
 problems:
