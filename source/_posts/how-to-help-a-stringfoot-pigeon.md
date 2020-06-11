@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How to Help a Stringfoot Pigeon"
-date: 2020-05-22
+date: 2020-06-11
 category: Notes
-lede: "You've likely noticed pigeons with mangled, entangled, or missing toes. Here's how you can help give these 'stringfoot' birds a pedicure."
+lede: "You've probably seen pigeons with mangled, entangled, or missing toes. Here's how you can give these 'stringfoot' birds a life-saving pedicure."
 author: Patrick Steadman and Anya Katz
 image: "https://computerlab.io/images/stringfoot-nice-toes.jpg"
 published: true
@@ -13,47 +13,45 @@ published: true
 
 *Illustrations by [Anya Katz](https://www.instagram.com/isolation__cabin/).*
 
-### You've probably seen pigeons with mangled, entangled, or missing toes. Here's how you can help give these 'stringfoot' birds a pedicure.
+### You've probably seen pigeons with mangled, entangled, or missing toes. Here's how you can give these 'stringfoot' birds a life-saving pedicure.
 
-If you pay attention to city pigeons, you'll likely notice that many of them are
-missing toes or even entire feet. You might also notice birds limping around
-with swollen toes, or feet contorted into little fists. In most cases, closer
-inspection will reveal that the swelling is caused by a tight knot of string,
-hair, ribbon, thread, or other debris. Once a pigeon's foot gets tangled in
-string, there's not much the bird can do: pigeon beaks aren't sharp enough to
-cut through the synthetic fibers city birds end up collecting for nest material.
+If you pay attention to city pigeons, you'll likely notice that many are missing
+toes or even entire feet. You might also notice birds limping around on swollen
+feet contorted into little fists. In most cases, closer inspection will reveal
+that the swelling is caused by a tight knot of string, hair, ribbon, thread, or
+other debris. If a pigeon's foot gets tangled in the course of nest building or
+foraging, there's not much the bird can do.
 
-These "stringfoot" birds suffer badly. Thread knotted around toes get tighter
-and tighter until circulation is cut off and flesh rots away. Hair slices through
-muscle and bone. The most unlucky stringfoot pigeons end up with their feet tied
-together, vulnerable to predators and pervert flockmates.
+These "stringfoot" birds often suffer badly. The tangle gets tighter and tighter until
+circulation is cut off and flesh rots away. Hair slices through muscle and bone.
+The most unlucky stringfoot pigeons end up with their feet tied together,
+vulnerable to predators and pervert flockmates.
 
-Giving a stringfoot pigeon a pedicure isn't difficult, and can be extremely rewarding. If
-you like watching blackhead removal videos, you might enjoy releasing the
-pressure on a swollen pus-filled toe. Or you might enjoy the challenge of
-earning the trust of your potential patient, and then catching them with your
-bare hands.
+Giving a stringfoot pigeon a pedicure isn't difficult, and can be quite
+rewarding. If you like watching stuff like blackhead removal videos, you might
+find it cathartic to release the pressure on a swollen toe. Or you might enjoy the
+challenge of earning the trust of your potential patient, and then catching them
+with your bare hands.
 
 ### Step One: Assemble a Destringing Kit 
 
-Ideally, when you find a stringfoot pigeon, you will catch him, remove the
-tangle, treat any wounds, and release the bird back to his flock. It’s important
-to quickly release the bird where you found him, because he might have a bonded
-mate or nestling waiting for him. Thankfully, most pigeons can be quickly
-dethreaded using a few simple tools, or even your bare hands. Here’s the items
-in my "destringing kit":
+Ideally, when you notice a stringfoot pigeon, you will catch him, remove the
+tangle, treat any wounds, and directly release the bird back to his flock. It’s
+important to quickly release the bird where you found him, because he might have
+a bonded mate or nestling waiting. Thankfully, most pigeons can be
+quickly dethreaded using a few simple tools, or even your bare hands. Here’s the
+items in my "destringing kit":
 
 ![Cutting and Tweezing tools](/images/stringfoot-tools.jpg)
 
-- _Cutting and Tweezing Tools_: I bought this [cheap dissection
-  kit](https://www.amazon.com/gp/product/B01M7VYU82) I found on Amazon because
-  it contains a lot of good tools for dethreading, including small, sharp
-  scissors with flat tips (so you don’t accidentally stab the pigeon) and a pair
-  of rat’s tooth tweezers (you can use the “tooth” to snag thread that has cut
-  into the pigeon's skin).  
+- __Cutting and Tweezing Tools__: I bought this [cheap dissection
+  kit](https://www.amazon.com/gp/product/B01M7VYU82) because it contains a lot
+  of good tools for dethreading, including small, sharp scissors with flat tips
+  (so you don’t accidentally stab the pigeon) and a pair of rat’s tooth tweezers
+  (you can use the "tooth" to snag thread that has cut into the pigeon's skin).  
 
-- _Disinfectant_: If the string has cut into the pigeon’s foot, you’ll want to
-  disinfect the wound before you let her go. As far as I know, any generic
+- __Disinfectant__: If the string has cut into a pigeon’s foot, you’ll want to
+  disinfect the wound before you let the bird go. As far as I know, any generic
   antibiotic works for this (I use a Neosporin spray), but you could also use an
   antibiotic painkiller formulated for birds, like Butorphano. Interestingly,
   veterinary quantities of drugs that would normally require a
@@ -62,23 +60,23 @@ in my "destringing kit":
 
 ![Towel for making pigeon burrito](/images/stringfoot-towel.jpg)
 
-- _Towel and Paper Towels_: The towel is important both to keep your clothes
-  clean and to keep the bird calm. Usually pigeons will hold their poop while
-  you’re holding them, but better safe than sorry.  
+- __Towel and Paper Towels__: The towel helps keep your clothes clean and keep
+  your patient calm. Usually pigeons will hold their poop while you’re holding
+  them, but better safe than sorry.  
 
-- _Duffle Bag, Box, or Backpack_: If you find a bird with a really mangled foot
+- __Duffle Bag, Box, or Backpack__: If you find a bird with open wounds
   or other health problems, or if you find a bird when you don’t have your
   destringing kit on you, you’ll need to bring the bird home for treatment. A
-  small ventilated box or create is obviously best for this, but I’ve found that
+  small ventilated box or create is obviously best for this, but I've found that
   a duffle bag or backpack with some cardboard at the bottom works fine so long
   as you hold it carefully. Once inside a dark bag or box, a pigeon will usually
   stand still and quiet. In case you find a bird when you’re totally unprepared,
   you can improvise: I once took my sock off and used it to hold the pigeon. Or
   you can just carry the bird in your hands.  
 
-- _Pigeon Feed_: To attract and distract your mark, you’ll normally need some
-  food. A birdseed mix for pigeons is best--like [Hagen Pigeon and Dove
-  Mix](https://www.amazon.com/Hagen-Pigeon-Staple-Seeds-Pounds/dp/B0002ARVN2)--but
+- __Pigeon Feed__: To attract and distract your mark, you’ll normally need some
+  food. A birdseed mix for pigeons is best (like [Hagen Pigeon and Dove
+  Mix](https://www.amazon.com/Hagen-Pigeon-Staple-Seeds-Pounds/dp/B0002ARVN2)) but
   pigeons have robust digestive systems so you can improvise here as
   well. I once was able to [sweet talk a young bird into my
   hand](https://www.instagram.com/p/BkQQktjFOqw) without using
@@ -86,11 +84,11 @@ in my "destringing kit":
 
 ![Purell for disinfecting hands immediate after releasing pigeon.](/images/stringfoot-purell.jpg)
 
-- _Hand Sanitizer_: You’re unlikely to get
+- __Hand Sanitizer__: You’re unlikely to get
   sick from handling a pigeon, but it’s obviously a good idea to wash your hands
   after handling any wild animal.  
   
-- _Pesticide (Optional)_: If you really want to
+- __Pesticide (Optional)__: If you really want to
   make your friend’s day, you can apply a pesticide powder to the bird after
   you've resolved their foot problem. This will eradicate any unwanted
   freeloaders.
@@ -107,25 +105,24 @@ in my "destringing kit":
 
 Scattering some food will attract the birds to you so you can inspect their
 feet, and will also build trust. Often there will be multiple birds in the flock
-with foot problems--identify which are the most in need, and what their
+with foot problems: identify which are the most in need, and what their
 personalities are like. Some birds are trusting, and will eagerly eat from your
-hand and allow you to handle them. (Most pigeons aren’t truly wild, they’re
-“feral” descendants of domestic animals, kind of like stray cats.) Other birds
+hand and allow you to handle them. (Most pigeons aren't truly wild, they’re the
+“feral” descendants of domestic animals, kind of like stray cats). Other birds
 might be more wary. Some birds with bad stringfoot will pitifully drag
-themselves close to you using their wings, while others will stay at the
-edge of the flock, as far away from you as possible.
+themselves close to you using their wings, while others will stay at the edge of
+the flock, as far away from you as possible.
 
 If you see a stringfoot bird near your home or workplace, you don’t need
 to catch and treat it immediately. Pigeons are homebodies, and will typically
 forage in a small area near their roost. You can build a relationship with the
 bird over time and catch it more easily.  
 
-
 ### Step Three: Set Up the Catch
 
 The best time to catch a pigeon is early in the morning, when the flock is
 hungry. By the time evening rolls around, most pigeons have filled their crops
-and won't risk getting within arm’s reach to eat seeds you've set out.  This
+and won't risk getting within arm’s reach to eat seeds you've set out. This
 is especially true in summer. 
 
 But in the morning or during the depths of winter, hungry pigeons will climb
@@ -143,17 +140,18 @@ excitedly crowd each other and forget the human hands hovering above.
 It also takes a fair amount of confidence to grab a wild animal. My first
 attempts were often too slow or indecisive: while it helps to slowly move your
 hands into position, you must fully commit to a grab. Pigeons are relatively
-hardy, and so long as you don’t squeeze hard or slam them into the ground,
-you’re unlikely to injure a bird. If you miss, simply spread some more seed,
-wait for the flock to return, and repeat the process.
+hardy, and are more likely to be injured by a loose, sloppy grab than a firm
+grab with both hands or a one hand grab that pins their body to the ground. If
+you miss, simply spread some more seed, wait for the flock to return, and repeat
+the process.
 
 This GoPro headcam video illustrates the strategy described above:
 
 {% youtube MjQeyDLjJ4o %}
 
-I’m sure there are other ways to catch pigeons, but I've found this method works
-well for NYC parks, where one doesn't want to be too disruptive and pigeons tend
-to be fairly trusting.
+There are other good ways to catch pigeons (see the resources section below), but
+I've found this method works well for NYC parks, where one doesn't want to be
+too disruptive and pigeons tend to be fairly trusting.
 
 ### Step Four: Dethreading
 
@@ -210,6 +208,7 @@ seek professional help, I recommend avoiding attempting to "treat" birds where a
 toe looks like it's about to fall off, where skin has completely grown over a
 loop of string, or where the pigeon seems to have fully adapted to their
 stringfoot.  
+
 ![Pigeon missing their entire foot](/images/stringfoot-missing-toes.jpg)
 
 > Pigeons can survive tangles that cut off circulation from all toes and
@@ -221,11 +220,11 @@ stringfoot.
 ### Further Reading, Resources, and Communities
 
 There are a number of online communities dedicated to helping out stringfoot
-pigeons, and more general groups where pigeon care experts can help you out in
-case you encounter a pigeon with other health problems. You can learn a lot from
-resources like the case studies available at the New York Pigeon rescue club's
-string removal page below, or posts in the Palomacy Pigeon Rescue Facebook
-group. Good luck!
+pigeons, and other more general pigeon care groups where experts can help you
+out in case you encounter a pigeon with other health problems. You can learn a
+lot from resources like the case studies available at the New York Pigeon rescue
+club's string removal page below, or posts in the Palomacy Pigeon Rescue
+Facebook group. Good luck!
 
 New York Pigeon Rescue Central "Foot Squad" information page:
 http://nycprc.org/StringRemoval.html
