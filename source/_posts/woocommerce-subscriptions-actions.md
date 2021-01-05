@@ -3,7 +3,7 @@ layout: post
 title: "WooCommerce Order and Subscription Creation Actions"
 date: 2021-01-04
 category: Notes
-lede: "Actions not firing on creation of subscriptions? Try these hooks and actions."
+lede: "Actions not firing upon subscription creation? Try these actions and filters."
 author: Patrick Steadman
 published: true
 ---
