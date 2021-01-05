@@ -12,6 +12,11 @@ published: true
 
 ### This guide will help you understand the important role of pigeons in contemporary art.
 
+**Updated 2021-01-01**
+
+This project has been moved to a collaborative [Are.na
+Channel](https://www.are.na/computer-lab/pigeons-in-contemporary-art-sjggywarysu).
+
 **Updated 2020-03-11**
 
 (This is a living document, the current goal is to create a representative
