@@ -33,3 +33,4 @@ $(window).on('scroll', function () {
       $(this).css({ 'opacity': (1.2 - st / 100) });
     });
 });
+

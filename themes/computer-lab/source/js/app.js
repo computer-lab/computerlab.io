@@ -12,3 +12,4 @@ requirejs.config({
 requirejs(['app/main']);
 requirejs(['app/animations']);
 requirejs(['app/nav']);
+requirejs(['app/heater']);
