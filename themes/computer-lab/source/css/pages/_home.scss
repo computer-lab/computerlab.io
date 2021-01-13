@@ -1,12 +1,12 @@
 #home {
   margin-top: - $menu-height; // center in viewport, regardless of menu height
   height: 115vh;
-  background: -moz-linear-gradient(270deg, rgba(101,45,237,1) 12%, rgba(250, 250, 250,1) 100%); /* ff3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(12%, rgba(101,45,237,1)), color-stop(100%, rgba(250, 250, 250,1))); /* safari4+,chrome */
-  background: -webkit-linear-gradient(270deg, rgba(101,45,237,1) 12%, rgba(250, 250, 250,1) 100%); /* safari5.1+,chrome10+ */
-  background: -o-linear-gradient(270deg, rgba(101,45,237,1) 12%, rgba(250, 250, 250,1) 100%); /* opera 11.10+ */
-  background: -ms-linear-gradient(270deg, rgba(101,45,237,1) 12%, rgba(250, 250, 250,1) 100%); /* ie10+ */
-  background: linear-gradient(180deg, rgba(101,45,237,1) 12%, rgba(250, 250, 250,1) 100%); /* w3c */
+  background: -moz-linear-gradient(270deg, $brand 12%, rgba(250, 250, 250,1) 100%); /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(12%, $brand), color-stop(100%, rgba(250, 250, 250,1))); /* safari4+,chrome */
+  background: -webkit-linear-gradient(270deg, $brand 12%, rgba(250, 250, 250,1) 100%); /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(270deg, $brand 12%, rgba(250, 250, 250,1) 100%); /* opera 11.10+ */
+  background: -ms-linear-gradient(270deg, $brand 12%, rgba(250, 250, 250,1) 100%); /* ie10+ */
+  background: linear-gradient(180deg, $brand 12%, rgba(250, 250, 250,1) 100%); /* w3c */
 
   .hero {
     height: 250px;
