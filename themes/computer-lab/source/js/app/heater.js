@@ -67,9 +67,6 @@ animate();
 //   // scene.add( cube );
 
 //   // camera.position.z = 5;
-
-
-//   // const animate = function () {
 //   //   requestAnimationFrame( animate );
 
 //   //   cube.rotation.x += 0.01;
