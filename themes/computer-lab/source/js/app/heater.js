@@ -11,36 +11,39 @@ const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.inner
 const canvas = document.getElementById('heater');
 const renderer = new THREE.WebGLRenderer({ canvas });
 renderer.setSize( window.innerWidth, window.innerHeight );
-const geometry = new THREE.BoxGeometry();
-const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
-const cube = new THREE.Mesh( geometry, material );
-console.log('foo');
-camera.position.z = 5;
+camera.position.z = 1.5;
+camera.position.y = 0.5;
+camera.position.x = 0.3;
 const controls = new OrbitControls(camera, renderer.domElement);
 
 const gltfLoader = new GLTFLoader();
 const light = new THREE.PointLight( 0xffffff, 10, 100 );
 light.position.set( 5, 5, 5 );
-scene.add( light );
+scene.add(light);
+const glow = new THREE.PointLight( 0xff6600, 2, 100 );
+glow.position.set( 0, 0.2, 0 );
+scene.add(glow);
 
 gltfLoader.load(
   '/heater.gltf',
   function (gltf) {
     scene.add(gltf.scene)
   },
-	// called while loading is progressing
-	function ( xhr ) {
+  // called while loading is progressing
+  function ( xhr ) {
+    console.log(( xhr.loaded / xhr.total * 100 ) + '% loaded');
+  },
+  // called when loading has errors
+  function ( error ) {
+    console.log(error);
 
-		console.log( ( xhr.loaded / xhr.total * 100 ) + '% loaded' );
-
-	},
-	// called when loading has errors
-	function ( error ) {
-
-		console.log( 'An error happened' );
-
-	}
+  }
 );
+
+controls.enableZoom = false;
+controls.enablePan = false;
+controls.minAzimuthAngle = 1;
+controls.maxPolarAngle = Math.PI / 2;
 
 
 const animate = function () {

@@ -13,8 +13,7 @@
     position: absolute;
     z-index: 2;
     margin: auto;
-    top: 0;
-    bottom: 0;
+    bottom: 50px;
     left: 0;
     right: 0;
   }
@@ -43,10 +42,10 @@
 
   h1 {
     color: $white;
-    font-size: 42px;
+    font-size: 32px;
 
     @media (max-width: $tablet) {
-      font-size: 36px;
+      font-size: 24px;
       letter-spacing: 1.33px;
     }
   }
