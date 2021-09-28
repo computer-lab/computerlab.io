@@ -47,9 +47,25 @@ versus about
 [$67b](https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html#artmarketreport2019)
 on fine art in 2019. Arts data is a marginal use case for data software, and in many ways arts
 *data* is peripheral to art and the art world. So why look into arts data, rather than simply going
-to a museum, or spending your time building scalable time-series databases optimized for wind farm
-installations?
+to a museum, or spending your time building scalable time-series databases for wind farms or
+something?
 
+I think that fine arts data has a good balance of being pretty *interesting* and *relatable* while
+being relatively *non-toxic* and also arguably *commercially relevant* while not prohibitively
+*proprietary*. One might call it *charismatic data*. Examples of *uncharismatic data* include data
+like electronic health records (very toxic: if you leak it, you have to report it in the paper),
+high frequency financial data (expensive), large hadron collider data (unrelatable), and online
+advertising data (boring). 
 
-If this landscape dissuades one burnt out tech emigree from thinking that the art world is
-desperately in need of a data savior, my work will not be in vain. 
+I read somewhere that one of the reasons people like studying art is that it's basically illustrated
+history, or like history as told by quirked-up aesthetes as opposed to history as told by economists
+and military experts. The history of surplus. And contemporary art is also a sort of map of surplus,
+a "topology of particular places" as Boris Groys. 
+
+I think for all the reasons above, the art data landscape is pretty crowded with projects started by
+entrepreneurs who wanted a nice lifestyle business, or academics looking for a suitable data set to
+try out their new ML system. I think there might also be a bit a of a "tech savior" dynamic going
+on, where someone from tech, academia, or finance feels like they can bring the light of data-driven
+decision making to the benighted art world.  If this landscape dissuades one burnt out tech emigree
+from thinking that the art world is desperately in need of a data savior, my work will not have been
+in vain. 
