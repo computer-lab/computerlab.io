@@ -6,7 +6,7 @@ category: Notes
 lede: "In 2017 I became dangerously obsessed with blockchain and pigeons."
 author: Patrick Steadman
 published: true
-image: "http://computerlab.io/images/pigeon_couple.jpg"
+image: "http://computerlab.io/images/art_data_landscape.png"
 ---
 
 ![Arts Data Industry Landscape Diagram](/images/art_data_landscape.png)
@@ -69,3 +69,18 @@ on, where someone from tech, academia, or finance feels like they can bring the 
 decision making to the benighted art world.  If this landscape dissuades one burnt out tech emigree
 from thinking that the art world is desperately in need of a data savior, my work will not have been
 in vain. 
+
+But in one important respect, the art world is quite benighted, and data can serve as our light. The
+art world is benighted in the sense that most people engage with the art world primarily via
+galleries and museums (and maybe now also social media). All of these institutions have strong
+vested interests in their constituient artists and traditions, and no matter how balanced a museum
+or mega-galleries curators might be, at a fundamental level they're probably still shills for the
+whole idea of *art* itself, if only for the simple reason that it pays their bills, either in cash
+or in clout. Trying to learn about art from international art english written by galleries and
+museums is like trying to learn about online advertising from ad tech solution marketing copy. If
+you want, at this point you can give up on trying to learn about art and throw the baby out with the
+bathwater if you wish, that is certainly valid. But by leveraging some of the art data platforms in
+the landscape, specifically by exploring *secondary market sales* and the *network structure of
+exhibitions and artists* I think it's possible to get a more contextual understanding of
+contemporary art. That's not to say that this understanding is any more enjoyable than going
+to musuems, fairs, and galleries; I think it's just more lucid and more predictive.
