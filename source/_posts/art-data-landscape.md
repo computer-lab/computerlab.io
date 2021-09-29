@@ -58,9 +58,9 @@ high frequency financial data (expensive), large hadron collider data (unrelatab
 advertising data (boring). 
 
 I read somewhere that one of the reasons people like studying art is that it's basically illustrated
-history, or like history as told by quirked-up aesthetes as opposed to history as told by economists
-and military experts. The history of surplus. And contemporary art is also a sort of map of surplus,
-a "topology of particular places" as Boris Groys. 
+history; history as told by quirked-up aesthetes as opposed to economists and military experts. The
+history of surplus. And contemporary art is also a sort of map of surplus, a "topology of particular
+places" as Boris Groys. 
 
 I think for all the reasons above, the art data landscape is pretty crowded with projects started by
 entrepreneurs who wanted a nice lifestyle business, or academics looking for a suitable data set to
@@ -73,14 +73,38 @@ in vain.
 But in one important respect, the art world is quite benighted, and data can serve as our light. The
 art world is benighted in the sense that most people engage with the art world primarily via
 galleries and museums (and maybe now also social media). All of these institutions have strong
-vested interests in their constituient artists and traditions, and no matter how balanced a museum
+vested interests in their constituent artists and traditions, and no matter how balanced a museum
 or mega-galleries curators might be, at a fundamental level they're probably still shills for the
 whole idea of *art* itself, if only for the simple reason that it pays their bills, either in cash
-or in clout. Trying to learn about art from international art english written by galleries and
+or in clout. Trying to learn about art from International Art English written by galleries and
 museums is like trying to learn about online advertising from ad tech solution marketing copy. If
 you want, at this point you can give up on trying to learn about art and throw the baby out with the
 bathwater if you wish, that is certainly valid. But by leveraging some of the art data platforms in
 the landscape, specifically by exploring *secondary market sales* and the *network structure of
 exhibitions and artists* I think it's possible to get a more contextual understanding of
 contemporary art. That's not to say that this understanding is any more enjoyable than going
-to musuems, fairs, and galleries; I think it's just more lucid and more predictive.
+to museums, fairs, and galleries; I think it's just more lucid and more predictive.
+
+How does one explore the *network structure of exhibitions and artists*? Now is a good to introduce
+a tool from the art data landscape: [Artfacts](https://artfacts.net/). The basic value of Artfacts
+is that it ranks artists based on exhibition history rather than sale price or critical reception.
+The intuition behind this is a history of exhibitions at institutions that also show other artists
+with a sustained history of exhibitions is a good signal of artistic merit, harder to manipulate
+than sale prices, social media, or critical reception. This sort of metric also captures the fact
+that art is almost always part of a context of other artists working in some sort of scene anchored
+by institutions. If you would like to learn about how this ranking is calculated, I recommend
+watching this video:
+
+part of the point of art to me is the process of evolving my aesthetic sense, learning to appreciate
+more subtle beauty, more terrifying eroticisms, etc. attempt to reconcile the virtues I recognize in
+daily life with the world of appearances
+
+There's a lot of information asymmetry.  John Berger style "does this piece speak to you" rhetoric
+has its place, but a McDonald's Big Mac speaks to me at a very deep level, like, at certain
+peripheral times in my life a Big Mac Meal has certainly spoken to the core of my being and brought
+tears to my eye. People don't want to spend amounts of money equivalent to a car or house on a work
+of art that ages like a Big Mac. Because then henceforth that piece will scream to you: you got
+scammed! Ideally, they want stuff that ages like a good wine or liquor. Or, for the many art
+enjoyers who cannot afford a car or house, let alone art, for whom the sacred nature of art may be
+more sharply relevant, it is just as important to avoid identifying with the work of a lame artist,
+a false prophet.
