@@ -22,16 +22,41 @@ that the swelling is caused by a tight knot of string, hair, ribbon, thread, or
 other debris. If a pigeon's foot gets tangled in the course of nest building or
 foraging, there's not much the bird can do.
 
-These "stringfoot" birds often suffer badly. The tangle gets tighter and tighter until
-circulation is cut off and flesh rots away. Hair slices through muscle and bone.
-The most unlucky stringfoot pigeons end up with their feet tied together,
-vulnerable to predators and pervert flockmates.
+These "stringfoot" birds often suffer badly. The tangle gets tighter and tighter
+until circulation is cut off and flesh rots away. Hair slices through muscle and
+bone. The most unlucky stringfoot pigeons end up with their feet tied together,
+vulnerable to predators and pervert flockmates. On the bright side, you will
+also see many pigeons who have survied this ordeal and are now living a decent
+life with a missing toe, or even missing both feet.
 
-Giving a stringfoot pigeon a pedicure isn't difficult, and can be quite
-rewarding. If you like watching stuff like blackhead removal videos, you might
-find it cathartic to release the pressure on a swollen toe. Or you might enjoy the
-challenge of earning the trust of your potential patient, and then catching them
-with your bare hands.
+In some cases, giving a stringfoot pigeon a pedicure isn't too difficult, and
+can be quite rewarding. If you like watching stuff like blackhead removal
+videos, you might find it cathartic to release the pressure on a swollen toe. Or
+you might enjoy the challenge of earning the trust of your potential patient,
+and then catching them with your bare hands.
+
+### Step Zero: First, do no harm
+
+As I mentioned above, pigeons can (and often do) survive losing a toe or foot.
+Before intervening, you should ask yourself:
+
+- Is it just a single toe that is mostly already "dead"? If so, it will likely
+  fall off soon, and destringing will potentially be more damaging than helpful.
+
+- Can the bird still effectively forage for food? If so, consider that they
+  may have a mate and/or babies waiting back at a nest for them. If the
+  destringing is so serious (i.e. leading to bleeding) that you need to care for
+  the pigeon after, it might not really be in the pigeon's best interest.
+
+- Is there a local organization or person that specializes in helping pigeons? (Pigeons
+  specifically - many wild bird organizations are unable to help pigeons as they
+  are not a protected species.) If so, you should consider trying to contact
+  them first.
+
+It's also important to realize that pigeons mostly hang around the same general
+area, so there's rarely a need to immediately attempt to destring. In general,
+**only attempt to destring when you are confident that it is in the bird's best
+interest**.
 
 ### Step One: Assemble a Destringing Kit 
 
