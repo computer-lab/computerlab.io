@@ -32,7 +32,7 @@ internet in 2001 was still "a narrowcast medium,", unsuited for massively
 relevant, breaking events.
 
 <center>
-![The Google homepage on the morning of 9/11](/https://i.imgur.com/pBoMSve.png)
+![The Google homepage on the morning of 9/11](/images/google-911.png)
 </center>
 
 Terrorism had revealed a major limit of the era's information processing
