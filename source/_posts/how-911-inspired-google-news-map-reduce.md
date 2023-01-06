@@ -11,7 +11,7 @@ image: "http://computerlab.io/images/google-911.png"
 
 __In the information age, violence still serves as an accelerant for technological change.__
 
-On the morning of September 11th, 2001, Amit Singhal, director of search quality
+On the  of September 11th, 2001, Amit Singhal, director of search quality
 at Google, was at a text retrieval and indexing conference in New Orleans. As
 the public searched for news about the attacks on the Twin Towers, Amit and his
 colleagues quickly realized that Google was [dramatically failing to meet the
@@ -31,9 +31,9 @@ instantly. A month later, [an academic noted](http://bit.ly/2eOZa7d) that the
 internet in 2001 was still "a narrowcast medium,", unsuited for massively
 relevant, breaking events.
 
-
-![The Google homepage on the morning of 9/11](/https://i.imgur.com/pBoMSve.png "9/11").
-
+<center>
+![The Google homepage on the morning of 9/11](/images/google-911.png)
+</center>
 
 Terrorism had revealed a major limit of the era's information processing
 systems.
