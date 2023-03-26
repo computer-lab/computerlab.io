@@ -11,100 +11,53 @@ image: "http://computerlab.io/images/art_data_landscape.png"
 
 ![Arts Data Industry Landscape Diagram](/images/art_data_landscape.png)
 
-The first time I ever saw an _industry landscape_ was on my first day as an intern ad tech company
-back in 2014. It was part of a slide deck meant to introduce us to the ad tech ecosystem, make us
-aware of the data and financial flows between its sub-sectors, each consisting of dozens of
-competing companies. The presenter zoomed in our logo, and proceeded to explain our small but
-integral and arguably pro-social role.
+The first time I encountered an *industry landscape* was on my first day interning at an ad tech company back in 2014. It was part of a slide deck meant to introduce us to the ad tech ecosystem and make us aware of the data and financial flows between its subsectors, each consisting of dozens of competing companies. The presenter zoomed in our logo, then proceeded to explain our small but integral—and arguably pro-social—role.
+
 
 ![Ad tech landscape.](/images/ad_tech_landscape.jpg)
 
-Insofar as the above image produces a vague sense of awe, the term _industry landscape_ might seem
-like a good name for this type of infographic. But if these images type of image produces a sort of
-dreary economic trypophobia, the term _industry ecosystem diagram_ might seem more appropriate: we
-have densely-packed producers and consumers locked in wars of attrition over precarious niches,
-parasitism, wastes repurposed as sustenance, and the ceaseless sedimentation of death. On Twitter
-I've seen the [cloud native landscape](https://landscape.cncf.io/) compared to everything from the
-[metabolic pathways of the human body](http://biochemical-pathways.com/#/map/1) to The Garden of
-Earthly Delights. 
+Insofar as the above image produces a vague sense of awe, the term *industry landscape*  might seem like a good name for this type of infographic. If, however, this image evokes a dreary economic trypophobia, the term *industry ecosystem diagram* might be more appropriate. Here, we see densely-packed manufacturers and consumers locked in wars of attrition over precarious niches, parasitism, wastes repurposed as sustenance, the ceaseless sedimentation of death. On Twitter I’ve seen the [cloud native landscape](https://landscape.cncf.io/) compared to everything from
+[metabolic pathways of the human body](http://biochemical-pathways.com/#/map/1) to *The Garden of Earthly Delights*.
 
 ![The Cloud Native Interactive Landscape](/images/cloud_native_landscape.png)
 
 ![Metabolic pathways of life.](/images/metabolic_pathways_landscape.png)
 
-I think often these images are created for promotional reasons, either to promote specific companies
-within the ecosystem or the ecosystem as a whole. I think that in some part, creators of this type
-of image must simply enjoy the visual complexity, or enjoy being able to reify something both as
-abstract and impactful as a virtual industry. 
+These images are primarily generated for promotional purposes, either to highlight specific companies within the ecosystem, or the ecosystem’s value as a whole. To some extent, creators of this type of image must simply enjoy the visual complexity inherent in their design. Or perhaps they like being able to reify something as both abstract and materially impactful as a virtual industry.
 
 ![Arts Data Industry Landscape Diagram](/images/art_data_landscape.png)
 
-One question you might have about the arts data landscape is: how does the arts data landscape
-relate to the overall art industry landscape? Or the overall data landscape? The global annual spend
-on database software alone is on the same order of magnitude as the global art market: roughly [$76
-billion](https://www.thebusinessresearchcompany.com/report/database-software-market) on databases
-versus about
-[$67b](https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html#artmarketreport2019)
-on fine art in 2019. Arts data is a marginal use case for data software, and in many ways arts
-*data* is peripheral to art and the art world. So why look into arts data, rather than simply going
-to a museum, or spending your time building scalable time-series databases for wind farms or
-something?
+One question the arts data landscape may raise is: how does the arts data landscape relate to the overall art industry landscape? Or the overall data landscape? Annual global expenditure on database software alone comes in at roughly equivalent to the entire global art market. In 2019, for instance, approximately [$76
+billion](https://www.thebusinessresearchcompany.com/report/database-software-market) was allocated to these databases, as compared with
+[$67 billion](https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html#artmarketreport2019)
+spent on fine art. Arts data is a marginal use case for data software, and in many ways arts *data* is peripheral to art and the art world itself. So why scrutinize arts data, rather than simply visiting a museum, or building scalable time-series databases for wind farms or something?
 
-I think that fine arts data has a good balance of being pretty *interesting* and *relatable* while
-being relatively *non-toxic* and also arguably *commercially relevant* while not prohibitively
-*proprietary*. One might call it *charismatic data*. Examples of *uncharismatic data* include data
-like electronic health records (very toxic: if you leak it, you have to report it in the paper),
-high frequency financial data (expensive), large hadron collider data (unrelatable), and online
-advertising data (boring). 
+Fine arts data upholds a balance of being pretty *interesting* and *relatable*, while remaining *non-toxic*, *commercially relevant*, and still not prohibitively *proprietary*. I like to think of it as *charismatic data*. Examples of *uncharismatic data* might include electronic health records (very toxic—if you leak it, you have to report it to the public), high frequency financial data (expensive), Large Hadron Collider data (unrelatable), and online advertising data (boring).
 
-I read somewhere that one of the reasons people like studying art is that it's basically illustrated
-history; history as told by quirked-up aesthetes as opposed to economists and military experts. The
-history of surplus. And contemporary art is also a sort of map of surplus, a "topology of particular
-places" as Boris Groys. 
+I read somewhere that one of the reasons people like studying art is that it’s basically illustrated history: history as told by quirked-up aesthetes, as opposed to economists and military experts. The history of surplus. And *contemporary* art acts as a sort of map of this surplus—a “topology of particular places,” as per Boris Groys.
 
-I think for all the reasons above, the art data landscape is pretty crowded with projects started by
-entrepreneurs who wanted a nice lifestyle business, or academics looking for a suitable data set to
-try out their new ML system. I think there might also be a bit a of a "tech savior" dynamic going
-on, where someone from tech, academia, or finance feels like they can bring the light of data-driven
-decision making to the benighted art world.  If this landscape dissuades one burnt out tech emigree
-from thinking that the art world is desperately in need of a data savior, my work will not have been
-in vain. 
+For all the reasons above, the art data landscape is crowded with projects by entrepreneurs who want to fall back on a cushy lifestyle business, or academics looking for a suitable data set to try out their new ML system. I think there may also be a bit of the “tech savior” dynamic going on, in which figures from tech, academia, or finance feel that they can bring the light of data-driven decision-making to the benighted art world. But the art data landscape is already saturated with money, companies, and luminaries—it doesn’t need a new savior.
 
-But in one important respect, the art world is quite benighted, and data can serve as our light. The
-art world is benighted in the sense that most people engage with the art world primarily via
-galleries and museums (and maybe now also social media). All of these institutions have strong
-vested interests in their constituent artists and traditions, and no matter how balanced a museum
-or mega-galleries curators might be, at a fundamental level they're probably still shills for the
-whole idea of *art* itself, if only for the simple reason that it pays their bills, either in cash
-or in clout. Trying to learn about art from International Art English written by galleries and
-museums is like trying to learn about online advertising from ad tech solution marketing copy. If
-you want, at this point you can give up on trying to learn about art and throw the baby out with the
-bathwater if you wish, that is certainly valid. But by leveraging some of the art data platforms in
-the landscape, specifically by exploring *secondary market sales* and the *network structure of
-exhibitions and artists* I think it's possible to get a more contextual understanding of
-contemporary art. That's not to say that this understanding is any more enjoyable than going
-to museums, fairs, and galleries; I think it's just more lucid and more predictive.
+In one important respect, however, the art world is benighted. Most people still engage with art via galleries and museums (and now also social media), and these institutions have vested interests in their constituent artists and traditions. No matter how balanced a museum’s or mega-gallery’s curators might appear, at a fundamental level they’re still shills for the whole idea of art itself—if only for the simple reason that it pays their bills, in cash or in clout. Trying to learn about art from *International Art English* written on behalf of galleries and museums is like trying to learn about online advertising from ad tech solution marketing copy. By leveraging some of the art data platforms in the landscape, specifically exploring *secondary market sales* and the *network structure of exhibitions and artists*, I believe it’s possible to achieve a more nuanced and contextual understanding of contemporary art. Which is not to say this understanding is any more enjoyable than going to museums, fairs, or galleries. It’s just more lucid and predictive.
 
-How does one explore the *network structure of exhibitions and artists*? Now is a good to introduce
-a tool from the art data landscape: [Artfacts](https://artfacts.net/). The basic value of Artfacts
-is that it ranks artists based on exhibition history rather than sale price or critical reception.
-The intuition behind this is a history of exhibitions at institutions that also show other artists
-with a sustained history of exhibitions is a good signal of artistic merit, harder to manipulate
-than sale prices, social media, or critical reception. This sort of metric also captures the fact
-that art is almost always part of a context of other artists working in some sort of scene anchored
-by institutions. If you would like to learn about how this ranking is calculated, I recommend
-watching this video:
+So how does one explore the network structure of exhibitions and artists? The answer may come in a tool from the art data landscape: [Artfacts](https://artfacts.net/). Artfacts establishes its basic value in its artist ranking system, one based on exhibition history rather than sales or critical reception. This intuitive restructuring reveals a sustained history of exhibitions with prestigious institutions is at the heart of determining artistic merit—and more difficult to manipulate than sale prices, social media, or critique. This sort of metric also captures the fact that art is almost always part of a context of other artists working within some scene anchored by institutions. If you would like to learn about how this ranking is calculated, I recommend watching this video:
 
-part of the point of art to me is the process of evolving my aesthetic sense, learning to appreciate
-more subtle beauty, more terrifying eroticisms, etc. attempt to reconcile the virtues I recognize in
-daily life with the world of appearances
+[EMBED VIDEO LINK]
 
-There's a lot of information asymmetry.  John Berger style "does this piece speak to you" rhetoric
-has its place, but a McDonald's Big Mac speaks to me at a very deep level, like, at certain
-peripheral times in my life a Big Mac Meal has certainly spoken to the core of my being and brought
-tears to my eye. People don't want to spend amounts of money equivalent to a car or house on a work
-of art that ages like a Big Mac. Because then henceforth that piece will scream to you: you got
-scammed! Ideally, they want stuff that ages like a good wine or liquor. Or, for the many art
-enjoyers who cannot afford a car or house, let alone art, for whom the sacred nature of art may be
-more sharply relevant, it is just as important to avoid identifying with the work of a lame artist,
-a false prophet.
+Another boutique upstart, the Artists Pension Trust, took this idea of value transparency and applied it directly to artists themselves. APT was founded by Moti Shniberg, an entrepreneur at the front lines of facial recognition technology, and who infamously filed a trademark application for [“September 11, 2001”](https://news.artnet.com/art-world/artist-pension-trust-rise-fall-part-one-2058236) just hours after the Twin Towers were erased from the New York skyline. (The stated purpose of the application was for “entertainment in the nature of visual and audio performances, and musical variety, news and comedy shows,” and was later denied.) APT was designed to provide financial security for artists by enabling them to invest a portion of their artwork into a collective trust. The trust would then sell the artwork at a later date, and the profits would be shared among the artists.
+
+In 2016, [APT merged](https://www.ft.com/content/8540f19e-b87c-11e6-961e-a1acd97f622d) with another Shniberg company, MutualArt, this one a managementless data aggregation platform with a mission of transparent art pricing. MutualArt Group now provides a range of services for collectors, dealers, and art-lovers, including access to a comprehensive database of art auction results and prices, as well as news and analysis of the art market. The platform also offers a marketplace where users can buy and sell art, and provides valuation and advisory services to help users make informed decisions about art investments. APT’s consolidation with MutualArt reflects a growing interest in equity and accessibility throughout the art world, and the data-centric infrastructure driving this transformation.
+
+Last year, Artlogic—one of the most established and powerful international database and web development firms, specifically tailored to the art world—absorbed three more leading art technology institutions: exhibit-E, galleryManager, and ArtBase. Appropriately, the organization [took to Instagram](https://www.instagram.com/p/CYo00wbsqgc/) to announce the deal, and [further expounded](https://fadmagazine.com/2022/01/11/artlogic-announces-its-merger-with-exhibit-e-gallerymanager-artbase/), the “pandemic has created a dramatic acceleration of galleries moving online… we will shape the future of how the art world does business online."
+
+Artlogic and Artbase were already two of the largest companies in the gallery management space, and this consolidation speaks to a future trend at large. Maintaining software of this caliber is difficult, not to mention expensive, and most platforms provide basically the same service. The art world probably doesn’t need thirty different gallery management software-as-a-service systems. And (unfortunately) the data is more valuable when it’s all in one place.
+​
+Right now, with exponential traffic in the industry, it’s actually harder to know who the hot, young, emerging artists are. Gallerists, dealers, and investors must decide based on, well, art value. But if all gallery management software were consolidated, an owner could simply log in and with a few quick keystrokes (`SELECT artist_name from recent_transactions ORDER BY sale_price DESC WHERE transaction_date > last_month`) root out all the answers they desire. There’s already the problem where artists start at one small, independent gallery only to get scooped up by a blue chip as soon as they have a good show. This would just make that process happen even faster, which means small galleries would struggle as value becomes less ambiguous.
+
+Art world “data” “transparency” is not inherently good or evil. It all depends on what is being made transparent, and to whom. Facebook, for instance, is all about making the world more  “transparent” by connecting global data, but it’s deeply asymmetrical in execution, and compromised by sociopolitical allegiances. Likewise, in 1997, Jeff Bezos explained his decision to start Amazon as a book marketplace, simply because of the vast [data value inherent to books](https://www.fastcompany.com/90430303/a-rediscovered-1997-video-reveals-why-jeff-bezos-chose-books-and-not-cds-to-be-amazons-first-product): “There are more items in the book category than there are items in any other category by far." Which is what I’ve been trying to get at with *charismatic data*. NFT people don’t necessarily care about art, in the same way Bezos didn’t care about books, and this accounts for the asymmetry that data can reinforce.
+
+To me, the very point of art involves an ongoing evolution of my own perspective: learning to appreciate more subtle beauty and more terrifying eroticisms, revisioning what precisely constitutes aesthetic transcendence, and attempting to reconcile the virtues I recognize in daily life with the world of appearances.
+
+John Berger rhetoric (“does this piece speak to you?”) surely has its place. A McDonald’s Big Mac, however, speaks to me on a profound level, and at certain times has penetrated to the core of my being, bringing tears to my eyes. But people don’t want to spend the equivalent of a car or a house on a painting that ages like a Big Mac, because it will forever scream to you: *YOU GOT SCAMMED!* Ideally, buyers want artworks that age like fine wine. Or, for the many enthusiasts who can’t afford a car or house, let alone art, and for whom art’s sacred nature may be more sharply honed, it’s just as important to know what art to identify with, as well as to avoid. No one wants to be caught aligning with the work of today’s passing fancy, an MFA clout chaser, some serial networker, lame market artist, or false prophet.
+
+If we reexamine data’s role in the art world, it can be restructured and harnessed to our collective advantage. And new sectors of the art data landscape are constantly emerging. Equity and accessibility services, such as [AccessKit](https://accesskit.media/)—a web-based tool that creates immersive, synchronized experiences catering to art viewers of all abilities and backgrounds—are cropping up alongside marketplace utilities, deepening the ever-complex relationships by which the art world operates. Through revised contexts of relevance and worth, data can shed light on that dark decline our reliance on traditional media and industry has saddled art with, and deliver us to that place of enlightenment, which technology promises. Human conditions for aesthetic value must be integrated within tech in order for it to solve our art problems, and the key to that value lies, like it or not, in the data itself. If it’s starting to feel like a galactic spiral, just remember our trypophobic imagery above. Ecosystems are never stable—they regulate through caprice and chaos.
