@@ -21,8 +21,8 @@
     "hexo-generator-tag": "^0.1.1",
     "hexo-renderer-marked": "^3.3.0",
     "hexo-renderer-pug": "^1.0.0",
-    "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.0",
-    "hexo-server": "^2.0.0"
+    "hexo-server": "^2.0.0",
+    "hexo-renderer-sass": "github:kmuncie/hexo-renderer-sass"
   }
 }
