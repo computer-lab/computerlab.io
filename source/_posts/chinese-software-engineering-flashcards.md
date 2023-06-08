@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Introducing Computer Lab’s Flashcard Deck for Chinese Software Engineering and Product Management Terminology 
-date: 2023-04-20
+title: Introducing Computer Lab’s Chinese Software Engineering and Product Management Terminology Flashcards
+date: 2023-06-08
 category: Notes
 lede: "Helping multilingual software development teams move more efficiently through the global marketplace."
-author: Patrick Steadman
+author: David Fishkind
 published: true
 image: "https://i.imgur.com/t62LAbb.png"
 ---
 
-Are you a software engineer whose work involves communicating in Chinese with your colleagues or clients? Or are you an English speaker who wants to learn the accurate jargon to maneuver within Chinese product development and marketplaces? Computer Lab’s Flashcard Deck for Chinese Software Engineering and Product Management Terminology offers a unique and streamlined resource directly catered to these needs.
+Are you a software engineer whose work involves communicating in Chinese with your colleagues or clients? Or are you an English speaker who wants to learn the accurate jargon to maneuver within Chinese product development and marketplaces? Computer Lab’s [Flashcard Deck for Chinese Software Engineering and Product Management Terminology](https://ankiweb.net/shared/info/1351796314) offers a unique and streamlined resource directly catered to these needs.
 
-Our flashcards include over 200 terms and phrases commonly used in software engineering and product management, such as “smoke test” (冒烟测试), “side effect” (副作用), “replicate a problem” (重现问题), and “consider two things” (兼顾).
+Our flashcards include over 350 terms and phrases commonly used in software engineering and product management, such as “smoke test” (冒烟测试), “side effect” (副作用), “replicate a problem” (重现问题), and “consider two things” (兼顾).
 
 ![Replicate 1](https://i.imgur.com/QN0qybq.png)
 
-Each flashcard features the Chinese term or phrase, its pinyin pronunciation, its English translation, and an example sentence in Chinese and English.
+Each flashcard features the Chinese term or phrase, its pinyin pronunciation, its English translation, and most also include example sentences in Chinese and English.
 
 ![Replicate 2](https://i.imgur.com/hrMkvxj.png)
 
