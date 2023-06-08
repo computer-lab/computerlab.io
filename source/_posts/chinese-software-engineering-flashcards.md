@@ -4,7 +4,7 @@ title: Introducing Computer Lab’s Chinese Software Engineering and Product Man
 date: 2023-06-08
 category: Notes
 lede: "Helping multilingual software development teams move more efficiently through the global marketplace."
-author: Head of Operations
+author: Operations Lead
 published: true
 image: "https://i.imgur.com/t62LAbb.png"
 ---
