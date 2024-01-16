@@ -7,6 +7,7 @@
     "version": "5.4.2"
   },
   "scripts": {
+    "dev": "hexo server",
     "develop": "hexo server",
     "start": "hexo server",
     "generate": "hexo generate",
