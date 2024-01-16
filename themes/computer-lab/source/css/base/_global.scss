@@ -43,7 +43,7 @@ body {
 
   h1.section-title {
     margin: 0 0 $base-spacing * 2;
-    color: $copy;
+    color: $accent;
 
     @media (max-width: $tablet) {
       margin: $base-spacing * 2 0 $base-spacing;

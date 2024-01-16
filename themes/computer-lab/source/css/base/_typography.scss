@@ -43,8 +43,8 @@ code {
 }
 
 a {
-  color: $brand;
-  border-bottom: 2px solid $brand;
+  color: $accent;
+  border-bottom: 2px solid $accent;
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
@@ -87,5 +87,5 @@ ul {
   line-height: 150%;
   letter-spacing: 0px;
   text-transform: none;
-  color: $brand;
+  color: $accent;
 }

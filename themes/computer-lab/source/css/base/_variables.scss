@@ -9,9 +9,10 @@ $alt-white: #FAFAFA;
 $white: #FFF;
 $grey: #B1B1B1;
 
-$brand: rgba(55,50,60,1);
+// see config.yml for brand colors for svgs
+$brand: rgba(40, 40, 40,1);
+$accent: rgba(12, 9, 75, 1);
 $secondary: #B1B1B1; //#00cb98;
-$accent: #CCC0B4;
 
 // spacing
 $base-spacing: 15px;

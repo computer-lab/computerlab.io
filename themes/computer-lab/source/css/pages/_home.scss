@@ -32,11 +32,11 @@
     &:hover,&:active,&:focus {
       border: 2px solid $white;
       outline: none;
-      color: $brand;
+      color: $accent;
       background-color: $white;
 
       svg  > style{
-        fill: $brand;
+        fill: $accent;
       }
     }
   }
@@ -67,7 +67,7 @@
   }
 
   h2.section-title {
-    color: $brand;
+    color: $accent;
   }
 
   svg.logo {
@@ -170,7 +170,7 @@
   } 
 
   h2 {
-   color: $brand;
+   color: $accent;
   }
 
   h3 {

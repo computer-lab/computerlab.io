@@ -74,7 +74,8 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: computer-lab
-brand_color: rgba(55, 50, 60, 1)
+brand_color: rgba(40, 40, 40, 1)
+accent_color: rgba(12, 9, 85, 1)
 
 # SASS
 node_sass:
