@@ -89,3 +89,20 @@ ul {
   text-transform: none;
   color: $accent;
 }
+
+a.captions {
+  margin-top: 0.2em;
+  display: inline-block;
+  font-family: VCR_OSD_MONO, sans-serif;
+  background-color: rgba(10,10,10,1);
+  padding: 0.2em 1.2em;
+  color: #ccc;
+  border: none;
+
+  &:hover,
+  &:focus {
+    background-color: rgba(0,0,0,1);
+    color: $white;
+    border: none;
+  }
+}
