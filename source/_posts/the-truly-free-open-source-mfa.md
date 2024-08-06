@@ -5,7 +5,7 @@ date: 2020-04-16
 category: Notes
 lede: "Everyone loves to talk shit about MFAs, but what's the good free option for people who want the MFA experience but are unable or unwilling to pay for it?"
 author: Patrick Steadman
-published: true
+published: false
 image: "http://computerlab.io/images/free-mfa-sales.jpg"
 ---
 
